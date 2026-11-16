@@ -1,0 +1,402 @@
+{
+ "201": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "202": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "203": {
+  "p": 0.62,
+  "duda": "Are industrial sewing machines at modest prices typically secondhand equipment or unused older stock?"
+ },
+ "204": {
+  "p": 0.6,
+  "duda": "How reliably do low furniture prices distinguish personal resales from inexpensive new manufacture?"
+ },
+ "205": {
+  "p": 0.62,
+  "duda": "How reliably do low prices for branded watches distinguish used examples from clearance stock?"
+ },
+ "206": {
+  "p": 0.65,
+  "duda": "Are loose chocolate-egg collectible figures generally classified as used even if never played with?"
+ },
+ "207": {
+  "p": 0.45,
+  "duda": "Are reproduction BKF chairs commonly sold newly made without an explicit new-condition statement?"
+ },
+ "208": {
+  "p": 0.5,
+  "duda": "Does a generic car-wheel-hub title provide any reliable distinction between new replacement parts and dismantled parts?"
+ },
+ "209": {
+  "p": 0.77,
+  "duda": ""
+ },
+ "210": {
+  "p": 0.4,
+  "duda": "How should an unsealed book described only as new be distinguished from an unread personal resale?"
+ },
+ "211": {
+  "p": 0.7,
+  "duda": "Does Canta Rock usually identify vintage songbook magazines rather than newly produced music media?"
+ },
+ "212": {
+  "p": 0.62,
+  "duda": "Does excellent without an explicit reference to condition usually describe prior ownership or merely product quality?"
+ },
+ "213": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "214": {
+  "p": 0.74,
+  "duda": "Are collectible cigarette packs and labels considered used once separated from the original retail product?"
+ },
+ "215": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "216": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "217": {
+  "p": 0.5,
+  "duda": "Are bulk computer-case blanking plates usually new accessories or parts recovered during assembly and dismantling?"
+ },
+ "218": {
+  "p": 0.65,
+  "duda": "Are named industrial textile winding machines usually secondhand equipment or unused inventory when condition is omitted?"
+ },
+ "219": {
+  "p": 0.45,
+  "duda": "Should hobby gardening guides follow the general nonfiction prior or the study-manual prior?"
+ },
+ "220": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "221": {
+  "p": 0.6,
+  "duda": "Are small clothing bundles usually wardrobe resales or new retail multipacks when condition is unstated?"
+ },
+ "222": {
+  "p": 0.7,
+  "duda": "Are standalone Meopta microscope objectives typically secondhand legacy parts or unused replacement stock?"
+ },
+ "223": {
+  "p": 0.5,
+  "duda": "Are lots of silk pocket squares usually personal collections or new accessory multipacks?"
+ },
+ "224": {
+  "p": 0.72,
+  "duda": "Are dated loose chocolate-egg figures generally classified as used, even when sold as collectibles?"
+ },
+ "225": {
+  "p": 0.16,
+  "duda": ""
+ },
+ "226": {
+  "p": 0.5,
+  "duda": "Can generic wall-or-ceiling fixture descriptions distinguish new stock from removed household fittings?"
+ },
+ "227": {
+  "p": 0.79,
+  "duda": ""
+ },
+ "228": {
+  "p": 0.55,
+  "duda": "Are assorted empty subwoofer enclosures usually newly fabricated products or previously installed equipment?"
+ },
+ "229": {
+  "p": 0.4,
+  "duda": "How reliably do 2015 prices for imported motorcycle clothing distinguish new stock from used garments?"
+ },
+ "230": {
+  "p": 0.45,
+  "duda": "Can the exact premium fishing-reel model and 2015 price meaningfully distinguish new stock from resale?"
+ },
+ "231": {
+  "p": 0.65,
+  "duda": "How consistently does impeccable indicate prior ownership rather than new retail stock in clothing listings?"
+ },
+ "232": {
+  "p": 0.38,
+  "duda": "Does a numeric TV remote reference usually identify a new compatible replacement rather than a used original?"
+ },
+ "233": {
+  "p": 0.45,
+  "duda": "Do children's hardcover storybooks follow the same condition prior as other literature?"
+ },
+ "234": {
+  "p": 0.5,
+  "duda": "Can a clothing title containing only style and fabric details support any condition inference?"
+ },
+ "235": {
+  "p": 0.55,
+  "duda": "Are standalone internal laptop Wi-Fi cards commonly new replacement stock or recovered components?"
+ },
+ "236": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "237": {
+  "p": 0.48,
+  "duda": "Can an original-brand claim and a moderate clothing price distinguish new stock from personal resale?"
+ },
+ "238": {
+  "p": 0.61,
+  "duda": "Does combining different clothing brands in one listing usually indicate a personal wardrobe resale?"
+ },
+ "239": {
+  "p": 0.5,
+  "duda": "Can a generic jacket title and asking price support a reliable condition inference?"
+ },
+ "240": {
+  "p": 0.48,
+  "duda": "Does shipping information accompanying a footwear listing meaningfully distinguish new retail stock from resale?"
+ },
+ "241": {
+  "p": 0.42,
+  "duda": "Does designer wording in knitwear listings usually indicate newly made garments or also personal resales?"
+ },
+ "242": {
+  "p": 0.55,
+  "duda": "Without a format or edition, can an older album title distinguish new reissues from used original releases?"
+ },
+ "243": {
+  "p": 0.5,
+  "duda": "Can a clothing title containing only color and fabric details support any condition inference?"
+ },
+ "244": {
+  "p": 0.5,
+  "duda": "Can the brand and price of an insulated hand tool reliably distinguish unused stock from workshop resale?"
+ },
+ "245": {
+  "p": 0.45,
+  "duda": "Should philosophical and esoteric books follow the general nonfiction prior unless explicitly presented as course material?"
+ },
+ "246": {
+  "p": 0.66,
+  "duda": "How reliably do very low 2015 clothing prices indicate prior use rather than clearance stock?"
+ },
+ "247": {
+  "p": 0.36,
+  "duda": "Are generic wireless bicycle computers typically new imports when condition is unstated?"
+ },
+ "248": {
+  "p": 0.4,
+  "duda": "Does Disney Store provenance meaningfully distinguish new imported toys from previously owned toys?"
+ },
+ "249": {
+  "p": 0.45,
+  "duda": "Does a bookseller's experience claim provide any condition evidence without edition or wear details?"
+ },
+ "250": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "251": {
+  "p": 0.45,
+  "duda": "Does the absence of a warranty meaningfully change the condition prior for literary books?"
+ },
+ "252": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "253": {
+  "p": 0.55,
+  "duda": "Are bundles of independent punk releases usually used collections or newly distributed recordings?"
+ },
+ "254": {
+  "p": 0.38,
+  "duda": "Are batteries offered for older GPS models usually new replacements or previously used original batteries?"
+ },
+ "255": {
+  "p": 0.4,
+  "duda": "Does repeating new without packaging or warranty details distinguish unused computers from like-new personal resales?"
+ },
+ "256": {
+  "p": 0.45,
+  "duda": "Can a novel's title and author alone support a condition inference beyond the literature prior?"
+ },
+ "257": {
+  "p": 0.68,
+  "duda": "Are lots of older comic issues generally personal collections or unsold dealer stock?"
+ },
+ "258": {
+  "p": 0.78,
+  "duda": "For antique liquor bottles, does retaining the contents materially favor new condition over collectible resale?"
+ },
+ "259": {
+  "p": 0.78,
+  "duda": "For bundles explicitly containing new and used parts, should any used component make the whole listing used?"
+ },
+ "260": {
+  "p": 0.5,
+  "duda": "Does an original-brand claim provide any condition evidence for backpacks without wear or packaging details?"
+ },
+ "261": {
+  "p": 0.5,
+  "duda": "Can a generic toddler-potty title and price distinguish a new product from a household resale?"
+ },
+ "262": {
+  "p": 0.6,
+  "duda": "Are Merlin-style camera stabilizers commonly new locally made copies rather than used professional equipment?"
+ },
+ "263": {
+  "p": 0.45,
+  "duda": "Do illustrated theatre-history books follow the general nonfiction prior when edition and condition are unstated?"
+ },
+ "264": {
+  "p": 0.45,
+  "duda": "Can a novel's title and author alone support a condition inference beyond the literature prior?"
+ },
+ "265": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "266": {
+  "p": 0.5,
+  "duda": "Can a soldering-station model and 2015 price reliably distinguish new stock from workshop resale?"
+ },
+ "267": {
+  "p": 0.45,
+  "duda": "Should scholarly music biographies follow general nonfiction rather than the textbook prior?"
+ },
+ "268": {
+  "p": 0.24,
+  "duda": ""
+ },
+ "269": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "270": {
+  "p": 0.77,
+  "duda": ""
+ },
+ "271": {
+  "p": 0.45,
+  "duda": "Can a sunglasses brand or material description indicate condition without wear or packaging details?"
+ },
+ "272": {
+  "p": 0.45,
+  "duda": "Can a literary title and author alone support a condition inference beyond the literature prior?"
+ },
+ "273": {
+  "p": 0.5,
+  "duda": "Are school-uniform garments without condition details typically new uniform stock or personal resales?"
+ },
+ "274": {
+  "p": 0.57,
+  "duda": "Does offering a suit together with a tie usually indicate a personal resale or a new retail outfit?"
+ },
+ "275": {
+  "p": 0.45,
+  "duda": "Can the brand and price of nonstick cookware distinguish new retail stock from household resale?"
+ },
+ "276": {
+  "p": 0.43,
+  "duda": "How reliably do high 2015 prices for imported performance superchargers indicate new equipment rather than used assemblies?"
+ },
+ "277": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "278": {
+  "p": 0.63,
+  "duda": "Can a low price relative to a luxury jewelry brand support a used-condition inference when material and authenticity are uncertain?"
+ },
+ "279": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "280": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "281": {
+  "p": 0.65,
+  "duda": "How should costume rentals be mapped to new or used when prior rental history is unspecified?"
+ },
+ "282": {
+  "p": 0.38,
+  "duda": "Does designer lacquered-furniture wording usually indicate newly manufactured pieces or also household resales?"
+ },
+ "283": {
+  "p": 0.62,
+  "duda": "When new follows a named replacement component, does it describe only that component or the whole appliance?"
+ },
+ "284": {
+  "p": 0.6,
+  "duda": "How should holiday accommodation rentals be mapped to new or used when construction age is unstated?"
+ },
+ "285": {
+  "p": 0.52,
+  "duda": "Are inexpensive lots of clip-on earrings usually vintage personal collections or new wholesale accessories?"
+ },
+ "286": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "287": {
+  "p": 0.68,
+  "duda": "Should practical graphology and handwriting-reeducation books be treated as study manuals or general nonfiction?"
+ },
+ "288": {
+  "p": 0.45,
+  "duda": "Can a novel's title, author, and publisher distinguish new stock from a used copy without edition details?"
+ },
+ "289": {
+  "p": 0.58,
+  "duda": "Does geographic provenance in specialist dance-costume listings usually signal personal resale or new imported stock?"
+ },
+ "290": {
+  "p": 0.6,
+  "duda": "Does regalo used as a bargain claim usually indicate personal resale or also new clearance stock?"
+ },
+ "291": {
+  "p": 0.4,
+  "duda": "Does new on an older cassette listing indicate unused stock reliably without a sealed-packaging claim?"
+ },
+ "292": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "293": {
+  "p": 0.65,
+  "duda": "Are older event-specific sports posters generally previously owned originals or unused archival stock and reprints?"
+ },
+ "294": {
+  "p": 0.55,
+  "duda": "Without a format or edition, can an older album title distinguish new reissues from used original releases?"
+ },
+ "295": {
+  "p": 0.48,
+  "duda": "Can a clothing title containing only a style description support any condition inference?"
+ },
+ "296": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "297": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "298": {
+  "p": 0.36,
+  "duda": "Does a work-shoe model and near-retail price meaningfully favor new stock when wear and packaging are unspecified?"
+ },
+ "299": {
+  "p": 0.45,
+  "duda": "Do poetry books follow the general literature prior when edition and condition are unstated?"
+ },
+ "300": {
+  "p": 0.48,
+  "duda": "Can an inexpensive watch's brand and material distinguish new stock from personal resale without condition details?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "17201": {
+  "p": 0.47,
+  "duda": "For unbranded generic women's clothing titles with no condition or brand mentioned, does having stock > 1 indicate a small boutique selling new items or do private used sellers also set stock > 1?"
+ },
+ "17202": {
+  "p": 0.38,
+  "duda": "Are model train accessories and parts sold in envelopes ('en sobre') with seller inventory codes typically listed as new or used?"
+ },
+ "17203": {
+  "p": 0.6,
+  "duda": "When a title contains both 'usado solo para exposición' (or similar open-box/demo phrasing) and 'nuevo', do sellers usually classify the listing as used or new?"
+ },
+ "17204": {
+  "p": 0.62,
+  "duda": "Are major household appliances (such as gas water heaters/calefones) listed by single-item sellers with just the model name and no warranty usually used?"
+ },
+ "17205": {
+  "p": 0.62,
+  "duda": "Do music CDs with very brief generic titles (just 'Cd [Artist]') and no mention of being sealed or new lean strongly used?"
+ },
+ "17206": {
+  "p": 0.35,
+  "duda": "Are book listings with fixed-width space padding between title and author and 'Sí' in warranty from a new-book store template or a used-book store template?"
+ },
+ "17207": {
+  "p": 0.55,
+  "duda": "Are classic Argentine comic books like individual Mafalda volumes sold by single-listing sellers more likely to be used than general literature?"
+ },
+ "17208": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17209": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17210": {
+  "p": 0.4,
+  "duda": "When a single-item clothing seller puts '(nuevo)' in parentheses in the title without brand or tags mentioned, how often is it still classified as used?"
+ },
+ "17211": {
+  "p": 0.48,
+  "duda": "For unbranded outerwear (like a trench coat or raincoat) with no condition keywords, is it close to the 46% used base rate for clothing?"
+ },
+ "17212": {
+  "p": 0.38,
+  "duda": "Are replacement auto parts with 'nuevos' in the title sold on the free tier mostly listed as new?"
+ },
+ "17213": {
+  "p": 0.5,
+  "duda": "When an older book title has multiple units sold (vendidos > 1) despite stock_inicial = 1, does that indicate a bookstore selling new reprints or a seller reusing a listing?"
+ },
+ "17214": {
+  "p": 0.38,
+  "duda": "What does 'Carpetas De Futbol' with stock 10 typically refer to on MercadoLibre—new school binders or used collector albums?"
+ },
+ "17215": {
+  "p": 0.58,
+  "duda": "Does clothing that specifies a single size in the title and uses 'la garantía son mis calificaciones' lean used?"
+ },
+ "17216": {
+  "p": 0.4,
+  "duda": "For children's clothing with 'Nueva' emphasized with many exclamation marks by a single-listing seller, does Rule 5 (about 40% used) still hold?"
+ },
+ "17217": {
+  "p": 0.5,
+  "duda": "Do books that include the publisher in parentheses in the title from a small seller (1-2 listings) lean used or follow the general literature rate (~45% used)?"
+ },
+ "17218": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17219": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17220": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17221": {
+  "p": 0.65,
+  "duda": "Are auto parts titled 'Original' (such as 'Carburador Weber Original') without 'nuevo' from a 1-listing seller usually used OEM parts?"
+ },
+ "17222": {
+  "p": 0.58,
+  "duda": "When an engine part names a specific old vehicle year (e.g. 'Neon 99') and is sold by a 1-listing seller, is it usually a used part from a parted-out car?"
+ },
+ "17223": {
+  "p": 0.48,
+  "duda": "Do fishing reels listed with usage description ('P/lanzar Y Variada Pesada') and no condition words lean new or used?"
+ },
+ "17224": {
+  "p": 0.45,
+  "duda": "Are traditional handcrafted musical instruments (such as a Bolivian sikus) sold by a 1-listing seller typically listed as new artisan goods or used souvenirs?"
+ },
+ "17225": {
+  "p": 0.45,
+  "duda": "How are real estate apartment listings ('Departamento') classified between new and used in this dataset, especially when the price is an exact non-round number?"
+ },
+ "17226": {
+  "p": 0.62,
+  "duda": "Do major sportswear brand items (like 'Campera Adidas') priced well below retail and without 'nueva' in the title lean strongly used?"
+ },
+ "17227": {
+  "p": 0.55,
+  "duda": "Do single-word book or media titles with 'Sin garantía' and 1 seller listing lean used?"
+ },
+ "17228": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17229": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17230": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17231": {
+  "p": 0.48,
+  "duda": "When a study textbook or English coursebook (Rule 1, ~70% used) explicitly says 'Nuevo' in the title (Rule 5, ~41% used), which signal dominates?"
+ },
+ "17232": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17233": {
+  "p": 0.58,
+  "duda": "Do imported fast-fashion items (like Zara, Mango/MNG, H&M) marked 'unico' and '100% original' without 'nuevo' lean used?"
+ },
+ "17234": {
+  "p": 0.55,
+  "duda": "For apartment rental listings on MercadoLibre, how is the new vs. used condition field populated?"
+ },
+ "17235": {
+  "p": 0.62,
+  "duda": "Do branded Argentine fashion accessories (e.g., Las Pepas leather belt) without 'nuevo' in the title lean used more than generic clothing?"
+ },
+ "17236": {
+  "p": 0.58,
+  "duda": "Are unbranded women's shoes with very short titles ('Zapatos De Plataforma') and low prices more likely to be used than general clothing?"
+ },
+ "17237": {
+  "p": 0.55,
+  "duda": "Do specialized university/professional law books count as 'study material' (70% used under Rule 1) or professional non-fiction (~45% used)?"
+ },
+ "17238": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17239": {
+  "p": 0.55,
+  "duda": "Are decorative barware items like 'Juego De Abridores De Botellas Caballos' without 'nuevo' typically vintage/used items or new giftware?"
+ },
+ "17240": {
+  "p": 0.5,
+  "duda": "Do book listings with a manually mistyped author name plus '- Envios A Todo El Pais' from a small seller (9 listings) lean new or used?"
+ },
+ "17241": {
+  "p": 0.45,
+  "duda": "When a 1-listing seller clears out an odd-numbered lot of leftover printer ink cartridges at a very low price, do they usually list it as new or used?"
+ },
+ "17242": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17243": {
+  "p": 0.35,
+  "duda": "In comic book listings from large sellers (60+ listings) with multiple units sold (vendidos = 6) that include '* Completa *' in the title, are they listed as new or used?"
+ },
+ "17244": {
+  "p": 0.45,
+  "duda": "Do numismatic sellers on MercadoLibre classify coins and banknotes described as 'Sin Circular' (uncirculated) as new or used?"
+ },
+ "17245": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17246": {
+  "p": 0.6,
+  "duda": "Does Rule 3 (audio gear from 1-2 listing sellers leaning ~65% used) also apply to car audio electronics like crossovers and amplifiers?"
+ },
+ "17247": {
+  "p": 0.62,
+  "duda": "Do branded shoes (e.g., 'Chatas Basement') sold by a 1-listing seller with no condition words lean used more than average clothing/footwear?"
+ },
+ "17248": {
+  "p": 0.5,
+  "duda": "Are vehicle service manuals covering a model-year range (e.g., 'Manual Kawasaki Ninja 250r - 2008 Al 2014') usually digital/new listings or used physical manuals?"
+ },
+ "17249": {
+  "p": 0.52,
+  "duda": "For a very recently released music CD (released 2014, sold in 2015) with just 'Album. Artist' in the title and 1 seller listing, is it more likely new or used?"
+ },
+ "17250": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17251": {
+  "p": 0.65,
+  "duda": "Is hair salon equipment (like a floor hair dryer 'Secador De Pelo De Pie') sold by a 1-listing seller with no condition words usually used?"
+ },
+ "17252": {
+  "p": 0.6,
+  "duda": "When a multi-listing book dealer writes 'Nuevo' in the title and 'ESTADO DE NUEVO' in the warranty, do they list the book under New or Used?"
+ },
+ "17253": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17254": {
+  "p": 0.65,
+  "duda": "Do branded Argentine teen clothing items (e.g., Como Quieres) specifying a single size at a low price (~85 ARS) without 'nueva' lean strongly used?"
+ },
+ "17255": {
+  "p": 0.38,
+  "duda": "Does Rule 2 (recent named phones leaning ~39% used) apply equally when the title has a minor spec inaccuracy like 'Samsung S5 4gb'?"
+ },
+ "17256": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17257": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17258": {
+  "p": 0.5,
+  "duda": "Do short unbranded home decor titles like 'Florero Tallado' from a 1-listing seller lean used (heirloom/glassware) or follow the category base rate (29-43% used)?"
+ },
+ "17259": {
+  "p": 0.48,
+  "duda": "Are generic camera accessories like lens hoods ('Parasol Para Lente De 72mm') with 'Sin garantía' from a 5-listing seller more often new imports or used accessories?"
+ },
+ "17260": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17261": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "17262": {
+  "p": 0.55,
+  "duda": "When a high-priced branded sports jacket specifies 'Original' and a single size ('Talle Xl') without saying 'nueva', is it more often used or new?"
+ },
+ "17263": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17264": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17265": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17266": {
+  "p": 0.38,
+  "duda": "For high-end home hi-fi equipment at full retail price with 'CON GARANTIA' and stock photos from a 1-listing seller, does it lean new despite Rule 3?"
+ },
+ "17267": {
+  "p": 0.65,
+  "duda": "Do antique/vintage furniture dealers (e.g., selling an 'Escritorio Art Deco' with warranty 'Sí') list their pieces as used or new?"
+ },
+ "17268": {
+  "p": 0.45,
+  "duda": "Are wear-and-tear auto mounts ('Pata De Caja') with no photos and 1 unit sold typically new replacement parts or used parts?"
+ },
+ "17269": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17270": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "17271": {
+  "p": 0.52,
+  "duda": "Are vintage vinyl record cleaning accessories like 'Record Cleaner Rc 2000' usually sold as used vintage items or new-old-stock?"
+ },
+ "17272": {
+  "p": 0.65,
+  "duda": "Are building materials like doors or windows ('Puerta Corrediza De Aluminio') without dimensions in the title from a 1-listing seller on the free tier usually used?"
+ },
+ "17273": {
+  "p": 0.55,
+  "duda": "When a 1-listing seller sells electrical cable ('Cable Bajo Goma') without specifying gauge or length in the title, is it usually a used cable or leftover new roll?"
+ },
+ "17274": {
+  "p": 0.55,
+  "duda": "Do 1990s art and architecture monographs sold by small sellers (1-2 listings) with camera photos lean used?"
+ },
+ "17275": {
+  "p": 0.45,
+  "duda": "For recent Argentine literature books with 1 non-camera photo and 1 seller listing, does the ~45% used rate from Rule 1 apply?"
+ },
+ "17276": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17277": {
+  "p": 0.65,
+  "duda": "Are original cinema movie posters ('Afiche Original') mostly listed as used collectibles or new?"
+ },
+ "17278": {
+  "p": 0.65,
+  "duda": "When a seller lists obsolete/refurbished corporate laptops (e.g. Core 2 Duo 1GB RAM in 2015) with '30 días de garantía' and stock_inicial = 10, are they labeled used or new in the dataset?"
+ },
+ "17279": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17280": {
+  "p": 0.62,
+  "duda": "Are numbered back issues of academic or psychoanalysis journals (like 'La Peste De Tebas N* 31') with 'Sin garantía' mostly used?"
+ },
+ "17281": {
+  "p": 0.58,
+  "duda": "Do clothing titles with ', Small' or ', Medium' appended at the end (from a single-size listing template) lean used?"
+ },
+ "17282": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17283": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "17284": {
+  "p": 0.62,
+  "duda": "Are inexpensive local music CDs (e.g. 40 ARS) with multiple camera photos and no mention of 'nuevo' from a 20+ listing seller usually used?"
+ },
+ "17285": {
+  "p": 0.6,
+  "duda": "When a seasonal item like an Intex frame pool is described as 'Completisima!' without 'nueva' by a 1-listing seller on the free tier, does it lean used?"
+ },
+ "17286": {
+  "p": 0.45,
+  "duda": "Do numismatic sellers on MercadoLibre classify coins and banknotes described as 'Sin Circular' (uncirculated) as new or used?"
+ },
+ "17287": {
+  "p": 0.5,
+  "duda": "When a guitar pedal sold by a 1-listing seller on the free tier (Rule 3, ~65% used) has 'Nuevo' in the title (Rule 5, ~41% used), which rule prevails?"
+ },
+ "17288": {
+  "p": 0.65,
+  "duda": "Are loose components of classic board/table games (like a Subbuteo cloth pitch) usually listed as used?"
+ },
+ "17289": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17290": {
+  "p": 0.62,
+  "duda": "Does branded baby clothing specifying a single age size (e.g. 'talle 3 Meses') with 'Sin garantía' and no 'nuevo' lean used?"
+ },
+ "17291": {
+  "p": 0.58,
+  "duda": "Are very low-priced party dresses (e.g. sequin dress at 135 ARS) without condition words more likely to be used than average clothing?"
+ },
+ "17292": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17293": {
+  "p": 0.45,
+  "duda": "Are clearance lots of small electronic connectors ('Lote Fichas Audio Liquido') with warranty 'Sí' typically leftover new stock or used parts?"
+ },
+ "17294": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17295": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17296": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17297": {
+  "p": 0.56,
+  "duda": "Do unbranded baby clothes (like 'Osito Enterito Manga Larga De Plush') at low prices from a 1-listing seller lean used?"
+ },
+ "17298": {
+  "p": 0.5,
+  "duda": "When a 1990s Argentine novel is listed by a 1-listing seller with 5 photos, does that indicate a used personal copy despite Rule 1 (~45% used for literature)?"
+ },
+ "17299": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17300": {
+  "p": 0.45,
+  "duda": "Does a current-generation DSLR kit (like Nikon D3300 + 18-55mm in 2015) with a retail-style price ($10,690) and a stock photo from a 1-listing seller lean new or follow Rule 3 (used)?"
+ }
+}

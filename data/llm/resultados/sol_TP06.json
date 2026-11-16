@@ -1,0 +1,198 @@
+{
+ "14501": {
+  "p": 0.48,
+  "duda": "Does naming a specific skate-shoe model and size provide reliable condition evidence without wear or packaging details?"
+ },
+ "14502": {
+  "p": 0.57,
+  "duda": "Do place-name-only collectible listings usually describe old postcards, and how should their condition be interpreted?"
+ },
+ "14503": {
+  "p": 0.52,
+  "duda": "Does liquidation wording on a model-specific exterior car mirror distinguish unused replacement stock from salvaged parts?"
+ },
+ "14504": {
+  "p": 0.45,
+  "duda": "Do licensed children's sandals without condition wording provide any reliable signal of new versus used condition?"
+ },
+ "14505": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "14506": {
+  "p": 0.4,
+  "duda": "For books described as new without sealed packaging, how much should that claim influence the condition label?"
+ },
+ "14507": {
+  "p": 0.3,
+  "duda": "Does an editor selling magazine back issues imply new publisher stock even when the title says 'sin uso'?"
+ },
+ "14508": {
+  "p": 0.65,
+  "duda": "Are assortments of cut lighting gels generally previously used material or unused workshop offcuts?"
+ },
+ "14509": {
+  "p": 0.5,
+  "duda": "Does offering a matched pair of decorative table lamps suggest household resale when no condition is stated?"
+ },
+ "14510": {
+  "p": 0.39,
+  "duda": "Does carrier-specific wording for a recent phone model distinguish new stock from a previously owned handset?"
+ },
+ "14511": {
+  "p": 0.62,
+  "duda": "Do numbered lower-division football jerseys usually represent previously worn team kit or new supporter merchandise?"
+ },
+ "14512": {
+  "p": 0.47,
+  "duda": "Does a branded handbag title without a model, condition statement, or packaging details offer reliable evidence of previous ownership?"
+ },
+ "14513": {
+  "p": 0.45,
+  "duda": "For literary correspondence books without printing dates or condition statements, is there evidence beyond the slight new-book lean?"
+ },
+ "14514": {
+  "p": 0.45,
+  "duda": "Should literary anthologies commonly assigned at school follow the literature rule or the study-material rule?"
+ },
+ "14515": {
+  "p": 0.62,
+  "duda": "Should scholarly monographs from university presses count as study material or general nonfiction for condition estimation?"
+ },
+ "14516": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "14517": {
+  "p": 0.6,
+  "duda": "Should thinking-skills and self-improvement books be treated as study manuals or general nonfiction?"
+ },
+ "14518": {
+  "p": 0.55,
+  "duda": "Can 2015 prices for named mattress-and-base sets reliably distinguish secondhand sets from budget new stock?"
+ },
+ "14519": {
+  "p": 0.45,
+  "duda": "Should interdisciplinary popular science books with educational content follow the general nonfiction rule or the study-material rule?"
+ },
+ "14520": {
+  "p": 0.65,
+  "duda": "Does 'unico dueno: no' in vehicle attributes indicate multiple previous owners, or can it be a default on new-car listings?"
+ },
+ "14521": {
+  "p": 0.48,
+  "duda": "Are anime DVD listings without edition or packaging details generally retail discs, newly made copies, or used personal copies?"
+ },
+ "14522": {
+  "p": 0.45,
+  "duda": "Does an older children's book series imply secondhand copies when printing date and condition are absent?"
+ },
+ "14523": {
+  "p": 0.5,
+  "duda": "Is a generic clothing title or low price meaningful condition evidence without wear or packaging details?"
+ },
+ "14524": {
+  "p": 0.45,
+  "duda": "Do esoteric self-help books without edition or condition details provide evidence beyond the general nonfiction rule?"
+ },
+ "14525": {
+  "p": 0.4,
+  "duda": "For historical racing-car titles without scale or format, is the item usually a new collectible model or a previously owned collectible?"
+ },
+ "14526": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "14527": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "14528": {
+  "p": 0.65,
+  "duda": "Does 'vintage' in accessory listings usually identify an older owned item or merely a style of new merchandise?"
+ },
+ "14529": {
+  "p": 0.72,
+  "duda": "Do mixed-brand motocross equipment bundles usually represent personal used kits or new retailer packages?"
+ },
+ "14530": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "14531": {
+  "p": 0.6,
+  "duda": "Are first-day covers classified as used because their stamps are cancelled, or as new when produced and preserved for collectors?"
+ },
+ "14532": {
+  "p": 0.75,
+  "duda": "Do obscure Argentine festival LPs generally indicate vintage used pressings rather than modern reissues or unused old stock?"
+ },
+ "14533": {
+  "p": 0.5,
+  "duda": "Does a glass-and-chrome table description without dimensions or condition details provide any reliable condition evidence?"
+ },
+ "14534": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14535": {
+  "p": 0.43,
+  "duda": "Does 'artesanal' for a wooden display ship indicate newly made craft stock or describe an older owned model?"
+ },
+ "14536": {
+  "p": 0.65,
+  "duda": "How strongly should 'muy buen estado' establish previous ownership for a book when no wear is described?"
+ },
+ "14537": {
+  "p": 0.7,
+  "duda": "Does an excellent property-condition field imply an existing occupied home, or is it also routinely used for new builds?"
+ },
+ "14538": {
+  "p": 0.5,
+  "duda": "Can a low price for branded fleece clothing distinguish used garments from discounted new stock without condition wording?"
+ },
+ "14539": {
+  "p": 0.5,
+  "duda": "Does 'complete set' for a popular fiction franchise usually refer to a newly packaged collection or an assembled secondhand set?"
+ },
+ "14540": {
+  "p": 0.62,
+  "duda": "Do branded cigar cases described as unique and foreign-made usually denote vintage owned accessories or new collector merchandise?"
+ },
+ "14541": {
+  "p": 0.48,
+  "duda": "Does naming wicker as a handbag material suggest newly made craft stock, or provide no useful condition evidence?"
+ },
+ "14542": {
+  "p": 0.65,
+  "duda": "Should 'igual a nuevo' for electrical equipment be treated as resale condition language even without an explicit statement of use?"
+ },
+ "14543": {
+  "p": 0.45,
+  "duda": "Are film posters without size, printing, or provenance information usually new reproductions or previously displayed originals?"
+ },
+ "14544": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14545": {
+  "p": 0.45,
+  "duda": "For books identified only by a literary author's name, is there useful condition evidence beyond the literature rule?"
+ },
+ "14546": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14547": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "14548": {
+  "p": 0.4,
+  "duda": "For imported vinyl described as new but not sealed, how often does that wording identify genuinely new stock?"
+ },
+ "14549": {
+  "p": 0.75,
+  "duda": "Are model-specific original television ribbon cables generally salvaged parts or newly supplied service replacements?"
+ }
+}

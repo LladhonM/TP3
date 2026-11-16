@@ -1,0 +1,402 @@
+{
+ "1501": {
+  "p": 0.35,
+  "duda": "Furniture with detailed specs (doors, drawers, finish) and stock >1: usually new from a carpenter/shop?"
+ },
+ "1502": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1503": {
+  "p": 0.45,
+  "duda": "Branded imported clothing (e.g. Victoria's Secret) sold one-off by individuals: typically new imports or used?"
+ },
+ "1504": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "1505": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1506": {
+  "p": 0.45,
+  "duda": "Workwear (overalls, uniforms) with bare titles: usually new stock or used?"
+ },
+ "1507": {
+  "p": 0.15,
+  "duda": "How are service listings (cutting, repairs, stud service) usually labeled: new or used?"
+ },
+ "1508": {
+  "p": 0.55,
+  "duda": "Baby/children's clothing sets from individuals: mostly outgrown (used) or new imports?"
+ },
+ "1509": {
+  "p": 0.42,
+  "duda": "Do sellers with dozens of book listings tend to be used-book dealers or new bookshops?"
+ },
+ "1510": {
+  "p": 0.55,
+  "duda": "Resale of unused vouchers/codes/tickets: labeled new or used?"
+ },
+ "1511": {
+  "p": 0.35,
+  "duda": "Independent/compilation CDs with 'Nuevo' in the title: usually new stock from a label or band?"
+ },
+ "1512": {
+  "p": 0.4,
+  "duda": "Collectible die-cast/scale models (Hot Wheels, IXO, Winross): usually listed as new in box or used?"
+ },
+ "1513": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1514": {
+  "p": 0.65,
+  "duda": "Does 'de estilo' furniture mean antique/second-hand?"
+ },
+ "1515": {
+  "p": 0.5,
+  "duda": "Aftermarket motorcycle/ATV accessories from one-off sellers: typically new or used?"
+ },
+ "1516": {
+  "p": 0.5,
+  "duda": "Classic literature sold cheaply by individuals with a pickup zone: mostly used copies?"
+ },
+ "1517": {
+  "p": 0.4,
+  "duda": "Collectible die-cast/scale models (Hot Wheels, IXO, Winross): usually listed as new in box or used?"
+ },
+ "1518": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1519": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1520": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1521": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1522": {
+  "p": 0.6,
+  "duda": "Car parts described as 'original' (OEM): usually removed used parts or new OEM stock?"
+ },
+ "1523": {
+  "p": 0.65,
+  "duda": "Phrases like 'the book shown in the photos is the one you get': do they indicate used copies?"
+ },
+ "1524": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1525": {
+  "p": 0.38,
+  "duda": "Vehicle listings (motorcycles, quads): usually used, and does a non-round price indicate a dealer (new)?"
+ },
+ "1526": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1527": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1528": {
+  "p": 0.5,
+  "duda": "Single unbranded garments/shoes listed with only type, color and size: usually used or new?"
+ },
+ "1529": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "1530": {
+  "p": 0.22,
+  "duda": "Are perfume 'probadores' (testers) labeled new or used?"
+ },
+ "1531": {
+  "p": 0.35,
+  "duda": "Small wear parts for very old cars (points, gaskets): usually new old stock or used?"
+ },
+ "1532": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1533": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1534": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1535": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1536": {
+  "p": 0.6,
+  "duda": "Professional/technical books (law, tax, management): treat like textbooks (used) or like general books?"
+ },
+ "1537": {
+  "p": 0.32,
+  "duda": "Does 'con stickers' / 'con estuche' on sunglasses or electronics indicate new?"
+ },
+ "1538": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1539": {
+  "p": 0.58,
+  "duda": "Professional/technical books (law, tax, management): treat like textbooks (used) or like general books?"
+ },
+ "1540": {
+  "p": 0.55,
+  "duda": "Major engine parts (cylinder heads, blocks) from one-off sellers: typically salvage (used) or new?"
+ },
+ "1541": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1542": {
+  "p": 0.35,
+  "duda": "Decor items (wall clocks, lamps) with descriptive titles from one-off sellers: new or used?"
+ },
+ "1543": {
+  "p": 0.6,
+  "duda": "Old art/collectible books and catalogs from collector sellers: used?"
+ },
+ "1544": {
+  "p": 0.55,
+  "duda": "Collectible die-cast/scale models (Hot Wheels, IXO, Winross): usually listed as new in box or used?"
+ },
+ "1545": {
+  "p": 0.65,
+  "duda": "Cheap study guides/dictionaries: mostly used copies?"
+ },
+ "1546": {
+  "p": 0.55,
+  "duda": "Tools/appliances listed with only brand and type by one-off sellers: usually used?"
+ },
+ "1547": {
+  "p": 0.55,
+  "duda": "Car badges/emblems: vintage used pieces or new reproductions?"
+ },
+ "1548": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1549": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1550": {
+  "p": 0.42,
+  "duda": "Do sellers with dozens of book listings tend to be used-book dealers or new bookshops?"
+ },
+ "1551": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1552": {
+  "p": 0.35,
+  "duda": "Collectible stamps/banknotes described as mint or uncirculated: labeled new or used?"
+ },
+ "1553": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1554": {
+  "p": 0.58,
+  "duda": "Catalog CDs of classic albums sold by one-off sellers: usually used?"
+ },
+ "1555": {
+  "p": 0.48,
+  "duda": "Does a price clearly below current retail (books, clothing) indicate a used copy?"
+ },
+ "1556": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1557": {
+  "p": 0.58,
+  "duda": "Replacement batteries/parts for netbooks (e.g. Conectar Igualdad): new or salvaged?"
+ },
+ "1558": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1559": {
+  "p": 0.25,
+  "duda": "How are service listings (cutting, repairs, stud service) usually labeled: new or used?"
+ },
+ "1560": {
+  "p": 0.5,
+  "duda": "How are real estate listings (rent/sale of properties) labeled: new or used?"
+ },
+ "1561": {
+  "p": 0.55,
+  "duda": "Does a price clearly below current retail (books, clothing) indicate a used copy?"
+ },
+ "1562": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1563": {
+  "p": 0.62,
+  "duda": "For music listings by older artists with no format stated: assume vinyl/old pressing (used) or CD reissue (new)?"
+ },
+ "1564": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1565": {
+  "p": 0.4,
+  "duda": "Guitar pedals from small builders/clones with stock >1: new?"
+ },
+ "1566": {
+  "p": 0.62,
+  "duda": "Very cheap clothing items (under ~100 ARS) from individuals: mostly used?"
+ },
+ "1567": {
+  "p": 0.48,
+  "duda": "Single unbranded garments/shoes listed with only type, color and size: usually used or new?"
+ },
+ "1568": {
+  "p": 0.42,
+  "duda": "Do sellers with dozens of book listings tend to be used-book dealers or new bookshops?"
+ },
+ "1569": {
+  "p": 0.55,
+  "duda": "Does 'Oportunidad' in a title signal an individual reselling a used item?"
+ },
+ "1570": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1571": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1572": {
+  "p": 0.55,
+  "duda": "Tools/appliances listed with only brand and type by one-off sellers: usually used?"
+ },
+ "1573": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1574": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1575": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1576": {
+  "p": 0.65,
+  "duda": "Older video games (years after release) sold by individuals: mostly used?"
+ },
+ "1577": {
+  "p": 0.48,
+  "duda": "DVD/CD sellers advertising '100% original': new stock or used collection?"
+ },
+ "1578": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1579": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1580": {
+  "p": 0.4,
+  "duda": "Do sellers with dozens of book listings tend to be used-book dealers or new bookshops?"
+ },
+ "1581": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1582": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1583": {
+  "p": 0.6,
+  "duda": "Does a price clearly below current retail (books, clothing) indicate a used copy?"
+ },
+ "1584": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1585": {
+  "p": 0.4,
+  "duda": "Clothing with 'Nueva' in the title from individuals: new with tags or unworn resale?"
+ },
+ "1586": {
+  "p": 0.55,
+  "duda": "Very cheap clothing items (under ~100 ARS) from individuals: mostly used?"
+ },
+ "1587": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1588": {
+  "p": 0.35,
+  "duda": "How are service listings (cutting, repairs, stud service) usually labeled: new or used?"
+ },
+ "1589": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1590": {
+  "p": 0.65,
+  "duda": "Old-style office tools (cast iron, wood base): vintage used?"
+ },
+ "1591": {
+  "p": 0.6,
+  "duda": "Gas cylinders sold charged by individuals: used cylinders?"
+ },
+ "1592": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1593": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1594": {
+  "p": 0.45,
+  "duda": "For named phones, does a price clearly below local new retail indicate used?"
+ },
+ "1595": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1596": {
+  "p": 0.35,
+  "duda": "Collectible stamps/banknotes described as mint or uncirculated: labeled new or used?"
+ },
+ "1597": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1598": {
+  "p": 0.65,
+  "duda": "Sellers with hundreds of book listings and inventory codes: used-book dealers?"
+ },
+ "1599": {
+  "p": 0.35,
+  "duda": "Branded caps/accessories from one-off sellers: usually new?"
+ },
+ "1600": {
+  "p": 0.78,
+  "duda": ""
+ }
+}

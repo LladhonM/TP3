@@ -1,0 +1,402 @@
+{
+ "12201": {
+  "p": 0.6,
+  "duda": "Are RC hobby electronics (LiPo chargers, batteries) sold by one-listing sellers with 'Sin garantía' usually used?"
+ },
+ "12202": {
+  "p": 0.5,
+  "duda": "Are car listings titled 'Plan Nacional' (savings plans) labeled new or used, even when the attributes say 'Único dueño Sí'?"
+ },
+ "12203": {
+  "p": 0.6,
+  "duda": "Do high-volume sellers of old compilation or promo CDs at very low prices mostly sell used copies?"
+ },
+ "12204": {
+  "p": 0.6,
+  "duda": "Is a single-size pair of designer-brand shoes from a seller with a few dozen listings usually second-hand?"
+ },
+ "12205": {
+  "p": 0.45,
+  "duda": "Does a warranty text like 'por fallas de impresión' indicate a bookshop selling new books, or do used-book dealers also write it?"
+ },
+ "12206": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12207": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "12208": {
+  "p": 0.42,
+  "duda": "Do tablets with 3G (e.g. Galaxy Note 10.1) follow the same lean-new rule as named recent phones?"
+ },
+ "12209": {
+  "p": 0.6,
+  "duda": "Do sellers who describe themselves as 'librería a la calle' and price books under 50 ARS mostly sell used books?"
+ },
+ "12210": {
+  "p": 0.42,
+  "duda": "When a pro-audio listing carries a shop tag in the title (e.g. *yulmar*) but the seller has only 1 listing in the data, does the shop tag override the lean-used rule for pro audio?"
+ },
+ "12211": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12212": {
+  "p": 0.65,
+  "duda": "Are generic home electronics (cordless phones) with no model named, sold by one-listing sellers, mostly used?"
+ },
+ "12213": {
+  "p": 0.67,
+  "duda": ""
+ },
+ "12214": {
+  "p": 0.65,
+  "duda": "Does the phone lean-new rule apply to old models (e.g. Nokia 5230 from 2009), or do these lean used?"
+ },
+ "12215": {
+  "p": 0.5,
+  "duda": "For generic home items with a bare title (lamp, plates, table) and no condition words, is there any base-rate lean?"
+ },
+ "12216": {
+  "p": 0.37,
+  "duda": "Does the word 'importado' on a small decor item indicate new shop stock?"
+ },
+ "12217": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12218": {
+  "p": 0.62,
+  "duda": "Are loose furniture parts (glass table tops, single pieces) offered by one-listing sellers usually used?"
+ },
+ "12219": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12220": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12221": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12222": {
+  "p": 0.5,
+  "duda": "When a title says both 'nueva' and 'sin uso', which rule wins: the condition-word lean used or the 'nuevo' lean new?"
+ },
+ "12223": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12224": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "12225": {
+  "p": 0.45,
+  "duda": "Are spare parts for vintage vehicles (e.g. Lambretta/Siambretta pistons) usually new-old-stock listed as new, or used?"
+ },
+ "12226": {
+  "p": 0.6,
+  "duda": "Is a single garment of a premium local brand (Rapsodia, Ossira, Cuesta Blanca) with no size run and no condition words usually second-hand?"
+ },
+ "12227": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12228": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12229": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12230": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12231": {
+  "p": 0.45,
+  "duda": "How are vacation rentals and real-estate listings labeled in this dataset: new or used?"
+ },
+ "12232": {
+  "p": 0.5,
+  "duda": "Are high-end collectible statues/figures from one-listing sellers usually listed as new (kept boxed) or used?"
+ },
+ "12233": {
+  "p": 0.62,
+  "duda": "Are medical/orthopedic items (wheelchairs) from one-listing sellers mostly used?"
+ },
+ "12234": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12235": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12236": {
+  "p": 0.5,
+  "duda": "Are uncirculated banknotes and mint stamps from collector-dealers labeled new or used?"
+ },
+ "12237": {
+  "p": 0.5,
+  "duda": "How are houses for sale labeled in this dataset: new or used?"
+ },
+ "12238": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12239": {
+  "p": 0.6,
+  "duda": "Is an unbranded handbag or garment with a bare descriptive title and low price from a one-listing seller usually used?"
+ },
+ "12240": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12241": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12242": {
+  "p": 0.65,
+  "duda": "Do CDs with the pressing country noted in the title (e.g. '(Holland)') indicate second-hand collector copies?"
+ },
+ "12243": {
+  "p": 0.6,
+  "duda": "Are foreign-language books sold by individuals in Argentina mostly used?"
+ },
+ "12244": {
+  "p": 0.45,
+  "duda": "Is industrial workwear (flame-retardant coveralls) from one-listing sellers typically new surplus or used?"
+ },
+ "12245": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12246": {
+  "p": 0.6,
+  "duda": "Are 'original' car parts from one-listing sellers with 'Vendo' in the title usually used pulls?"
+ },
+ "12247": {
+  "p": 0.55,
+  "duda": "For children's titles that could be a book set or a toy and give no condition, is there a lean?"
+ },
+ "12248": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12249": {
+  "p": 0.55,
+  "duda": "For generic kitchenware with 'Sin garantía' and no condition words, is there any lean?"
+ },
+ "12250": {
+  "p": 0.65,
+  "duda": "Does 'Oportunidad' plus 'excelente' on a single garment signal a personal resale?"
+ },
+ "12251": {
+  "p": 0.5,
+  "duda": "Is a single branded women's top with no size or condition words more often new or used?"
+ },
+ "12252": {
+  "p": 0.55,
+  "duda": "Are appliance replacement parts (microwave plates) from one-listing sellers usually used?"
+ },
+ "12253": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12254": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12255": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12256": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12257": {
+  "p": 0.65,
+  "duda": "Are promotional collectibles (Huevo Jack, McDonald's sets) from past years labeled used even if unopened?"
+ },
+ "12258": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12259": {
+  "p": 0.55,
+  "duda": "Is fishing gear sold in small lots by a one-listing seller with 'Vendo' in the title usually used?"
+ },
+ "12260": {
+  "p": 0.4,
+  "duda": "Does 'Nuevo!!!' from a one-listing seller on consumer electronics deserve more trust than the 59% base rate?"
+ },
+ "12261": {
+  "p": 0.65,
+  "duda": "Are foreign-language books from mid-size book sellers mostly used?"
+ },
+ "12262": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12263": {
+  "p": 0.6,
+  "duda": "Are specialized workshop tools from one-listing sellers mostly used?"
+ },
+ "12264": {
+  "p": 0.62,
+  "duda": "Does 'sin uso' on clothing reliably mean the seller labeled it used?"
+ },
+ "12265": {
+  "p": 0.6,
+  "duda": "Are garden power tools with no brand named, from one-listing sellers, mostly used?"
+ },
+ "12266": {
+  "p": 0.42,
+  "duda": "Are small imported character toys (squishies) from one-listing sellers typically new?"
+ },
+ "12267": {
+  "p": 0.65,
+  "duda": "Are car interior controls (steering-wheel or A/C controls) from one-listing sellers usually used pulls?"
+ },
+ "12268": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12269": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12270": {
+  "p": 0.45,
+  "duda": "Are stamp sets from philatelic dealers (catalog-numbered) labeled new or used?"
+ },
+ "12271": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12272": {
+  "p": 0.65,
+  "duda": "Are children's backpacks at low prices from one-listing sellers mostly used?"
+ },
+ "12273": {
+  "p": 0.42,
+  "duda": "Does 'de regalo' (bonus item) in a title indicate a shop-style new offer?"
+ },
+ "12274": {
+  "p": 0.47,
+  "duda": "Does selling more units than the initial stock of 1 indicate a relisted new item?"
+ },
+ "12275": {
+  "p": 0.6,
+  "duda": "For generic home items with a bare title (lamp, plates, table) and no condition words, is there any base-rate lean?"
+ },
+ "12276": {
+  "p": 0.65,
+  "duda": "Is home fitness equipment with a bare title from one-listing sellers mostly used?"
+ },
+ "12277": {
+  "p": 0.55,
+  "duda": "Are promotional collectibles (Huevo Jack, McDonald's sets) from past years labeled used even if unopened?"
+ },
+ "12278": {
+  "p": 0.65,
+  "duda": "Are car interior controls (steering-wheel or A/C controls) from one-listing sellers usually used pulls?"
+ },
+ "12279": {
+  "p": 0.57,
+  "duda": "Is industrial electrical equipment (large voltage stabilizers) from one-listing sellers typically used?"
+ },
+ "12280": {
+  "p": 0.42,
+  "duda": "Does 'Sin garantía' on a cheap generic electronics item point to used, or is it common for small new-goods resellers?"
+ },
+ "12281": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12282": {
+  "p": 0.55,
+  "duda": "Are discontinued gaming peripherals at high prices from one-listing sellers mostly used?"
+ },
+ "12283": {
+  "p": 0.6,
+  "duda": "Is a single garment of an international fast-fashion brand (Zara, Forever 21) with no size run usually second-hand?"
+ },
+ "12284": {
+  "p": 0.5,
+  "duda": "For classic literature with no publisher or condition given, from a mid-size seller, is there any lean?"
+ },
+ "12285": {
+  "p": 0.42,
+  "duda": "Does 'oferta' in a clothing title point to shop stock (new)?"
+ },
+ "12286": {
+  "p": 0.42,
+  "duda": "Is high-priced furniture with a bare title more likely made-to-order new than used?"
+ },
+ "12287": {
+  "p": 0.45,
+  "duda": "Does pricing per unit ('precio x 2 paños') on home textiles indicate new made-to-order goods?"
+ },
+ "12288": {
+  "p": 0.42,
+  "duda": "Is 'nueva' on a very cheap small appliance from a one-listing seller reliable?"
+ },
+ "12289": {
+  "p": 0.4,
+  "duda": "Does 'únicamente [size]' indicate leftover new stock rather than a used garment?"
+ },
+ "12290": {
+  "p": 0.55,
+  "duda": "Are pet accessories with a bare title from one-listing sellers more often used?"
+ },
+ "12291": {
+  "p": 0.57,
+  "duda": "Is a single garment of a premium local brand (Rapsodia, Ossira, Cuesta Blanca) with no size run and no condition words usually second-hand?"
+ },
+ "12292": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12293": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12294": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12295": {
+  "p": 0.45,
+  "duda": "Are uncirculated banknotes and mint stamps from collector-dealers labeled new or used?"
+ },
+ "12296": {
+  "p": 0.55,
+  "duda": "Is an unbranded handbag or garment with a bare descriptive title and low price from a one-listing seller usually used?"
+ },
+ "12297": {
+  "p": 0.6,
+  "duda": "Are large plastic outdoor toys (playhouses) from one-listing sellers mostly used?"
+ },
+ "12298": {
+  "p": 0.4,
+  "duda": "Are imported premium-brand boots at high prices, titled with the exact model name, usually new?"
+ },
+ "12299": {
+  "p": 0.6,
+  "duda": "Do high-volume sellers of old compilation or promo CDs at very low prices mostly sell used copies?"
+ },
+ "12300": {
+  "p": 0.4,
+  "duda": "Does 'a estrenar' behave like 'nuevo' (lean new) or like 'sin uso' (lean used)?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "3201": {
+  "p": 0.45,
+  "duda": "Are baby gear items (baby gyms, play mats, strollers) from one-off sellers usually resold used or new?"
+ },
+ "3202": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3203": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3204": {
+  "p": 0.65,
+  "duda": "For consoles listed only by generic name (e.g., 'Playstation 3') at well below retail, is the item almost always used?"
+ },
+ "3205": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3206": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3207": {
+  "p": 0.68,
+  "duda": "Does 'vintage' in clothing titles mean a genuinely old (used) garment or a new vintage-style item?"
+ },
+ "3208": {
+  "p": 0.55,
+  "duda": "Are collectibles (coins, stamps, vintage coasters, collectible figures) usually labeled used or new by their sellers?"
+ },
+ "3209": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3210": {
+  "p": 0.5,
+  "duda": "Are imported CDs noting the pressing country (e.g., '(usa)') usually new imports or used copies?"
+ },
+ "3211": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3212": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "3213": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3214": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3215": {
+  "p": 0.52,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3216": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3217": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3218": {
+  "p": 0.45,
+  "duda": "Is silver (925) jewelry from one-off sellers usually new artisan/shop stock or a personal resale?"
+ },
+ "3219": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3220": {
+  "p": 0.2,
+  "duda": "How are collectible consumables (old wine vintages, liquor bottles) labeled — new or used?"
+ },
+ "3221": {
+  "p": 0.62,
+  "duda": "Do toy lots ('Vendo lote de ...') sold by individuals indicate used toys?"
+ },
+ "3222": {
+  "p": 0.7,
+  "duda": "Is a price far below the brand's retail price (e.g., a branded garment or shoe at a few hundred ARS) a reliable sign that the item is used?"
+ },
+ "3223": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3224": {
+  "p": 0.4,
+  "duda": "For Argentine-edition music CDs from sellers with several listings, is the default new stock?"
+ },
+ "3225": {
+  "p": 0.6,
+  "duda": "Is a price far below the brand's retail price (e.g., a branded garment or shoe at a few hundred ARS) a reliable sign that the item is used?"
+ },
+ "3226": {
+  "p": 0.4,
+  "duda": "Are imported-brand kids' clothes (Gap, Carter's) usually new imports or used?"
+ },
+ "3227": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3228": {
+  "p": 0.45,
+  "duda": "Are cheap (under ~80 ARS) self-help/general non-fiction books usually used copies?"
+ },
+ "3229": {
+  "p": 0.55,
+  "duda": "Are phone chargers listed by exact OEM model code (e.g., Samsung TAD037) usually used originals or new?"
+ },
+ "3230": {
+  "p": 0.6,
+  "duda": "Are household furniture items with generic titles (TV tables, coffee tables) usually personal resales (used) or new/made-to-order?"
+ },
+ "3231": {
+  "p": 0.45,
+  "duda": "Are small home appliances (hair dryers, irons) listed with brand only and no model usually new or used?"
+ },
+ "3232": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3233": {
+  "p": 0.62,
+  "duda": "Are discontinued electronics models (several years old by 2015) almost always used?"
+ },
+ "3234": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "3235": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3236": {
+  "p": 0.4,
+  "duda": "Are household furniture items with generic titles (TV tables, coffee tables) usually personal resales (used) or new/made-to-order?"
+ },
+ "3237": {
+  "p": 0.55,
+  "duda": "Are amateur radio handhelds (Yaesu, Kenwood) from small sellers usually used?"
+ },
+ "3238": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3239": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3240": {
+  "p": 0.4,
+  "duda": "Are odd-count surplus lots of cables/components ('lote de 47 unidades') usually new surplus or used?"
+ },
+ "3241": {
+  "p": 0.6,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3242": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3243": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "3244": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3245": {
+  "p": 0.6,
+  "duda": "Are collectibles (coins, stamps, vintage coasters, collectible figures) usually labeled used or new by their sellers?"
+ },
+ "3246": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3247": {
+  "p": 0.38,
+  "duda": "Is a named recent phone at near-retail price with no condition words usually new even when the seller has a single listing?"
+ },
+ "3248": {
+  "p": 0.55,
+  "duda": "Are household furniture items with generic titles (TV tables, coffee tables) usually personal resales (used) or new/made-to-order?"
+ },
+ "3249": {
+  "p": 0.5,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3250": {
+  "p": 0.42,
+  "duda": "Are collectible die-cast models marked '(nuevo)' (mint/in box) labeled new or used?"
+ },
+ "3251": {
+  "p": 0.6,
+  "duda": "Are old-curriculum school textbooks (e.g., EGB era) offered in quantity (stock > 10) bookshop leftover new stock or used?"
+ },
+ "3252": {
+  "p": 0.42,
+  "duda": "Are in-print Argentine literature/essay/history books at roughly retail price usually new copies?"
+ },
+ "3253": {
+  "p": 0.65,
+  "duda": "Are vehicle parts for a specific model (grille, floor, rack) from one-off sellers usually removed used parts or new aftermarket?"
+ },
+ "3254": {
+  "p": 0.45,
+  "duda": "How are real-estate listings (houses, duplexes for sale) labeled in this dataset — new or used?"
+ },
+ "3255": {
+  "p": 0.35,
+  "duda": "Are cheap fashion accessories (headbands, bijou) usually new stock?"
+ },
+ "3256": {
+  "p": 0.58,
+  "duda": "Does the pro-gear rule (one-off seller leans used) also apply to stage lighting / DMX equipment?"
+ },
+ "3257": {
+  "p": 0.55,
+  "duda": "Are vehicle parts for a specific model (grille, floor, rack) from one-off sellers usually removed used parts or new aftermarket?"
+ },
+ "3258": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3259": {
+  "p": 0.65,
+  "duda": "Are tools or workshop parts priced far below retail usually used?"
+ },
+ "3260": {
+  "p": 0.65,
+  "duda": "Does 'Vendo' at the start of a title indicate a personal resale (used)?"
+ },
+ "3261": {
+  "p": 0.4,
+  "duda": "Are electronic kits/boards (Velleman, Arduino) from one-off sellers usually new?"
+ },
+ "3262": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3263": {
+  "p": 0.55,
+  "duda": "Are collectibles (coins, stamps, vintage coasters, collectible figures) usually labeled used or new by their sellers?"
+ },
+ "3264": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3265": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3266": {
+  "p": 0.5,
+  "duda": "Are pearl necklaces and similar jewelry from one-off sellers usually personal resales (used)?"
+ },
+ "3267": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3268": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3269": {
+  "p": 0.65,
+  "duda": "Are bundles of mixed personal garments ('dos prendas', 'lote de ropa') usually used?"
+ },
+ "3270": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3271": {
+  "p": 0.5,
+  "duda": "Are collectibles (coins, stamps, vintage coasters, collectible figures) usually labeled used or new by their sellers?"
+ },
+ "3272": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3273": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "3274": {
+  "p": 0.55,
+  "duda": "Are branded sneakers priced well below retail (e.g., Adidas Porsche at 850 ARS) usually used, or replicas sold as new?"
+ },
+ "3275": {
+  "p": 0.55,
+  "duda": "Are cassettes from large-catalog music sellers in 2015 old new stock or used?"
+ },
+ "3276": {
+  "p": 0.65,
+  "duda": "Are songbooks/sheet-music booklets (cancioneros) usually old used copies?"
+ },
+ "3277": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3278": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3279": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "3280": {
+  "p": 0.4,
+  "duda": "Does the 'named recent phone leans new' rule also apply to tablets like the iPad Air 2?"
+ },
+ "3281": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3282": {
+  "p": 0.35,
+  "duda": "Is a price far below the brand's retail price (e.g., a branded garment or shoe at a few hundred ARS) a reliable sign that the item is used?"
+ },
+ "3283": {
+  "p": 0.45,
+  "duda": "Are car listings with exact non-round prices and dealer-style tiers 0km (new) or used, even when 'Único dueño' is filled in?"
+ },
+ "3284": {
+  "p": 0.4,
+  "duda": "Are cheap generic toys with a .99-style price from one-off sellers usually new?"
+ },
+ "3285": {
+  "p": 0.42,
+  "duda": "Are in-print Argentine literature/essay/history books at roughly retail price usually new copies?"
+ },
+ "3286": {
+  "p": 0.38,
+  "duda": "For sports gear with 'Nuevo' in the title and no box/warranty mention, how often is it actually new?"
+ },
+ "3287": {
+  "p": 0.55,
+  "duda": "Do bookshops with a storefront ('local a la calle') selling academic titles usually sell new stock or used?"
+ },
+ "3288": {
+  "p": 0.55,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3289": {
+  "p": 0.6,
+  "duda": "Are classic Argentine folklore/history books by old authors (e.g., Ambrosetti) usually old used editions?"
+ },
+ "3290": {
+  "p": 0.45,
+  "duda": "Are home textiles (curtains, bedding) from small sellers usually new/handmade or used?"
+ },
+ "3291": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3292": {
+  "p": 0.6,
+  "duda": "Are baby clothes for a specific age (e.g., 3 months) from one-off sellers usually used?"
+ },
+ "3293": {
+  "p": 0.42,
+  "duda": "For generic women's/men's clothing and accessories (single item, no brand or condition words, stock 1), is the item usually a personal resale (used) or shop stock (new)?"
+ },
+ "3294": {
+  "p": 0.65,
+  "duda": "Do booksellers with a uniform book-warranty text and dozens of listings mostly sell used books?"
+ },
+ "3295": {
+  "p": 0.35,
+  "duda": "In philately 'nuevo' means mint/unused — are such stamps labeled new in this dataset?"
+ },
+ "3296": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3297": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3298": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3299": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "3300": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

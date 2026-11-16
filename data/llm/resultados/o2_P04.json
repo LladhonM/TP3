@@ -1,0 +1,402 @@
+{
+ "4301": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4302": {
+  "p": 0.5,
+  "duda": "For stamps and stamp sets sold by collectors, is the condition usually set to new (mint) or used?"
+ },
+ "4303": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4304": {
+  "p": 0.35,
+  "duda": "Are small camera accessories (cases, bags) from one-off sellers usually new?"
+ },
+ "4305": {
+  "p": 0.6,
+  "duda": "For branded power tools (Makita, Skil) listed by one-off sellers with no exact model, is the item usually used?"
+ },
+ "4306": {
+  "p": 0.6,
+  "duda": "How are giveaways and non-products (rubble, scrap, leftover materials) labeled: new or used?"
+ },
+ "4307": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4308": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4309": {
+  "p": 0.5,
+  "duda": "Are foreign-language original editions of books (French, English) sold in Argentina usually used?"
+ },
+ "4310": {
+  "p": 0.6,
+  "duda": "For branded sneakers/shoes priced well below retail with no condition words, should the low price be read as used?"
+ },
+ "4311": {
+  "p": 0.5,
+  "duda": "How are real-estate, rental and service listings (houses, offices) labeled: new or used?"
+ },
+ "4312": {
+  "p": 0.6,
+  "duda": "Are antique or vintage items ('antiguo', porcelain with a backstamp) labeled used, or new when they are unused old stock?"
+ },
+ "4313": {
+  "p": 0.62,
+  "duda": "Are out-of-print tie-in books (TV series, 1990s fan books) usually used?"
+ },
+ "4314": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4315": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4316": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4317": {
+  "p": 0.5,
+  "duda": "Are handmade decorative replicas (shields, crafts) usually listed as new?"
+ },
+ "4318": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4319": {
+  "p": 0.65,
+  "duda": "Are video games several years past release usually used?"
+ },
+ "4320": {
+  "p": 0.6,
+  "duda": "Do inventory codes or prefixes in book titles (e.g. '10013-', 'ADP') indicate a used-book seller?"
+ },
+ "4321": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4322": {
+  "p": 0.45,
+  "duda": "For branded sneakers/shoes priced well below retail with no condition words, should the low price be read as used?"
+ },
+ "4323": {
+  "p": 0.65,
+  "duda": "For branded sneakers/shoes priced well below retail with no condition words, should the low price be read as used?"
+ },
+ "4324": {
+  "p": 0.65,
+  "duda": "Are 'lote' listings of comics or manga issues usually used?"
+ },
+ "4325": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4326": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4327": {
+  "p": 0.5,
+  "duda": "For stamps and stamp sets sold by collectors, is the condition usually set to new (mint) or used?"
+ },
+ "4328": {
+  "p": 0.55,
+  "duda": "Are kitchen or porcelain items (coffee pots, cazuelas) with no condition words usually used?"
+ },
+ "4329": {
+  "p": 0.65,
+  "duda": "Are back issues of magazines (El Gráfico and similar) labeled used?"
+ },
+ "4330": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4331": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4332": {
+  "p": 0.55,
+  "duda": "Is commercial/gastronomic equipment from one-off sellers usually used?"
+ },
+ "4333": {
+  "p": 0.4,
+  "duda": "Are toys described with marketing phrases (sounds, lights, exclamations) usually new?"
+ },
+ "4334": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4335": {
+  "p": 0.5,
+  "duda": "How are real-estate, rental and service listings (houses, offices) labeled: new or used?"
+ },
+ "4336": {
+  "p": 0.35,
+  "duda": "Are football club jackets priced near retail usually new?"
+ },
+ "4337": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4338": {
+  "p": 0.55,
+  "duda": "Are engine/mechanical parts for older vehicles usually used?"
+ },
+ "4339": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4340": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "4341": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4342": {
+  "p": 0.55,
+  "duda": "Are small collectible figurines (promo toys from candy) labeled used?"
+ },
+ "4343": {
+  "p": 0.6,
+  "duda": "Are old niche non-fiction books from long-established bookstores labeled used?"
+ },
+ "4344": {
+  "p": 0.55,
+  "duda": "Are low-priced clothing items with no condition words and no brand usually used?"
+ },
+ "4345": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4346": {
+  "p": 0.65,
+  "duda": "Are antique or vintage items ('antiguo', porcelain with a backstamp) labeled used, or new when they are unused old stock?"
+ },
+ "4347": {
+  "p": 0.55,
+  "duda": "Do inventory codes or prefixes in book titles (e.g. '10013-', 'ADP') indicate a used-book seller?"
+ },
+ "4348": {
+  "p": 0.55,
+  "duda": "Are youth novels assigned as school reading (Falconi and similar) treated as study material?"
+ },
+ "4349": {
+  "p": 0.6,
+  "duda": "Are baby gear items (high chairs, strollers) from one-off sellers usually used?"
+ },
+ "4350": {
+  "p": 0.5,
+  "duda": "Are imported electronics from one-off sellers who name a meetup neighborhood usually used?"
+ },
+ "4351": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4352": {
+  "p": 0.4,
+  "duda": "How are live plants labeled: new or used?"
+ },
+ "4353": {
+  "p": 0.62,
+  "duda": "Are fan merchandise lots (pins, cards, folders) labeled used?"
+ },
+ "4354": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4355": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4356": {
+  "p": 0.35,
+  "duda": "Are replacement car parts priced like new aftermarket parts usually new?"
+ },
+ "4357": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4358": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4359": {
+  "p": 0.45,
+  "duda": "Are laptop motherboards listed with part numbers usually used pulls or new?"
+ },
+ "4360": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4361": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4362": {
+  "p": 0.4,
+  "duda": "Is furniture from a one-off seller with no condition words usually used, or new from a carpenter/maker?"
+ },
+ "4363": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4364": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4365": {
+  "p": 0.65,
+  "duda": "Are antique or vintage items ('antiguo', porcelain with a backstamp) labeled used, or new when they are unused old stock?"
+ },
+ "4366": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4367": {
+  "p": 0.6,
+  "duda": "Are low-priced clothing items with no condition words and no brand usually used?"
+ },
+ "4368": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4369": {
+  "p": 0.55,
+  "duda": "For branded sneakers/shoes priced well below retail with no condition words, should the low price be read as used?"
+ },
+ "4370": {
+  "p": 0.5,
+  "duda": "Are older CDs, CD singles and DVDs from music sellers usually used, or new old stock?"
+ },
+ "4371": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4372": {
+  "p": 0.5,
+  "duda": "For branded sneakers/shoes priced well below retail with no condition words, should the low price be read as used?"
+ },
+ "4373": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4374": {
+  "p": 0.62,
+  "duda": "Are older CDs, CD singles and DVDs from music sellers usually used, or new old stock?"
+ },
+ "4375": {
+  "p": 0.35,
+  "duda": "Does 'importada' in a clothing title indicate new stock?"
+ },
+ "4376": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4377": {
+  "p": 0.62,
+  "duda": "Are cheap old-publisher editions of popular novels usually used?"
+ },
+ "4378": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4379": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4380": {
+  "p": 0.4,
+  "duda": "Are kitchen or porcelain items (coffee pots, cazuelas) with no condition words usually used?"
+ },
+ "4381": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "4382": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4383": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4384": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4385": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4386": {
+  "p": 0.6,
+  "duda": "Are generic slot cars without a named maker usually used?"
+ },
+ "4387": {
+  "p": 0.5,
+  "duda": "For branded power tools (Makita, Skil) listed by one-off sellers with no exact model, is the item usually used?"
+ },
+ "4388": {
+  "p": 0.5,
+  "duda": "Are aquariums listed with dimensions in the title usually new from a maker?"
+ },
+ "4389": {
+  "p": 0.62,
+  "duda": "Are low-priced clothing items with no condition words and no brand usually used?"
+ },
+ "4390": {
+  "p": 0.6,
+  "duda": "Is furniture from a one-off seller with no condition words usually used, or new from a carpenter/maker?"
+ },
+ "4391": {
+  "p": 0.6,
+  "duda": "Is high-end imported branded furniture usually used?"
+ },
+ "4392": {
+  "p": 0.62,
+  "duda": "Are older CDs, CD singles and DVDs from music sellers usually used, or new old stock?"
+ },
+ "4393": {
+  "p": 0.3,
+  "duda": "How are live animals (pets, litters) labeled: new or used?"
+ },
+ "4394": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4395": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4396": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4397": {
+  "p": 0.45,
+  "duda": "Are books from spiritual or humanist movements (Silo and similar) usually sold new?"
+ },
+ "4398": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4399": {
+  "p": 0.55,
+  "duda": "For coins and coin lots sold by collectors, is the condition usually set to new (uncirculated) or used?"
+ },
+ "4400": {
+  "p": 0.45,
+  "duda": "For coins and coin lots sold by collectors, is the condition usually set to new (uncirculated) or used?"
+ }
+}

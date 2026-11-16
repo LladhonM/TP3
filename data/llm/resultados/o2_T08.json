@@ -1,0 +1,402 @@
+{
+ "10701": {
+  "p": 0.5,
+  "duda": "How are real-estate, rental or service listings (houses, apartments, event venues) labeled in this dataset: new or used?"
+ },
+ "10702": {
+  "p": 0.65,
+  "duda": "Are spare parts for old appliance models (e.g. washing-machine motors) usually salvaged used parts or new replacement stock?"
+ },
+ "10703": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10704": {
+  "p": 0.62,
+  "duda": "Are cheap school textbooks from sellers with many book listings usually used copies, even when the series name contains 'Nuevo'?"
+ },
+ "10705": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10706": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10707": {
+  "p": 0.6,
+  "duda": "Are discontinued phone models (e.g. BlackBerry 9300 in 2015) usually used, or new-old-stock?"
+ },
+ "10708": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10709": {
+  "p": 0.6,
+  "duda": "Are books from newspaper collections (La Nacion, Clarin) resold at very low prices usually labeled used?"
+ },
+ "10710": {
+  "p": 0.63,
+  "duda": "Are drone accessories (gimbals for DJI Phantom) sold by one-off sellers usually used?"
+ },
+ "10711": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10712": {
+  "p": 0.4,
+  "duda": "Are simple iron/wood furniture pieces (stools, coffee tables, pet beds) usually new items from small makers?"
+ },
+ "10713": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10714": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10715": {
+  "p": 0.35,
+  "duda": "Does a title starting with a shop/brand name (e.g. 'La Tapera - ...') indicate new shop stock?"
+ },
+ "10716": {
+  "p": 0.65,
+  "duda": "Are vintage/collectible comics usually labeled used?"
+ },
+ "10717": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10718": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10719": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10720": {
+  "p": 0.4,
+  "duda": "Is an iPhone 6 listed in 2015 with no photos at around 10,600 ARS more likely used or new?"
+ },
+ "10721": {
+  "p": 0.65,
+  "duda": "Are car parts without condition words (switches, doors, covers) usually used salvage or new replacement stock?"
+ },
+ "10722": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10723": {
+  "p": 0.45,
+  "duda": "Are popular graphic novel editions (e.g. Watchmen) more often sold new or used?"
+ },
+ "10724": {
+  "p": 0.62,
+  "duda": "Are classic out-of-print business/self-help books usually used copies?"
+ },
+ "10725": {
+  "p": 0.6,
+  "duda": "How are natural/decorative objects such as hunting trophies or antlers labeled: used or new?"
+ },
+ "10726": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "10727": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "10728": {
+  "p": 0.6,
+  "duda": "Are branded furniture sets resold by individuals with 'sin garantia' usually used?"
+ },
+ "10729": {
+  "p": 0.5,
+  "duda": "Is single-item baby clothing (e.g. a Carter's body) at a low price usually used?"
+ },
+ "10730": {
+  "p": 0.55,
+  "duda": "Are popular catalog CDs with no condition words (not 'sellado'/'cerrado') more often used or new?"
+ },
+ "10731": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10732": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10733": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "10734": {
+  "p": 0.55,
+  "duda": "Are paintings/prints of famous artists (e.g. Molina Campos) usually used items or new reproductions?"
+ },
+ "10735": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10736": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10737": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10738": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10739": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10740": {
+  "p": 0.35,
+  "duda": "Do car listings with '0 km' in quotes mean genuinely new vehicles, and how are dealer car listings labeled?"
+ },
+ "10741": {
+  "p": 0.45,
+  "duda": "Are expensive branded sneakers (Jordan, New Balance) sold by one-off sellers more often new or used?"
+ },
+ "10742": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10743": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10744": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10745": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10746": {
+  "p": 0.5,
+  "duda": "Are expensive branded sneakers (Jordan, New Balance) sold by one-off sellers more often new or used?"
+ },
+ "10747": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10748": {
+  "p": 0.5,
+  "duda": "Are branded clothing/footwear items (Nike, Topper, New Balance, generic boots) with no condition words more often new or used?"
+ },
+ "10749": {
+  "p": 0.55,
+  "duda": "Are branded clothing/footwear items (Nike, Topper, New Balance, generic boots) with no condition words more often new or used?"
+ },
+ "10750": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10751": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10752": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10753": {
+  "p": 0.62,
+  "duda": "Are books from out-of-print collections (e.g. La Sonrisa Vertical) usually used copies?"
+ },
+ "10754": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10755": {
+  "p": 0.45,
+  "duda": "Are small garden/aquarium accessories with no condition words usually new?"
+ },
+ "10756": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10757": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10758": {
+  "p": 0.55,
+  "duda": "How are real-estate, rental or service listings (houses, apartments, event venues) labeled in this dataset: new or used?"
+ },
+ "10759": {
+  "p": 0.6,
+  "duda": "Are older hobby/game books from sellers with many book listings usually used copies?"
+ },
+ "10760": {
+  "p": 0.6,
+  "duda": "Are computer components (motherboards, cards) sold by one-off sellers usually used?"
+ },
+ "10761": {
+  "p": 0.5,
+  "duda": "Are branded clothing/footwear items (Nike, Topper, New Balance, generic boots) with no condition words more often new or used?"
+ },
+ "10762": {
+  "p": 0.55,
+  "duda": "Are branded clothing/footwear items (Nike, Topper, New Balance, generic boots) with no condition words more often new or used?"
+ },
+ "10763": {
+  "p": 0.4,
+  "duda": "Are CDs of local Argentine bands with no condition words usually sold new?"
+ },
+ "10764": {
+  "p": 0.65,
+  "duda": "How are coins and numismatic lots labeled: used (circulated) or new (uncirculated dealer stock)?"
+ },
+ "10765": {
+  "p": 0.55,
+  "duda": "How are real-estate, rental or service listings (houses, apartments, event venues) labeled in this dataset: new or used?"
+ },
+ "10766": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10767": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10768": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "10769": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10770": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10771": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10772": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10773": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10774": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10775": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "10776": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10777": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10778": {
+  "p": 0.5,
+  "duda": "Are football club/national team shirts with no condition words more often new or used?"
+ },
+ "10779": {
+  "p": 0.6,
+  "duda": "Do 1-peso auction listings of clothing/shoes usually indicate used items?"
+ },
+ "10780": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10781": {
+  "p": 0.5,
+  "duda": "When the title gives no identifiable product (e.g. 'Yin Yang'), should the prediction stay at the base rate?"
+ },
+ "10782": {
+  "p": 0.5,
+  "duda": "Are football club/national team shirts with no condition words more often new or used?"
+ },
+ "10783": {
+  "p": 0.45,
+  "duda": "Does 'Excelente' as a sales adjective in a title (not 'excelente estado') indicate a used item?"
+ },
+ "10784": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10785": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10786": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10787": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "10788": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10789": {
+  "p": 0.5,
+  "duda": "Are budget headphones from known brands sold by one-off sellers more often new or used?"
+ },
+ "10790": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10791": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10792": {
+  "p": 0.45,
+  "duda": "How are coins and numismatic lots labeled: used (circulated) or new (uncirculated dealer stock)?"
+ },
+ "10793": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10794": {
+  "p": 0.5,
+  "duda": "When the product model is unrecognizable (e.g. 'Zonda Innovate MTXL'), should the prediction stay at the base rate?"
+ },
+ "10795": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10796": {
+  "p": 0.45,
+  "duda": "Are car parts without condition words (switches, doors, covers) usually used salvage or new replacement stock?"
+ },
+ "10797": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10798": {
+  "p": 0.45,
+  "duda": "Are branded clothing/footwear items (Nike, Topper, New Balance, generic boots) with no condition words more often new or used?"
+ },
+ "10799": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "10800": {
+  "p": 0.6,
+  "duda": "Are fan-club/limited live CD releases usually resold used?"
+ }
+}

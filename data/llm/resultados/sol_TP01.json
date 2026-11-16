@@ -1,0 +1,402 @@
+{
+ "14001": {
+  "p": 0.6,
+  "duda": "How should existing-property rental listings be mapped to new versus used?"
+ },
+ "14002": {
+  "p": 0.4,
+  "duda": "For physical music releases, how much evidence does 'nuevo' provide without confirmation of sealed packaging?"
+ },
+ "14003": {
+  "p": 0.48,
+  "duda": "Do article codes in shelving titles indicate newly manufactured stock or can they also identify secondhand inventory?"
+ },
+ "14004": {
+  "p": 0.45,
+  "duda": "For older commemorative model kits, what distinguishes unopened stock from previously owned or assembled kits?"
+ },
+ "14005": {
+  "p": 0.45,
+  "duda": "How can an ordinary fiction listing be distinguished as new or used when its edition and condition are unspecified?"
+ },
+ "14006": {
+  "p": 0.52,
+  "duda": "How can inexpensive footwear be classified when the title provides only its type and size?"
+ },
+ "14007": {
+  "p": 0.48,
+  "duda": "For home exercise equipment, do material and mounting specifications distinguish retail stock from resale?"
+ },
+ "14008": {
+  "p": 0.6,
+  "duda": "Does a bookseller's assurance that the pictured copy was individually inspected usually indicate a used book?"
+ },
+ "14009": {
+  "p": 0.52,
+  "duda": "Does an instruction to read the description in sporting-equipment titles commonly signal condition issues?"
+ },
+ "14010": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "14011": {
+  "p": 0.48,
+  "duda": "How can footwear be classified when the title gives only its type and size?"
+ },
+ "14012": {
+  "p": 0.48,
+  "duda": "What distinguishes retail stock from resale for branded leather bags without condition wording?"
+ },
+ "14013": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "14014": {
+  "p": 0.45,
+  "duda": "How can general-interest books be classified when the edition and condition are unspecified?"
+ },
+ "14015": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14016": {
+  "p": 0.5,
+  "duda": "What distinguishes newly framed decorative prints from previously owned framed sets?"
+ },
+ "14017": {
+  "p": 0.48,
+  "duda": "Does an originality claim and a return guarantee distinguish new CDs from used CDs?"
+ },
+ "14018": {
+  "p": 0.18,
+  "duda": "Should newly supplied digital scans of previously owned books be classified as new products?"
+ },
+ "14019": {
+  "p": 0.18,
+  "duda": "Should newly supplied digital scans of previously owned books be classified as new products?"
+ },
+ "14020": {
+  "p": 0.48,
+  "duda": "What distinguishes new stock from resale for branded outerwear without condition wording?"
+ },
+ "14021": {
+  "p": 0.52,
+  "duda": "For industrial motors, what evidence beyond power and speed specifications distinguishes new stock from used equipment?"
+ },
+ "14022": {
+  "p": 0.4,
+  "duda": "Do appliance-panel printing listings usually offer newly made overlays or salvaged control panels?"
+ },
+ "14023": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "14024": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "14025": {
+  "p": 0.48,
+  "duda": "How can ordinary baking utensils be classified without packaging or condition information?"
+ },
+ "14026": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "14027": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14028": {
+  "p": 0.45,
+  "duda": "Does an older literary work's title provide any condition evidence when the actual edition is unspecified?"
+ },
+ "14029": {
+  "p": 0.48,
+  "duda": "What distinguishes new computer-peripheral bundles from used bundles without packaging or condition wording?"
+ },
+ "14030": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "14031": {
+  "p": 0.48,
+  "duda": "What distinguishes newly produced decorative pictures from previously owned decor when only a theme is given?"
+ },
+ "14032": {
+  "p": 0.45,
+  "duda": "Do collection and delivery instructions provide any condition evidence for books without edition details?"
+ },
+ "14033": {
+  "p": 0.45,
+  "duda": "How can fiction listings be classified when publisher, edition and condition are unspecified?"
+ },
+ "14034": {
+  "p": 0.5,
+  "duda": "What distinguishes retail stock from resale for branded strollers without condition wording?"
+ },
+ "14035": {
+  "p": 0.45,
+  "duda": "How can illustrated general-interest books be classified without edition or condition details?"
+ },
+ "14036": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14037": {
+  "p": 0.48,
+  "duda": "How can newly crafted carved furniture be distinguished from previously owned pieces without age or condition wording?"
+ },
+ "14038": {
+  "p": 0.58,
+  "duda": "For historical coins, should new versus used follow circulation status or prior ownership?"
+ },
+ "14039": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "14040": {
+  "p": 0.5,
+  "duda": "Do luggage listings with placeholder starting prices typically represent new stock or secondhand assortments?"
+ },
+ "14041": {
+  "p": 0.47,
+  "duda": "How should original artworks be classified when neither prior ownership nor direct sale by the artist is stated?"
+ },
+ "14042": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14043": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14044": {
+  "p": 0.48,
+  "duda": "How can unbranded bags be classified when only their material is specified?"
+ },
+ "14045": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14046": {
+  "p": 0.5,
+  "duda": "What distinguishes new stock from resale for inexpensive branded handbags without condition wording?"
+ },
+ "14047": {
+  "p": 0.48,
+  "duda": "How can generators be classified when the listing gives a model but no warranty or condition details?"
+ },
+ "14048": {
+  "p": 0.5,
+  "duda": "What distinguishes new life jackets from previously owned ones when only brand, model and size are given?"
+ },
+ "14049": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "14050": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "14051": {
+  "p": 0.5,
+  "duda": "How can ordinary clothing be classified when the title gives only garment type, color and size?"
+ },
+ "14052": {
+  "p": 0.45,
+  "duda": "How can fiction listings be classified when publisher, edition and condition are unspecified?"
+ },
+ "14053": {
+  "p": 0.37,
+  "duda": "Does a named furniture design and intended placement usually indicate newly manufactured catalog stock?"
+ },
+ "14054": {
+  "p": 0.22,
+  "duda": "For collectible stamps described as mint, should new versus used follow postal use or prior ownership?"
+ },
+ "14055": {
+  "p": 0.3,
+  "duda": "Does a short warranty on collectible toy accessories usually indicate unused retail stock?"
+ },
+ "14056": {
+  "p": 0.48,
+  "duda": "What distinguishes new stock from resale for branded clothing without condition wording?"
+ },
+ "14057": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14058": {
+  "p": 0.45,
+  "duda": "Should popular herbal reference books be treated as general nonfiction or study manuals when their intended use is unstated?"
+ },
+ "14059": {
+  "p": 0.48,
+  "duda": "What distinguishes newly made pine furniture from previously owned pieces when construction and condition are unspecified?"
+ },
+ "14060": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "14061": {
+  "p": 0.09,
+  "duda": ""
+ },
+ "14062": {
+  "p": 0.6,
+  "duda": "For fairings for discontinued motorcycles, how can new aftermarket parts be distinguished from salvaged original parts?"
+ },
+ "14063": {
+  "p": 0.47,
+  "duda": "What distinguishes new replacement camera batteries from used original batteries when only specifications are supplied?"
+ },
+ "14064": {
+  "p": 0.6,
+  "duda": "Does a bookseller's assurance that the pictured copy was individually inspected usually indicate a used book?"
+ },
+ "14065": {
+  "p": 0.3,
+  "duda": "Does a contemporary publisher and a physical bookshop guarantee reliably indicate new stock?"
+ },
+ "14066": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14067": {
+  "p": 0.48,
+  "duda": "How can collectible scale vehicles be classified when the historical year describes the real vehicle rather than the model's manufacture?"
+ },
+ "14068": {
+  "p": 0.36,
+  "duda": "Do footwear article codes and detailed material descriptions generally indicate new retail stock?"
+ },
+ "14069": {
+  "p": 0.58,
+  "duda": "Does a bookseller's guarantee about the pictured copy and inspection on collection usually indicate a used book?"
+ },
+ "14070": {
+  "p": 0.48,
+  "duda": "What distinguishes new appliances from resale when only brand and capacity are stated?"
+ },
+ "14071": {
+  "p": 0.49,
+  "duda": "How can an older CD release be classified without information about sealing or disc condition?"
+ },
+ "14072": {
+  "p": 0.45,
+  "duda": "How can a book be classified when the seller explicitly handles both new and used copies but gives no condition for this copy?"
+ },
+ "14073": {
+  "p": 0.61,
+  "duda": "For historical stamp collections, how should condition be inferred when complete series are specified but cancellation status is absent?"
+ },
+ "14074": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14075": {
+  "p": 0.4,
+  "duda": "How should medical or professional service listings be mapped to new versus used?"
+ },
+ "14076": {
+  "p": 0.38,
+  "duda": "Do precisely specified plumbing components usually represent unused stock when condition is unstated?"
+ },
+ "14077": {
+  "p": 0.47,
+  "duda": "What distinguishes new leather footwear from resale when only color and material are specified?"
+ },
+ "14078": {
+  "p": 0.5,
+  "duda": "How can portable coolers be classified when the title states only capacity?"
+ },
+ "14079": {
+  "p": 0.63,
+  "duda": "Should original software discs separated from the devices they accompanied generally be considered used?"
+ },
+ "14080": {
+  "p": 0.5,
+  "duda": "Do imported children's clothing listings with fabric and size details distinguish new stock from resale?"
+ },
+ "14081": {
+  "p": 0.5,
+  "duda": "How can ordinary clothing be classified when only garment type and material are stated?"
+ },
+ "14082": {
+  "p": 0.47,
+  "duda": "In scale-model titles, does 'antiguos' describe the depicted objects or the age and condition of the models themselves?"
+ },
+ "14083": {
+  "p": 0.62,
+  "duda": "For nineteenth-century collectible stamps, should new versus used follow cancellation status or prior ownership?"
+ },
+ "14084": {
+  "p": 0.58,
+  "duda": "Does a bookseller's guarantee about the pictured copy and inspection on collection usually indicate a used book?"
+ },
+ "14085": {
+  "p": 0.45,
+  "duda": "How can poetry books be classified when edition, binding and condition are unspecified?"
+ },
+ "14086": {
+  "p": 0.45,
+  "duda": "How can fiction listings be classified when publisher, edition and condition are unspecified?"
+ },
+ "14087": {
+  "p": 0.48,
+  "duda": "Do exact dimensions and wood specifications distinguish made-to-order wardrobes from previously owned furniture?"
+ },
+ "14088": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "14089": {
+  "p": 0.6,
+  "duda": "For historical collectible banknotes, should new versus used follow circulation status or prior ownership?"
+ },
+ "14090": {
+  "p": 0.62,
+  "duda": "Are replacement television power boards commonly salvaged parts or newly manufactured service stock?"
+ },
+ "14091": {
+  "p": 0.48,
+  "duda": "Do standard dimensions distinguish newly manufactured metal cabinets from previously owned ones?"
+ },
+ "14092": {
+  "p": 0.65,
+  "duda": "Does 'excelente' alone in a toy title normally describe its used condition or merely praise the product?"
+ },
+ "14093": {
+  "p": 0.5,
+  "duda": "How can ordinary clothing be classified when only garment type, material and size are stated?"
+ },
+ "14094": {
+  "p": 0.52,
+  "duda": "Do mixed sets of glasses and dessert bowls usually indicate household resale or new coordinated tableware?"
+ },
+ "14095": {
+  "p": 0.48,
+  "duda": "How can distinctive bar and display furniture be classified without age, manufacture or condition details?"
+ },
+ "14096": {
+  "p": 0.42,
+  "duda": "What distinguishes newly wound radio-frequency components from salvaged components when only construction type is given?"
+ },
+ "14097": {
+  "p": 0.45,
+  "duda": "How can local-history books be classified without edition or condition details?"
+ },
+ "14098": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14099": {
+  "p": 0.58,
+  "duda": "Does a warranty limited to condition and operation indicate resale rather than new retail stock?"
+ },
+ "14100": {
+  "p": 0.45,
+  "duda": "How can fiction listings be classified when publisher, edition and condition are unspecified?"
+ }
+}

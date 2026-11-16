@@ -1,0 +1,402 @@
+{
+ "1401": {
+  "p": 0.5,
+  "duda": "Generic, unbranded clothing or footwear with a short title and no condition words: is it more often a small shop selling new stock or a person reselling?"
+ },
+ "1402": {
+  "p": 0.35,
+  "duda": "Sports equipment naming the current model year (e.g. 'Limited 2015'): is it reliably a new item from a shop?"
+ },
+ "1403": {
+  "p": 0.42,
+  "duda": "Generic, unbranded clothing or footwear with a short title and no condition words: is it more often a small shop selling new stock or a person reselling?"
+ },
+ "1404": {
+  "p": 0.6,
+  "duda": "Books from sellers whose warranty text stresses 'real photos of the product' and detailed descriptions: is that a used-book seller signal?"
+ },
+ "1405": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1406": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1407": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1408": {
+  "p": 0.38,
+  "duda": "Expensive car drivetrain parts (gear sets, ring and pinion) with no condition words: usually new aftermarket stock or parts removed from a vehicle?"
+ },
+ "1409": {
+  "p": 0.4,
+  "duda": "Collector toys and partwork items (Hot Wheels, Altaya/IXO models, action figures, kiosk collections) sold by collectors, often still in blister: are they usually labeled new or used?"
+ },
+ "1410": {
+  "p": 0.45,
+  "duda": "Branded imported bags or outdoor gear ('Made in USA') sold by a one-off seller: usually new imports or used?"
+ },
+ "1411": {
+  "p": 0.4,
+  "duda": "Collector toys and partwork items (Hot Wheels, Altaya/IXO models, action figures, kiosk collections) sold by collectors, often still in blister: are they usually labeled new or used?"
+ },
+ "1412": {
+  "p": 0.6,
+  "duda": "Imported back-issue comics or comic reprint volumes sold by collectors: usually used?"
+ },
+ "1413": {
+  "p": 0.45,
+  "duda": "How are live animals (puppies, fish) usually labeled on ML: new or used?"
+ },
+ "1414": {
+  "p": 0.5,
+  "duda": "Novels or non-fiction books several years old priced clearly below the new retail price, with no condition words: is the listing usually a used copy?"
+ },
+ "1415": {
+  "p": 0.5,
+  "duda": "Car listings with a price close to the 0 km list price and no year or kilometers in the title: usually a dealer selling new or a private used sale?"
+ },
+ "1416": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1417": {
+  "p": 0.42,
+  "duda": "Leather jackets priced near new retail by a seller with 1-2 listings: usually new (small maker) or used?"
+ },
+ "1418": {
+  "p": 0.35,
+  "duda": "Generic, unbranded clothing or footwear with a short title and no condition words: is it more often a small shop selling new stock or a person reselling?"
+ },
+ "1419": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1420": {
+  "p": 0.38,
+  "duda": "Recent tablets/electronics listed with a full spec-sheet title by a one-off seller at near-retail price: usually new?"
+ },
+ "1421": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1422": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1423": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1424": {
+  "p": 0.42,
+  "duda": "Musical instruments (digital pianos, keyboards) of a current model sold by a seller with 1-2 listings at a precise, non-round price: new or used?"
+ },
+ "1425": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1426": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1427": {
+  "p": 0.65,
+  "duda": "Motorcycle/ATV parts sold by a one-off seller with phone photos and no condition words: usually removed used parts?"
+ },
+ "1428": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1429": {
+  "p": 0.6,
+  "duda": "Old encyclopedia/collection fascicles (e.g. Clarin weekly issues) sold cheaply by large used-book sellers: labeled new (unsold stock) or used?"
+ },
+ "1430": {
+  "p": 0.62,
+  "duda": "Old music CDs (1990s pressings) sold by collectors at very high or placeholder prices: usually used?"
+ },
+ "1431": {
+  "p": 0.5,
+  "duda": "Branded clothing priced well below its retail price with no condition words: is it usually a used resale or new outlet/second-quality stock?"
+ },
+ "1432": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1433": {
+  "p": 0.5,
+  "duda": "Generic, unbranded clothing or footwear with a short title and no condition words: is it more often a small shop selling new stock or a person reselling?"
+ },
+ "1434": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1435": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1436": {
+  "p": 0.4,
+  "duda": "How do stamp and coin collectors label condition on ML: are mint stamps with original gum (unused) labeled new?"
+ },
+ "1437": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1438": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1439": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1440": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1441": {
+  "p": 0.55,
+  "duda": "Retro console cartridges (Family Game, Sega) listed without a game name: mostly new generic stock or used?"
+ },
+ "1442": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1443": {
+  "p": 0.45,
+  "duda": "How are temporary rentals and real-estate listings (holiday apartments) labeled: new or used?"
+ },
+ "1444": {
+  "p": 0.4,
+  "duda": "Rare collector vinyl records priced far above reissue price but described as 'nuevo': usually labeled new?"
+ },
+ "1445": {
+  "p": 0.4,
+  "duda": "Collector toys and partwork items (Hot Wheels, Altaya/IXO models, action figures, kiosk collections) sold by collectors, often still in blister: are they usually labeled new or used?"
+ },
+ "1446": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1447": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1448": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1449": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1450": {
+  "p": 0.45,
+  "duda": "Imported US kids' or teen brands (Carter's, Children's Place, Gap, Hollister) sold by individuals: usually new imported stock or outgrown/used clothes?"
+ },
+ "1451": {
+  "p": 0.62,
+  "duda": "Imported music CDs from the 1980s-90s priced cheaply by small sellers ('original import'): usually used?"
+ },
+ "1452": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1453": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1454": {
+  "p": 0.5,
+  "duda": "Listings that are just a book or film title with no author, format or condition: more often used?"
+ },
+ "1455": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1456": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "1457": {
+  "p": 0.6,
+  "duda": "Single golf clubs (wedges, irons) listed individually without brand: mostly used?"
+ },
+ "1458": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "1459": {
+  "p": 0.4,
+  "duda": "Collector toys and partwork items (Hot Wheels, Altaya/IXO models, action figures, kiosk collections) sold by collectors, often still in blister: are they usually labeled new or used?"
+ },
+ "1460": {
+  "p": 0.58,
+  "duda": "Branded motorcycle accessories (Givi top cases) priced noticeably below new retail by a one-off seller: usually used?"
+ },
+ "1461": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1462": {
+  "p": 0.5,
+  "duda": "Branded clothing priced well below its retail price with no condition words: is it usually a used resale or new outlet/second-quality stock?"
+ },
+ "1463": {
+  "p": 0.38,
+  "duda": "Bike parts or frames described as 'nuevos' (possibly old stock) by a seller with many listings who invites inspection before pickup: usually labeled new?"
+ },
+ "1464": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1465": {
+  "p": 0.4,
+  "duda": "Generic fixie/single-speed or urban bikes without brand at entry-level price: usually new from a small builder or used?"
+ },
+ "1466": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1467": {
+  "p": 0.45,
+  "duda": "Bulk lots of trading cards (hundreds of cards from opened packs) sold in several units: labeled new or used?"
+ },
+ "1468": {
+  "p": 0.5,
+  "duda": "Building materials (windows, doors) sold by individuals at low prices: usually leftover new stock or removed used items?"
+ },
+ "1469": {
+  "p": 0.4,
+  "duda": "For a named recent phone model, does a price clearly below retail (about 20% lower) with no other text indicate a used phone?"
+ },
+ "1470": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1471": {
+  "p": 0.6,
+  "duda": "Antiques and old commemorative collectibles (medals, coins, badges): labeled used by default?"
+ },
+ "1472": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1473": {
+  "p": 0.45,
+  "duda": "Collector toys and partwork items (Hot Wheels, Altaya/IXO models, action figures, kiosk collections) sold by collectors, often still in blister: are they usually labeled new or used?"
+ },
+ "1474": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1475": {
+  "p": 0.55,
+  "duda": "Comics or figures listed with a very short, ambiguous title by a small seller: more often used?"
+ },
+ "1476": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "1477": {
+  "p": 0.3,
+  "duda": "How are live animals (puppies, fish) usually labeled on ML: new or used?"
+ },
+ "1478": {
+  "p": 0.42,
+  "duda": "Housewares described with product specs (capacity, material) whose seller warranty invites inspecting the item before delivery: new or used?"
+ },
+ "1479": {
+  "p": 0.45,
+  "duda": "Novels or non-fiction books several years old priced clearly below the new retail price, with no condition words: is the listing usually a used copy?"
+ },
+ "1480": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1481": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1482": {
+  "p": 0.4,
+  "duda": "Plural furniture listings ('Mesas de luz', 'Sillas') at low prices with no maker or condition words: usually new from a small maker or used pairs?"
+ },
+ "1483": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1484": {
+  "p": 0.45,
+  "duda": "Vehicles/trailers with current model year and dealer phrasing ('entrega ya') but attribute 'Unico dueno: Si': usually new or used?"
+ },
+ "1485": {
+  "p": 0.5,
+  "duda": "Small branded electronics (speakers, headphones) with the price in the title and no specs or condition words: usually used?"
+ },
+ "1486": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1487": {
+  "p": 0.4,
+  "duda": "Imported US kids' or teen brands (Carter's, Children's Place, Gap, Hollister) sold by individuals: usually new imported stock or outgrown/used clothes?"
+ },
+ "1488": {
+  "p": 0.62,
+  "duda": "Discontinued luxury items (fountain pens, watches) sold by one-off sellers: mostly used?"
+ },
+ "1489": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1490": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1491": {
+  "p": 0.6,
+  "duda": "Branded clothing priced well below its retail price with no condition words: is it usually a used resale or new outlet/second-quality stock?"
+ },
+ "1492": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1493": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "1494": {
+  "p": 0.55,
+  "duda": "Gold jewelry priced by weight and sold by individuals: usually used?"
+ },
+ "1495": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1496": {
+  "p": 0.62,
+  "duda": "Carved furniture parts or doors sold for decoration: usually salvaged used items?"
+ },
+ "1497": {
+  "p": 0.62,
+  "duda": "School textbooks sold by large book sellers whose warranty guarantees the book's condition and complete pages, with several units sold: used copies or new?"
+ },
+ "1498": {
+  "p": 0.45,
+  "duda": "Aftermarket car wheels (llantas) of a named brand sold by a one-off seller near new price: new or used?"
+ },
+ "1499": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1500": {
+  "p": 0.55,
+  "duda": "Novels or non-fiction books several years old priced clearly below the new retail price, with no condition words: is the listing usually a used copy?"
+ }
+}

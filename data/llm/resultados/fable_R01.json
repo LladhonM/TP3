@@ -1,0 +1,402 @@
+{
+ "1501": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1502": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1503": {
+  "p": 0.5,
+  "duda": "For imported brand clothing (Victoria's Secret, Zara, etc.) sold as a single unit by a one-listing seller with no condition words, is it more often a new item brought from abroad or a worn garment?"
+ },
+ "1504": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "1505": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1506": {
+  "p": 0.45,
+  "duda": "Is generic workwear (overalls, safety clothing) listed by a one-listing seller with no brand or condition words usually new or used?"
+ },
+ "1507": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1508": {
+  "p": 0.55,
+  "duda": "For baby clothing sets described as 'importado' and 'excelentes' with no explicit 'nuevo', are they usually outgrown used clothes or new imported items?"
+ },
+ "1509": {
+  "p": 0.6,
+  "duda": "Does a generic warranty word such as 'GARANTIZADO' on a book from a mid-size seller (30-70 listings) indicate a second-hand bookseller or a shop selling new stock?"
+ },
+ "1510": {
+  "p": 0.6,
+  "duda": "When a video game listing says the included codes are 'sin usar', does that mean the game itself is used (opened) with unused codes, or new?"
+ },
+ "1511": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1512": {
+  "p": 0.4,
+  "duda": "Are die-cast collectible cars (Hot Wheels, Ixo, Winross) with no mention of packaging usually labelled new or used by collectors who resell them?"
+ },
+ "1513": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1514": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1515": {
+  "p": 0.45,
+  "duda": "Are aftermarket accessories for quads and motorcycles (nerf bars, footpegs) from small sellers with no condition words usually new or taken off the seller's own vehicle?"
+ },
+ "1516": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1517": {
+  "p": 0.4,
+  "duda": "Are die-cast collectible cars (Hot Wheels, Ixo, Winross) with no mention of packaging usually labelled new or used by collectors who resell them?"
+ },
+ "1518": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1519": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1520": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1521": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1522": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1523": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1524": {
+  "p": 0.45,
+  "duda": "Does a generic 'Con garantia' on a novel from a seller with many listings point to a new-book shop or a second-hand bookseller?"
+ },
+ "1525": {
+  "p": 0.5,
+  "duda": "Are vehicle listings (quads, motorcycles) priced close to the list price of a new unit, with no year or mileage in the title, usually new dealer units or used ones?"
+ },
+ "1526": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1527": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1528": {
+  "p": 0.6,
+  "duda": "Is a single unbranded garment described only by colour and size (e.g. 'Blazer gris talle S') from a small seller usually a used item from the seller's wardrobe?"
+ },
+ "1529": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1530": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1531": {
+  "p": 0.4,
+  "duda": "Are small spare parts for classic cars (points, ignition parts for 1960s models) usually new old stock labelled new, or labelled used?"
+ },
+ "1532": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1533": {
+  "p": 0.4,
+  "duda": "Does 'liquidación' or 'outlet' in a clothing title point to new leftover stock or to someone clearing out their own used clothes?"
+ },
+ "1534": {
+  "p": 0.7,
+  "duda": "Does the abbreviation 'C/nuevo' in record listings mean 'casi nuevo' / 'como nuevo' (i.e. a used copy in great condition)?"
+ },
+ "1535": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1536": {
+  "p": 0.55,
+  "duda": "Are specialised professional books (law, tax, accounting) from small sellers treated like study material (lean used) or like general non-fiction (lean new)?"
+ },
+ "1537": {
+  "p": 0.5,
+  "duda": "Are brand-name sunglasses 'con estuche' from a one-listing seller with no condition words usually new or used?"
+ },
+ "1538": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1539": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1540": {
+  "p": 0.5,
+  "duda": "Are major engine parts (cylinder heads, blocks) with no condition words from a one-listing seller usually new/rebuilt units labelled new, or used take-offs?"
+ },
+ "1541": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1542": {
+  "p": 0.45,
+  "duda": "Are decorative home items (wall clocks, lamps) at relatively high prices from a one-listing seller with a descriptive, sales-style title usually new?"
+ },
+ "1543": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1544": {
+  "p": 0.65,
+  "duda": "Are die-cast collectible cars (Hot Wheels, Ixo, Winross) with no mention of packaging usually labelled new or used by collectors who resell them?"
+ },
+ "1545": {
+  "p": 0.6,
+  "duda": "Is a bundle of several study books in one listing (title joined with '+') a sign of a person reselling used books?"
+ },
+ "1546": {
+  "p": 0.55,
+  "duda": "Is a home appliance listed with only type and brand (no model, no warranty) by a one-listing seller usually used?"
+ },
+ "1547": {
+  "p": 0.5,
+  "duda": "Are car badges and emblems for classic cars usually sold as new reproductions or as used originals?"
+ },
+ "1548": {
+  "p": 0.65,
+  "duda": "Are old catalogues and printed ephemera from collector sellers reliably labelled used, even when the seller offers a 'total' warranty?"
+ },
+ "1549": {
+  "p": 0.5,
+  "duda": "Are toys-to-life accessories (Disney Infinity playsets, Skylanders figures) with no mention of packaging usually new or used?"
+ },
+ "1550": {
+  "p": 0.45,
+  "duda": "For fiction paperbacks listed as 'Title - Author - Edition' by a seller with 10-30 listings and no warranty text, is it more often a new-book shop or a second-hand seller?"
+ },
+ "1551": {
+  "p": 0.3,
+  "duda": "Does a warranty text limited to 'fallas de impresión' reliably indicate a publisher or shop selling new books?"
+ },
+ "1552": {
+  "p": 0.45,
+  "duda": "Are 'mint' (unused) postage stamps labelled new or used by stamp dealers on MercadoLibre?"
+ },
+ "1553": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1554": {
+  "p": 0.6,
+  "duda": "Is a catalogue CD by a classic band, listed by a one-listing seller with no 'nuevo' or 'sellado', usually a used copy?"
+ },
+ "1555": {
+  "p": 0.45,
+  "duda": "For recent literary fiction listed as 'Title - Author - Publisher' by a small seller with a single stock photo, is it more often new or used?"
+ },
+ "1556": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1557": {
+  "p": 0.5,
+  "duda": "Are laptop/netbook batteries identified only by part number, at a low price and with no warranty, usually new replacements or used pulls?"
+ },
+ "1558": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1559": {
+  "p": 0.25,
+  "duda": "Are service listings (repairs, cleaning, cutting) always labelled new?"
+ },
+ "1560": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (commercial premises, warehouses) labelled in this dataset: new or used?"
+ },
+ "1561": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1562": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1563": {
+  "p": 0.5,
+  "duda": "For Argentine rock CDs listed as 'Artist - Album' by a seller with about 10 listings and no condition words, is it more often a new or a used copy?"
+ },
+ "1564": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1565": {
+  "p": 0.25,
+  "duda": "Do clone/boutique effect pedals offered with stock greater than 1 come from builders selling new units, overriding the pro-audio small-seller lean toward used?"
+ },
+ "1566": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1567": {
+  "p": 0.6,
+  "duda": "Are riding boots and similar specialised footwear listed in a single size by a small seller usually used?"
+ },
+ "1568": {
+  "p": 0.4,
+  "duda": "For recent literary fiction listed as 'Title - Author - Publisher' by a small seller with a single stock photo, is it more often new or used?"
+ },
+ "1569": {
+  "p": 0.6,
+  "duda": "Does 'Oportunidad' in a title for a power tool or appliance point to a person reselling a used item?"
+ },
+ "1570": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1571": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1572": {
+  "p": 0.6,
+  "duda": "Are imported professional tools ('americanas') sold by a one-listing seller with many camera photos usually used?"
+ },
+ "1573": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1574": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1575": {
+  "p": 0.3,
+  "duda": "Are scanned or digital copies of books labelled new?"
+ },
+ "1576": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1577": {
+  "p": 0.4,
+  "duda": "Does '100% original' on a DVD with stock greater than 1 indicate a shop selling new copies, or a reseller of used originals?"
+ },
+ "1578": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1579": {
+  "p": 0.4,
+  "duda": "Are vehicle accessories (running boards, tow bars) listed with stock 2 and no condition words usually new?"
+ },
+ "1580": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1581": {
+  "p": 0.35,
+  "duda": "Are spare parts for arcade or vending machines listed with stock greater than 1 usually new?"
+ },
+ "1582": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1583": {
+  "p": 0.5,
+  "duda": "For a branded women's t-shirt at a low price from a one-listing seller, with enthusiastic punctuation but no condition words, is it more often new or used?"
+ },
+ "1584": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1585": {
+  "p": 0.35,
+  "duda": "When a one-listing seller writes 'nueva' on a single cheap garment, how often is it really labelled new?"
+ },
+ "1586": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1587": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1588": {
+  "p": 0.3,
+  "duda": "How are animal and stud-service listings labelled: new or used?"
+ },
+ "1589": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1590": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1591": {
+  "p": 0.6,
+  "duda": "Are industrial gas cylinders sold filled ('cargado') by small sellers usually second-hand cylinders labelled used?"
+ },
+ "1592": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1593": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1594": {
+  "p": 0.45,
+  "duda": "Does naming a carrier (Movistar, Claro, Personal) in a phone title indicate a carrier-locked handset being resold by its owner (used) rather than a new unit?"
+ },
+ "1595": {
+  "p": 0.3,
+  "duda": "Are toner cartridges for old copier models sold by a one-listing seller usually new leftover stock?"
+ },
+ "1596": {
+  "p": 0.5,
+  "duda": "Are uncirculated banknotes and coins from collector sellers labelled new or used?"
+ },
+ "1597": {
+  "p": 0.35,
+  "duda": "Does a warranty split by component with specific durations (e.g. 'fuente 9 meses, gabinete 30 días') indicate a shop selling new, or a person passing on the remaining warranty of a used item?"
+ },
+ "1598": {
+  "p": 0.7,
+  "duda": "Do internal inventory codes in book titles (e.g. '#c2549') from very large sellers indicate a second-hand bookshop?"
+ },
+ "1599": {
+  "p": 0.45,
+  "duda": "Are branded caps and similar streetwear accessories from one-listing sellers with no condition words usually new or used?"
+ },
+ "1600": {
+  "p": 0.8,
+  "duda": ""
+ }
+}

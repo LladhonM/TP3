@@ -1,0 +1,402 @@
+{
+ "16801": {
+  "p": 0.45,
+  "duda": "Are artisanal lamps and decor made from antique or rustic farm pieces (like yuguillos) typically listed as new crafts or used items?"
+ },
+ "16802": {
+  "p": 0.42,
+  "duda": "Are bootleg/knockoff anime figures ('simil Figuarts') with catalog-style titles mostly sold as new imports or resold as used?"
+ },
+ "16803": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16804": {
+  "p": 0.5,
+  "duda": "Are single plumbing or construction fittings (like valves or taps) with minimal titles typically listed as new leftovers or used?"
+ },
+ "16805": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16806": {
+  "p": 0.55,
+  "duda": "In numismatics and paper money listings, are old or novelty banknotes described as 'sin circular' (uncirculated) typically listed as new or used?"
+ },
+ "16807": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16808": {
+  "p": 0.5,
+  "duda": "Are older discontinued Nextel phone models (like i830 or i897) sold with stock > 1 by multi-listing sellers typically listed as new (refurbished/new old stock) or used?"
+ },
+ "16809": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16810": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "16811": {
+  "p": 0.42,
+  "duda": "Are artisanal gift/decor items like wood-and-alpaca tea boxes without condition words typically new craft listings or used household items?"
+ },
+ "16812": {
+  "p": 0.55,
+  "duda": "Are single items of imported children's brand clothing (like OshKosh or Carter's) that do not mention 'nuevo' or tags more often used or new?"
+ },
+ "16813": {
+  "p": 0.55,
+  "duda": "For basic clothing accessories like belts at very low prices with no condition words, does a low price indicate a used item or cheap new merchandise?"
+ },
+ "16814": {
+  "p": 0.38,
+  "duda": "When a fiction book includes 'Nuevo' in the title from a small seller, does it follow the ~40% used rate for 'nuevo' in titles or is it more reliably new?"
+ },
+ "16815": {
+  "p": 0.52,
+  "duda": "For older (1990s) Argentine literary editions sold by a 1-listing seller with 'Sin garantía', are they more likely used than the general 45% rate for literature?"
+ },
+ "16816": {
+  "p": 0.52,
+  "duda": "Are baby mattresses and crib accessories with exact brand/model/dimensions but no condition words typically resold by parents (used) or sold new?"
+ },
+ "16817": {
+  "p": 0.45,
+  "duda": "Are contemporary young-adult novels that are frequently assigned in schools (like 'Fuera de mí') closer to general literature (~45% used) or school textbooks (~70% used)?"
+ },
+ "16818": {
+  "p": 0.5,
+  "duda": "Are bicycle components like clipless pedals ('con calas') with no condition words more commonly used upgrades or new parts?"
+ },
+ "16819": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "16820": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16821": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16822": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16823": {
+  "p": 0.45,
+  "duda": "Are single pairs of work safety boots (like Grafa/Ombú) sold by 1-listing sellers typically listed as new (unworn company-issued gear) or used?"
+ },
+ "16824": {
+  "p": 0.35,
+  "duda": "Are fashion or footwear factory samples ('modelo de prueba' / 'muestrario') typically listed as new or used?"
+ },
+ "16825": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16826": {
+  "p": 0.48,
+  "duda": "For multi-listing book sellers (e.g. 30–60 listings) who post a single camera photo per book and stock=1, are their books predominantly used or new?"
+ },
+ "16827": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16828": {
+  "p": 0.5,
+  "duda": "Does clothing described as 'Divino' and 'Hecho a mano - Tejido - Diseño' by a 1-listing seller typically represent a used wardrobe item or a new handmade garment?"
+ },
+ "16829": {
+  "p": 0.62,
+  "duda": "Are cheap bulk computer parts like generic CPU heatsinks ('$40 c/u', stock 10) from a small seller typically used pulls from old PCs or new surplus?"
+ },
+ "16830": {
+  "p": 0.4,
+  "duda": "Are decorative figurines/cake toppers like 'Adorno Niña Vaquita De San Antonio' mostly new handmade crafts (e.g., porcelana fría) or used party/room decor?"
+ },
+ "16831": {
+  "p": 0.5,
+  "duda": "When a generic clothing title includes the seller's city (e.g. 'Campera Inflable - La Plata'), does it lean toward a used personal sale or a local showroom selling new clothes?"
+ },
+ "16832": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16833": {
+  "p": 0.42,
+  "duda": "Are high-priced dining sets with commercial phrasing like 'Calidad Premium' but sold by a 1-listing seller typically new from a workshop or used household furniture?"
+ },
+ "16834": {
+  "p": 0.55,
+  "duda": "For music CDs listed with only 'Artist - Album Title' and no condition or 'nuevo/sellado' keywords, do they follow the ~55% used base rate for music?"
+ },
+ "16835": {
+  "p": 0.58,
+  "duda": "Do generic baby shoe titles without brand or size ranges (e.g., 'Zapatillas Para Bebe') mostly come from parents selling used items?"
+ },
+ "16836": {
+  "p": 0.45,
+  "duda": "Do specialist diecast model sellers (who put their handle in the title, like 'Vikingo45' or 'Vainilla22') list rare/vintage boxed cars as new or used?"
+ },
+ "16837": {
+  "p": 0.55,
+  "duda": "Are specialized dancewear items with casual/misspelled titles and no size range (like 'Zapatitos Metatarzo') more often used personal items or new?"
+ },
+ "16838": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16839": {
+  "p": 0.55,
+  "duda": "For 1/43 scale diecast collectibles from established collector-sellers with 'Sin garantía', are they predominantly listed as used or new?"
+ },
+ "16840": {
+  "p": 0.55,
+  "duda": "Are single items from Argentine mall leather brands (like Maggio & Rossetto, Prüne, XL) sold by 1-listing sellers mostly used personal items or new gifts?"
+ },
+ "16841": {
+  "p": 0.48,
+  "duda": "Are books or media listed with only the bare work title (without author, publisher, or 'libro') more likely to be used or new?"
+ },
+ "16842": {
+  "p": 0.48,
+  "duda": "For generic women's clothing items with descriptive titles (like 'Remera Manga Larga - Con Tachas') and no brand or condition words, is the used rate around the 46% clothing average?"
+ },
+ "16843": {
+  "p": 0.58,
+  "duda": "Are oil paintings attributed to a specific painter ('Oleo de ...') typically listed as used art/antiques or new?"
+ },
+ "16844": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16845": {
+  "p": 0.48,
+  "duda": "Do regional Argentine history/folklore books sold by 1-listing sellers with camera photos lean used or follow the ~45% used rate for non-fiction?"
+ },
+ "16846": {
+  "p": 0.62,
+  "duda": "Are high-priced crystal home items like candelabras sold by 1-listing sellers typically vintage/used heirlooms or new decor?"
+ },
+ "16847": {
+  "p": 0.55,
+  "duda": "For imported/indie music CDs from the 2000s with camera photos and non-round prices (like 204 ARS), are they mostly used or new?"
+ },
+ "16848": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16849": {
+  "p": 0.45,
+  "duda": "Can listings with high sales volume (e.g. vendidos > 5) and condition words like 'Excelente' be used items (reused listing), or are multi-sale listings almost always marked as new?"
+ },
+ "16850": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16851": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16852": {
+  "p": 0.6,
+  "duda": "Does a terse title like 'Envases De Perfumes' (without quantity or ml capacity) from a 1-listing seller typically refer to empty used brand-name perfume bottles or new wholesale containers?"
+ },
+ "16853": {
+  "p": 0.4,
+  "duda": "Are high-end niche perfumes (like Amouage) listed at full retail price with a single stock photo mostly new bottles or used/partial bottles from collectors?"
+ },
+ "16854": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16855": {
+  "p": 0.45,
+  "duda": "Do academic essay books (like Bruno Latour) behave like general essays/non-fiction (~45% used) or university study material (~70% used)?"
+ },
+ "16856": {
+  "p": 0.35,
+  "duda": "Are newly issued military/police uniforms sold by 1-listing sellers typically listed as new or used?"
+ },
+ "16857": {
+  "p": 0.55,
+  "duda": "Are CO2 airguns (like Tanfoglio 1911) sold by 1-listing sellers with brief titles more often used personal items or new?"
+ },
+ "16858": {
+  "p": 0.38,
+  "duda": "Does a simple 'Sí' in the warranty field combined with 'Nueva' in the title of a DVD strengthen the probability of being new beyond the ~40% used rule?"
+ },
+ "16859": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16860": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16861": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16862": {
+  "p": 0.45,
+  "duda": "Are classic poetry books (like Oscar Wilde) sold with 1 camera photo by a large multi-listing book seller predominantly new or used?"
+ },
+ "16863": {
+  "p": 0.45,
+  "duda": "When a 1-listing seller offers a multi-pair lot of shoes all in the same size with 'Nuevos' in the title, is it usually listed as new or used?"
+ },
+ "16864": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16865": {
+  "p": 0.39,
+  "duda": "For flagship phones from the current year (like Galaxy S6 Edge in 2015) sold by a 1-listing seller with camera photos, does the ~39% used rate still hold?"
+ },
+ "16866": {
+  "p": 0.55,
+  "duda": "Do multi-listing booksellers who append a unique inventory number to each title (e.g., '- 1528' or '.685') predominantly sell used books or new remaindered books?"
+ },
+ "16867": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16868": {
+  "p": 0.45,
+  "duda": "Are high-priced literary/poetry editions (e.g., 400 ARS in 2015) typically expensive imported new books or scarce used editions?"
+ },
+ "16869": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16870": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16871": {
+  "p": 0.55,
+  "duda": "Are high-end PC gaming peripherals (like Razer mice) sold by 1-listing sellers without 'nuevo/en caja' more often used gamer gear or new?"
+ },
+ "16872": {
+  "p": 0.45,
+  "duda": "Are high-priced collector/limited-edition Nextel phones (like i897 Ferrari at 15,000 ARS, stock 2) from large sellers listed as new or used?"
+ },
+ "16873": {
+  "p": 0.42,
+  "duda": "Are construction machines like cement mixers ('Hormigonera Trompito 150 Lts Motor 1 Hp') at .999 prices with camera photos mostly new from workshops/hardware sellers or used after a build?"
+ },
+ "16874": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16875": {
+  "p": 0.62,
+  "duda": "When the warranty field contains condition words like 'se encuentra impecable' and 'se revisa al entregar', does Rule 4 (~65% used) apply just as strongly as when those words appear in the title?"
+ },
+ "16876": {
+  "p": 0.48,
+  "duda": "Are children's books from school publishers (like Editorial La Estación) sold by large multi-listing sellers mostly new or used?"
+ },
+ "16877": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16878": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16879": {
+  "p": 0.45,
+  "duda": "Are kids' brand-name garments described as '100% Original de EE UU' at commercial prices (like 749 ARS) mostly new imported clothes or used?"
+ },
+ "16880": {
+  "p": 0.52,
+  "duda": "Are Asian tableware items like 'Sopera China Con Plato Madera Laqueada' with 'garantia: Si' more likely vintage household items (used) or new bazaar goods?"
+ },
+ "16881": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16882": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16883": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16884": {
+  "p": 0.5,
+  "duda": "When a book seller's warranty says 'Libro nuevo en excelente estado' and lists multiple personal pickup points (e.g. near universities/train stations), are their listings marked as new or used?"
+ },
+ "16885": {
+  "p": 0.65,
+  "duda": "Are baby car seats with generic titles ('Butaca Para Auto', no brand or weight group) almost always used listings from parents?"
+ },
+ "16886": {
+  "p": 0.55,
+  "duda": "Are leveled/ranked video game accounts (like a Diamond League of Legends account) typically listed as used or new on MercadoLibre?"
+ },
+ "16887": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16888": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16889": {
+  "p": 0.65,
+  "duda": "Are motorcycle mechanical parts that omit the bike make/model from the title (like 'Cristo Inferior Con Vela Para Moto') usually used parts?"
+ },
+ "16890": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16891": {
+  "p": 0.65,
+  "duda": "Are 'Insignia Original' badges for classic Argentine cars (like Peugeot 504 or Ford Falcon) mostly used salvaged emblems or new replacement parts?"
+ },
+ "16892": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16893": {
+  "p": 0.35,
+  "duda": "Are higher-priced esoteric/astrology books (like Stephen Arroyo at 285 ARS) with non-camera cover photos from multi-listing sellers mostly new bookstore stock?"
+ },
+ "16894": {
+  "p": 0.45,
+  "duda": "Are specialized racing engine components with technical hardness specs (like 'Botadores Fijos Cabeza Hongo... 50 Rockwell') but 0 photos typically new parts or used racing parts?"
+ },
+ "16895": {
+  "p": 0.5,
+  "duda": "Are authentic luxury jewelry pieces (like an 8500 ARS Tiffany ring) with 'regalo' in the title from a 1-listing seller typically listed as used or new?"
+ },
+ "16896": {
+  "p": 0.52,
+  "duda": "Do women's clothing listings that describe a single specific color combination (e.g., 'Verde Con Lazo Negro') without a brand lean more used than the 46% clothing average?"
+ },
+ "16897": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16898": {
+  "p": 0.55,
+  "duda": "Are low-priced history/biography books from Editorial Circe with a seller catalog number (like '.685') mostly used copies or remaindered new stock?"
+ },
+ "16899": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16900": {
+  "p": 0.35,
+  "duda": "Are 'Liquidación' lots of party supplies or cake toppers ('Adornos Para Torta Variados') typically listed as new stock clearance or used?"
+ }
+}

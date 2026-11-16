@@ -1,0 +1,402 @@
+{
+ "14101": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "14102": {
+  "p": 0.47,
+  "duda": "How should clothing listings without condition details be distinguished from new retail stock?"
+ },
+ "14103": {
+  "p": 0.38,
+  "duda": "Do coordinated luggage sets advertised as special offers usually represent new stock or personal resale?"
+ },
+ "14104": {
+  "p": 0.62,
+  "duda": "At 2015 prices, do inexpensive branded portable air conditioners usually indicate older used units?"
+ },
+ "14105": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14106": {
+  "p": 0.45,
+  "duda": "How should literary books without edition or condition details be distinguished from new stock?"
+ },
+ "14107": {
+  "p": 0.4,
+  "duda": "Were named premium electric shavers at these 2015 prices usually new imports or personal resales?"
+ },
+ "14108": {
+  "p": 0.6,
+  "duda": "How are holiday accommodation rentals assigned new versus used condition labels?"
+ },
+ "14109": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "14110": {
+  "p": 0.55,
+  "duda": "Does an odd number of matching dining chairs suggest household resale rather than new stock?"
+ },
+ "14111": {
+  "p": 0.4,
+  "duda": "Does handmade sterling jewelry without condition details usually represent new artisan stock?"
+ },
+ "14112": {
+  "p": 0.62,
+  "duda": "Are out-of-print CDs usually used copies or unsold new stock when packaging condition is unstated?"
+ },
+ "14113": {
+  "p": 0.45,
+  "duda": "How should literary books without edition or condition details be distinguished from new stock?"
+ },
+ "14114": {
+  "p": 0.52,
+  "duda": "Do very low prices for generic orthopedic supports indicate prior use or inexpensive new stock?"
+ },
+ "14115": {
+  "p": 0.47,
+  "duda": "How should dining sets without age or condition details be distinguished from new retail stock?"
+ },
+ "14116": {
+  "p": 0.47,
+  "duda": "How should branded leather bags without condition details be distinguished from new stock?"
+ },
+ "14117": {
+  "p": 0.49,
+  "duda": "Are undated comic magazines usually back issues being resold or new retail copies?"
+ },
+ "14118": {
+  "p": 0.7,
+  "duda": "Were low-capacity DDR3 laptop memory modules in 2015 usually removed upgrade parts or unused replacements?"
+ },
+ "14119": {
+  "p": 0.7,
+  "duda": "Are model-specific television main boards usually recovered parts or newly manufactured replacements?"
+ },
+ "14120": {
+  "p": 0.71,
+  "duda": "Does offering stamps on envelopes imply postal use, or can these be unused collector covers?"
+ },
+ "14121": {
+  "p": 0.45,
+  "duda": "How should political nonfiction without edition or condition details be distinguished from new stock?"
+ },
+ "14122": {
+  "p": 0.47,
+  "duda": "How should footwear listings giving only gender and size be distinguished from new retail stock?"
+ },
+ "14123": {
+  "p": 0.14,
+  "duda": ""
+ },
+ "14124": {
+  "p": 0.4,
+  "duda": "Do traditional woven textiles described by material and motif usually represent new artisan production?"
+ },
+ "14125": {
+  "p": 0.6,
+  "duda": "Does a collectible porcelain manufacturer's name imply vintage resale without an explicit age?"
+ },
+ "14126": {
+  "p": 0.74,
+  "duda": "Are empty branded phone boxes usually previously owned packaging or new replacement boxes?"
+ },
+ "14127": {
+  "p": 0.4,
+  "duda": "Does a sticker album listing without completeness details usually mean a new empty album?"
+ },
+ "14128": {
+  "p": 0.69,
+  "duda": "Are comics from discontinued publishers usually used copies or unsold new backstock?"
+ },
+ "14129": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "14130": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "14131": {
+  "p": 0.61,
+  "duda": "Should specialist academic monographs be treated as study material or general nonfiction?"
+ },
+ "14132": {
+  "p": 0.55,
+  "duda": "Does explicitly including installed bulbs in a light fixture suggest household resale?"
+ },
+ "14133": {
+  "p": 0.47,
+  "duda": "How should branded wallets without condition details be distinguished from new retail stock?"
+ },
+ "14134": {
+  "p": 0.56,
+  "duda": "Are insulated vehicle bodies listed without condition details usually used equipment or new fabrication?"
+ },
+ "14135": {
+  "p": 0.48,
+  "duda": "Are catalogs and stickers for antique toys usually original vintage material or newly made reproductions?"
+ },
+ "14136": {
+  "p": 0.63,
+  "duda": "Do inexpensive model-specific vehicle accessories usually indicate removed used parts or new aftermarket stock?"
+ },
+ "14137": {
+  "p": 0.47,
+  "duda": "How should clothing listings without condition details be distinguished from new retail stock?"
+ },
+ "14138": {
+  "p": 0.43,
+  "duda": "Do handbag titles specifying shape and color suggest new retail stock without condition details?"
+ },
+ "14139": {
+  "p": 0.62,
+  "duda": "How strongly do low 2015 prices for branded footwear indicate prior use rather than clearance stock?"
+ },
+ "14140": {
+  "p": 0.36,
+  "duda": "Are decorative mosaic keychains usually newly crafted goods or previously owned collectibles?"
+ },
+ "14141": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "14142": {
+  "p": 0.47,
+  "duda": "How should decorative household objects without age or condition details be distinguished from new stock?"
+ },
+ "14143": {
+  "p": 0.32,
+  "duda": "Are unissued vintage stamps conventionally labeled new if unused, despite previous collector ownership?"
+ },
+ "14144": {
+  "p": 0.47,
+  "duda": "How should electronics with placeholder prices and no condition details be distinguished from new stock?"
+ },
+ "14145": {
+  "p": 0.55,
+  "duda": "Do precise wardrobe dimensions and separate upper sections suggest resale rather than new custom furniture?"
+ },
+ "14146": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "14147": {
+  "p": 0.62,
+  "duda": "Do inexpensive older manga volumes usually represent used copies or new backstock?"
+ },
+ "14148": {
+  "p": 0.49,
+  "duda": "Are undated football pennants usually new souvenirs or previously owned collectibles?"
+ },
+ "14149": {
+  "p": 0.45,
+  "duda": "How should general nonfiction without edition or condition details be distinguished from new stock?"
+ },
+ "14150": {
+  "p": 0.64,
+  "duda": "Are mechanical spare parts for older printers usually recovered components or new repair inventory?"
+ },
+ "14151": {
+  "p": 0.65,
+  "duda": "Should technical agriculture and regional ecology books be treated as study material or general nonfiction?"
+ },
+ "14152": {
+  "p": 0.6,
+  "duda": "Are older practical leisure books usually secondhand when their edition and condition are unstated?"
+ },
+ "14153": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14154": {
+  "p": 0.45,
+  "duda": "How should books identified only by title be distinguished from new stock?"
+ },
+ "14155": {
+  "p": 0.43,
+  "duda": "Are inexpensive historical biographies with return guarantees usually new reprints or used copies?"
+ },
+ "14156": {
+  "p": 0.72,
+  "duda": "Are individually dated 1990s comics usually used copies or unsold new backstock?"
+ },
+ "14157": {
+  "p": 0.55,
+  "duda": "How should older branded pod coffee machines without condition details be distinguished from new stock?"
+ },
+ "14158": {
+  "p": 0.62,
+  "duda": "Are inexpensive mixed stamp lots generally postally used unless mint condition is specified?"
+ },
+ "14159": {
+  "p": 0.62,
+  "duda": "Do very inexpensive individual baby garments usually represent used clothing or low-cost new stock?"
+ },
+ "14160": {
+  "p": 0.47,
+  "duda": "How should occasion dresses without condition details be distinguished from new retail stock?"
+ },
+ "14161": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "14162": {
+  "p": 0.76,
+  "duda": "Are unspecified parts for classic cars usually recovered used components or new replacement stock?"
+ },
+ "14163": {
+  "p": 0.51,
+  "duda": "Do complete specialist sports equipment packages usually represent personal resale or new retail bundles?"
+ },
+ "14164": {
+  "p": 0.45,
+  "duda": "How should essays without edition or condition details be distinguished from new stock?"
+ },
+ "14165": {
+  "p": 0.47,
+  "duda": "How should named snowboard bindings without a model year or condition details be distinguished from new stock?"
+ },
+ "14166": {
+  "p": 0.5,
+  "duda": "Does cameo styling on decorative objects imply vintage resale without an explicit age?"
+ },
+ "14167": {
+  "p": 0.62,
+  "duda": "Do older literary criticism titles from established publishers usually indicate used editions or new backstock?"
+ },
+ "14168": {
+  "p": 0.44,
+  "duda": "Do matching embroidered bedding sets without condition details usually represent new retail stock?"
+ },
+ "14169": {
+  "p": 0.38,
+  "duda": "Does describing a generic electronic adapter as original indicate new retail stock or an owned spare?"
+ },
+ "14170": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "14171": {
+  "p": 0.65,
+  "duda": "How consistently do listings explicitly stating little prior use receive the used label?"
+ },
+ "14172": {
+  "p": 0.46,
+  "duda": "Are unbranded children's play kitchen furnishings usually newly made or previously owned toys?"
+ },
+ "14173": {
+  "p": 0.65,
+  "duda": "Does a warranty emphasizing book condition and complete pages generally indicate a used copy?"
+ },
+ "14174": {
+  "p": 0.49,
+  "duda": "How should generic footwear with a size and modest price be distinguished from new stock?"
+ },
+ "14175": {
+  "p": 0.65,
+  "duda": "Are industrial gear reducers described only by brand and ratio usually used surplus or new stock?"
+ },
+ "14176": {
+  "p": 0.48,
+  "duda": "How should niche music releases without packaging or condition details be distinguished from new stock?"
+ },
+ "14177": {
+  "p": 0.36,
+  "duda": "Are 2000s double vinyl albums at import prices usually new pressings or used originals?"
+ },
+ "14178": {
+  "p": 0.39,
+  "duda": "Do branded sports sunglasses listed with a case and import details usually represent new stock?"
+ },
+ "14179": {
+  "p": 0.47,
+  "duda": "How should industrial fans without model or condition details be distinguished from new equipment?"
+ },
+ "14180": {
+  "p": 0.5,
+  "duda": "Are specialty riding saddles without condition details usually newly made or previously owned?"
+ },
+ "14181": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "14182": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14183": {
+  "p": 0.79,
+  "duda": "Are vintage celebrity matchboxes labeled used as collectible packaging even if never struck?"
+ },
+ "14184": {
+  "p": 0.58,
+  "duda": "Do low-priced children's character shoes usually represent used pairs or inexpensive new stock?"
+ },
+ "14185": {
+  "p": 0.55,
+  "duda": "Does provincial styling in small bedroom furniture imply older resale pieces or current manufacture?"
+ },
+ "14186": {
+  "p": 0.47,
+  "duda": "How should basic athletic clothing without brand or condition details be distinguished from new stock?"
+ },
+ "14187": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "14188": {
+  "p": 0.56,
+  "duda": "How are dated postal collectibles classified when cancellation and mint condition are unstated?"
+ },
+ "14189": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "14190": {
+  "p": 0.38,
+  "duda": "Does a return policy specifically covering printing and binding faults suggest new book stock?"
+ },
+ "14191": {
+  "p": 0.44,
+  "duda": "Are contemporary independent vinyl editions usually new distribution stock when condition is unstated?"
+ },
+ "14192": {
+  "p": 0.64,
+  "duda": "Do discounted premium-brand child booster seats usually indicate prior use rather than clearance stock?"
+ },
+ "14193": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14194": {
+  "p": 0.5,
+  "duda": "Does provincial furniture styling imply older resale pieces without an explicit age?"
+ },
+ "14195": {
+  "p": 0.45,
+  "duda": "Should editions of classical philosophical works be treated as general literature or study material?"
+ },
+ "14196": {
+  "p": 0.37,
+  "duda": "Are unused promotional stickers labeled new despite having been collected by a previous owner?"
+ },
+ "14197": {
+  "p": 0.28,
+  "duda": "Are music releases contemporaneous with the listing year usually new inventory when condition is unstated?"
+ },
+ "14198": {
+  "p": 0.56,
+  "duda": "Do branded children's occasion outfits in a single stated size usually represent resale or new retail stock?"
+ },
+ "14199": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "14200": {
+  "p": 0.37,
+  "duda": "Are fashion phone cases for older phone models usually new accessory stock or previously owned cases?"
+ }
+}

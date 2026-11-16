@@ -1,0 +1,402 @@
+{
+ "12301": {
+  "p": 0.4,
+  "duda": "For a named recent phone with a minimal title, priced close to the full retail price, and listed by a one-off seller, is it usually new or a used personal phone?"
+ },
+ "12302": {
+  "p": 0.67,
+  "duda": ""
+ },
+ "12303": {
+  "p": 0.55,
+  "duda": "Does the 'recent phone model leans new' rule still apply to models that were 2 or more years old in 2015 (e.g. Galaxy Grand, Galaxy S3), or do those lean used?"
+ },
+ "12304": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12305": {
+  "p": 0.57,
+  "duda": "Are branded children's shoes sold by one-off sellers at well below retail price usually outgrown used pairs, or new?"
+ },
+ "12306": {
+  "p": 0.48,
+  "duda": "Is networking or electrical installation hardware (patch panels, sensors, switches) sold by one-off sellers usually leftover new surplus or used removed equipment?"
+ },
+ "12307": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12308": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12309": {
+  "p": 0.38,
+  "duda": "Does a '.99' price with a specific shoe size and a generic seller warranty indicate a shop selling new stock, or a reseller of worn shoes?"
+ },
+ "12310": {
+  "p": 0.62,
+  "duda": "Are vintage toys from a named year and brand (e.g. 1990 Devoto Toys) usually listed as used, or as new old stock?"
+ },
+ "12311": {
+  "p": 0.58,
+  "duda": "Is a single piece of equestrian gear (saddles, bridles) sold by a one-off seller usually used?"
+ },
+ "12312": {
+  "p": 0.38,
+  "duda": "In this dataset, are postage stamps (philately) usually marked new (mint) or used?"
+ },
+ "12313": {
+  "p": 0.55,
+  "duda": "Are collectible memorabilia items (original photos, autographs, posters) usually labelled new or used?"
+ },
+ "12314": {
+  "p": 0.58,
+  "duda": "Are cheap CDs from large sellers that use inventory codes in the title (e.g. '#cd178') usually used CDs or new stock?"
+ },
+ "12315": {
+  "p": 0.5,
+  "duda": "For generic women's shoes with no brand and one photo, sold by a one-off seller, which way do they lean?"
+ },
+ "12316": {
+  "p": 0.62,
+  "duda": "Is very cheap children's clothing (e.g. under 50 ARS) with a specific size usually used?"
+ },
+ "12317": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12318": {
+  "p": 0.6,
+  "duda": "Is a common low-cost network device (routers, modems) priced below retail, with no photos and a one-off seller, usually used?"
+ },
+ "12319": {
+  "p": 0.62,
+  "duda": "Are restored or decorative lighting items (lamp shades, 'tulipas', vintage lamps) usually used?"
+ },
+ "12320": {
+  "p": 0.45,
+  "duda": "Are single Tupperware items usually sold new by brand resellers, or used by individuals?"
+ },
+ "12321": {
+  "p": 0.6,
+  "duda": "Are lots of industrial components (sensors, relays, PLC parts) usually used surplus or new surplus?"
+ },
+ "12322": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12323": {
+  "p": 0.5,
+  "duda": "Is brand clothing from foreign chains not sold in Argentina (Forever 21, H&M) usually imported new with tags, or used?"
+ },
+ "12324": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12325": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12326": {
+  "p": 0.55,
+  "duda": "For vague phone/tablet listings with no brand or model from a one-off seller, which way do they lean?"
+ },
+ "12327": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "12328": {
+  "p": 0.63,
+  "duda": ""
+ },
+ "12329": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12330": {
+  "p": 0.52,
+  "duda": "When a book listing names the publisher and edition year (e.g. 'FCE - 2011'), does that indicate a used copy, or is it just catalog style from a bookshop?"
+ },
+ "12331": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12332": {
+  "p": 0.5,
+  "duda": "Are games for discontinued consoles (PSP, PS2, Wii) sold in 2015 with stock above 1 usually new old stock or used?"
+ },
+ "12333": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12334": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12335": {
+  "p": 0.38,
+  "duda": "Are trading cards and stickers ('figuritas') usually labelled new?"
+ },
+ "12336": {
+  "p": 0.6,
+  "duda": "Does listing the included accessories (remote, cables, bag) in the title of an electronics item indicate a used resale?"
+ },
+ "12337": {
+  "p": 0.38,
+  "duda": "Are collectible action figures (Marvel Legends, Marvel Universe, Hot Toys) usually sold new in package or used/loose?"
+ },
+ "12338": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12339": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12340": {
+  "p": 0.42,
+  "duda": "For brand women's shoes (Paruolo, Ricky Sarkany) priced near retail by a small seller, is the item usually new?"
+ },
+ "12341": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12342": {
+  "p": 0.55,
+  "duda": "Are cheap CDs by small local/indie bands usually sold new by the band or a distributor, or used?"
+ },
+ "12343": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12344": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12345": {
+  "p": 0.55,
+  "duda": "Are generic computer memory items (RAM, USB sticks) with a vague title and low price usually used?"
+ },
+ "12346": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12347": {
+  "p": 0.6,
+  "duda": "Are obsolete media formats (laserdisc, VHS, cassettes) with high stock usually new old stock or used?"
+ },
+ "12348": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "12349": {
+  "p": 0.48,
+  "duda": "Are collectible action figures (Marvel Universe, Hot Toys) usually sold new in package or used/loose?"
+ },
+ "12350": {
+  "p": 0.67,
+  "duda": ""
+ },
+ "12351": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12352": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "12353": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12354": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12355": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12356": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12357": {
+  "p": 0.55,
+  "duda": ""
+ },
+ "12358": {
+  "p": 0.45,
+  "duda": "Are phone replacement parts (screens, LCD touch assemblies) usually new parts or salvaged from used phones?"
+ },
+ "12359": {
+  "p": 0.45,
+  "duda": "When a phone is listed bundled with a carrier-promotion accessory (e.g. phone + TalkBand), is it usually a new unopened promo kit or a used phone?"
+ },
+ "12360": {
+  "p": 0.55,
+  "duda": "Are single original DVDs/Blu-rays from small sellers usually from a personal collection (used) or new?"
+ },
+ "12361": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12362": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12363": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "12364": {
+  "p": 0.5,
+  "duda": "Are construction items like doors and windows ('aberturas') from one-off sellers usually new from a workshop or used from demolition?"
+ },
+ "12365": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12366": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12367": {
+  "p": 0.6,
+  "duda": "Are vintage collectibles (matchboxes, tins, advertising items) usually labelled used, or new by collector sellers?"
+ },
+ "12368": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "12369": {
+  "p": 0.6,
+  "duda": "Are single car parts (ignition switches, keys, wheels) from one-off sellers usually used take-offs?"
+ },
+ "12370": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12371": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12372": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12373": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12374": {
+  "p": 0.58,
+  "duda": ""
+ },
+ "12375": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12376": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12377": {
+  "p": 0.6,
+  "duda": "Are collectible toys from 1990s candy eggs / promotions (e.g. 'Huevo Jack') usually listed as used?"
+ },
+ "12378": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12379": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12380": {
+  "p": 0.55,
+  "duda": "Is fast-fashion brand clothing (Zara, Forever 21) from one-off sellers usually used?"
+ },
+ "12381": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12382": {
+  "p": 0.45,
+  "duda": "Are lots of cosmetics or makeup sold by individuals usually new or partly used?"
+ },
+ "12383": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12384": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12385": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12386": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12387": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12388": {
+  "p": 0.45,
+  "duda": "When a musical instrument is listed as 'nuevo' together with included accessories (case, cable) by a one-off seller, is it usually a lightly used resale?"
+ },
+ "12389": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12390": {
+  "p": 0.55,
+  "duda": ""
+ },
+ "12391": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12392": {
+  "p": 0.55,
+  "duda": "Are signs and posters ('carteles') usually vintage used items or new reproductions?"
+ },
+ "12393": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12394": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "12395": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12396": {
+  "p": 0.55,
+  "duda": ""
+ },
+ "12397": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12398": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12399": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12400": {
+  "p": 0.38,
+  "duda": "Are 1:43 diecast scale models (Schuco, Minichamps) usually sold new in box or used?"
+ }
+}

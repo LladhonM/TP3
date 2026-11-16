@@ -1,0 +1,402 @@
+{
+ "1901": {
+  "p": 0.45,
+  "duda": "Are decorative household objects (painted zinc buckets, rustic decor) usually new handmade crafts or resold old objects?"
+ },
+ "1902": {
+  "p": 0.55,
+  "duda": "For stamps, is 'nuevo' used for mint/unused stamps and 'usado' for cancelled ones, regardless of age or seller type?"
+ },
+ "1903": {
+  "p": 0.45,
+  "duda": "For large home appliances (freezers, water heaters) from one-off sellers with no condition words, are they usually used?"
+ },
+ "1904": {
+  "p": 0.6,
+  "duda": "How are real-estate listings labeled: is an existing (not 'a estrenar') apartment marked used?"
+ },
+ "1905": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1906": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1907": {
+  "p": 0.62,
+  "duda": "Is a price well below retail for clothing or bags (e.g. a coat or leather bag at 120-400 ARS) a reliable sign the item is used?"
+ },
+ "1908": {
+  "p": 0.4,
+  "duda": "Are newsstand collection pieces (scale tanks, cars from magazine series) usually sold as new?"
+ },
+ "1909": {
+  "p": 0.6,
+  "duda": "Is a complete manga/book series sold as a set by a one-listing seller usually a used personal collection?"
+ },
+ "1910": {
+  "p": 0.55,
+  "duda": "For large home appliances (freezers, water heaters) from one-off sellers with no condition words, are they usually used?"
+ },
+ "1911": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1912": {
+  "p": 0.6,
+  "duda": "How are real-estate listings labeled: is an existing (not 'a estrenar') apartment marked used?"
+ },
+ "1913": {
+  "p": 0.4,
+  "duda": "Are laptop replacement parts (keyboards, screens) without condition words usually new aftermarket parts or used pulls?"
+ },
+ "1914": {
+  "p": 0.62,
+  "duda": "Is a price well below retail for clothing or bags (e.g. a coat or leather bag at 120-400 ARS) a reliable sign the item is used?"
+ },
+ "1915": {
+  "p": 0.38,
+  "duda": "Are 1/43 scale model cars listed by small collector-sellers usually new in box?"
+ },
+ "1916": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1917": {
+  "p": 0.65,
+  "duda": "Are antique/vintage objects (old glass bottles, retro decor) from vintage-shop sellers labeled used?"
+ },
+ "1918": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1919": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1920": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1921": {
+  "p": 0.45,
+  "duda": "Are copies of classic Argentine literature (Martin Fierro, etc.) from small book sellers mostly used copies?"
+ },
+ "1922": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1923": {
+  "p": 0.4,
+  "duda": "How are event tickets labeled on the site: new or used?"
+ },
+ "1924": {
+  "p": 0.42,
+  "duda": "When a one-listing seller writes 'Nueva!!' on a kids' bike or toy, is it usually an unused gift labeled new, or a resale labeled used?"
+ },
+ "1925": {
+  "p": 0.3,
+  "duda": "Are original artworks (oil paintings) sold by the artist labeled new?"
+ },
+ "1926": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1927": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1928": {
+  "p": 0.35,
+  "duda": "Are sneakers described as 'traídas de USA' by one-listing sellers usually new?"
+ },
+ "1929": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1930": {
+  "p": 0.5,
+  "duda": "Are single collectible die-cast cars (Hot Wheels) usually sold new in blister or loose and used?"
+ },
+ "1931": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1932": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1933": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1934": {
+  "p": 0.72,
+  "duda": "For stamps, is 'nuevo' used for mint/unused stamps and 'usado' for cancelled ones, regardless of age or seller type?"
+ },
+ "1935": {
+  "p": 0.62,
+  "duda": "Are old collectible trading cards (Cromy football cards, etc.) labeled used?"
+ },
+ "1936": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1937": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1938": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1939": {
+  "p": 0.6,
+  "duda": "Is a price well below retail for clothing or bags (e.g. a coat or leather bag at 120-400 ARS) a reliable sign the item is used?"
+ },
+ "1940": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1941": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1942": {
+  "p": 0.55,
+  "duda": "For vague titles with only a praising adjective ('Hermosa bolsa'), is the item usually a used personal resale?"
+ },
+ "1943": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1944": {
+  "p": 0.45,
+  "duda": "Are cast-metal decor or nautical hardware pieces (porthole covers) usually new manufactured goods?"
+ },
+ "1945": {
+  "p": 0.5,
+  "duda": "Are designer-brand bags (Roberto Cavalli, etc.) at low prices usually used authentic items or new replicas?"
+ },
+ "1946": {
+  "p": 0.7,
+  "duda": "Are circulated coins labeled used and uncirculated coins new?"
+ },
+ "1947": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1948": {
+  "p": 0.62,
+  "duda": "Is baby gear (swings, rockers, cribs) from one-off sellers usually used?"
+ },
+ "1949": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1950": {
+  "p": 0.5,
+  "duda": "Are cheap generic or mid-brand clothing items (~150-300 ARS) from small sellers usually new wholesale stock or used?"
+ },
+ "1951": {
+  "p": 0.7,
+  "duda": "Are old records/cassettes of children's TV music from multi-listing record sellers labeled used?"
+ },
+ "1952": {
+  "p": 0.35,
+  "duda": "Are current-model branded sneakers at near-retail price from one-off sellers usually new?"
+ },
+ "1953": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1954": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1955": {
+  "p": 0.42,
+  "duda": "Is simple furniture (folding tables, TV stands) with no condition words usually new from a carpenter?"
+ },
+ "1956": {
+  "p": 0.5,
+  "duda": "Are cheap generic or mid-brand clothing items (~150-300 ARS) from small sellers usually new wholesale stock or used?"
+ },
+ "1957": {
+  "p": 0.6,
+  "duda": "Are parts for old cars (Falcon, Polo, Rastrojero) usually new old stock/aftermarket or used pulls?"
+ },
+ "1958": {
+  "p": 0.55,
+  "duda": "Is branded fashion jewelry (Guess) from one-off sellers with enthusiastic titles usually used?"
+ },
+ "1959": {
+  "p": 0.62,
+  "duda": "Are quinceañera/party dresses usually resold used after the event?"
+ },
+ "1960": {
+  "p": 0.55,
+  "duda": "Are single collectible figures (Smurfs PVC, etc.) usually vintage used items?"
+ },
+ "1961": {
+  "p": 0.55,
+  "duda": "Are construction or home parts (wooden roller-shutter covers) from one-off sellers usually salvaged used items?"
+ },
+ "1962": {
+  "p": 0.3,
+  "duda": "How are live animals (puppies) labeled on the site: new or used?"
+ },
+ "1963": {
+  "p": 0.35,
+  "duda": "Is simple furniture (folding tables, TV stands) with no condition words usually new from a carpenter?"
+ },
+ "1964": {
+  "p": 0.65,
+  "duda": "Are games for discontinued platforms (PSP, PS2) usually sold used?"
+ },
+ "1965": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1966": {
+  "p": 0.6,
+  "duda": "Is specialized sports gear (skydiving helmets) from one-off sellers usually used?"
+ },
+ "1967": {
+  "p": 0.48,
+  "duda": "Does a price well below new retail for a literature or non-fiction book indicate a used copy?"
+ },
+ "1968": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1969": {
+  "p": 0.5,
+  "duda": "Are workshop tools or equipment listed without condition words usually used?"
+ },
+ "1970": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1971": {
+  "p": 0.5,
+  "duda": "Are parts for old cars (Falcon, Polo, Rastrojero) usually new old stock/aftermarket or used pulls?"
+ },
+ "1972": {
+  "p": 0.6,
+  "duda": "Are CDs of recent albums sold far below retail by small sellers usually used?"
+ },
+ "1973": {
+  "p": 0.45,
+  "duda": "Does an odd, non-round price (e.g. 8483 ARS) on music gear indicate a shop converting USD prices for new stock?"
+ },
+ "1974": {
+  "p": 0.45,
+  "duda": "Does 'permuto' (open to swap) in a title indicate a used personal item even when the price looks shop-like (149.99)?"
+ },
+ "1975": {
+  "p": 0.55,
+  "duda": "Are DJ 12-inch vinyl records usually sold used?"
+ },
+ "1976": {
+  "p": 0.65,
+  "duda": "Does a price well below new retail for a literature or non-fiction book indicate a used copy?"
+ },
+ "1977": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1978": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1979": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1980": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1981": {
+  "p": 0.45,
+  "duda": "Are handcrafted or ethnic decor items (rustic plates) usually new artisan products?"
+ },
+ "1982": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1983": {
+  "p": 0.4,
+  "duda": "For stamps, is 'nuevo' used for mint/unused stamps and 'usado' for cancelled ones, regardless of age or seller type?"
+ },
+ "1984": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1985": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1986": {
+  "p": 0.5,
+  "duda": "Are cultural products priced extremely low (~20 ARS) by multi-listing sellers usually new clearance stock or used?"
+ },
+ "1987": {
+  "p": 0.48,
+  "duda": "Does a price well below new retail for a literature or non-fiction book indicate a used copy?"
+ },
+ "1988": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1989": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1990": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1991": {
+  "p": 0.65,
+  "duda": "Are party dresses advertised as 'oportunidad imperdible' by one-off sellers usually used?"
+ },
+ "1992": {
+  "p": 0.4,
+  "duda": "Are parts for old cars (Falcon, Polo, Rastrojero) usually new old stock/aftermarket or used pulls?"
+ },
+ "1993": {
+  "p": 0.45,
+  "duda": "Are perfumes priced far below retail usually partially used bottles or new replicas, and how are they labeled?"
+ },
+ "1994": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1995": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1996": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1997": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1998": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1999": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2000": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

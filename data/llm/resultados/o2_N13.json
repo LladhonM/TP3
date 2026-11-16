@@ -1,0 +1,402 @@
+{
+ "3501": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "3502": {
+  "p": 0.6,
+  "duda": "Are classic psychology/pedagogy reference books (e.g. Paidós, Gesell) from one-off sellers mostly used, like textbooks?"
+ },
+ "3503": {
+  "p": 0.58,
+  "duda": "Are emptied consumer containers (empty jars, bottles) resold for crafts or reuse labeled used or new?"
+ },
+ "3504": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3505": {
+  "p": 0.42,
+  "duda": "When a small-appliance listing names an exact model of a budget brand with no condition words, is it usually new shop stock?"
+ },
+ "3506": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3507": {
+  "p": 0.62,
+  "duda": "Is a price clearly below 2015 Argentine retail for a named electronics model a reliable used signal?"
+ },
+ "3508": {
+  "p": 0.45,
+  "duda": "Are small furniture pieces with generic, marketing-style titles mostly new (handmade/shop) or used?"
+ },
+ "3509": {
+  "p": 0.55,
+  "duda": "Are vintage collectibles in unused condition (old stickers, sealed bottles, mint stamps, uncirculated banknotes) labeled new or used?"
+ },
+ "3510": {
+  "p": 0.55,
+  "duda": "Are vintage collectibles in unused condition (old stickers, sealed bottles, mint stamps, uncirculated banknotes) labeled new or used?"
+ },
+ "3511": {
+  "p": 0.55,
+  "duda": "When a discontinued electronics model (e.g. PSP 2001 in 2015) is titled 'nueva', is it usually new old stock or a used item in good condition?"
+ },
+ "3512": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3513": {
+  "p": 0.6,
+  "duda": "Is a single brand-name garment with pickup-only wording ('retira en ...', 'único') usually a used resale?"
+ },
+ "3514": {
+  "p": 0.45,
+  "duda": "Are garments or accessories brought from abroad ('traído de USA/Miami', brands not sold in Argentina) usually new imports or used items?"
+ },
+ "3515": {
+  "p": 0.42,
+  "duda": "Are recordings of military or folk bands (e.g. Banda de Granaderos) sold in several units typically new CDs?"
+ },
+ "3516": {
+  "p": 0.55,
+  "duda": "Are individual electrical/industrial components (relays, contactors) priced well below retail mostly used, or new surplus stock?"
+ },
+ "3517": {
+  "p": 0.4,
+  "duda": "Are garments or accessories brought from abroad ('traído de USA/Miami', brands not sold in Argentina) usually new imports or used items?"
+ },
+ "3518": {
+  "p": 0.35,
+  "duda": "Are hand-knitted or handmade garments/accessories ('tejido a mano', portatermos) usually new handmade items?"
+ },
+ "3519": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3520": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3521": {
+  "p": 0.38,
+  "duda": "Are boxed toy playsets priced near retail from one-off sellers usually new?"
+ },
+ "3522": {
+  "p": 0.55,
+  "duda": "Are original artworks and art prints (serigrafías, drawings, watercolors) labeled new or used?"
+ },
+ "3523": {
+  "p": 0.6,
+  "duda": "Are jazz or classic-label records (Blue Note etc.) from small sellers mostly used copies?"
+ },
+ "3524": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3525": {
+  "p": 0.65,
+  "duda": "Is a designer-brand garment priced far below its retail price a reliable used signal?"
+ },
+ "3526": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3527": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3528": {
+  "p": 0.55,
+  "duda": "Are comics and graphic novels from one-off sellers mostly used?"
+ },
+ "3529": {
+  "p": 0.45,
+  "duda": "Is specialized medical or professional equipment from one-off sellers usually used?"
+ },
+ "3530": {
+  "p": 0.42,
+  "duda": "Are garments or accessories brought from abroad ('traído de USA/Miami', brands not sold in Argentina) usually new imports or used items?"
+ },
+ "3531": {
+  "p": 0.5,
+  "duda": "Are cheap generic household items with 'Sin garantía' from one-off sellers mostly used?"
+ },
+ "3532": {
+  "p": 0.55,
+  "duda": "Does 'reparación' in a car-part title mean a new repair kit or a used part (or one needing repair)?"
+ },
+ "3533": {
+  "p": 0.65,
+  "duda": "Is a price clearly below 2015 Argentine retail for a named electronics model a reliable used signal?"
+ },
+ "3534": {
+  "p": 0.6,
+  "duda": "Are imported classical-music CDs priced around 100 ARS mostly used?"
+ },
+ "3535": {
+  "p": 0.6,
+  "duda": "Are foreign-language (English) non-fiction books from one-off sellers mostly used?"
+ },
+ "3536": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "3537": {
+  "p": 0.55,
+  "duda": "Does 'garantía del comercio vigente' mean a shop selling new stock, or a person reselling a recently bought item with its store warranty?"
+ },
+ "3538": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3539": {
+  "p": 0.6,
+  "duda": "Do sellers of 'origen USA' clothing with many listings mostly sell used imported garments (ropa americana)?"
+ },
+ "3540": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "3541": {
+  "p": 0.4,
+  "duda": "Are small furniture pieces with generic, marketing-style titles mostly new (handmade/shop) or used?"
+ },
+ "3542": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "3543": {
+  "p": 0.55,
+  "duda": "Are spare parts and batteries for government-program netbooks (Conectar Igualdad) usually used parts?"
+ },
+ "3544": {
+  "p": 0.4,
+  "duda": "Is swimwear mostly sold new, even by one-off sellers?"
+ },
+ "3545": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3546": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3547": {
+  "p": 0.55,
+  "duda": "Are fast-food promotional toys (Burger King, McDonald's) labeled new (sealed) or used?"
+ },
+ "3548": {
+  "p": 0.4,
+  "duda": "Is a recent bestselling novel priced near retail usually new?"
+ },
+ "3549": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3550": {
+  "p": 0.6,
+  "duda": "How are real-estate listings (houses, PHs, garages) labeled in this dataset: new or used?"
+ },
+ "3551": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3552": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3553": {
+  "p": 0.6,
+  "duda": "Are unbranded children's shoes and clothes from one-off sellers mostly used?"
+ },
+ "3554": {
+  "p": 0.58,
+  "duda": "Is a book priced well below its new retail price a reliable used signal?"
+ },
+ "3555": {
+  "p": 0.35,
+  "duda": "Is jewelry listed with sales-pitch wording ('importante y divina') mostly new?"
+ },
+ "3556": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3557": {
+  "p": 0.55,
+  "duda": "Are postage stamps labeled new (mint) or used (cancelled) following the philatelic meaning, or by the seller's own criterion?"
+ },
+ "3558": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3559": {
+  "p": 0.55,
+  "duda": "Are CDs of popular/tropical artists from small sellers mostly used?"
+ },
+ "3560": {
+  "p": 0.6,
+  "duda": "Does pro audio gear with a retail-style price ending (...999) from a one-listing seller still lean used?"
+ },
+ "3561": {
+  "p": 0.45,
+  "duda": "Are postage stamps labeled new (mint) or used (cancelled) following the philatelic meaning, or by the seller's own criterion?"
+ },
+ "3562": {
+  "p": 0.45,
+  "duda": "Does 'Liquido' in a title indicate a private seller clearing used goods or a shop clearing new stock?"
+ },
+ "3563": {
+  "p": 0.65,
+  "duda": "Are previous-generation console games several years old mostly used?"
+ },
+ "3564": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3565": {
+  "p": 0.45,
+  "duda": "How are natural items like mineral and crystal specimens labeled: new or used?"
+ },
+ "3566": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "3567": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3568": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "3569": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3570": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3571": {
+  "p": 0.45,
+  "duda": "Are cheap editions of classic texts from many-listing book sellers mostly new?"
+ },
+ "3572": {
+  "p": 0.42,
+  "duda": "Does a recent phone model priced near retail from a one-listing free-tier seller still lean new?"
+ },
+ "3573": {
+  "p": 0.35,
+  "duda": "Are hand-knitted or handmade garments/accessories ('tejido a mano', portatermos) usually new handmade items?"
+ },
+ "3574": {
+  "p": 0.65,
+  "duda": "Are psychology/psychoanalysis university reading books (Amorrortu etc.) mostly used, like textbooks?"
+ },
+ "3575": {
+  "p": 0.65,
+  "duda": "Are old magazines, comics and collectible publications mostly labeled used?"
+ },
+ "3576": {
+  "p": 0.55,
+  "duda": "Are vintage collectibles in unused condition (old stickers, sealed bottles, mint stamps, uncirculated banknotes) labeled new or used?"
+ },
+ "3577": {
+  "p": 0.35,
+  "duda": "Are garments or accessories brought from abroad ('traído de USA/Miami', brands not sold in Argentina) usually new imports or used items?"
+ },
+ "3578": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3579": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3580": {
+  "p": 0.4,
+  "duda": "Are original artworks and art prints (serigrafías, drawings, watercolors) labeled new or used?"
+ },
+ "3581": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3582": {
+  "p": 0.5,
+  "duda": "Are academic essays/philosophy books from many-listing book sellers mostly new?"
+ },
+ "3583": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3584": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3585": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3586": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3587": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "3588": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "3589": {
+  "p": 0.65,
+  "duda": "Are DVDs of older films from small sellers mostly used?"
+ },
+ "3590": {
+  "p": 0.42,
+  "duda": "Are vintage collectibles in unused condition (old stickers, sealed bottles, mint stamps, uncirculated banknotes) labeled new or used?"
+ },
+ "3591": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3592": {
+  "p": 0.35,
+  "duda": "Are niche political/history books from a large book seller mostly new?"
+ },
+ "3593": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3594": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3595": {
+  "p": 0.6,
+  "duda": "Are postage stamps labeled new (mint) or used (cancelled) following the philatelic meaning, or by the seller's own criterion?"
+ },
+ "3596": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3597": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3598": {
+  "p": 0.45,
+  "duda": "Are 'original' (OEM) car parts from one-off sellers mostly used parts removed from cars, or new OEM stock?"
+ },
+ "3599": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (houses, PHs, garages) labeled in this dataset: new or used?"
+ },
+ "3600": {
+  "p": 0.4,
+  "duda": "Are hand-knitted or handmade garments/accessories ('tejido a mano', portatermos) usually new handmade items?"
+ }
+}

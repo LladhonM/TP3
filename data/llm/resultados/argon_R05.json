@@ -1,0 +1,402 @@
+{
+ "1901": {
+  "p": 0.48,
+  "duda": "Are generic decorative household/garden items like painted zinc buckets without brand or craft details more often new artisan products or used items?"
+ },
+ "1902": {
+  "p": 0.62,
+  "duda": "In philately and numismatics listings of vintage stamps or coins, what share are labeled used versus new in this ambiguous band?"
+ },
+ "1903": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1904": {
+  "p": 0.65,
+  "duda": "For real estate (apartments/houses) listings that do not say 'a estrenar' and are 'apto crédito', how are they labeled between new and used in this dataset?"
+ },
+ "1905": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "1906": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1907": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1908": {
+  "p": 0.52,
+  "duda": "Are multi-model kiosk collection listings (e.g., diecast tanks or fascicles where several models are listed in the title) more often new or used?"
+ },
+ "1909": {
+  "p": 0.58,
+  "duda": "Do complete multi-volume manga or comic sets ('N tomos completo') lean used compared to single books?"
+ },
+ "1910": {
+  "p": 0.58,
+  "duda": "When a major home appliance title gives only the type and brand (e.g. 'Freezer Eslabon De Lujo') without model number or condition words, does it lean used?"
+ },
+ "1911": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1912": {
+  "p": 0.62,
+  "duda": "In real estate apartment listings without 'a estrenar' in the title, what proportion are labeled used vs new?"
+ },
+ "1913": {
+  "p": 0.45,
+  "duda": "Are laptop replacement parts (keyboards, screens, batteries) from 1-listing sellers without condition words more often new replacement stock or used pulls from broken laptops?"
+ },
+ "1914": {
+  "p": 0.62,
+  "duda": "For unbranded women's outerwear specifying a single size and color in the title at a low price (e.g., 200 ARS for a coat), does it reliably lean used?"
+ },
+ "1915": {
+  "p": 0.35,
+  "duda": "For scale diecast models with 'Nuevo' in the title and retail pricing, how often are they still labeled used?"
+ },
+ "1916": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1917": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1918": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1919": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1920": {
+  "p": 0.36,
+  "duda": "Are upholstered furniture items like 'sillón matero' without condition words in higher listing tiers (gold) predominantly new from furniture workshops?"
+ },
+ "1921": {
+  "p": 0.45,
+  "duda": "Are classic Argentine literature books commonly assigned in school (like Martín Fierro) closer to the general literature rate (45% used) or the school textbook rate (70% used)?"
+ },
+ "1922": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1923": {
+  "p": 0.45,
+  "duda": "How are resold concert or event tickets for a specific seat/date typically labeled between new and used on MercadoLibre?"
+ },
+ "1924": {
+  "p": 0.4,
+  "duda": "When 'Nueva!!' with exclamation marks is used on a children's bike by a 1-listing seller with camera photos, does it follow the general 41% used rate for 'nuevo/nueva' titles?"
+ },
+ "1925": {
+  "p": 0.38,
+  "duda": "Are hand-painted oil paintings ('al óleo' with dimensions) mostly sold as new by the artist or as used decor?"
+ },
+ "1926": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1927": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1928": {
+  "p": 0.5,
+  "duda": "Do clothing and footwear listings saying 'traídas de USA' from 1-listing sellers lean new (unworn travel purchases) or used?"
+ },
+ "1929": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1930": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1931": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1932": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1933": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1934": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1935": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1936": {
+  "p": 0.35,
+  "duda": "For recent commercial fiction books at full bookstore price with catalog cover photos from multi-listing sellers, is the used rate lower than the 45% average for literature?"
+ },
+ "1937": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1938": {
+  "p": 0.38,
+  "duda": "Are unbranded jewelry and bijouterie items (such as chokers with semi-precious stones) without condition words predominantly new handmade items?"
+ },
+ "1939": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1940": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1941": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "1942": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1943": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1944": {
+  "p": 0.62,
+  "duda": "Are single architectural or marine hardware pieces like cast aluminum porthole covers from 1-listing sellers usually used salvage or new foundry items?"
+ },
+ "1945": {
+  "p": 0.62,
+  "duda": "Are luxury designer handbags (e.g. Roberto Cavalli) priced around 500-700 ARS from 1-listing sellers without condition words more often used personal bags or new replicas?"
+ },
+ "1946": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1947": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "1948": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1949": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1950": {
+  "p": 0.55,
+  "duda": "For generic unbranded women's tops ('Camisa / blusa de gasa') around 150 ARS without size or condition words in the title, do they lean used or new?"
+ },
+ "1951": {
+  "p": 0.45,
+  "duda": "Do children's storybooks from large-catalog book sellers (100+ listings) around 65 ARS lean new or used?"
+ },
+ "1952": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1953": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1954": {
+  "p": 0.5,
+  "duda": "Are branded construction toys (like Blocky or Lego) with explanatory parentheticals in the title and non-camera photos more often new or used?"
+ },
+ "1955": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "1956": {
+  "p": 0.52,
+  "duda": "For mid-tier branded women's tops specifying exact color and size in the title on a paid tier (silver) with non-camera photos, do they lean used or new?"
+ },
+ "1957": {
+  "p": 0.5,
+  "duda": "Are mechanical spare parts for classic Argentine cars (Ford Falcon, Taunus, Rastrojero) from 1-listing sellers without condition words more often new aftermarket replacements or used parts?"
+ },
+ "1958": {
+  "p": 0.65,
+  "duda": "Do branded fashion accessories with expressive titles like 'Muy Finaaaa' and exclamation marks from 1-listing sellers lean used?"
+ },
+ "1959": {
+  "p": 0.65,
+  "duda": "Are quinceañera or bridal dresses ('Vestido de 15', 'Vestido de novia') specifying a single color from 1-listing sellers predominantly used (worn once at the event)?"
+ },
+ "1960": {
+  "p": 0.55,
+  "duda": "Are small character figurines (e.g., Smurfs / Pitufos) without packaging mentioned in the title more often used loose figures or new?"
+ },
+ "1961": {
+  "p": 0.58,
+  "duda": "Are carpentry/construction pieces like 'Tapa rollo de madera' without 'a medida' in the title typically used/leftover items or new workshop items?"
+ },
+ "1962": {
+  "p": 0.2,
+  "duda": "For live pets and puppies ('Cachorros ... Nueva Camada') listed on the free tier, are they almost always labeled new, or do sellers sometimes select used?"
+ },
+ "1963": {
+  "p": 0.45,
+  "duda": "For generic furniture titles like 'Mesa Para Tv O Lcd' with camera photos and 1 listing, is the used rate closer to 50% or the 29-43% furniture average?"
+ },
+ "1964": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1965": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "1966": {
+  "p": 0.58,
+  "duda": "Are niche extreme-sports equipment listings with generic two-word titles (like 'Casco Paracaidismo') from 1-listing sellers typically used personal gear?"
+ },
+ "1967": {
+  "p": 0.48,
+  "duda": "For older non-fiction/essay editions (like 2008 Paidós books) from small sellers (4 listings), do they still follow the 45% used rate for general non-fiction?"
+ },
+ "1968": {
+  "p": 0.62,
+  "duda": "Are vintage European decorative ceramic plates (e.g. 'Platos Decoracion Ceramica Dinamarca') mostly labeled used as antiques or new as decor?"
+ },
+ "1969": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1970": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1971": {
+  "p": 0.5,
+  "duda": "When an auto part title uses informal phrasing like 'Modelo Viejo' instead of model years, does it lean toward a used salvage part or a new replacement part?"
+ },
+ "1972": {
+  "p": 0.58,
+  "duda": "For music CDs without 'nuevo' or 'cerrado' in the title priced around 80 ARS from mid-sized sellers (10-20 listings), what share are used?"
+ },
+ "1973": {
+  "p": 0.58,
+  "duda": "In professional audio gear (amplifiers) from 1-2 listing sellers, when the price is an exact non-round number (like 8483 ARS) with catalog photos, does the 65% used rule still hold?"
+ },
+ "1974": {
+  "p": 0.62,
+  "duda": "Does the word 'Permuto' in a clothing or accessory title reliably indicate a used item even when paired with '.99' pricing?"
+ },
+ "1975": {
+  "p": 0.6,
+  "duda": "Are 12-inch electronic/DJ vinyl records without 'nuevo' or 'sellado' from 1-2 listing sellers mostly used DJ records?"
+ },
+ "1976": {
+  "p": 0.48,
+  "duda": "For literature books that include the neighborhood in the title (e.g., '/en Belgrano') at low prices (85 ARS) with a camera photo, do they lean used or follow the 45% literature rate?"
+ },
+ "1977": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1978": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1979": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1980": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1981": {
+  "p": 0.52,
+  "duda": "Do decorative items like 'Plato Etnico Rustico' where the seller explicitly writes 'Sin garantía' lean used despite the decor category leaning new?"
+ },
+ "1982": {
+  "p": 0.38,
+  "duda": "Are generic phone accessories like 'Cable Usb Iphone' from 1-listing sellers with a camera photo mostly new generic cables or used spare cables?"
+ },
+ "1983": {
+  "p": 0.58,
+  "duda": "Are philatelic souvenir sheets ('Hoja Block') from the 1990s mostly labeled used or new on MercadoLibre?"
+ },
+ "1984": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1985": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1986": {
+  "p": 0.4,
+  "duda": "Are low-priced Argentine comic books with '.98' pricing (e.g., 19.98 ARS) and 'Sin garantía' mostly new publisher remainders ('saldos') or used comics?"
+ },
+ "1987": {
+  "p": 0.42,
+  "duda": "For literature novels from mid-sized book sellers (20+ listings) with 'Sí' warranty and catalog photos, is the used rate lower than the 45% literature average?"
+ },
+ "1988": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "1989": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1990": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1991": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1992": {
+  "p": 0.65,
+  "duda": "Are very low-priced engine parts for vintage vehicles like the Rastrojero (e.g. 210 ARS for pistons) from 1-listing sellers mostly used parts or old-stock (NOS) parts labeled new?"
+ },
+ "1993": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1994": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1995": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1996": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1997": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1998": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1999": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2000": {
+  "p": 0.22,
+  "duda": ""
+ }
+}

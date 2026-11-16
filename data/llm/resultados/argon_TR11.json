@@ -1,0 +1,110 @@
+{
+ "13001": {
+  "p": 0.45,
+  "duda": "Do furniture and home decor items described with style labels like 'de diseño' (without measurements or custom-workshop mentions) tend to be new shop pieces or used household items?"
+ },
+ "13002": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "13003": {
+  "p": 0.6,
+  "duda": "When a title contains both a condition phrase like 'excelente estado' and the word 'nuevo', does the condition phrase dominate (indicating a used item), or how often are such listings labeled used?"
+ },
+ "13004": {
+  "p": 0.42,
+  "duda": "In construction and home-improvement categories (such as standard-size windows and doors) without condition keywords, do listings predominantly represent new workshop stock or used/surplus items from renovations?"
+ },
+ "13005": {
+  "p": 0.55,
+  "duda": "When an appliance or equipment seller offers their own functional or installation-dependent warranty (e.g., '6 meses de garantía por buen funcionamiento') instead of a factory warranty, are these listings typically used/refurbished items or new items?"
+ },
+ "13006": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "13007": {
+  "p": 0.55,
+  "duda": "Does the rule that pro audio/music gear from sellers with 1–2 listings leans used (~65%) also hold for specific musical instrument replacement parts and hardware (like pickups, tuners, and bridges), or are those more often sold new?"
+ },
+ "13008": {
+  "p": 0.35,
+  "duda": "When formalwear titles use plural categories covering multiple events (e.g., 'Vestidos de quince años y novia'), are they almost always new/custom-made listings from dressmakers, or are they sometimes used?"
+ },
+ "13009": {
+  "p": 0.48,
+  "duda": "For very low-priced generic sporting goods (like basic rubber balls) with no brand or condition mentioned in the title, do they lean used or new?"
+ },
+ "13010": {
+  "p": 0.58,
+  "duda": "When a branded electronics or office item (such as a calculator) is listed by generic features rather than its exact model number, how strongly does that indicate a used item?"
+ },
+ "13011": {
+  "p": 0.48,
+  "duda": "In vehicle and motorcycle listings that include attributes like 'Único dueño: Sí' and 'Alarma' alongside 'Nueva' in the title, are they usually classified as used (like-new private sales) or new?"
+ },
+ "13012": {
+  "p": 0.62,
+  "duda": "Do single-size sports jerseys whose title includes informal fit advice (e.g., 'talle 12 para niño o dama') lean strongly used, or are many sold as new clearance/outlet items?"
+ },
+ "13013": {
+  "p": 0.47,
+  "duda": "For commercial or bar equipment accessories with very brief titles (such as drip trays or dispenser parts) and no condition details, do they lean new or used?"
+ },
+ "13014": {
+  "p": 0.56,
+  "duda": "For music CDs listed with only the artist and album name (without 'nuevo', 'cerrado', or condition words), what share are used vs. new stock?"
+ },
+ "13015": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "13016": {
+  "p": 0.48,
+  "duda": "For generic party or formal dresses ('vestido de fiesta') with no brand, size range, or condition keywords in the title, do they lean more toward one-time-worn used items or new boutique stock?"
+ },
+ "13017": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "13018": {
+  "p": 0.58,
+  "duda": "For industrial or electrical machinery described with technical/academic terminology (e.g., 'máquina de corriente continua') and no brand or condition stated, are they typically used surplus/lab equipment or new products?"
+ },
+ "13019": {
+  "p": 0.47,
+  "duda": "For low-priced sports club souvenirs or emblems with minimal two-word titles (like 'Escudo [Club]') and no condition text, what proportion are used collectibles versus new merchandise?"
+ },
+ "13020": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "13021": {
+  "p": 0.45,
+  "duda": "For simple ironwork and household metal items (like portable grills) with generic titles and no mention of 'a medida' or 'fábrica', are they more often new workshop products or used household items?"
+ },
+ "13022": {
+  "p": 0.4,
+  "duda": "For decorative or craft items described by dual use (e.g., 'cuadro 3D o bandeja') without condition keywords, are they mostly new handmade/craft items or used home decor?"
+ },
+ "13023": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "13024": {
+  "p": 0.6,
+  "duda": "Are high-priced bundles of party decoration supplies ('materiales para decoración fiesta') typically used props resold after an event, or new decoration kits?"
+ },
+ "13025": {
+  "p": 0.42,
+  "duda": "Does clearance wording like 'oferta última' on low-priced toys indicate the last unit of new retail stock, or is it also commonly used on second-hand items?"
+ },
+ "13026": {
+  "p": 0.58,
+  "duda": "For oil paintings and framed art described generically by subject and dimensions (e.g., 'tema paisaje mide 53x63cm') without artist or workshop details, are they mostly resold household paintings (used) or artist sales (new)?"
+ },
+ "13027": {
+  "p": 0.86,
+  "duda": ""
+ }
+}

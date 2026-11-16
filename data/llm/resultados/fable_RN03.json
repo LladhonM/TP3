@@ -1,0 +1,402 @@
+{
+ "16201": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16202": {
+  "p": 0.42,
+  "duda": "Are building/bathroom fixtures (sinks, basins) sold as a single piece by a one-off seller usually unused leftovers listed as new, or removed-from-home used items?"
+ },
+ "16203": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16204": {
+  "p": 0.45,
+  "duda": "Are spare boards/parts for office copiers and printers (fuser boards, controllers) usually new stock or pulled from used machines?"
+ },
+ "16205": {
+  "p": 0.45,
+  "duda": "Do hobby/pet guide books (De Vecchi style) with no condition words tend to be new shop stock or second-hand?"
+ },
+ "16206": {
+  "p": 0.5,
+  "duda": "For philosophy/essay books priced near the new-bookshop price with no condition words, is the listing usually new or used?"
+ },
+ "16207": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16208": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16209": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16210": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16211": {
+  "p": 0.5,
+  "duda": "Body panels for classic cars (Fiat 1500, Ford V8, etc.): are they mostly new reproduction/old-stock panels or parts taken off scrapped cars?"
+ },
+ "16212": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16213": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16214": {
+  "p": 0.4,
+  "duda": "When a clothing title says 'nueva' and the seller has 20+ listings, is that reliable evidence of a new item?"
+ },
+ "16215": {
+  "p": 0.6,
+  "duda": "Are expensive car engine components (turbos, gearboxes) with no condition words and no photos usually used take-offs?"
+ },
+ "16216": {
+  "p": 0.4,
+  "duda": "How are pet-related listings (stud services, puppies) labeled in the condition field: by default new?"
+ },
+ "16217": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16218": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16219": {
+  "p": 0.4,
+  "duda": "For a single clothing item from a one-listing seller that shouts 'Nueva!!!!', is it more often labeled new or used?"
+ },
+ "16220": {
+  "p": 0.65,
+  "duda": "Is a car audio system listed by a one-off seller at a high price with no condition words usually a used install being resold?"
+ },
+ "16221": {
+  "p": 0.6,
+  "duda": "Are decorative ceramic sets (beer jug and mugs with shelf) from occasional sellers typically second-hand household items?"
+ },
+ "16222": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16223": {
+  "p": 0.4,
+  "duda": "For a single clothing item with 'nuevo' in the title from a small seller, is it more often labeled new or used?"
+ },
+ "16224": {
+  "p": 0.55,
+  "duda": "Are imported English-language comics/graphic novels from small sellers usually second-hand collection copies?"
+ },
+ "16225": {
+  "p": 0.6,
+  "duda": "Are ISP-branded modems/routers (Observa, Arnet, Speedy units) sold by individuals generally used?"
+ },
+ "16226": {
+  "p": 0.45,
+  "duda": "Are collectible diecast models (1/43 Brumm, etc.) with no condition words usually listed as new even if from a private collection?"
+ },
+ "16227": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16228": {
+  "p": 0.62,
+  "duda": "Is a very low price (around 60 ARS in 2015) for a contemporary novel a reliable sign of a used copy?"
+ },
+ "16229": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16230": {
+  "p": 0.4,
+  "duda": "Does 'hecho en hierro' / 'made of' phrasing on furniture indicate a made-to-order new piece from a workshop?"
+ },
+ "16231": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16232": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16233": {
+  "p": 0.55,
+  "duda": "Are small beauty-salon appliances (wax/paraffin heaters) from one-off free-tier sellers usually used?"
+ },
+ "16234": {
+  "p": 0.55,
+  "duda": "Are car radiators listed by one-off sellers with no condition words more often new aftermarket parts or used take-offs?"
+ },
+ "16235": {
+  "p": 0.45,
+  "duda": "Are car accessories made for a specific model (trunk trays, mats) from one-off sellers usually new unsold accessories or used?"
+ },
+ "16236": {
+  "p": 0.45,
+  "duda": "Are single small Playmobil sets identified by set number, with no condition words, usually new in box?"
+ },
+ "16237": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16238": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16239": {
+  "p": 0.55,
+  "duda": "Are differential/transmission parts for old trucks (Dodge D600) from one-off sellers mostly new old stock or used?"
+ },
+ "16240": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16241": {
+  "p": 0.45,
+  "duda": "Are branded shirts (Tommy Hilfiger) listed in plural by a one-off seller usually new imports being resold or used wardrobe items?"
+ },
+ "16242": {
+  "p": 0.45,
+  "duda": "Do enthusiastic adjectives like 'divinas' on shoes without condition words signal a small reseller of new goods or a person selling their own pair?"
+ },
+ "16243": {
+  "p": 0.6,
+  "duda": "Are party/catering display sets (candy bar trays) from one-off sellers usually used after an event?"
+ },
+ "16244": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16245": {
+  "p": 0.3,
+  "duda": "Are services (game boosting, repairs) labeled new by default in the condition field?"
+ },
+ "16246": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16247": {
+  "p": 0.45,
+  "duda": "Are collector CD editions (Japanese mini-LP remasters) without condition words usually new/sealed or second-hand collection copies?"
+ },
+ "16248": {
+  "p": 0.35,
+  "duda": "Does 'Nuevo' at the end of a CD title from a large music seller reliably mean a new copy, even without 'cerrado'?"
+ },
+ "16249": {
+  "p": 0.62,
+  "duda": "Are university textbooks priced close to full retail still more likely used than new?"
+ },
+ "16250": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16251": {
+  "p": 0.4,
+  "duda": "Does 'importado' on a clothing listing from a one-off seller indicate a new item brought from abroad for resale?"
+ },
+ "16252": {
+  "p": 0.5,
+  "duda": "Are commercial bathroom supplies (towel dispensers plus refills) from one-off sellers usually new?"
+ },
+ "16253": {
+  "p": 0.5,
+  "duda": "How are real-estate listings labeled in the condition field: by default new or used?"
+ },
+ "16254": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16255": {
+  "p": 0.3,
+  "duda": "Are puppy/pet sale listings labeled new by default?"
+ },
+ "16256": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16257": {
+  "p": 0.65,
+  "duda": "Do sellers with 50+ listings of classic literature and 'Sin garantía' tend to be second-hand bookshops?"
+ },
+ "16258": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16259": {
+  "p": 0.48,
+  "duda": "Does 'original' plus an OEM part number on a car part listing by a one-off seller suggest new old stock or a used take-off?"
+ },
+ "16260": {
+  "p": 0.35,
+  "duda": "Are shop display/demo units sold with a shop warranty labeled new or used?"
+ },
+ "16261": {
+  "p": 0.45,
+  "duda": "Are branded women's leggings/pants from a one-listing seller with no condition words more often new or used?"
+ },
+ "16262": {
+  "p": 0.55,
+  "duda": "Are beer-brand promotional chairs (Quilmes) sold in sets typically used bar furniture?"
+ },
+ "16263": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16264": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16265": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16266": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16267": {
+  "p": 0.35,
+  "duda": "Are handmade craft items (macramé, mosaics) generally listed as new by the maker?"
+ },
+ "16268": {
+  "p": 0.65,
+  "duda": "Do sellers with ~30 listings of older spirituality/esoteric books tend to be second-hand booksellers?"
+ },
+ "16269": {
+  "p": 0.6,
+  "duda": "Are low-priced sports rackets of minor brands from small sellers usually second-hand?"
+ },
+ "16270": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16271": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16272": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16273": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16274": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16275": {
+  "p": 0.4,
+  "duda": "Are generic electrical supplies (extension cords) from one-off free-tier sellers usually new?"
+ },
+ "16276": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16277": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16278": {
+  "p": 0.35,
+  "duda": "Are repair services labeled new by default in the condition field?"
+ },
+ "16279": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16280": {
+  "p": 0.5,
+  "duda": "For popular in-print novels (Tolkien) from a mid-size seller at a moderate price with no condition words, new or used?"
+ },
+ "16281": {
+  "p": 0.55,
+  "duda": "Is expensive commercial food equipment (soft ice-cream machines) from one-off sellers without photos usually used?"
+ },
+ "16282": {
+  "p": 0.55,
+  "duda": "Are Christmas trees from small sellers stating 'Sin garantía' usually used household items?"
+ },
+ "16283": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "16284": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16285": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16286": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16287": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16288": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16289": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16290": {
+  "p": 0.4,
+  "duda": "Are orthopedic aids (canes, walkers) from one-off sellers on a paid tier usually new?"
+ },
+ "16291": {
+  "p": 0.65,
+  "duda": "Are cookware items from discontinued/old national brands at very low prices usually used?"
+ },
+ "16292": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16293": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16294": {
+  "p": 0.5,
+  "duda": "Are commercial DVDs with bundled extras from mid-size sellers, with no 'nuevo/cerrado' words, usually new or used?"
+ },
+ "16295": {
+  "p": 0.5,
+  "duda": "Are frames/mirrors from one-off sellers with no condition words usually handmade new items or used decor?"
+ },
+ "16296": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16297": {
+  "p": 0.35,
+  "duda": "Are current-year branded skate decks from small sellers typically new unridden boards?"
+ },
+ "16298": {
+  "p": 0.5,
+  "duda": "Are small cheap engine parts for classic engines (Ford V8 timing covers) mostly new reproduction parts or used?"
+ },
+ "16299": {
+  "p": 0.5,
+  "duda": "Is sports apparel sold as a set (cycling kit) from a one-off seller with no condition words more often new or used?"
+ },
+ "16300": {
+  "p": 0.7,
+  "duda": ""
+ }
+}

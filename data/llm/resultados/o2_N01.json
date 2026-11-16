@@ -1,0 +1,402 @@
+{
+ "2301": {
+  "p": 0.5,
+  "duda": "Do book listings that carry a seller inventory code (e.g. '- 3312', '(a)', 'U. 1020') come mostly from used-book dealers?"
+ },
+ "2302": {
+  "p": 0.55,
+  "duda": "For discontinued product models (e.g. Skechers Shape-Ups in 2015) listed with no condition words, should one lean used?"
+ },
+ "2303": {
+  "p": 0.45,
+  "duda": "Do book listings that carry a seller inventory code (e.g. '- 3312', '(a)', 'U. 1020') come mostly from used-book dealers?"
+ },
+ "2304": {
+  "p": 0.65,
+  "duda": "Are single CDs/LPs of older or niche artists, sold one copy at a time, mostly used collector resales?"
+ },
+ "2305": {
+  "p": 0.5,
+  "duda": "Spare parts for vintage vehicles (e.g. Motoplat ignitions) at high prices - usually new-old-stock labeled new, or used pulled parts?"
+ },
+ "2306": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2307": {
+  "p": 0.65,
+  "duda": "Back issues of journals or magazines several years old - usually labeled used?"
+ },
+ "2308": {
+  "p": 0.5,
+  "duda": "For vehicle listings without '0km' in the title, how strongly does that imply used when the price is close to new list price or attributes say 'Kilometros 0'?"
+ },
+ "2309": {
+  "p": 0.5,
+  "duda": "For short generic clothing/accessory titles with no brand or condition words, is there any default lean toward new or used?"
+ },
+ "2310": {
+  "p": 0.5,
+  "duda": "Does a generic furniture item with a very short title and a low price indicate a private resale (used)?"
+ },
+ "2311": {
+  "p": 0.58,
+  "duda": "For branded clothing, is a price well below the brand's retail price a reliable used signal, and a near-retail price a new signal?"
+ },
+ "2312": {
+  "p": 0.38,
+  "duda": "Are generic, unbranded electronics and gadgets (DVRs, scales, transformers) from small sellers mostly new imports?"
+ },
+ "2313": {
+  "p": 0.52,
+  "duda": "Are older or out-of-print translated literature titles (not current bestsellers) from multi-listing book sellers mostly used copies?"
+ },
+ "2314": {
+  "p": 0.5,
+  "duda": "How are services, rentals and real-estate listings labeled in this dataset - new or used?"
+ },
+ "2315": {
+  "p": 0.5,
+  "duda": "Pet/hobby equipment (terrariums, aquariums) with no condition words - maker selling new or private resale?"
+ },
+ "2316": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2317": {
+  "p": 0.42,
+  "duda": "For branded clothing, is a price well below the brand's retail price a reliable used signal, and a near-retail price a new signal?"
+ },
+ "2318": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2319": {
+  "p": 0.42,
+  "duda": "Do vintage record dealers use 'Nuevo' for new-old-stock LPs (labeled new) or for mint-condition used copies?"
+ },
+ "2320": {
+  "p": 0.5,
+  "duda": "Branded appliances, tools or watches priced near or somewhat below retail by a small seller - new or used?"
+ },
+ "2321": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2322": {
+  "p": 0.55,
+  "duda": "Rustic/country decor made from old hardware (hinges, tools) - labeled used or new?"
+ },
+ "2323": {
+  "p": 0.5,
+  "duda": "Niche non-fiction books still in print, sold by a one-off seller with no condition words - any lean?"
+ },
+ "2324": {
+  "p": 0.38,
+  "duda": "How reliable is 'Nuevo/Nuevos' in titles of footwear and clothing specifically, compared with other categories?"
+ },
+ "2325": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2326": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "2327": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2328": {
+  "p": 0.45,
+  "duda": "For books, is a price clearly below the 2015 new retail price a reliable sign of a used copy, and a near-retail price a sign of new?"
+ },
+ "2329": {
+  "p": 0.5,
+  "duda": "Restored antique furniture described as 'nuevo a estrenar' - labeled new or used?"
+ },
+ "2330": {
+  "p": 0.38,
+  "duda": "Shop fixtures and display stands - a shop disposing of used fixtures, or a maker selling new?"
+ },
+ "2331": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2332": {
+  "p": 0.52,
+  "duda": "For books, is a price clearly below the 2015 new retail price a reliable sign of a used copy, and a near-retail price a sign of new?"
+ },
+ "2333": {
+  "p": 0.62,
+  "duda": "Vintage or antique items described as unused ('sin usar', 'nuevas sin uso', 'en caja') - are they labeled new or used?"
+ },
+ "2334": {
+  "p": 0.5,
+  "duda": "How are collectibles such as coins, banknotes, stamps and political memorabilia usually labeled - new (uncirculated/mint) or used (circulated)?"
+ },
+ "2335": {
+  "p": 0.42,
+  "duda": "For books, is a price clearly below the 2015 new retail price a reliable sign of a used copy, and a near-retail price a sign of new?"
+ },
+ "2336": {
+  "p": 0.6,
+  "duda": "Does a generic furniture item with a very short title and a low price indicate a private resale (used)?"
+ },
+ "2337": {
+  "p": 0.62,
+  "duda": "Laptop/PC replacement boards listed with full part numbers - usually pulled from scrapped units (used) or new spare stock?"
+ },
+ "2338": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "2339": {
+  "p": 0.62,
+  "duda": "Are single CDs/LPs of older or niche artists, sold one copy at a time, mostly used collector resales?"
+ },
+ "2340": {
+  "p": 0.65,
+  "duda": "Are branded baby/kids clothes with a specific size at low prices mostly parents reselling outgrown items (used)?"
+ },
+ "2341": {
+  "p": 0.55,
+  "duda": "Costumes (disfraces) sold by small sellers - usually worn once (used) or new?"
+ },
+ "2342": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2343": {
+  "p": 0.38,
+  "duda": "Are generic, unbranded electronics and gadgets (DVRs, scales, transformers) from small sellers mostly new imports?"
+ },
+ "2344": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2345": {
+  "p": 0.42,
+  "duda": "Cheap DVD sets of old TV series (likely unofficial copies) - usually labeled new?"
+ },
+ "2346": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2347": {
+  "p": 0.3,
+  "duda": "How are services, rentals and real-estate listings labeled in this dataset - new or used?"
+ },
+ "2348": {
+  "p": 0.55,
+  "duda": "Vintage or antique items described as unused ('sin usar', 'nuevas sin uso', 'en caja') - are they labeled new or used?"
+ },
+ "2349": {
+  "p": 0.35,
+  "duda": "Does a spec-style phone title (model + specs) at about current retail price reliably indicate a new phone?"
+ },
+ "2350": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "2351": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "2352": {
+  "p": 0.65,
+  "duda": "Are university textbooks priced near new retail still mostly used copies?"
+ },
+ "2353": {
+  "p": 0.62,
+  "duda": "Are single CDs/LPs of older or niche artists, sold one copy at a time, mostly used collector resales?"
+ },
+ "2354": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2355": {
+  "p": 0.45,
+  "duda": "How are collectibles such as coins, banknotes, stamps and political memorabilia usually labeled - new (uncirculated/mint) or used (circulated)?"
+ },
+ "2356": {
+  "p": 0.45,
+  "duda": "Branded appliances, tools or watches priced near or somewhat below retail by a small seller - new or used?"
+ },
+ "2357": {
+  "p": 0.6,
+  "duda": "How are collectibles such as coins, banknotes, stamps and political memorabilia usually labeled - new (uncirculated/mint) or used (circulated)?"
+ },
+ "2358": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2359": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2360": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2361": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2362": {
+  "p": 0.5,
+  "duda": "For short generic clothing/accessory titles with no brand or condition words, is there any default lean toward new or used?"
+ },
+ "2363": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2364": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2365": {
+  "p": 0.4,
+  "duda": "Paintings, carvings or crafts without a named artist - usually sold new by makers or resold by owners?"
+ },
+ "2366": {
+  "p": 0.38,
+  "duda": "Does a shop name embedded in the title (e.g. 'El Duke', 'lacapsula') indicate new stock, even for older media?"
+ },
+ "2367": {
+  "p": 0.45,
+  "duda": "For short generic clothing/accessory titles with no brand or condition words, is there any default lean toward new or used?"
+ },
+ "2368": {
+  "p": 0.55,
+  "duda": "Are car parts sold singly by small sellers (ECUs, control modules, gearboxes, body parts) mostly pulled used parts or new replacement stock?"
+ },
+ "2369": {
+  "p": 0.62,
+  "duda": "Brand promotional collectibles (beer glasses, ashtrays) - usually labeled used?"
+ },
+ "2370": {
+  "p": 0.62,
+  "duda": "Vintage or antique items described as unused ('sin usar', 'nuevas sin uso', 'en caja') - are they labeled new or used?"
+ },
+ "2371": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2372": {
+  "p": 0.65,
+  "duda": "Video games described as 'sin uso' - opened but unplayed copies labeled used, or sealed copies labeled new?"
+ },
+ "2373": {
+  "p": 0.62,
+  "duda": "Listings titled as numbered lots ('Lote N 04') - usually bundles of used items?"
+ },
+ "2374": {
+  "p": 0.52,
+  "duda": "Paintings, carvings or crafts without a named artist - usually sold new by makers or resold by owners?"
+ },
+ "2375": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2376": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "2377": {
+  "p": 0.45,
+  "duda": "For vehicle listings without '0km' in the title, how strongly does that imply used when the price is close to new list price or attributes say 'Kilometros 0'?"
+ },
+ "2378": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2379": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "2380": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2381": {
+  "p": 0.5,
+  "duda": "High-end bicycle components (e.g. Shimano XT) sold singly by one-off sellers - mostly used take-offs or new?"
+ },
+ "2382": {
+  "p": 0.5,
+  "duda": "Are generic, unbranded electronics and gadgets (DVRs, scales, transformers) from small sellers mostly new imports?"
+ },
+ "2383": {
+  "p": 0.65,
+  "duda": "Is sports gear sold as a bundle with accessories ('+ set de protecciones') a strong sign of a private used kit?"
+ },
+ "2384": {
+  "p": 0.5,
+  "duda": "How are collectibles such as coins, banknotes, stamps and political memorabilia usually labeled - new (uncirculated/mint) or used (circulated)?"
+ },
+ "2385": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "2386": {
+  "p": 0.6,
+  "duda": "Home heating units/appliances (radiators) at low prices from one-off sellers - mostly used?"
+ },
+ "2387": {
+  "p": 0.65,
+  "duda": "Are car parts sold singly by small sellers (ECUs, control modules, gearboxes, body parts) mostly pulled used parts or new replacement stock?"
+ },
+ "2388": {
+  "p": 0.4,
+  "duda": "Die-cast scale models (New Ray, Maisto) - usually sold new in box, or resold from collections?"
+ },
+ "2389": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2390": {
+  "p": 0.6,
+  "duda": "Branded baby gear (mobiles, strollers) priced clearly below retail by a one-off seller - used?"
+ },
+ "2391": {
+  "p": 0.4,
+  "duda": "For short generic clothing/accessory titles with no brand or condition words, is there any default lean toward new or used?"
+ },
+ "2392": {
+  "p": 0.65,
+  "duda": "Antique-style jewelry (silver filigree brooches) with 'you receive the item in the photos' warranty text - mostly used/vintage?"
+ },
+ "2393": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2394": {
+  "p": 0.62,
+  "duda": "Single manga/comic volumes priced below cover price - collector resale (used)?"
+ },
+ "2395": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2396": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2397": {
+  "p": 0.62,
+  "duda": "Are single CDs/LPs of older or niche artists, sold one copy at a time, mostly used collector resales?"
+ },
+ "2398": {
+  "p": 0.65,
+  "duda": "For books, is a price clearly below the 2015 new retail price a reliable sign of a used copy, and a near-retail price a sign of new?"
+ },
+ "2399": {
+  "p": 0.4,
+  "duda": "Band t-shirts (merch) from one-off sellers - printed new or worn?"
+ },
+ "2400": {
+  "p": 0.5,
+  "duda": "Are car parts sold singly by small sellers (ECUs, control modules, gearboxes, body parts) mostly pulled used parts or new replacement stock?"
+ }
+}

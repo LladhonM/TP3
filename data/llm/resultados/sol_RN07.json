@@ -1,0 +1,402 @@
+{
+ "16601": {
+  "p": 0.36,
+  "duda": "For collectible die-cast cars, how much does naming a specific entertainment series imply unopened retail stock when packaging is not mentioned?"
+ },
+ "16602": {
+  "p": 0.65,
+  "duda": "Are toys tied to older television series usually vintage originals, or are unused reissues common enough to avoid that assumption?"
+ },
+ "16603": {
+  "p": 0.45,
+  "duda": "Should literary books without edition or condition information stay near the literary-book baseline?"
+ },
+ "16604": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16605": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "16606": {
+  "p": 0.47,
+  "duda": "Are original networking console cables commonly sold as unused surplus, or as accessories recovered from installed equipment?"
+ },
+ "16607": {
+  "p": 0.5,
+  "duda": "Without condition or provenance wording, can a vehicle window regulator be distinguished as new replacement stock versus a removed part?"
+ },
+ "16608": {
+  "p": 0.43,
+  "duda": "Are individual numbered magazine issues typically unused back issues or previously read copies when no condition is given?"
+ },
+ "16609": {
+  "p": 0.48,
+  "duda": "Does a garment title giving only size, color, or style provide any reliable condition evidence?"
+ },
+ "16610": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16611": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16612": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16613": {
+  "p": 0.5,
+  "duda": "Do bare item numbers on decorative objects usually identify new catalog merchandise or individual secondhand inventory?"
+ },
+ "16614": {
+  "p": 0.68,
+  "duda": "For fast-food collectible toys without packaging information, how should prior ownership versus actual play affect the used classification?"
+ },
+ "16615": {
+  "p": 0.47,
+  "duda": "Do enthusiastic fit descriptions in clothing titles distinguish retail promotion from personal resale?"
+ },
+ "16616": {
+  "p": 0.44,
+  "duda": "Does calling footwear imported provide any condition evidence without packaging or wear information?"
+ },
+ "16617": {
+  "p": 0.74,
+  "duda": "Do older sound consoles bundled with speakers of a different brand usually represent a previously owned sound system?"
+ },
+ "16618": {
+  "p": 0.35,
+  "duda": "How strongly should a recently published local edition favor new stock when its condition is unstated?"
+ },
+ "16619": {
+  "p": 0.38,
+  "duda": "What additional evidence distinguishes a bare new claim from an owner reselling an unused recent phone?"
+ },
+ "16620": {
+  "p": 0.45,
+  "duda": "Does advertising a textile as a blanket, rug, and bed runner indicate newly made craft merchandise or merely describe a resold household item?"
+ },
+ "16621": {
+  "p": 0.48,
+  "duda": "Can a named specialist measuring instrument be assigned a condition lean without any age, warranty, or wear information?"
+ },
+ "16622": {
+  "p": 0.4,
+  "duda": "Does a generic satisfaction guarantee on an imported music disc distinguish new stock from guaranteed used discs?"
+ },
+ "16623": {
+  "p": 0.66,
+  "duda": "For branded eyeglass frames, does retro vintage usually denote original older frames or newly manufactured vintage styling?"
+ },
+ "16624": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16625": {
+  "p": 0.46,
+  "duda": "Does promotional clothing wording such as beautiful or special offer provide useful condition evidence by itself?"
+ },
+ "16626": {
+  "p": 0.5,
+  "duda": "For an original painting without artist or provenance details, is there any reliable way to distinguish a fresh work from a resold work?"
+ },
+ "16627": {
+  "p": 0.72,
+  "duda": "Are figures from older discontinued cartoon franchises generally previously owned when packaging is not mentioned?"
+ },
+ "16628": {
+  "p": 0.72,
+  "duda": "Does a grain-sampling tool bearing a company name and street address usually indicate a historical collectible rather than current tool stock?"
+ },
+ "16629": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16630": {
+  "p": 0.4,
+  "duda": "What evidence beyond a bare new claim is needed to distinguish unused retail clothing from an owner reselling an unworn garment?"
+ },
+ "16631": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16632": {
+  "p": 0.62,
+  "duda": "Are older model-specific fiscal controllers commonly available as unused stock, or predominantly resold after business use?"
+ },
+ "16633": {
+  "p": 0.55,
+  "duda": "How should new versus used apply to real-estate listings when the property is described as excellent but prior occupancy is unstated?"
+ },
+ "16634": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16635": {
+  "p": 0.5,
+  "duda": "How should a title that could refer to either a book or a music collection be interpreted when the medium and edition are absent?"
+ },
+ "16636": {
+  "p": 0.6,
+  "duda": "Can a low price meaningfully distinguish a used bed from a basic new bed when materials and included components are unspecified?"
+ },
+ "16637": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16638": {
+  "p": 0.77,
+  "duda": "Does historical spelling in a book title reliably identify an older original edition, or is it commonly retained in modern reprints?"
+ },
+ "16639": {
+  "p": 0.48,
+  "duda": "Does a garment title giving only size, color, or style provide any reliable condition evidence?"
+ },
+ "16640": {
+  "p": 0.56,
+  "duda": "For irregular stone cuts, how should unused workshop offcuts be distinguished from reclaimed building materials?"
+ },
+ "16641": {
+  "p": 0.48,
+  "duda": "Can a generic porcelain figurine title distinguish new gift merchandise from a previously owned ornament?"
+ },
+ "16642": {
+  "p": 0.36,
+  "duda": "Does clearance wording on cut fabric usually mean unused surplus material, or can it commonly describe recovered textiles?"
+ },
+ "16643": {
+  "p": 0.51,
+  "duda": "Does imported embroidered sportswear have a reliable condition lean when wear, tags, and packaging are not mentioned?"
+ },
+ "16644": {
+  "p": 0.16,
+  "duda": ""
+ },
+ "16645": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16646": {
+  "p": 0.8,
+  "duda": "Do tested exchange television boards generally denote recovered or refurbished parts rather than unused replacement stock?"
+ },
+ "16647": {
+  "p": 0.5,
+  "duda": "How should aircraft-model names alone be interpreted when the listing does not identify whether the item is a model, publication, or other collectible?"
+ },
+ "16648": {
+  "p": 0.28,
+  "duda": "Are phone replacement flex cables usually newly manufactured parts unless removal or recovery is explicitly stated?"
+ },
+ "16649": {
+  "p": 0.38,
+  "duda": "Does brand-and-size-specific pet clothing advertised as clearance usually indicate unused retail stock?"
+ },
+ "16650": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "16651": {
+  "p": 0.45,
+  "duda": "Should literary books without edition or condition information stay near the literary-book baseline?"
+ },
+ "16652": {
+  "p": 0.48,
+  "duda": "Do bundles of branded car speakers usually represent new retail combinations or a previously owned audio installation?"
+ },
+ "16653": {
+  "p": 0.6,
+  "duda": "For philatelic first-day sheets, does commemorative cancellation imply used condition, or can an intact collectible sheet still count as new?"
+ },
+ "16654": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16655": {
+  "p": 0.58,
+  "duda": "Without condition wording, are model-specific throttle bodies more often recovered original parts or unused replacements?"
+ },
+ "16656": {
+  "p": 0.38,
+  "duda": "What evidence beyond a bare new claim distinguishes new book stock from a previously owned unread copy?"
+ },
+ "16657": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16658": {
+  "p": 0.5,
+  "duda": "For branded collectible scale models, can condition be inferred without knowing whether the original packaging is present or sealed?"
+ },
+ "16659": {
+  "p": 0.75,
+  "duda": "How reliably does an older publisher imprint identify a vintage literary edition rather than a modern reprint?"
+ },
+ "16660": {
+  "p": 0.58,
+  "duda": "For Chinese decorative statues, does sellada generally mean a maker mark or sealed retail packaging?"
+ },
+ "16661": {
+  "p": 0.4,
+  "duda": "Are jewelry display organizers usually new retail accessories, or are secondhand shop fixtures also common without explicit condition wording?"
+ },
+ "16662": {
+  "p": 0.68,
+  "duda": "Are standalone historical biography fascicles generally older collected issues rather than newly published booklets?"
+ },
+ "16663": {
+  "p": 0.38,
+  "duda": "What evidence beyond a bare new claim distinguishes new book stock from a previously owned unread copy?"
+ },
+ "16664": {
+  "p": 0.5,
+  "duda": "For traditional silver garment pins, what wording distinguishes contemporary craft production from antique or previously owned jewelry?"
+ },
+ "16665": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "16666": {
+  "p": 0.37,
+  "duda": "Does naming a current commodity hand tool without condition information justify a new-stock lean?"
+ },
+ "16667": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16668": {
+  "p": 0.45,
+  "duda": "Does an imported foreign-language edition provide any condition evidence beyond the general literary-book baseline?"
+ },
+ "16669": {
+  "p": 0.48,
+  "duda": "Does a garment title giving only size, color, or style provide any reliable condition evidence?"
+ },
+ "16670": {
+  "p": 0.48,
+  "duda": "Does a garment title giving only size, color, or style provide any reliable condition evidence?"
+ },
+ "16671": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16672": {
+  "p": 0.49,
+  "duda": "Can generic silver jewelry be assigned a condition lean without age, craftsmanship, packaging, or wear details?"
+ },
+ "16673": {
+  "p": 0.14,
+  "duda": ""
+ },
+ "16674": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16675": {
+  "p": 0.38,
+  "duda": "Does naming an individual nativity-scene animal generally indicate newly made seasonal merchandise or a resold collectible?"
+ },
+ "16676": {
+  "p": 0.4,
+  "duda": "How should an explicit new claim on an obsolete music format be balanced against the possibility of unused old stock?"
+ },
+ "16677": {
+  "p": 0.53,
+  "duda": "Can a named concert DVD release be assigned a condition lean without edition, sealing, or wear information?"
+ },
+ "16678": {
+  "p": 0.38,
+  "duda": "Are satellite receiver LNB modules commonly new replacement stock, or is recovered equipment frequent without explicit condition wording?"
+ },
+ "16679": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16680": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "16681": {
+  "p": 0.49,
+  "duda": "For briefly named mechanical fastening parts, what evidence distinguishes unused spare stock from components removed from equipment?"
+ },
+ "16682": {
+  "p": 0.5,
+  "duda": "Does a named technical outdoor jacket model provide reliable condition evidence when its production age and wear are unknown?"
+ },
+ "16683": {
+  "p": 0.56,
+  "duda": "What title wording distinguishes made-to-order fixed awnings from previously installed awnings offered for resale?"
+ },
+ "16684": {
+  "p": 0.6,
+  "duda": "When does an age-range-only children clothing title indicate an outgrown clothing lot rather than new retail garments?"
+ },
+ "16685": {
+  "p": 0.48,
+  "duda": "Does a garment or footwear title giving only its basic type provide any reliable condition evidence?"
+ },
+ "16686": {
+  "p": 0.4,
+  "duda": "Does a prominently advertised price on a curtain set distinguish new promotional stock from household resale?"
+ },
+ "16687": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16688": {
+  "p": 0.39,
+  "duda": "What evidence would distinguish new retail stock from personal resale for a recent unlocked phone with no condition wording?"
+ },
+ "16689": {
+  "p": 0.63,
+  "duda": "When an apparel title says only excellent, should that describe prior-use condition or merely product quality?"
+ },
+ "16690": {
+  "p": 0.43,
+  "duda": "Does naming a branded auto-darkening welding helmet provide a new-stock lean without condition or warranty wording?"
+ },
+ "16691": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16692": {
+  "p": 0.48,
+  "duda": "Does a garment title giving only size, color, or style provide any reliable condition evidence?"
+ },
+ "16693": {
+  "p": 0.48,
+  "duda": "For branded children craft kits, how should condition be inferred when packaging, completeness, and prior use are unstated?"
+ },
+ "16694": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16695": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "16696": {
+  "p": 0.45,
+  "duda": "Are branded commercial paper-towel dispensers commonly sold as new accessories or as recovered fixtures when condition is unstated?"
+ },
+ "16697": {
+  "p": 0.45,
+  "duda": "Should literary books without edition or condition information stay near the literary-book baseline?"
+ },
+ "16698": {
+  "p": 0.49,
+  "duda": "Does naming a clothing brand, material, and size distinguish retail stock from personal resale without condition wording?"
+ },
+ "16699": {
+  "p": 0.7,
+  "duda": "Does willingness to trade a branded musical-instrument case reliably indicate personal resale rather than new stock?"
+ },
+ "16700": {
+  "p": 0.28,
+  "duda": ""
+ }
+}

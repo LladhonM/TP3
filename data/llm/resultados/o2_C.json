@@ -1,0 +1,402 @@
+{
+ "201": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "202": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "203": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "204": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "205": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "206": {
+  "p": 0.5,
+  "duda": "Are collectible toys that come out of chocolate eggs (Kinder, Huevo Jack) usually listed as new or used?"
+ },
+ "207": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "208": {
+  "p": 0.55,
+  "duda": "For auto parts with a generic title and no part brand (e.g. 'Masas Fiat'), are they usually used parts from a wrecking yard or new?"
+ },
+ "209": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "210": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "211": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "212": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "213": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "214": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "215": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "216": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "217": {
+  "p": 0.45,
+  "duda": "Are small computer/laptop internal parts (wifi cards, brackets, blanking plates) usually listed as new surplus or as used parts pulled from machines?"
+ },
+ "218": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "219": {
+  "p": 0.55,
+  "duda": "For literature books, is a low price (well under new retail, e.g. under 100 ARS in 2015) a reliable sign that the copy is used?"
+ },
+ "220": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "221": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "222": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "223": {
+  "p": 0.5,
+  "duda": "For generic items with no brand or model and no condition words (basic clothing, lamps, home goods), is there any lean, or is it truly 50/50?"
+ },
+ "224": {
+  "p": 0.55,
+  "duda": "Are collectible toys that come out of chocolate eggs (Kinder, Huevo Jack) usually listed as new or used?"
+ },
+ "225": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "226": {
+  "p": 0.5,
+  "duda": "For generic items with no brand or model and no condition words (basic clothing, lamps, home goods), is there any lean, or is it truly 50/50?"
+ },
+ "227": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "228": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "229": {
+  "p": 0.5,
+  "duda": "Is a price clearly below the expected 2015 Argentine retail price for an imported branded item (fishing reels, moto gear, backpacks) a reliable sign that it is used?"
+ },
+ "230": {
+  "p": 0.48,
+  "duda": "Is a price clearly below the expected 2015 Argentine retail price for an imported branded item (fishing reels, moto gear, backpacks) a reliable sign that it is used?"
+ },
+ "231": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "232": {
+  "p": 0.6,
+  "duda": "Are original remotes or parts for a specific old TV model (identified by model number) usually used?"
+ },
+ "233": {
+  "p": 0.6,
+  "duda": "Are children's hardcover books and baby items (potties) sold by single sellers mostly used?"
+ },
+ "234": {
+  "p": 0.5,
+  "duda": "For generic items with no brand or model and no condition words (basic clothing, lamps, home goods), is there any lean, or is it truly 50/50?"
+ },
+ "235": {
+  "p": 0.55,
+  "duda": "Are small computer/laptop internal parts (wifi cards, brackets, blanking plates) usually listed as new surplus or as used parts pulled from machines?"
+ },
+ "236": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "237": {
+  "p": 0.45,
+  "duda": "When a clothing or accessory listing stresses 'original' or 'Disney Store' without condition words, does it usually mean a new item?"
+ },
+ "238": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "239": {
+  "p": 0.6,
+  "duda": "For generic items with no brand or model and no condition words (basic clothing, lamps, home goods), is there any lean, or is it truly 50/50?"
+ },
+ "240": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "241": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "242": {
+  "p": 0.55,
+  "duda": "Are niche or underground music CDs/cassettes (metal, punk) sold by small sellers usually used, or new imports/independent releases?"
+ },
+ "243": {
+  "p": 0.58,
+  "duda": "For generic items with no brand or model and no condition words (basic clothing, lamps, home goods), is there any lean, or is it truly 50/50?"
+ },
+ "244": {
+  "p": 0.45,
+  "duda": "Are professional tools and benches (soldering stations, insulated wrenches) sold by small sellers usually new or used?"
+ },
+ "245": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "246": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "247": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "248": {
+  "p": 0.45,
+  "duda": "When a clothing or accessory listing stresses 'original' or 'Disney Store' without condition words, does it usually mean a new item?"
+ },
+ "249": {
+  "p": 0.58,
+  "duda": "Do book sellers who list inventory codes, 'sin garantia' or long experience in the book trade mostly sell second-hand books?"
+ },
+ "250": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "251": {
+  "p": 0.55,
+  "duda": "Do book sellers who list inventory codes, 'sin garantia' or long experience in the book trade mostly sell second-hand books?"
+ },
+ "252": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "253": {
+  "p": 0.62,
+  "duda": "Are niche or underground music CDs/cassettes (metal, punk) sold by small sellers usually used, or new imports/independent releases?"
+ },
+ "254": {
+  "p": 0.4,
+  "duda": "Are replacement batteries for old devices (e.g. Garmin GPS) usually new aftermarket batteries or used originals?"
+ },
+ "255": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "256": {
+  "p": 0.42,
+  "duda": ""
+ },
+ "257": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "258": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "259": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "260": {
+  "p": 0.5,
+  "duda": "Is a price clearly below the expected 2015 Argentine retail price for an imported branded item (fishing reels, moto gear, backpacks) a reliable sign that it is used?"
+ },
+ "261": {
+  "p": 0.6,
+  "duda": "Are children's hardcover books and baby items (potties) sold by single sellers mostly used?"
+ },
+ "262": {
+  "p": 0.62,
+  "duda": "Do clone pro video accessories ('tipo Merlin' stabilizers) override the small-seller used lean, since they are usually new cheap copies?"
+ },
+ "263": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "264": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "265": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "266": {
+  "p": 0.5,
+  "duda": "Are professional tools and benches (soldering stations, insulated wrenches) sold by small sellers usually new or used?"
+ },
+ "267": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "268": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "269": {
+  "p": 0.35,
+  "duda": "How is the new/used condition assigned to real estate listings (sales and vacation rentals)? Does 'a estrenar' map to new?"
+ },
+ "270": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "271": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "272": {
+  "p": 0.5,
+  "duda": "For literature books, is a low price (well under new retail, e.g. under 100 ARS in 2015) a reliable sign that the copy is used?"
+ },
+ "273": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "274": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "275": {
+  "p": 0.42,
+  "duda": "Are single branded kitchen items (a Tramontina pot) from a small seller usually unused gifts listed as new, or used?"
+ },
+ "276": {
+  "p": 0.5,
+  "duda": "Are expensive performance car parts (superchargers, blowers) listed by one-off sellers usually used?"
+ },
+ "277": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "278": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "279": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "280": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "281": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "282": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "283": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "284": {
+  "p": 0.5,
+  "duda": "How is the new/used condition assigned to real estate listings (sales and vacation rentals)? Does 'a estrenar' map to new?"
+ },
+ "285": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "286": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "287": {
+  "p": 0.6,
+  "duda": "Do book sellers who list inventory codes, 'sin garantia' or long experience in the book trade mostly sell second-hand books?"
+ },
+ "288": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "289": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "290": {
+  "p": 0.5,
+  "duda": "Does the word 'regalo' in a title usually mean 'giving it away cheap' (used) or 'ideal as a gift' (new)?"
+ },
+ "291": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "292": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "293": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "294": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "295": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "296": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "297": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "298": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "299": {
+  "p": 0.48,
+  "duda": "For literature books, is a low price (well under new retail, e.g. under 100 ARS in 2015) a reliable sign that the copy is used?"
+ },
+ "300": {
+  "p": 0.4,
+  "duda": ""
+ }
+}

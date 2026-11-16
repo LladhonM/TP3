@@ -1,0 +1,402 @@
+{
+ "10301": {
+  "p": 0.6,
+  "duda": "Are circulated collectible coins and banknotes sold by numismatic dealers usually labeled used rather than new?"
+ },
+ "10302": {
+  "p": 0.65,
+  "duda": "Are cheap accessories that originally came bundled in a starter kit (cables, straps, picks) usually resold used by individuals?"
+ },
+ "10303": {
+  "p": 0.45,
+  "duda": "Are glassware sets (crystal or beveled glasses) with no condition words more often new stock or used/vintage household items?"
+ },
+ "10304": {
+  "p": 0.6,
+  "duda": "Are low-priced unbranded furniture sets (chairs, tables) with no description more often used?"
+ },
+ "10305": {
+  "p": 0.65,
+  "duda": "Are vintage toys from discontinued lines (e.g. Plastirama GI Joe, 1980s-90s figures) sold by collector sellers usually labeled used?"
+ },
+ "10306": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10307": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition or measurements, is there any lean between new and used?"
+ },
+ "10308": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10309": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10310": {
+  "p": 0.4,
+  "duda": "Are 'estilo francés/provenzal' furniture pieces usually new reproductions made by workshops, or used pieces?"
+ },
+ "10311": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10312": {
+  "p": 0.55,
+  "duda": "Are high-end collectible statues/figures (Kotobukiya, Hot Toys, etc.) usually listed as new (boxed) or used by collectors?"
+ },
+ "10313": {
+  "p": 0.45,
+  "duda": "Are complete sticker albums sold with loose, unglued stickers labeled new or used?"
+ },
+ "10314": {
+  "p": 0.45,
+  "duda": "Are small illustrated items by comic artists (postcard sets, mini books) sold by individuals usually new?"
+ },
+ "10315": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10316": {
+  "p": 0.5,
+  "duda": "Are cheap cartoon DVDs/VHS with misspelled titles usually used tapes or new (often unofficial) copies?"
+ },
+ "10317": {
+  "p": 0.55,
+  "duda": "Are party/evening dresses sold by one-listing sellers usually resold after use, or new?"
+ },
+ "10318": {
+  "p": 0.55,
+  "duda": "Are leather jackets with no brand or condition words more often used?"
+ },
+ "10319": {
+  "p": 0.6,
+  "duda": "Are branded jeans priced far below retail (around 150 ARS in 2015) usually used?"
+ },
+ "10320": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10321": {
+  "p": 0.6,
+  "duda": "Are large 'original' movie-licensed toys from the 1990s (Kenner Jurassic Park) sold at collector prices usually labeled used?"
+ },
+ "10322": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10323": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "10324": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10325": {
+  "p": 0.55,
+  "duda": "Are children's clothes with exact size measurements (e.g. '94 cm') from one-listing sellers usually used?"
+ },
+ "10326": {
+  "p": 0.6,
+  "duda": "Are Japanese anime mini-figures from the 1990s-2000s (Bandai Petit Chara, etc.) usually listed as used by collectors?"
+ },
+ "10327": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10328": {
+  "p": 0.55,
+  "duda": "Does the phone rule (named model leans new) still apply to older low-end models (2-3 years old) priced well below retail?"
+ },
+ "10329": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10330": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10331": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "10332": {
+  "p": 0.5,
+  "duda": "Are branded clothes priced far below retail (e.g. La Martina) more often used, or new counterfeits?"
+ },
+ "10333": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10334": {
+  "p": 0.45,
+  "duda": "Are US-brand kids' clothes (Old Navy, Carter's, Gap) sold by individuals in Argentina usually new imports or used?"
+ },
+ "10335": {
+  "p": 0.6,
+  "duda": "Are large workshop/industrial equipment items (cutting tables, machines) from one-listing sellers usually used?"
+ },
+ "10336": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "10337": {
+  "p": 0.4,
+  "duda": "Are cheaply priced musical instruments listed in plural (e.g. 'flautas traversas') usually new handmade or toy items rather than used?"
+ },
+ "10338": {
+  "p": 0.45,
+  "duda": "When a seller says 'no soy feria ni local' and stresses quality, is the clothing usually new merchandise or their own used items?"
+ },
+ "10339": {
+  "p": 0.6,
+  "duda": "Are model-train items from discontinued brands (Lima, etc.) sold by hobby sellers usually labeled used?"
+ },
+ "10340": {
+  "p": 0.6,
+  "duda": "Do record shops with a physical store selling older CDs (with edition/country notes) usually label them used or new?"
+ },
+ "10341": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10342": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10343": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10344": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "10345": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10346": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10347": {
+  "p": 0.6,
+  "duda": "Are cassettes of underground/punk bands usually old used tapes, or new self-released copies sold by bands/labels?"
+ },
+ "10348": {
+  "p": 0.42,
+  "duda": ""
+ },
+ "10349": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10350": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10351": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10352": {
+  "p": 0.7,
+  "duda": "Are banknotes with a collector grade below uncirculated (e.g. 'Excelente+') labeled used by dealers?"
+ },
+ "10353": {
+  "p": 0.65,
+  "duda": "Are circulated collectible coins and banknotes sold by numismatic dealers usually labeled used rather than new?"
+ },
+ "10354": {
+  "p": 0.45,
+  "duda": "Are car accessories (hood bras, covers) for older models sold cheaply by one-listing sellers usually new or used?"
+ },
+ "10355": {
+  "p": 0.6,
+  "duda": "Do record shops selling CDs below typical new price (~60 ARS in 2015) usually label them used?"
+ },
+ "10356": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10357": {
+  "p": 0.4,
+  "duda": "Are design-classic chair reproductions (Brno, Eames, Tolix) usually sold new by workshops?"
+ },
+ "10358": {
+  "p": 0.45,
+  "duda": "When a seller says 'no soy feria ni local' and stresses quality, is the clothing usually new merchandise or their own used items?"
+ },
+ "10359": {
+  "p": 0.65,
+  "duda": "Are original video games sold in bulk ('juegos ... originales') by one-listing sellers usually used?"
+ },
+ "10360": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10361": {
+  "p": 0.65,
+  "duda": "Are circulated collectible coins and banknotes sold by numismatic dealers usually labeled used rather than new?"
+ },
+ "10362": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10363": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10364": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "10365": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10366": {
+  "p": 0.65,
+  "duda": "Are decorative collectibles of foreign origin (German beer steins, etc.) from antique/collector sellers usually labeled used?"
+ },
+ "10367": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10368": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10369": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "10370": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10371": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10372": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10373": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10374": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10375": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10376": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10377": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "10378": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10379": {
+  "p": 0.55,
+  "duda": "Are appliance spare parts usually new replacement parts or used parts pulled from scrapped units?"
+ },
+ "10380": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10381": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10382": {
+  "p": 0.5,
+  "duda": "Does the study-material rule (leans used) still hold when a recent course book is priced at full retail by a multi-listing seller?"
+ },
+ "10383": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10384": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10385": {
+  "p": 0.55,
+  "duda": "Are candy-premium collectible toys (Chocolatín Jack, Kinder surprise figures) listed as new or used?"
+ },
+ "10386": {
+  "p": 0.55,
+  "duda": "For CDs of little-known artists sold by multi-listing music sellers with no condition words, is there a lean between new and used?"
+ },
+ "10387": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10388": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10389": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10390": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10391": {
+  "p": 0.4,
+  "duda": "Are car part kits (compressor pulley/clutch sets) usually new aftermarket kits or used parts from dismantled cars?"
+ },
+ "10392": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition or measurements, is there any lean between new and used?"
+ },
+ "10393": {
+  "p": 0.6,
+  "duda": "Are 'original' body parts for a specific car model and year sold cheaply usually used parts from dismantled cars?"
+ },
+ "10394": {
+  "p": 0.6,
+  "duda": "Are precision measuring tools (Mitutoyo micrometers, calipers) sold by one-listing sellers usually used?"
+ },
+ "10395": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10396": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10397": {
+  "p": 0.55,
+  "duda": "Are engine parts for old car models (Fiat 147/128, etc.) from one-listing sellers usually used parts?"
+ },
+ "10398": {
+  "p": 0.5,
+  "duda": "Does 'el producto es lo que se ve en las fotos' as a warranty indicate a used item?"
+ },
+ "10399": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10400": {
+  "p": 0.75,
+  "duda": ""
+ }
+}

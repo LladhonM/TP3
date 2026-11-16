@@ -1,0 +1,402 @@
+{
+ "16801": {
+  "p": 0.45,
+  "duda": "Are handmade/artisan decor items ('artesanal') made from old rustic objects usually listed as new (made by the seller) or used?"
+ },
+ "16802": {
+  "p": 0.4,
+  "duda": "Are bootleg/'simil' anime figures from one-off sellers usually new stock or second-hand collection pieces?"
+ },
+ "16803": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16804": {
+  "p": 0.45,
+  "duda": "Are single plumbing/gas fittings from one-off sellers with no condition words usually leftover new stock or removed used parts?"
+ },
+ "16805": {
+  "p": 0.65,
+  "duda": "Do CDs/vinyl of older releases with no condition words, from small sellers, lean used?"
+ },
+ "16806": {
+  "p": 0.5,
+  "duda": "How do sellers label collectible banknotes described as uncirculated ('sin circular'): new or used?"
+ },
+ "16807": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16808": {
+  "p": 0.4,
+  "duda": "Are old-generation Nextel handsets sold as 'limited edition' by multi-listing sellers with stock above 1 usually new old stock?"
+ },
+ "16809": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16810": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16811": {
+  "p": 0.42,
+  "duda": "Are handcrafted wooden boxes and similar craft items with no condition words usually listed as new by the maker?"
+ },
+ "16812": {
+  "p": 0.5,
+  "duda": "Is 'importada' on branded children's clothing from a one-off seller a sign of new (brought from abroad) or of resale of used clothing?"
+ },
+ "16813": {
+  "p": 0.5,
+  "duda": "For cheap clothing accessories with a generic title and no condition words from a one-off seller, which class is more common?"
+ },
+ "16814": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16815": {
+  "p": 0.55,
+  "duda": "Does a 'Sin garantía' warranty text on a literature book lean used?"
+ },
+ "16816": {
+  "p": 0.55,
+  "duda": "Are baby items (crib mattresses, car seats) from one-off sellers with brand and model but no condition words usually used?"
+ },
+ "16817": {
+  "p": 0.45,
+  "duda": "Do recent young-adult novels titled 'Libro ...' from small sellers lean new?"
+ },
+ "16818": {
+  "p": 0.6,
+  "duda": "Do cycling components sold 'with cleats' or other already-paired accessories by a one-off seller lean used?"
+ },
+ "16819": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16820": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16821": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16822": {
+  "p": 0.65,
+  "duda": "Are loose vintage character toys from small sellers almost always used?"
+ },
+ "16823": {
+  "p": 0.4,
+  "duda": "Are safety/work boots with brand and model from a one-off seller usually new unused pairs?"
+ },
+ "16824": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16825": {
+  "p": 0.6,
+  "duda": "Are 'original' factory car stereos sold by individuals typically removed from new cars and labelled new, or labelled used?"
+ },
+ "16826": {
+  "p": 0.6,
+  "duda": "Do booksellers with 50+ listings and very low prices (40-90 ARS) mostly sell used books?"
+ },
+ "16827": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16828": {
+  "p": 0.4,
+  "duda": "Is 'hecho a mano' clothing usually sold new by the maker rather than second-hand?"
+ },
+ "16829": {
+  "p": 0.55,
+  "duda": "Are generic PC components (heatsinks, fans) sold in multiples at low unit price usually pulled used parts?"
+ },
+ "16830": {
+  "p": 0.45,
+  "duda": "For small decorative ornaments with no condition words from a one-off seller, which class is more common?"
+ },
+ "16831": {
+  "p": 0.5,
+  "duda": "For clothing with a generic title, a city name and no condition words, which class is more common?"
+ },
+ "16832": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16833": {
+  "p": 0.5,
+  "duda": "Is expensive furniture described with quality marketing words ('calidad premium') from a one-off seller usually new from a maker or a used set?"
+ },
+ "16834": {
+  "p": 0.55,
+  "duda": "Do CDs with just artist and album title from sellers with a few listings lean used?"
+ },
+ "16835": {
+  "p": 0.5,
+  "duda": "Are baby shoes with a generic title from a one-off seller more often new (unused gifts) or used?"
+ },
+ "16836": {
+  "p": 0.4,
+  "duda": "Do collector sellers of limited-edition diecast cars usually list them as new (carded/boxed)?"
+ },
+ "16837": {
+  "p": 0.6,
+  "duda": "Are orthopedic/medical children's shoes from individuals usually used?"
+ },
+ "16838": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16839": {
+  "p": 0.4,
+  "duda": "Do collector sellers of 1/43 scale model cars usually list them as new?"
+ },
+ "16840": {
+  "p": 0.45,
+  "duda": "Are branded leather wallets from one-off sellers without condition words usually unused gifts listed as new?"
+ },
+ "16841": {
+  "p": 0.5,
+  "duda": "For books whose title gives only the book name with no author, publisher or condition, which class is more common?"
+ },
+ "16842": {
+  "p": 0.4,
+  "duda": "Do women's fashion tops from sellers with a handful of listings lean new (small resellers)?"
+ },
+ "16843": {
+  "p": 0.6,
+  "duda": "Are signed oil paintings by named artists generally listed as used?"
+ },
+ "16844": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16845": {
+  "p": 0.45,
+  "duda": "Do regional-interest/local-history books from one-off sellers lean new (author or publisher copies)?"
+ },
+ "16846": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16847": {
+  "p": 0.55,
+  "duda": "Do CDs with just artist and album title from sellers with a few listings lean used?"
+ },
+ "16848": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16849": {
+  "p": 0.45,
+  "duda": "When a toy/figure listing has stock above 1 and many units sold but uses the word 'excelente', is it new stock or loose used figures?"
+ },
+ "16850": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16851": {
+  "p": 0.65,
+  "duda": "Are collectible promo cards/stickers from past promotions labelled used by default?"
+ },
+ "16852": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16853": {
+  "p": 0.4,
+  "duda": "Are niche high-end perfumes from one-off sellers usually sealed new bottles or partially used ones?"
+ },
+ "16854": {
+  "p": 0.6,
+  "duda": "Do out-of-print soundtrack CDs from sellers with ~10 listings lean used?"
+ },
+ "16855": {
+  "p": 0.45,
+  "duda": "Do academic essay books at mid price from one-off sellers lean new?"
+ },
+ "16856": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16857": {
+  "p": 0.6,
+  "duda": "Are CO2/airsoft replica pistols from one-off sellers with no condition words usually used?"
+ },
+ "16858": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16859": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16860": {
+  "p": 0.6,
+  "duda": "Are cheap motorcycle helmets from one-off sellers without brand or condition words usually used?"
+ },
+ "16861": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16862": {
+  "p": 0.6,
+  "duda": "Do booksellers with 50+ listings and very low prices (40-90 ARS) mostly sell used books?"
+ },
+ "16863": {
+  "p": 0.35,
+  "duda": "Are 'lote' listings of several pairs of shoes marked 'nuevos' genuinely new stock?"
+ },
+ "16864": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16865": {
+  "p": 0.38,
+  "duda": "Does a bare flagship phone model title from a one-off seller with camera photos still lean new?"
+ },
+ "16866": {
+  "p": 0.6,
+  "duda": "Does an internal stock code number appended to a book title indicate a used-book dealer?"
+ },
+ "16867": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16868": {
+  "p": 0.5,
+  "duda": "Are relatively expensive poetry/philosophy translations from small sellers out-of-print used copies or new?"
+ },
+ "16869": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16870": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16871": {
+  "p": 0.65,
+  "duda": "Do high-end gaming peripherals from one-off sellers on the free tier lean used?"
+ },
+ "16872": {
+  "p": 0.35,
+  "duda": "Are old-generation Nextel handsets sold as 'limited edition' by multi-listing sellers with stock above 1 usually new old stock?"
+ },
+ "16873": {
+  "p": 0.45,
+  "duda": "Is heavy construction equipment with sales-style wording at near-retail price from a small seller usually new?"
+ },
+ "16874": {
+  "p": 0.35,
+  "duda": "Does stock of 2+ on a recent spirituality/self-help book indicate a new-book retailer?"
+ },
+ "16875": {
+  "p": 0.6,
+  "duda": "Does 'impecable' in the warranty field (not the title) carry the same used lean as in the title?"
+ },
+ "16876": {
+  "p": 0.6,
+  "duda": "Do booksellers with 50+ listings and very low prices (40-90 ARS) mostly sell used books?"
+ },
+ "16877": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16878": {
+  "p": 0.55,
+  "duda": "How do numismatic dealers label lots of foreign banknotes: new or used?"
+ },
+ "16879": {
+  "p": 0.4,
+  "duda": "Does '100% original de EEUU' on branded kids' clothing indicate a new item brought from abroad?"
+ },
+ "16880": {
+  "p": 0.65,
+  "duda": "Are decorative oriental tableware pieces from small sellers usually used/vintage?"
+ },
+ "16881": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16882": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16883": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16884": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16885": {
+  "p": 0.6,
+  "duda": "Are baby items (crib mattresses, car seats) from one-off sellers with no condition words usually used?"
+ },
+ "16886": {
+  "p": 0.5,
+  "duda": "How are digital goods such as game accounts labelled: new or used?"
+ },
+ "16887": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16888": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16889": {
+  "p": 0.5,
+  "duda": "Are motorcycle chassis/suspension parts with no brand or condition words from one-off sellers more often new or used?"
+ },
+ "16890": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16891": {
+  "p": 0.5,
+  "duda": "Are 'original' badges/trim for classic cars usually new old stock or removed used parts?"
+ },
+ "16892": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16893": {
+  "p": 0.45,
+  "duda": "Do booksellers with 30-40 listings and higher prices (above 200 ARS) lean new?"
+ },
+ "16894": {
+  "p": 0.45,
+  "duda": "Are engine internals for classic cars (lifters, pistons) from one-off sellers usually new old stock or used?"
+ },
+ "16895": {
+  "p": 0.5,
+  "duda": "Is branded jewelry described as a 'regalo' (gift) usually an unused item listed as new or listed as used?"
+ },
+ "16896": {
+  "p": 0.5,
+  "duda": "Is 'importada' on women's clothing from a one-off seller a sign of new or of second-hand resale?"
+ },
+ "16897": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16898": {
+  "p": 0.65,
+  "duda": "Does an internal stock code number appended to a book title indicate a used-book dealer?"
+ },
+ "16899": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16900": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "12501": {
+  "p": 0.58,
+  "duda": "Do small bundles of related books indicate a personal resale collection or ordinary bookstore stock?"
+ },
+ "12502": {
+  "p": 0.47,
+  "duda": "Does the small-seller professional-audio rule extend to simple instrument stands?"
+ },
+ "12503": {
+  "p": 0.47,
+  "duda": "Can a lamp's materials and shade style indicate condition without an age or condition statement?"
+ },
+ "12504": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12505": {
+  "p": 0.56,
+  "duda": "How much does an older consumer camcorder model indicate resale when its warranty is unspecified?"
+ },
+ "12506": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12507": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12508": {
+  "p": 0.6,
+  "duda": "Are loose Kinder toys generally resold collectibles or unused promotional stock?"
+ },
+ "12509": {
+  "p": 0.5,
+  "duda": "How should furnished holiday rentals be mapped to the new-versus-used label?"
+ },
+ "12510": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12511": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "12512": {
+  "p": 0.47,
+  "duda": "Does a generic lamp title with technical features provide any condition evidence?"
+ },
+ "12513": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12514": {
+  "p": 0.35,
+  "duda": "Does a parts-and-shipping guarantee distinguish newly manufactured chandeliers from restored antique stock?"
+ },
+ "12515": {
+  "p": 0.47,
+  "duda": "Does generic promotional wording for a fashion accessory provide reliable evidence of new stock?"
+ },
+ "12516": {
+  "p": 0.47,
+  "duda": "Does describing a garment as imported provide any condition evidence without further details?"
+ },
+ "12517": {
+  "p": 0.47,
+  "duda": "Can a watch brand and movement type establish a new-stock lean without its model or condition?"
+ },
+ "12518": {
+  "p": 0.45,
+  "duda": "Does a very low-priced novel bundle reliably indicate digital delivery rather than secondhand physical books?"
+ },
+ "12519": {
+  "p": 0.62,
+  "duda": "Are older ultrasound systems bundled with several probes typically resold equipment or dealer stock sold new?"
+ },
+ "12520": {
+  "p": 0.47,
+  "duda": "Does a branded flashlight title without a precise model or condition provide any reliable new-versus-used signal?"
+ },
+ "12521": {
+  "p": 0.47,
+  "duda": "How should undeveloped land be mapped to the new-versus-used item label?"
+ },
+ "12522": {
+  "p": 0.45,
+  "duda": "Can a literary title and publisher distinguish new reprints from secondhand editions without a publication date?"
+ },
+ "12523": {
+  "p": 0.89,
+  "duda": ""
+ },
+ "12524": {
+  "p": 0.5,
+  "duda": "Do film-character toy titles without a manufacturer or condition distinguish current stock from loose resale toys?"
+ },
+ "12525": {
+  "p": 0.65,
+  "duda": "For property listings, does an excellent-condition attribute imply prior occupancy for the new-versus-used label?"
+ },
+ "12526": {
+  "p": 0.19,
+  "duda": ""
+ },
+ "12527": {
+  "p": 0.43,
+  "duda": "Does offering multiple sporting-goods brands in one title reliably indicate new retail stock?"
+ },
+ "12528": {
+  "p": 0.45,
+  "duda": "Does a generic affirmative book warranty add condition evidence beyond the general literature rule?"
+ },
+ "12529": {
+  "p": 0.57,
+  "duda": "Does an original vehicle body panel with an inventory code usually denote a salvaged part or a new OEM replacement?"
+ },
+ "12530": {
+  "p": 0.47,
+  "duda": "Does crochet clothing wording indicate newly made merchandise when no condition is stated?"
+ },
+ "12531": {
+  "p": 0.47,
+  "duda": "Does a mosaic-and-wood furniture description distinguish newly crafted pieces from household resale?"
+ },
+ "12532": {
+  "p": 0.4,
+  "duda": "Does 'simil' in a watch title suggest new imitation merchandise or have no condition implication?"
+ },
+ "12533": {
+  "p": 0.45,
+  "duda": "Can a literary title and author alone refine the general literature probability?"
+ },
+ "12534": {
+  "p": 0.39,
+  "duda": "Does the recent-phone rule apply equally to imported regional variants without warranty information?"
+ },
+ "12535": {
+  "p": 0.4,
+  "duda": "Does describing decor as handmade indicate newly created merchandise or merely its construction method?"
+ },
+ "12536": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12537": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "12538": {
+  "p": 0.47,
+  "duda": "Does a model-specific branded automotive protective cover indicate new retail stock without condition wording?"
+ },
+ "12539": {
+  "p": 0.47,
+  "duda": "Can an industrial electrical component's brand and amperage distinguish new stock from removed equipment?"
+ },
+ "12540": {
+  "p": 0.58,
+  "duda": "Do drum kits described as a few shells plus a snare usually represent secondhand partial sets?"
+ },
+ "12541": {
+  "p": 0.45,
+  "duda": "Does a promise of actual-product photographs and detailed descriptions distinguish secondhand books from new bookstore stock?"
+ },
+ "12542": {
+  "p": 0.47,
+  "duda": "Can a garment's brand and decorative details indicate condition when no condition wording appears?"
+ },
+ "12543": {
+  "p": 0.49,
+  "duda": "Does 'original' in an automotive alternator title identify a salvaged part or simply OEM manufacture?"
+ },
+ "12544": {
+  "p": 0.47,
+  "duda": "Are toys based on current mobile-game characters usually new handmade merchandise when no manufacturer or condition is stated?"
+ },
+ "12545": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12546": {
+  "p": 0.65,
+  "duda": "Does the small-seller professional-audio rule also apply to individual replacement speaker drivers?"
+ },
+ "12547": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "12548": {
+  "p": 0.5,
+  "duda": "For older music releases without format or sealing details, is release age informative about resale condition?"
+ },
+ "12549": {
+  "p": 0.55,
+  "duda": "Does a Region 1 DVD designation distinguish imported new stock from a collector's resale?"
+ },
+ "12550": {
+  "p": 0.72,
+  "duda": "When older Latin-music vinyl lacks a pressing date, should it be treated as an original used pressing or a possible modern reissue?"
+ },
+ "12551": {
+  "p": 0.47,
+  "duda": "Does event-furniture wording indicate newly manufactured sets or previously rented furniture?"
+ },
+ "12552": {
+  "p": 0.09,
+  "duda": ""
+ },
+ "12553": {
+  "p": 0.47,
+  "duda": "When a short title could identify either a book or a music release, what identification is needed to apply condition rules?"
+ },
+ "12554": {
+  "p": 0.43,
+  "duda": "Does artwork combining acrylic, drawings, and magazine material usually indicate newly made art or resale decor?"
+ },
+ "12555": {
+  "p": 0.47,
+  "duda": "Does promotional quality wording for bedding provide any reliable condition evidence?"
+ },
+ "12556": {
+  "p": 0.3,
+  "duda": "Does a reference to formal warranty policies override the small-seller used lean for professional audio equipment?"
+ },
+ "12557": {
+  "p": 0.4,
+  "duda": "Does a named lingerie brand and garment type without condition wording usually identify new retail stock?"
+ },
+ "12558": {
+  "p": 0.4,
+  "duda": "Does clearance wording strengthen a title's claim of new condition when no packaging or warranty is mentioned?"
+ },
+ "12559": {
+  "p": 0.35,
+  "duda": "Does a lot of identical cabinet fittings advertised as clearance usually indicate unused surplus or removed used hardware?"
+ },
+ "12560": {
+  "p": 0.8,
+  "duda": "Are antique postcards classified as used even when there is no indication they were mailed?"
+ },
+ "12561": {
+  "p": 0.47,
+  "duda": "Can a lock's brand, mechanism, and materials distinguish unused hardware from a removed lock?"
+ },
+ "12562": {
+  "p": 0.36,
+  "duda": "How much does 'new in box' strengthen a new-condition claim when the box is not explicitly sealed?"
+ },
+ "12563": {
+  "p": 0.45,
+  "duda": "Can a literary title alone distinguish a new retail copy from a secondhand copy?"
+ },
+ "12564": {
+  "p": 0.43,
+  "duda": "How much should a newly released consumer drone model lean new when no condition or warranty is supplied?"
+ },
+ "12565": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12566": {
+  "p": 0.45,
+  "duda": "Does a low price for an older literary work reliably indicate a secondhand copy rather than discounted new stock?"
+ },
+ "12567": {
+  "p": 0.65,
+  "duda": "Should 'sin uso' consistently indicate ownership resale even for garments that may never have been worn?"
+ },
+ "12568": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12569": {
+  "p": 0.45,
+  "duda": "Should cookbooks and newspaper recipe collections follow the general non-fiction rule or the study-manual rule?"
+ },
+ "12570": {
+  "p": 0.4,
+  "duda": "Does an explicit physical-bookstore warranty shift books toward new when the store may also sell secondhand books?"
+ },
+ "12571": {
+  "p": 0.39,
+  "duda": "Does the recent-phone rule apply equally to less-established imported smartphone brands?"
+ },
+ "12572": {
+  "p": 0.65,
+  "duda": "Should the small-seller amplifier rule stand without adjustment when the title supplies no condition or warranty details?"
+ },
+ "12573": {
+  "p": 0.47,
+  "duda": "Does an unsigned painting described only by medium and dimensions indicate newly created art or resale artwork?"
+ },
+ "12574": {
+  "p": 0.7,
+  "duda": "Should practical business encyclopedias count as study manuals or general non-fiction?"
+ },
+ "12575": {
+  "p": 0.47,
+  "duda": "Can a generic garment title support any condition inference without brand, age, or condition details?"
+ },
+ "12576": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "12577": {
+  "p": 0.5,
+  "duda": "Do named styles of cut-crystal glassware imply vintage resale, or are equivalent styles commonly sold new?"
+ },
+ "12578": {
+  "p": 0.47,
+  "duda": "Do precise industrial-tool specifications identify retail stock when no condition statement is supplied?"
+ },
+ "12579": {
+  "p": 0.5,
+  "duda": "Does 'collectible' describe a resale collection or simply a product marketed new to collectors?"
+ },
+ "12580": {
+  "p": 0.47,
+  "duda": "Does a vehicle horn identified only by compatible model suggest a salvaged part or new replacement stock?"
+ },
+ "12581": {
+  "p": 0.65,
+  "duda": "Does an unspecified affirmative warranty materially weaken the small-seller professional-amplifier used lean?"
+ },
+ "12582": {
+  "p": 0.4,
+  "duda": "For a car battery without age, test results, or warranty, is replacement-product wording enough to favor new stock?"
+ },
+ "12583": {
+  "p": 0.47,
+  "duda": "Can furniture materials alone distinguish a newly manufactured table from a household resale?"
+ },
+ "12584": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12585": {
+  "p": 0.5,
+  "duda": "Does a miniature-soldier title with a historical period and scale identify current retail figures or older collectible toys?"
+ },
+ "12586": {
+  "p": 0.45,
+  "duda": "Does an explicit lack of warranty meaningfully distinguish secondhand books from new books?"
+ },
+ "12587": {
+  "p": 0.53,
+  "duda": "Are numbered art catalogs without publication dates usually secondhand publications or new publisher stock?"
+ },
+ "12588": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "12589": {
+  "p": 0.36,
+  "duda": "How much does 'nuevo' add to the recent-phone new lean without sealing or warranty details?"
+ },
+ "12590": {
+  "p": 0.58,
+  "duda": "When 'nuevo' and 'sin uso' appear together, should the ownership-resale signal of 'sin uso' take precedence?"
+ },
+ "12591": {
+  "p": 0.65,
+  "duda": "Should explicit 'poco uso' remain a moderate used lean or justify stronger confidence because it acknowledges prior use?"
+ },
+ "12592": {
+  "p": 0.5,
+  "duda": "How should furnished holiday rentals be mapped to the new-versus-used label?"
+ },
+ "12593": {
+  "p": 0.4,
+  "duda": "Does a ready-made waterproof motorcycle audio kit title indicate new accessory stock without a condition statement?"
+ },
+ "12594": {
+  "p": 0.57,
+  "duda": "Are vehicle interior trim pieces identified only by model and side typically salvaged parts or new replacements?"
+ },
+ "12595": {
+  "p": 0.45,
+  "duda": "Does a very low price for an art publication indicate used condition rather than inexpensive new editorial stock?"
+ },
+ "12596": {
+  "p": 0.47,
+  "duda": "Can a current sports-helmet brand and model distinguish retail stock from personal resale without condition wording?"
+ },
+ "12597": {
+  "p": 0.4,
+  "duda": "In music listings, does 'nuevo CD' mean an unused disc or merely a newly released album?"
+ },
+ "12598": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "12599": {
+  "p": 0.47,
+  "duda": "Does a branded swimming training accessory without condition wording provide any reliable new-versus-used evidence?"
+ },
+ "12600": {
+  "p": 0.1,
+  "duda": ""
+ }
+}

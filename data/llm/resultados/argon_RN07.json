@@ -1,0 +1,402 @@
+{
+ "16601": {
+  "p": 0.5,
+  "duda": "How are collectible diecast model cars (such as Hot Wheels or Schuco) without mention of packaging or blister typically classified?"
+ },
+ "16602": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16603": {
+  "p": 0.48,
+  "duda": "For literature books without edition or condition details, does a very low price (e.g. 50 ARS in 2015) shift the probability toward used compared to the 45% baseline?"
+ },
+ "16604": {
+  "p": 0.15,
+  "duda": "How do sellers typically label service listings (such as hair treatments, video conversions, or accounting services) when posted as product listings?"
+ },
+ "16605": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16606": {
+  "p": 0.45,
+  "duda": "Are OEM IT cables and accessories with exact English part numbers sold by single-item sellers more often surplus listed as new or used?"
+ },
+ "16607": {
+  "p": 0.6,
+  "duda": "In auto parts listings with only the part name and car model and no brand or condition word, what share are used parts?"
+ },
+ "16608": {
+  "p": 0.62,
+  "duda": "Are single back-issue magazines without condition words typically listed as used or new?"
+ },
+ "16609": {
+  "p": 0.52,
+  "duda": "In clothing listings that specify a single size and color in the title without a brand name, does the class balance lean used?"
+ },
+ "16610": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16611": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16612": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16613": {
+  "p": 0.7,
+  "duda": "When a seller numbers common collectibles or household items in the title (e.g. 'Cenicero 166'), are those almost always used/vintage items?"
+ },
+ "16614": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16615": {
+  "p": 0.52,
+  "duda": "In women's clothing, do informal enthusiastic phrases like 'queda divino' or 'hermoso' indicate personal used resale or small-boutique new items?"
+ },
+ "16616": {
+  "p": 0.45,
+  "duda": "For footwear listings titled only with style and 'Importados' without size or condition in the title, what is the used rate?"
+ },
+ "16617": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16618": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16619": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "16620": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16621": {
+  "p": 0.5,
+  "duda": "For specialized measuring tools and instruments sold with only the brand and model in the title, what is the balance between new and used?"
+ },
+ "16622": {
+  "p": 0.38,
+  "duda": "For music CDs and DVDs from multi-listing sellers with shop-style warranties ('todos nuestros productos están garantizados') and .90/.99 prices, are they mostly new or used?"
+ },
+ "16623": {
+  "p": 0.65,
+  "duda": "When eyewear or clothing includes 'Retro Vintage' along with an older brand name like Sferoflex, how often is it listed as used versus new?"
+ },
+ "16624": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16625": {
+  "p": 0.52,
+  "duda": "Do clothing titles starting with 'Hermoso/a' and ending with 'Oferta!' without brand names lean used?"
+ },
+ "16626": {
+  "p": 0.35,
+  "duda": "Are original paintings and artworks ('acrílico original', 'óleo') without an artist name or 'antiguo' typically listed as new by the artist or used?"
+ },
+ "16627": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16628": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16629": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16630": {
+  "p": 0.4,
+  "duda": "For children's seasonal/sport clothing (like ski pants) with 'Nuevo' in the title and a 1-listing seller, does the 'Nuevo' rule (~40% used) still hold?"
+ },
+ "16631": {
+  "p": 0.35,
+  "duda": "For high-price, zero-photo listings that look like services or custom payment links (e.g. 'Auditoria Contable' on free tier), do sellers mark them as new or used?"
+ },
+ "16632": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16633": {
+  "p": 0.55,
+  "duda": "How is the new/used target populated for real estate (Inmuebles) listings on gold_premium tier?"
+ },
+ "16634": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16635": {
+  "p": 0.5,
+  "duda": "When a book listing has a .95/.99 retail-style price but explicitly states 'Sin garantía', does it lean new or used?"
+ },
+ "16636": {
+  "p": 0.55,
+  "duda": "In furniture listings, does a bare title like 'Cama 1 Plaza 1/2' with no material or style specified lean used despite the low category base rate?"
+ },
+ "16637": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16638": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16639": {
+  "p": 0.42,
+  "duda": "In clothing listings from 1-listing sellers, does a .99 price (e.g. 499.99) indicate a new item more often than a round price?"
+ },
+ "16640": {
+  "p": 0.68,
+  "duda": "Are building material remnants or assorted cuts ('mármoles en cortes distintos', scrap wood/metal) typically listed as used or new?"
+ },
+ "16641": {
+  "p": 0.48,
+  "duda": "For generic decorative items like 'Figura De Porcelana' with multiple units in stock, do they lean new (souvenirs/bazaar) or used?"
+ },
+ "16642": {
+  "p": 0.52,
+  "duda": "Does the word 'Liquido' in the title lean used across categories, even for raw materials like fabric?"
+ },
+ "16643": {
+  "p": 0.55,
+  "duda": "Are low-priced 'Importado USA' clothing items in a single size with warranty 'Sí' and .99 pricing mostly used American clothing or new clearance?"
+ },
+ "16644": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "16645": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16646": {
+  "p": 0.65,
+  "duda": "For TV replacement circuit boards (mainboard, T-con, power supply) described as 'Recambio / Testeada', are they mostly listed as used (pulled from TVs) or new?"
+ },
+ "16647": {
+  "p": 0.62,
+  "duda": "What are very cheap listings named only after a military aircraft or historical vehicle (e.g. 'Ia 58 Pucara' at 40 ARS), and are they typically used collectibles?"
+ },
+ "16648": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16649": {
+  "p": 0.38,
+  "duda": "For pet clothing with exact brand/measure formatting and 'Liquido' at a non-round price (e.g. 137 ARS), is it usually new stock clearance or used?"
+ },
+ "16650": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16651": {
+  "p": 0.48,
+  "duda": "For literature books formatted as 'Author - Title - Publisher' at low prices (65–150 ARS) from medium-size booksellers (8–25 listings), are they more often new remainders or used?"
+ },
+ "16652": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "16653": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16654": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16655": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16656": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16657": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16658": {
+  "p": 0.6,
+  "duda": "Are 1/72 or 1/64 scale diecast cars from brands like Schuco with 'Sin garantía' mostly used collector items?"
+ },
+ "16659": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16660": {
+  "p": 0.68,
+  "duda": "In decorative figurines and antiques, does 'sellada' (e.g. 'Estatua China Sellada') usually mean stamped with a maker's mark on a used item rather than sealed in new packaging?"
+ },
+ "16661": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16662": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16663": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16664": {
+  "p": 0.65,
+  "duda": "Are traditional silver/folkloric items like Andean 'tupos' sold by multi-listing sellers typically antique/used pieces or new artisan crafts?"
+ },
+ "16665": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "16666": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16667": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16668": {
+  "p": 0.62,
+  "duda": "Are foreign-language books (e.g. French editions) with camera photos from small sellers mostly used even though general literature leans slightly new?"
+ },
+ "16669": {
+  "p": 0.52,
+  "duda": "Do unbranded winter outerwear listings specifying a single size in the title (e.g. 'Chaleco Inflado De Mujer Abrigo Talle M') lean used?"
+ },
+ "16670": {
+  "p": 0.5,
+  "duda": "For minimal two-word clothing titles (e.g. 'Pollera De Corderoy', 'Botas Hombre') with no brand, size, or condition, does the class balance differ from the 46% clothing average?"
+ },
+ "16671": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16672": {
+  "p": 0.45,
+  "duda": "Are simple jewelry listings like 'Aros De Plata' with 'Sin garantía' typically new or used?"
+ },
+ "16673": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16674": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16675": {
+  "p": 0.4,
+  "duda": "Are seasonal religious/nativity figurines like 'Animales Para Pesebres Vaca' mostly sold new by craft/santería sellers or used?"
+ },
+ "16676": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16677": {
+  "p": 0.62,
+  "duda": "Do music DVDs from the 2000s sold by 1-listing sellers with camera photos and no condition words lean strongly used?"
+ },
+ "16678": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16679": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16680": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16681": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16682": {
+  "p": 0.35,
+  "duda": "For high-end outdoor apparel (like The North Face) priced at full retail with catalog photos and a 1-listing seller, is it usually new (brought from travel) or used?"
+ },
+ "16683": {
+  "p": 0.52,
+  "duda": "Are listings like 'Toldo Fijo En Caño Y Lona Plastica' from 1-listing sellers more often custom fabrication offers (new) or removed second-hand awnings (used)?"
+ },
+ "16684": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16685": {
+  "p": 0.5,
+  "duda": "When footwear listings contain only the item type and gender ('Botas Hombre') and no brand or size, do they lean used or new?"
+ },
+ "16686": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16687": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16688": {
+  "p": 0.39,
+  "duda": "Does a flagship phone released in the same year (e.g. Samsung Galaxy S6 in 2015) on the free tier lean even more strongly new than the 39% phone rule?"
+ },
+ "16689": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16690": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16691": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16692": {
+  "p": 0.45,
+  "duda": "Do generic athletic clothing listings like 'Remera Dry Fit' with non-camera photos lean new?"
+ },
+ "16693": {
+  "p": 0.58,
+  "duda": "For licensed children's toys and craft kits (e.g. 'Fabrica De Collares Violetta') at low prices with 'Sin garantía' and 1-listing sellers, what share are used?"
+ },
+ "16694": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "16695": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16696": {
+  "p": 0.48,
+  "duda": "Are commercial/institutional equipment items like paper towel dispensers from small sellers at exact non-round prices (e.g. 1125 ARS) mostly new or used?"
+ },
+ "16697": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16698": {
+  "p": 0.62,
+  "duda": "For premium-brand leather/suede jackets (like Timberland) in a single size priced well below new retail, how reliably are they used?"
+ },
+ "16699": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16700": {
+  "p": 0.32,
+  "duda": ""
+ }
+}

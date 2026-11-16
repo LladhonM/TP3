@@ -1,0 +1,110 @@
+{
+ "13001": {
+  "p": 0.6,
+  "duda": "When a furniture or decor title says 'diseño americano' (mid-century style), is it usually an original vintage piece (used) or a newly made reproduction?"
+ },
+ "13002": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "13003": {
+  "p": 0.62,
+  "duda": "When a title contains both a condition phrase ('excelente estado') and 'nuevo', which one usually reflects the label the seller chose?"
+ },
+ "13004": {
+  "p": 0.45,
+  "duda": "Are single-unit building openings (aluminium windows, doors) with exact measurements usually new stock from a workshop or salvaged/leftover used pieces?"
+ },
+ "13005": {
+  "p": 0.5,
+  "duda": "Does a warranty 'por buen funcionamiento' offered by an installer on a gas heater indicate a reconditioned (used) unit rather than a new one?"
+ },
+ "13006": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "13007": {
+  "p": 0.45,
+  "duda": "Are niche instrument replacement parts (tuners, pickups, bridges) from one-listing sellers usually new leftovers or parts pulled from an instrument and listed as used?"
+ },
+ "13008": {
+  "p": 0.5,
+  "duda": "Are quinceañera and wedding dress listings in the plural, without condition words, usually from dressmakers (new) or individuals reselling worn dresses (used)?"
+ },
+ "13009": {
+  "p": 0.45,
+  "duda": "Are very cheap generic toys or sports items on the free tier with no condition words more often new or used?"
+ },
+ "13010": {
+  "p": 0.5,
+  "duda": "Are basic office calculators with no model number in the title usually new stock or second-hand?"
+ },
+ "13011": {
+  "p": 0.6,
+  "duda": "For vehicles, does 'Nueva' in the title together with the attribute 'Único dueño: Sí' mean the seller labelled it used (as-new condition) or new (0 km)?"
+ },
+ "13012": {
+  "p": 0.6,
+  "duda": "Are single football club jerseys of a specific size from one-listing sellers, without 'nueva' or 'original con etiqueta', usually used?"
+ },
+ "13013": {
+  "p": 0.4,
+  "duda": "Are bar/draft-beer equipment parts (drip trays, taps) from one-listing sellers usually new or second-hand?"
+ },
+ "13014": {
+  "p": 0.55,
+  "duda": "Are niche-genre music CDs (metal, imports) from small sellers with no condition words more often used collection copies or new stock?"
+ },
+ "13015": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "13016": {
+  "p": 0.55,
+  "duda": "Are generic party dress listings with no brand, size or condition words more often worn-once resales or new items?"
+ },
+ "13017": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "13018": {
+  "p": 0.65,
+  "duda": "Is industrial or laboratory electrical machinery described only by its technical type (no brand or model) usually second-hand?"
+ },
+ "13019": {
+  "p": 0.45,
+  "duda": "Are cheap football club badges/patches from one-listing sellers usually new merchandise or old collectibles listed as used?"
+ },
+ "13020": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "13021": {
+  "p": 0.45,
+  "duda": "Are plain iron grills without a brand usually newly made by a blacksmith (new) or second-hand household items?"
+ },
+ "13022": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "13023": {
+  "p": 0.65,
+  "duda": "Are bulk lots of glass jars aimed at crafters usually recycled (used) containers or new unused packaging?"
+ },
+ "13024": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "13025": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "13026": {
+  "p": 0.55,
+  "duda": "Are oil paintings listed with only theme and measurements (no artist, no date) usually sold as used by resellers or as new by the painter?"
+ },
+ "13027": {
+  "p": 0.7,
+  "duda": ""
+ }
+}

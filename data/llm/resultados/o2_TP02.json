@@ -1,0 +1,402 @@
+{
+ "14101": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "14102": {
+  "p": 0.55,
+  "duda": "For generic clothing titles with no brand, size, condition words or other detail, is there any textual cue that reliably separates new stock from used resales?"
+ },
+ "14103": {
+  "p": 0.35,
+  "duda": "Do promotional words like 'Oferta' or 'Oportunidad' in a title indicate a shop selling new stock, or an individual clearing personal items?"
+ },
+ "14104": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14105": {
+  "p": 0.66,
+  "duda": "Does 'antiguo' describing a frame or piece mean a genuine old (used) item, or can it be a new antique-style decor product?"
+ },
+ "14106": {
+  "p": 0.6,
+  "duda": "For literature titles whose edition is likely out of print, should a price well below new retail be read as evidence of a used copy despite the books-lean-new rule?"
+ },
+ "14107": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14108": {
+  "p": 0.6,
+  "duda": "How are real-estate and temporary-rental listings (cabins, houses, apartments) usually labeled in this dataset: new or used?"
+ },
+ "14109": {
+  "p": 0.6,
+  "duda": "Are collectible coins with a circulated grade (VF, XF) usually labeled used, and does a large professional coin-dealer seller change that?"
+ },
+ "14110": {
+  "p": 0.62,
+  "duda": "Does an odd or incomplete furniture set (e.g. 5 chairs) indicate a used item from a household?"
+ },
+ "14111": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "14112": {
+  "p": 0.55,
+  "duda": "Are out-of-print ('descatalogado') CDs listed by large music sellers usually labeled new (old stock) or used?"
+ },
+ "14113": {
+  "p": 0.58,
+  "duda": "For literature sold by small bookstores with pickup/shipping terms, is an older, likely out-of-print title more often a used copy?"
+ },
+ "14114": {
+  "p": 0.55,
+  "duda": "Are low-priced health or orthopedic items (lumbar belts, braces) usually new stock or used resales?"
+ },
+ "14115": {
+  "p": 0.55,
+  "duda": "For furniture sets (table plus chairs) with no condition words, does a price below typical retail indicate a used item?"
+ },
+ "14116": {
+  "p": 0.55,
+  "duda": "Do branded leather goods (e.g. Motor Oil) with adjectives like 'Hermosa' and personal payment/shipping notes tend to be used resales or new items?"
+ },
+ "14117": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14118": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "14119": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "14120": {
+  "p": 0.5,
+  "duda": "How are stamps and covers labeled: does mint/unused mean new and cancelled mean used, or do stamp dealers label everything one way?"
+ },
+ "14121": {
+  "p": 0.6,
+  "duda": "Are older non-fiction titles (political or historical essays from decades ago) usually used copies, overriding the non-fiction-leans-new rule?"
+ },
+ "14122": {
+  "p": 0.45,
+  "duda": "For unbranded shoes with only a size in the title, does a mid-range price (around 1000 ARS) suggest new stock?"
+ },
+ "14123": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "14124": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "14125": {
+  "p": 0.62,
+  "duda": "Are decorative porcelain collectibles (Capodimonte, Lladro and similar) usually resold used items rather than new stock?"
+ },
+ "14126": {
+  "p": 0.62,
+  "duda": "Are empty original phone boxes sold on their own labeled new or used?"
+ },
+ "14127": {
+  "p": 0.4,
+  "duda": "Are sticker albums (figuritas) from high-volume sellers usually new empty albums or used/filled ones?"
+ },
+ "14128": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14129": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14130": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "14131": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14132": {
+  "p": 0.62,
+  "duda": "Does a lighting fixture listed with its bulbs included suggest a used item taken down from a home?"
+ },
+ "14133": {
+  "p": 0.45,
+  "duda": "For small accessories (wallets, bags) named with a little-known brand and no condition words, should the default lean new or used?"
+ },
+ "14134": {
+  "p": 0.65,
+  "duda": "Are commercial vehicle bodies and heavy industrial equipment usually listed used?"
+ },
+ "14135": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14136": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14137": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, size, condition words or other detail, is there any textual cue that reliably separates new stock from used resales?"
+ },
+ "14138": {
+  "p": 0.45,
+  "duda": "For generic clothing and bags with no brand or condition words, does a mid-range price suggest new stock?"
+ },
+ "14139": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14140": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14141": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "14142": {
+  "p": 0.5,
+  "duda": "Are decorative kitchenware items (pavas, teteras decorativas) usually vintage used pieces or new decor stock?"
+ },
+ "14143": {
+  "p": 0.45,
+  "duda": "How are stamps labeled: does an unissued or mint stamp count as new, and do stamp dealers label everything one way?"
+ },
+ "14144": {
+  "p": 0.5,
+  "duda": "How should listings with placeholder prices (e.g. 2 ARS) and no photos be interpreted for condition?"
+ },
+ "14145": {
+  "p": 0.55,
+  "duda": "Are wooden wardrobes listed with exact dimensions custom-made new pieces from carpenters or used furniture?"
+ },
+ "14146": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "14147": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14148": {
+  "p": 0.4,
+  "duda": "Are football club pennants (banderines) usually new merchandise or vintage collectibles labeled used?"
+ },
+ "14149": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "14150": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14151": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14152": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14153": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "14154": {
+  "p": 0.6,
+  "duda": "For short ambiguous book titles with no author and a very low price, does the low price alone imply a used copy?"
+ },
+ "14155": {
+  "p": 0.62,
+  "duda": "Are book collections originally distributed with newspapers (e.g. Felix Luna's history series) usually resold used?"
+ },
+ "14156": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14157": {
+  "p": 0.65,
+  "duda": "Are small appliances not officially sold in Argentina (e.g. Philips Senseo) usually used items or new imports?"
+ },
+ "14158": {
+  "p": 0.6,
+  "duda": "How are stamp lots labeled: does mint/unused mean new and cancelled mean used, or do stamp dealers label everything one way?"
+ },
+ "14159": {
+  "p": 0.5,
+  "duda": "Are baby and toddler clothes with a size range and a .99-style price usually new shop stock or used resales?"
+ },
+ "14160": {
+  "p": 0.55,
+  "duda": "Are party dresses and children's party outfits usually resold used after one event?"
+ },
+ "14161": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "14162": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14163": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14164": {
+  "p": 0.45,
+  "duda": "Do inventory codes in book titles (e.g. '10464-') indicate a used-book dealer or a new-book shop?"
+ },
+ "14165": {
+  "p": 0.58,
+  "duda": "Is snowboard or ski gear (bindings, boards) in single listings usually a used resale?"
+ },
+ "14166": {
+  "p": 0.6,
+  "duda": "Are small vintage-style decor pieces (cameos, small frames) usually used items?"
+ },
+ "14167": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "14168": {
+  "p": 0.55,
+  "duda": "Are bedding items (duvets with covers) in single listings usually new stock or used?"
+ },
+ "14169": {
+  "p": 0.4,
+  "duda": "Does 'Original!' in the title of a cheap accessory indicate new stock, or an individual stressing that a used item is genuine?"
+ },
+ "14170": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14171": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14172": {
+  "p": 0.55,
+  "duda": "Are children's toy furniture listings (toy kitchens, play sets) usually used resales?"
+ },
+ "14173": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14174": {
+  "p": 0.55,
+  "duda": "For unbranded shoes with only a size in the title and a low price, should the default lean used?"
+ },
+ "14175": {
+  "p": 0.65,
+  "duda": "Are industrial parts (gear reducers, motors) from single listings usually used surplus?"
+ },
+ "14176": {
+  "p": 0.4,
+  "duda": "Are niche imported metal CDs usually new stock from specialized shops?"
+ },
+ "14177": {
+  "p": 0.45,
+  "duda": "Are vinyl LPs of 2000s albums sold at import prices usually new reissues or used copies?"
+ },
+ "14178": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14179": {
+  "p": 0.5,
+  "duda": "Are unbranded industrial fans or equipment in single listings usually new or used?"
+ },
+ "14180": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14181": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "14182": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "14183": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14184": {
+  "p": 0.6,
+  "duda": "Are children's licensed shoes (e.g. Violetta) at low prices usually used?"
+ },
+ "14185": {
+  "p": 0.5,
+  "duda": "Is 'provenzal' furniture usually newly made by artisans or used?"
+ },
+ "14186": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, size, condition words or other detail, is there any textual cue that reliably separates new stock from used resales?"
+ },
+ "14187": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14188": {
+  "p": 0.5,
+  "duda": "How are stamps labeled: does mint/unused mean new and cancelled mean used, or do stamp dealers label everything one way?"
+ },
+ "14189": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "14190": {
+  "p": 0.45,
+  "duda": "Does a 'refund for printing or binding defects' warranty indicate a new-book seller, even for old out-of-print titles?"
+ },
+ "14191": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14192": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14193": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "14194": {
+  "p": 0.5,
+  "duda": "Is 'provenzal' furniture usually newly made by artisans or used?"
+ },
+ "14195": {
+  "p": 0.65,
+  "duda": "Are classic philosophy editions (e.g. Gredos) usually sold used as study material?"
+ },
+ "14196": {
+  "p": 0.55,
+  "duda": "Are vintage promotional stickers or collectibles (e.g. Coca-Cola codes) labeled new (unused) or used?"
+ },
+ "14197": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14198": {
+  "p": 0.5,
+  "duda": "Are party dresses and children's party outfits usually resold used after one event?"
+ },
+ "14199": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "14200": {
+  "p": 0.2,
+  "duda": ""
+ }
+}

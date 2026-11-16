@@ -1,0 +1,402 @@
+{
+ "12601": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12602": {
+  "p": 0.35,
+  "duda": "In book listings, does 'las fotos son del producto exhibido' signal a shop display copy (new) or a second-hand copy?"
+ },
+ "12603": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "12604": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12605": {
+  "p": 0.5,
+  "duda": "When a one-off seller lists an imported brand not sold in Argentina in 2015 (Banana Republic, Forever 21, American Girl, foreign club jerseys), is it usually a new item brought from abroad or a used one?"
+ },
+ "12606": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12607": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12608": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12609": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12610": {
+  "p": 0.4,
+  "duda": "Are listings of police/military insignia, patches or badges usually new reproductions or used originals?"
+ },
+ "12611": {
+  "p": 0.55,
+  "duda": "Are doors, gates and window bars (rejas) listed by one-off sellers usually used (removed from a house) or new from a blacksmith?"
+ },
+ "12612": {
+  "p": 0.5,
+  "duda": "For literature/non-fiction books with no condition words, is a price well below the 2015 retail price (e.g. under ~100 ARS) a reliable sign of a used copy?"
+ },
+ "12613": {
+  "p": 0.6,
+  "duda": "In collectibles (coins, tokens, stamps, phone cards, cigarette packs), do sellers usually mark items as used or new, e.g. does 'mint/unused' count as new?"
+ },
+ "12614": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12615": {
+  "p": 0.45,
+  "duda": "For literature/non-fiction books with no condition words, is a price well below the 2015 retail price (e.g. under ~100 ARS) a reliable sign of a used copy?"
+ },
+ "12616": {
+  "p": 0.55,
+  "duda": "Is costume/fashion jewelry (rings, bracelets) listed by one-off sellers usually the seller's own used piece or new stock?"
+ },
+ "12617": {
+  "p": 0.65,
+  "duda": "Are single loudspeakers/bafles with no brand, listed by one-off sellers, usually used?"
+ },
+ "12618": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "12619": {
+  "p": 0.55,
+  "duda": "Do book sellers who stress 'fotos reales del producto, con zoom' mostly sell used copies?"
+ },
+ "12620": {
+  "p": 0.5,
+  "duda": "How are real-estate rentals and services (no physical product) labeled in this dataset: new or used?"
+ },
+ "12621": {
+  "p": 0.55,
+  "duda": "For literature/non-fiction books with no condition words, is a price well below the 2015 retail price (e.g. under ~100 ARS) a reliable sign of a used copy?"
+ },
+ "12622": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12623": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12624": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12625": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12626": {
+  "p": 0.4,
+  "duda": "Are 1/43 diecast scale models (collector cars) usually labeled new (boxed) or used?"
+ },
+ "12627": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12628": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12629": {
+  "p": 0.55,
+  "duda": "When a one-off seller lists an imported brand not sold in Argentina in 2015 (Banana Republic, Forever 21, American Girl, foreign club jerseys), is it usually a new item brought from abroad or a used one?"
+ },
+ "12630": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12631": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12632": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12633": {
+  "p": 0.4,
+  "duda": "When a one-off seller lists an imported brand not sold in Argentina in 2015 (Banana Republic, Forever 21, American Girl, foreign club jerseys), is it usually a new item brought from abroad or a used one?"
+ },
+ "12634": {
+  "p": 0.65,
+  "duda": "In collectibles (coins, tokens, stamps, phone cards, cigarette packs), do sellers usually mark items as used or new, e.g. does 'mint/unused' count as new?"
+ },
+ "12635": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12636": {
+  "p": 0.45,
+  "duda": "Is a bicycle titled 'nueva' by a one-off seller usually truly new, or a used bike described as like-new?"
+ },
+ "12637": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12638": {
+  "p": 0.45,
+  "duda": "When a one-off seller lists an imported brand not sold in Argentina in 2015 (Banana Republic, Forever 21, American Girl, foreign club jerseys), is it usually a new item brought from abroad or a used one?"
+ },
+ "12639": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12640": {
+  "p": 0.6,
+  "duda": "Are original music/film DVDs and CDs from one-off sellers with no condition words usually used copies?"
+ },
+ "12641": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12642": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12643": {
+  "p": 0.6,
+  "duda": "Does 'sin uso, en bolsa / en caja' (unused, still packaged) get labeled used or new in this dataset?"
+ },
+ "12644": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12645": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12646": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12647": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12648": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12649": {
+  "p": 0.5,
+  "duda": "Are pop-star merchandise or memorabilia items (notebooks, posters, notes) from one-off sellers usually new or used?"
+ },
+ "12650": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12651": {
+  "p": 0.4,
+  "duda": "In collectibles (coins, tokens, stamps, phone cards, cigarette packs), do sellers usually mark items as used or new, e.g. does 'mint/unused' count as new?"
+ },
+ "12652": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12653": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12654": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12655": {
+  "p": 0.35,
+  "duda": "Are spare parts for old vehicles marked 'nueva' (new-old-stock) labeled new in this dataset?"
+ },
+ "12656": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12657": {
+  "p": 0.5,
+  "duda": "Are signed artisan silver pieces (platería criolla) usually new from the maker or vintage resales?"
+ },
+ "12658": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12659": {
+  "p": 0.55,
+  "duda": "Are original artworks (oil paintings) resold by individuals labeled new or used?"
+ },
+ "12660": {
+  "p": 0.55,
+  "duda": "Does 'discontinuo' (discontinued) on a tool or gadget usually mean old unsold stock (new) or a used item?"
+ },
+ "12661": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12662": {
+  "p": 0.6,
+  "duda": "Are fountain pens or vintage stationery from one-off sellers with no brand usually used?"
+ },
+ "12663": {
+  "p": 0.6,
+  "duda": "Is sporting gear (spearguns, helmets) from one-off sellers with no condition words usually used?"
+ },
+ "12664": {
+  "p": 0.65,
+  "duda": "In collectibles (coins, tokens, stamps, phone cards, cigarette packs), do sellers usually mark items as used or new, e.g. does 'mint/unused' count as new?"
+ },
+ "12665": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12666": {
+  "p": 0.45,
+  "duda": "Are promotional/souvenir items (cruise or brand giveaways) resold by individuals labeled new or used?"
+ },
+ "12667": {
+  "p": 0.65,
+  "duda": "Are obscure, older Argentine books listed cheaply by mid-size book sellers mostly used copies?"
+ },
+ "12668": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12669": {
+  "p": 0.65,
+  "duda": "For literature/non-fiction books with no condition words, is a price well below the 2015 retail price (e.g. under ~100 ARS) a reliable sign of a used copy?"
+ },
+ "12670": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12671": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12672": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12673": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12674": {
+  "p": 0.5,
+  "duda": "Are English-language history books sold by large Argentine book sellers usually imported new or used copies?"
+ },
+ "12675": {
+  "p": 0.6,
+  "duda": "Are promotional/souvenir items (cruise or brand giveaways) resold by individuals labeled new or used?"
+ },
+ "12676": {
+  "p": 0.4,
+  "duda": "Are handmade rugs/tapestries (telar) usually new artisan products or used?"
+ },
+ "12677": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12678": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12679": {
+  "p": 0.5,
+  "duda": "Is sporting gear (spearguns, helmets) from one-off sellers with no condition words usually used?"
+ },
+ "12680": {
+  "p": 0.4,
+  "duda": "Are expensive academic books (around 1000 ARS) usually new imports or rare used copies?"
+ },
+ "12681": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12682": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12683": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12684": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12685": {
+  "p": 0.6,
+  "duda": "For clothing/shoes from one-off sellers with no condition words, is a branded/designer item (Rapsodia, Sarkany) more often a resale of the seller's own used garment than new stock?"
+ },
+ "12686": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12687": {
+  "p": 0.45,
+  "duda": "Are party dresses from one-off sellers with no condition words usually worn-once resales or new?"
+ },
+ "12688": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12689": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12690": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12691": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12692": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12693": {
+  "p": 0.45,
+  "duda": "For clothing/shoes from one-off sellers with no condition words, is a branded/designer item (Rapsodia, Sarkany) more often a resale of the seller's own used garment than new stock?"
+ },
+ "12694": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12695": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12696": {
+  "p": 0.45,
+  "duda": "Are medical/surgical instruments sold by one-off sellers usually new or used?"
+ },
+ "12697": {
+  "p": 0.5,
+  "duda": "For clothing/shoes from one-off sellers with no condition words, is a branded/designer item (Rapsodia, Sarkany) more often a resale of the seller's own used garment than new stock?"
+ },
+ "12698": {
+  "p": 0.6,
+  "duda": "For clothing/shoes from one-off sellers with no condition words, is a branded/designer item (Rapsodia, Sarkany) more often a resale of the seller's own used garment than new stock?"
+ },
+ "12699": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12700": {
+  "p": 0.2,
+  "duda": ""
+ }
+}

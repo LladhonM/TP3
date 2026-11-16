@@ -1,0 +1,402 @@
+{
+ "17201": {
+  "p": 0.45,
+  "duda": "For generic women's clothing with no brand, size or condition words, does an initial stock of 2 or more indicate a new item from a small reseller?"
+ },
+ "17202": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17203": {
+  "p": 0.38,
+  "duda": "When a seller says an item was only used for display/exhibition but calls it new, do they usually list it as new or used?"
+ },
+ "17204": {
+  "p": 0.42,
+  "duda": "For home appliances (water heaters, stoves) listed by a one-off seller with an exact model code and a price close to retail, is the item usually new or used?"
+ },
+ "17205": {
+  "p": 0.6,
+  "duda": "Are music CDs listed with a bare title ('Cd + artist') by one-off sellers mostly used?"
+ },
+ "17206": {
+  "p": 0.55,
+  "duda": "Do high-volume book sellers who put 'Sí' as warranty and price books under 100 ARS mostly sell used books?"
+ },
+ "17207": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17208": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "17209": {
+  "p": 0.65,
+  "duda": "Do antique/collectible dealers usually list antique jewelry and collectibles as used, or do some mark them as new?"
+ },
+ "17210": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "17211": {
+  "p": 0.5,
+  "duda": "For a single unbranded garment with no size or condition words from a one-off seller, is there any signal that separates new from used?"
+ },
+ "17212": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17213": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17214": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17215": {
+  "p": 0.55,
+  "duda": "Does a single branded garment with one specific size and a 'my ratings are the warranty' text indicate a person reselling used clothes?"
+ },
+ "17216": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "17217": {
+  "p": 0.47,
+  "duda": "For literature by little-known authors or small publishers with no condition words, are listings mostly new (author/publisher stock) or used?"
+ },
+ "17218": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17219": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17220": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17221": {
+  "p": 0.6,
+  "duda": "For auto parts described as 'original' without 'nuevo' from a one-off seller, is the part usually used (taken from a car)?"
+ },
+ "17222": {
+  "p": 0.45,
+  "duda": "Are small auto hardware parts (bolts, screws, mounts) for older car models from one-off sellers usually new old stock or used?"
+ },
+ "17223": {
+  "p": 0.55,
+  "duda": "Is fishing gear (reels, rods) from one-off sellers with no condition words usually used?"
+ },
+ "17224": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17225": {
+  "p": 0.45,
+  "duda": "How are real-estate listings (apartments for sale or rent) labelled in this dataset: mostly new or mostly used?"
+ },
+ "17226": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17227": {
+  "p": 0.6,
+  "duda": "Does a 'Sin garantía' warranty text on books or records indicate a used item?"
+ },
+ "17228": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17229": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17230": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17231": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "17232": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17233": {
+  "p": 0.55,
+  "duda": "For branded fashion items (Mango, Zara, etc.) described as 'unique' and '100% original' by small sellers, are they mostly used resale or new imports?"
+ },
+ "17234": {
+  "p": 0.45,
+  "duda": "How are real-estate listings (apartments for sale or rent) labelled in this dataset: mostly new or mostly used?"
+ },
+ "17235": {
+  "p": 0.6,
+  "duda": "Are single accessories from local designer brands (e.g. Las Pepas) with no condition words mostly second-hand resale?"
+ },
+ "17236": {
+  "p": 0.6,
+  "duda": "Are very cheap unbranded shoes from one-off sellers mostly used?"
+ },
+ "17237": {
+  "p": 0.55,
+  "duda": "Do specialised law or professional books lean used like study material, or new like general non-fiction?"
+ },
+ "17238": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17239": {
+  "p": 0.5,
+  "duda": "For decorative household objects with no condition words from sellers with around 10 listings, are they mostly used/vintage or new stock?"
+ },
+ "17240": {
+  "p": 0.6,
+  "duda": "Does a low price (under 100 ARS) on a general book indicate a used copy?"
+ },
+ "17241": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17242": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17243": {
+  "p": 0.47,
+  "duda": "For comics and magazines from high-volume sellers where units sold exceed initial stock, is the item usually new shop stock or used?"
+ },
+ "17244": {
+  "p": 0.5,
+  "duda": "Are uncirculated ('sin circular') coins and banknotes from numismatic dealers labelled new or used?"
+ },
+ "17245": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17246": {
+  "p": 0.55,
+  "duda": "Does the pro-audio rule (one-off seller leans used) also apply to car audio gear such as crossovers and amplifiers?"
+ },
+ "17247": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17248": {
+  "p": 0.35,
+  "duda": "Are vehicle service/workshop manuals covering a range of model years usually new reprints or digital copies rather than used originals?"
+ },
+ "17249": {
+  "p": 0.52,
+  "duda": "Are recent-release music CDs (2014–2015 albums) from one-off sellers mostly new or used?"
+ },
+ "17250": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17251": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17252": {
+  "p": 0.5,
+  "duda": "When a high-volume book seller writes 'Nuevo' in the title but 'estado de nuevo' (like-new condition) in the warranty, is the listing labelled new or used?"
+ },
+ "17253": {
+  "p": 0.55,
+  "duda": "Are postage stamps from philatelic dealers (catalog-number listings) mostly labelled used or new?"
+ },
+ "17254": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17255": {
+  "p": 0.4,
+  "duda": "Does the phone rule (named recent model leans new) hold for sellers with 1–2 listings and no warranty text?"
+ },
+ "17256": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17257": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17258": {
+  "p": 0.6,
+  "duda": "Are decorative objects (vases, ornaments) with no brand or condition words from one-off sellers mostly used?"
+ },
+ "17259": {
+  "p": 0.55,
+  "duda": "Are small camera accessories (lens hoods, filters, caps) from small sellers with 'Sin garantía' mostly used or cheap new imports?"
+ },
+ "17260": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17261": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "17262": {
+  "p": 0.45,
+  "duda": "For licensed sportswear (NBA, football) described as 'original' with one specific size and a high price, is it usually new or used?"
+ },
+ "17263": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17264": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17265": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17266": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17267": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17268": {
+  "p": 0.5,
+  "duda": "For auto parts such as engine/gearbox mounts for recent car models with no condition words and no photos, are they mostly new or used?"
+ },
+ "17269": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17270": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17271": {
+  "p": 0.55,
+  "duda": "Are vinyl-record care accessories from small sellers usually vintage used items or new stock?"
+ },
+ "17272": {
+  "p": 0.6,
+  "duda": "Are construction items (doors, windows) from one-off free-tier sellers mostly used leftovers or removed pieces?"
+ },
+ "17273": {
+  "p": 0.45,
+  "duda": "Is electrical cable sold by one-off sellers usually a new leftover roll (labelled new) or labelled used?"
+ },
+ "17274": {
+  "p": 0.6,
+  "duda": "Are art and architecture monographs from small sellers mostly used?"
+ },
+ "17275": {
+  "p": 0.48,
+  "duda": "For recent Argentine literature (published within about 5 years) from one-off sellers with no condition words, is it mostly new or used?"
+ },
+ "17276": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17277": {
+  "p": 0.65,
+  "duda": "Are original vintage film posters labelled used, or do collectors list them as new?"
+ },
+ "17278": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17279": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17280": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17281": {
+  "p": 0.6,
+  "duda": "Is a single dress listed with only material and size by a small seller usually a used personal item?"
+ },
+ "17282": {
+  "p": 0.6,
+  "duda": "Are small toys/miniatures sold as-is (e.g. without battery) by mid-size sellers mostly used?"
+ },
+ "17283": {
+  "p": 0.35,
+  "duda": "When a physical hobby shop with a factory-defect warranty lists an older ('antiguo') collectible card product, is it labelled new?"
+ },
+ "17284": {
+  "p": 0.55,
+  "duda": "Are cheap CDs (under 50 ARS) from mid-size sellers mostly used or new clearance stock?"
+ },
+ "17285": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17286": {
+  "p": 0.5,
+  "duda": "Are uncirculated ('sin circular') coins and banknotes from numismatic dealers labelled new or used?"
+ },
+ "17287": {
+  "p": 0.45,
+  "duda": "When a one-off seller lists a guitar pedal as 'nuevo', which dominates: the 'nuevo' lean or the pro-audio one-off-seller used lean?"
+ },
+ "17288": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17289": {
+  "p": 0.6,
+  "duda": "Do high-volume music sellers label old formats (cassettes) as used, or as new when they are old stock?"
+ },
+ "17290": {
+  "p": 0.6,
+  "duda": "Is branded baby clothing with a specific size and 'Sin garantía' usually used?"
+ },
+ "17291": {
+  "p": 0.6,
+  "duda": "Is a single dress listed with only material and size by a small seller usually a used personal item?"
+ },
+ "17292": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17293": {
+  "p": 0.5,
+  "duda": "Are lots of electronic connectors/plugs ('lote fichas') from small sellers usually new surplus or used?"
+ },
+ "17294": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17295": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17296": {
+  "p": 0.45,
+  "duda": "Are motocross goggle lenses and tear-offs from one-off sellers usually new spare parts?"
+ },
+ "17297": {
+  "p": 0.55,
+  "duda": "Is cheap unbranded baby clothing from one-off sellers mostly used or new handmade/wholesale?"
+ },
+ "17298": {
+  "p": 0.5,
+  "duda": "For Argentine historical novels from one-off sellers with several photos and no condition words, is it mostly new or used?"
+ },
+ "17299": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17300": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

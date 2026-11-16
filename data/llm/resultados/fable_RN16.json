@@ -1,0 +1,402 @@
+{
+ "17501": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17502": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17503": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17504": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17505": {
+  "p": 0.45,
+  "duda": "Are industrial/stainless-steel fittings (tank lids, valves) listed by one-off sellers with no condition words usually surplus used pieces or new fabricated items?"
+ },
+ "17506": {
+  "p": 0.6,
+  "duda": "Is a console game title listed with no platform, no 'sellado' and no 'digital' wording usually a second-hand physical disc?"
+ },
+ "17507": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17508": {
+  "p": 0.45,
+  "duda": "When a clothing/footwear title is fully generic (no brand, size or condition), is there any base tendency toward new or used?"
+ },
+ "17509": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17510": {
+  "p": 0.35,
+  "duda": "Are car body/lighting parts (headlights, mouldings) from one-listing sellers more often new aftermarket stock or parts pulled from a used car?"
+ },
+ "17511": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17512": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17513": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17514": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17515": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17516": {
+  "p": 0.6,
+  "duda": "When the warranty field holds a condition word like 'EXCELENTE' instead of a warranty term, should it be read as rule 4 (condition word, lean used)?"
+ },
+ "17517": {
+  "p": 0.5,
+  "duda": "Do listings that mention a neighbourhood/zone in the title ('Zona Belgrano', 'Zona Oeste') tend to be individuals reselling used items or small home-based sellers of new goods?"
+ },
+ "17518": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17519": {
+  "p": 0.4,
+  "duda": "Is old-style electrical hardware (porcelain fuses, etc.) offered in large stock usually labelled new (old stock) or used?"
+ },
+ "17520": {
+  "p": 0.4,
+  "duda": "Does 'importado' plus a foreign brand on children's clothing with stock above 1 indicate a reseller of new garments brought from abroad?"
+ },
+ "17521": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17522": {
+  "p": 0.35,
+  "duda": "Do high-volume sellers with a generic 'all our items are guaranteed by our professionalism' warranty text sell mostly new or used media (DVDs, books)?"
+ },
+ "17523": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17524": {
+  "p": 0.65,
+  "duda": "Are sellers with 30-50 book listings and no warranty text mostly second-hand bookshops?"
+ },
+ "17525": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17526": {
+  "p": 0.45,
+  "duda": "For large electronics (TVs, air conditioners) from a one-listing seller at near-retail price with no condition words, is the item more often new or used?"
+ },
+ "17527": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17528": {
+  "p": 0.65,
+  "duda": "Does 'Excelente' as a title adjective (not 'excelente estado') on a decorative/handcrafted object signal a used item as in rule 4?"
+ },
+ "17529": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17530": {
+  "p": 0.35,
+  "duda": "Does '(nuevo)' in parentheses on a cheap watch from a mid-size seller carry more weight than the generic 59% of rule 5?"
+ },
+ "17531": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17532": {
+  "p": 0.55,
+  "duda": "Do listings that mention a neighbourhood/zone in the title ('Zona Belgrano', 'Zona Oeste') tend to be individuals reselling used items or small home-based sellers of new goods?"
+ },
+ "17533": {
+  "p": 0.5,
+  "duda": "Are sports trophies/cups listed by one-off sellers usually new blank trophies from a shop or second-hand/antique pieces?"
+ },
+ "17534": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17535": {
+  "p": 0.55,
+  "duda": "For popular children's/young-adult classics from a 30-50 listing bookseller at a low price, is the copy usually second-hand?"
+ },
+ "17536": {
+  "p": 0.6,
+  "duda": "Is a music CD listed with only the artist/album name by a one-listing seller usually a used copy from a personal collection?"
+ },
+ "17537": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17538": {
+  "p": 0.45,
+  "duda": "Does a plural, generic clothing title ('Saquitos', 'Remeras') with stock 1 indicate a shop showing several models or a person clearing their wardrobe?"
+ },
+ "17539": {
+  "p": 0.25,
+  "duda": "How are live animals (puppies, kittens) labelled in this dataset: almost always new, or mixed?"
+ },
+ "17540": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17541": {
+  "p": 0.25,
+  "duda": "How are live animals (puppies, kittens) labelled in this dataset: almost always new, or mixed?"
+ },
+ "17542": {
+  "p": 0.45,
+  "duda": "Do high-volume CD sellers with a money-back guarantee text and odd prices like 129.98 sell new imported CDs or second-hand ones?"
+ },
+ "17543": {
+  "p": 0.35,
+  "duda": "For collectible toys/models marked 'Nueva' by a small seller, is the item usually truly new in box or an owned collectible described as new?"
+ },
+ "17544": {
+  "p": 0.2,
+  "duda": "How are services and temporary rentals labelled in this dataset: new by default?"
+ },
+ "17545": {
+  "p": 0.55,
+  "duda": "Are decorative metal pieces (candelabra, bronze objects) with no 'antiguo' wording and stock above 1 more often new decor or antiques?"
+ },
+ "17546": {
+  "p": 0.4,
+  "duda": "Are mint stamps/souvenir sheets and uncirculated coins from philatelic/numismatic sellers labelled new or used?"
+ },
+ "17547": {
+  "p": 0.55,
+  "duda": "Are old banknotes and circulated coins from collectible sellers labelled used, or do these sellers default to new?"
+ },
+ "17548": {
+  "p": 0.4,
+  "duda": "Are 'original canje' PC games (promotional redemption copies) from multi-listing sellers usually sealed new stock?"
+ },
+ "17549": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17550": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17551": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17552": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17553": {
+  "p": 0.55,
+  "duda": "Are children's school-reading books from textbook publishers (Tinta Fresca, etc.) at very low prices usually used copies?"
+ },
+ "17554": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17555": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17556": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17557": {
+  "p": 0.35,
+  "duda": "Is silver jewellery with stones from a one-listing seller with no condition words usually new artisan stock or a personal piece being resold?"
+ },
+ "17558": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17559": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17560": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "17561": {
+  "p": 0.6,
+  "duda": "Are souvenir pins and similar small collectibles labelled used even when never worn?"
+ },
+ "17562": {
+  "p": 0.6,
+  "duda": "Are car body/lighting parts (headlights, mouldings) from one-listing sellers more often new aftermarket stock or parts pulled from a used car?"
+ },
+ "17563": {
+  "p": 0.35,
+  "duda": "Does 'Local a la calle' in the warranty field of a bookseller indicate a new-book shop or a second-hand bookshop?"
+ },
+ "17564": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17565": {
+  "p": 0.55,
+  "duda": "Does 'Sin garantía' written explicitly on a clothing listing lean toward a used item sold by an individual?"
+ },
+ "17566": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17567": {
+  "p": 0.25,
+  "duda": "How are live animals (puppies, kittens) labelled in this dataset: almost always new, or mixed?"
+ },
+ "17568": {
+  "p": 0.65,
+  "duda": "Should rule 3 (pro audio gear from 1-2 listing sellers leans used) also apply to high-end guitars and basses?"
+ },
+ "17569": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17570": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17571": {
+  "p": 0.65,
+  "duda": "Does a warranty text boasting years in the book trade ('20 años en el rubro') indicate a second-hand bookseller?"
+ },
+ "17572": {
+  "p": 0.5,
+  "duda": "Are cheap mass-market classic editions (Gradifco, etc.) from small booksellers usually new remainders or used copies?"
+ },
+ "17573": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17574": {
+  "p": 0.4,
+  "duda": "Are branded plumbing fixtures (FV taps) from one-listing sellers usually new leftovers from a renovation or removed used units?"
+ },
+ "17575": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "17576": {
+  "p": 0.4,
+  "duda": "Does a bare 'Sí' in the warranty field of a book listing lean toward a new copy?"
+ },
+ "17577": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17578": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17579": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17580": {
+  "p": 0.2,
+  "duda": "How are services and temporary rentals labelled in this dataset: new by default?"
+ },
+ "17581": {
+  "p": 0.4,
+  "duda": "When an individual sells a single pair of shoes marked 'Nuevos !!', is it usually labelled new or used (bought and never worn)?"
+ },
+ "17582": {
+  "p": 0.4,
+  "duda": "Are specialised imported devices (HVAC thermostats, docking stations) listed with exact part numbers by one-off sellers usually new in box?"
+ },
+ "17583": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17584": {
+  "p": 0.5,
+  "duda": "When a title names only a hobby and brands (model trains) with a very low price and several units sold, is it usually new accessories/catalogues or used items?"
+ },
+ "17585": {
+  "p": 0.6,
+  "duda": "Are collectible/import pressings of classic Argentine rock CDs marked 'Original' usually second-hand?"
+ },
+ "17586": {
+  "p": 0.6,
+  "duda": "Are graphic novels/comic albums from one-listing sellers usually used copies from a personal collection?"
+ },
+ "17587": {
+  "p": 0.55,
+  "duda": "For large electronics (TVs, air conditioners) from a one-listing seller at near-retail price with no condition words, is the item more often new or used?"
+ },
+ "17588": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17589": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17590": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17591": {
+  "p": 0.5,
+  "duda": "Are mint stamps/souvenir sheets and uncirculated coins from philatelic/numismatic sellers labelled new or used?"
+ },
+ "17592": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17593": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17594": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17595": {
+  "p": 0.55,
+  "duda": "Does naming a brand plus season year (e.g. 'Portsaid 2015') on a single garment from an individual indicate a recently bought item being resold as used?"
+ },
+ "17596": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17597": {
+  "p": 0.65,
+  "duda": "Are sports-equipment bundles ('bolsa + guantes + cadena') from one-listing free-tier sellers usually used home equipment?"
+ },
+ "17598": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17599": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "17600": {
+  "p": 0.5,
+  "duda": "For spiritual/esoteric titles from a 30-50 listing bookseller with no warranty text and a mid price, is the copy more often new or second-hand?"
+ }
+}

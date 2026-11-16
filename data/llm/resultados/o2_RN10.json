@@ -1,0 +1,402 @@
+{
+ "16901": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16902": {
+  "p": 0.6,
+  "duda": "Are CDs and books from newspaper collections (Página/12, Clarín) usually listed as used resales?"
+ },
+ "16903": {
+  "p": 0.5,
+  "duda": "Are parts for discontinued classic cars (IKA, Rambler, Estanciera) usually listed as new old stock or as used?"
+ },
+ "16904": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16905": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16906": {
+  "p": 0.55,
+  "duda": "Are music CD listings of regional/folk artists without 'cerrado' or 'sellado' usually used?"
+ },
+ "16907": {
+  "p": 0.5,
+  "duda": "Are collectible action figures (Myth Cloth, etc.) with no condition words usually new-in-box or used/opened?"
+ },
+ "16908": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16909": {
+  "p": 0.42,
+  "duda": "Do sellers with dozens of listings of older essay/humanities books mostly sell used copies?"
+ },
+ "16910": {
+  "p": 0.5,
+  "duda": "When a seller's warranty covers both described-condition items and 'nuevos sellados', which label do their listings usually carry?"
+ },
+ "16911": {
+  "p": 0.6,
+  "duda": "Is a price clearly below retail for a named branded appliance, pump or peripheral strong evidence of used?"
+ },
+ "16912": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16913": {
+  "p": 0.6,
+  "duda": "Are console/handheld game listings with only the title (no 'nuevo' or 'sellado') usually used?"
+ },
+ "16914": {
+  "p": 0.45,
+  "duda": "For clothing or shoes with no condition words, is a price far below typical retail a reliable sign of used?"
+ },
+ "16915": {
+  "p": 0.5,
+  "duda": "Are 1/43 die-cast collectible models usually labeled new (boxed) or used by collectors?"
+ },
+ "16916": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16917": {
+  "p": 0.5,
+  "duda": "For clothing or shoes with no condition words, is a price far below typical retail a reliable sign of used?"
+ },
+ "16918": {
+  "p": 0.35,
+  "duda": "When pro audio gear from a 1-2 listing seller says 'nuevo en caja', does the new claim override the used lean?"
+ },
+ "16919": {
+  "p": 0.45,
+  "duda": "Are classic literature titles at very low prices more often used copies?"
+ },
+ "16920": {
+  "p": 0.55,
+  "duda": "Are old coins, stamps and postcards labeled new or used in this dataset (does 'mint' or a grade like 'muy buena' matter)?"
+ },
+ "16921": {
+  "p": 0.45,
+  "duda": "Are leftover construction/electrical materials from a private seller usually labeled new?"
+ },
+ "16922": {
+  "p": 0.6,
+  "duda": "Do book titles carrying an inventory number (e.g. '- 2754') indicate a used-book dealer?"
+ },
+ "16923": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16924": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16925": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16926": {
+  "p": 0.55,
+  "duda": "Does a title starting with 'Vendo' indicate a private resale of a used item?"
+ },
+ "16927": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16928": {
+  "p": 0.55,
+  "duda": "When a used-book dealer puts 'Nuevo' in the title, is the book new stock or a used copy in new condition?"
+ },
+ "16929": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16930": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16931": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16932": {
+  "p": 0.62,
+  "duda": "For clothing or shoes with no condition words, is a price far below typical retail a reliable sign of used?"
+ },
+ "16933": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16934": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16935": {
+  "p": 0.4,
+  "duda": "Are old coins, stamps and postcards labeled new or used in this dataset (does 'mint' or a grade like 'muy buena' matter)?"
+ },
+ "16936": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16937": {
+  "p": 0.55,
+  "duda": "Are PS2-era games sold by game shops in 2015 typically used or new old stock?"
+ },
+ "16938": {
+  "p": 0.45,
+  "duda": "For clothing or shoes with no condition words, is a price far below typical retail a reliable sign of used?"
+ },
+ "16939": {
+  "p": 0.42,
+  "duda": "Are home textiles (rugs, carpets) with no condition words more often new?"
+ },
+ "16940": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16941": {
+  "p": 0.4,
+  "duda": "Are obsolete media and accessories (data cartridges, old phone headsets) usually new old stock or used?"
+ },
+ "16942": {
+  "p": 0.62,
+  "duda": "Are toy lots or collections (plural, e.g. 'casitas') from private sellers usually used?"
+ },
+ "16943": {
+  "p": 0.5,
+  "duda": "Are designer-brand clothing items with no condition words more often used resales?"
+ },
+ "16944": {
+  "p": 0.5,
+  "duda": "Are handcrafted decor items (wooden figures, carvings) usually new artisan stock or used?"
+ },
+ "16945": {
+  "p": 0.35,
+  "duda": "Are traditional furniture pieces like a 'silla matera' usually sold new by makers?"
+ },
+ "16946": {
+  "p": 0.45,
+  "duda": "Are scale-model car listings named only by the real car (e.g. 'Renault Megane Trophy 09') new or used?"
+ },
+ "16947": {
+  "p": 0.55,
+  "duda": "Are obsolete media and accessories (data cartridges, old phone headsets) usually new old stock or used?"
+ },
+ "16948": {
+  "p": 0.38,
+  "duda": "Do general non-fiction books with several units sold come from new-book stores?"
+ },
+ "16949": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16950": {
+  "p": 0.45,
+  "duda": "Are school-reading classics (e.g. Amalia) more often used copies?"
+ },
+ "16951": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16952": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16953": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16954": {
+  "p": 0.5,
+  "duda": "Are old coins, stamps and postcards labeled new or used in this dataset (does 'mint' or a grade like 'muy buena' matter)?"
+ },
+ "16955": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16956": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16957": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16958": {
+  "p": 0.5,
+  "duda": "For clothing or shoes with no condition words, is a price far below typical retail a reliable sign of used?"
+ },
+ "16959": {
+  "p": 0.55,
+  "duda": "Are major car/engine parts (doors, starters, cylinder heads) from private sellers usually used/recovered rather than new?"
+ },
+ "16960": {
+  "p": 0.63,
+  "duda": "Does 'raro/rara' in a title signal a collectible used item?"
+ },
+ "16961": {
+  "p": 0.55,
+  "duda": "Are model-train accessories (Lionel) usually vintage used items?"
+ },
+ "16962": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16963": {
+  "p": 0.45,
+  "duda": "Is gold jewelry priced by weight usually new from a jeweler or used?"
+ },
+ "16964": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16965": {
+  "p": 0.6,
+  "duda": "Are CDs and books from newspaper collections (Página/12, Clarín) usually listed as used resales?"
+ },
+ "16966": {
+  "p": 0.45,
+  "duda": "Are handcrafted decor items (wooden figures, carvings) usually new artisan stock or used?"
+ },
+ "16967": {
+  "p": 0.45,
+  "duda": "Are badges, patches or emblem collectibles usually labeled new or used?"
+ },
+ "16968": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16969": {
+  "p": 0.63,
+  "duda": "Are law/university textbooks named by author usually used copies?"
+ },
+ "16970": {
+  "p": 0.6,
+  "duda": "Are major car/engine parts (doors, starters, cylinder heads) from private sellers usually used/recovered rather than new?"
+ },
+ "16971": {
+  "p": 0.6,
+  "duda": "Are old coins, stamps and postcards labeled new or used in this dataset (does 'mint' or a grade like 'muy buena' matter)?"
+ },
+ "16972": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16973": {
+  "p": 0.45,
+  "duda": "Are branded pumps/appliances listed with full model name and no photos more often new shop stock?"
+ },
+ "16974": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16975": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16976": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16977": {
+  "p": 0.6,
+  "duda": "Are old coins, stamps and postcards labeled new or used in this dataset (does 'mint' or a grade like 'muy buena' matter)?"
+ },
+ "16978": {
+  "p": 0.6,
+  "duda": "Is a price clearly below retail for a named branded appliance, pump or peripheral strong evidence of used?"
+ },
+ "16979": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16980": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16981": {
+  "p": 0.58,
+  "duda": "Are classic literature titles at very low prices more often used copies?"
+ },
+ "16982": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16983": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16984": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16985": {
+  "p": 0.62,
+  "duda": "For clothing or shoes with no condition words, is a price far below typical retail a reliable sign of used?"
+ },
+ "16986": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16987": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16988": {
+  "p": 0.6,
+  "duda": "Are lots of old craft supplies ('muy antiguos') labeled used even if never used?"
+ },
+ "16989": {
+  "p": 0.4,
+  "duda": "Are imported English paperbacks (Penguin) marked 'Nuevo' at low prices actually new?"
+ },
+ "16990": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16991": {
+  "p": 0.4,
+  "duda": "Are single industrial tools or drill bits from private sellers usually new surplus?"
+ },
+ "16992": {
+  "p": 0.45,
+  "duda": "Is costume jewelry like cameo rings usually new stock or vintage used?"
+ },
+ "16993": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16994": {
+  "p": 0.4,
+  "duda": "Are high-end tobacco pipes (Peterson) usually sold new or as used estate pipes?"
+ },
+ "16995": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16996": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16997": {
+  "p": 0.55,
+  "duda": "Are imported comics/graphic novels without condition words usually used?"
+ },
+ "16998": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "16999": {
+  "p": 0.6,
+  "duda": "Is a price clearly below retail for a named branded appliance, pump or peripheral strong evidence of used?"
+ },
+ "17000": {
+  "p": 0.15,
+  "duda": ""
+ }
+}

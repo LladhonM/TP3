@@ -1,0 +1,402 @@
+{
+ "16301": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16302": {
+  "p": 0.45,
+  "duda": "When an individual resells branded shoes or clothing brought from the USA ('Usa', 'importado') with no condition words, are they usually new or used?"
+ },
+ "16303": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16304": {
+  "p": 0.45,
+  "duda": "Are slot cars / collectible model cars (Scalextric etc.) with no condition words usually listed as new or used?"
+ },
+ "16305": {
+  "p": 0.6,
+  "duda": "Are sports jerseys from a discontinued kit supplier or past season (e.g. Reebok NFL) usually listed as used, or as new old stock?"
+ },
+ "16306": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16307": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16308": {
+  "p": 0.6,
+  "duda": "Are business/management books priced well below new-book price (under ~100 ARS in 2015) usually used?"
+ },
+ "16309": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16310": {
+  "p": 0.5,
+  "duda": "For self-help / alternative health books from mid-size sellers with warranty 'Sí' and no condition words, is new or used more likely?"
+ },
+ "16311": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16312": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16313": {
+  "p": 0.55,
+  "duda": "Are office machines (paper shredders, etc.) with a model number sold by a one-listing seller usually used?"
+ },
+ "16314": {
+  "p": 0.35,
+  "duda": "When a one-off seller writes 'nueva en caja' for a camera, is it reliably labeled new?"
+ },
+ "16315": {
+  "p": 0.6,
+  "duda": "Are small promotional collectible toys (Jack/Kinder egg figures) from past years usually labeled used?"
+ },
+ "16316": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16317": {
+  "p": 0.6,
+  "duda": "Is a branded outdoor jacket (Columbia, etc.) from a one-listing seller with no condition words more often used?"
+ },
+ "16318": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16319": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16320": {
+  "p": 0.6,
+  "duda": "Are out-of-print commemorative/collector books at high prices usually labeled used?"
+ },
+ "16321": {
+  "p": 0.4,
+  "duda": "Does 'nueva' in the title of a low-priced catalog-brand (Avon) accessory from an individual reliably mean new?"
+ },
+ "16322": {
+  "p": 0.45,
+  "duda": "Are cheap pool/beach inflatables from one-listing sellers usually new?"
+ },
+ "16323": {
+  "p": 0.55,
+  "duda": "Does the abbreviation 'c/nuevo' (como nuevo) in a book title from a large seller with stock >1 indicate a used copy or new remainder stock?"
+ },
+ "16324": {
+  "p": 0.45,
+  "duda": "Are wooden fences/gates and similar construction items from one-listing sellers typically made-to-order new or second-hand?"
+ },
+ "16325": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16326": {
+  "p": 0.55,
+  "duda": "Are 'de reposición' tiles/mosaics (discontinued models for replacement) labeled new (old stock) or used (salvaged)?"
+ },
+ "16327": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16328": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16329": {
+  "p": 0.4,
+  "duda": "Does a 'de fábrica' warranty on audio gear from a one-listing seller outweigh the rule that such gear leans used?"
+ },
+ "16330": {
+  "p": 0.55,
+  "duda": "Are single comic issues/trade paperbacks at low odd prices from one-listing sellers usually used?"
+ },
+ "16331": {
+  "p": 0.3,
+  "duda": "Are old stationery refills sold in packs (new old stock) labeled new?"
+ },
+ "16332": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16333": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16334": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16335": {
+  "p": 0.45,
+  "duda": "Are recent Argentine comic/humor books from one-listing sellers at ~100 ARS usually new or used?"
+ },
+ "16336": {
+  "p": 0.45,
+  "duda": "Are generic-titled phone accessories (headphones, chargers) from one-listing free-tier sellers usually new?"
+ },
+ "16337": {
+  "p": 0.65,
+  "duda": "Does '(completo)' in an electronics title signal a used item being resold with all accessories?"
+ },
+ "16338": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16339": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16340": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16341": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16342": {
+  "p": 0.55,
+  "duda": "Are postage stamps (mint series identified by Yvert number) labeled new or used in MercadoLibre?"
+ },
+ "16343": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16344": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16345": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16346": {
+  "p": 0.4,
+  "duda": "Are handcrafted leather goods from one-listing sellers typically new artisan production?"
+ },
+ "16347": {
+  "p": 0.55,
+  "duda": "Is premium-brand baby clothing (Baby Cottons, Carter's, Gap) from one-listing sellers with no condition words more often used or new?"
+ },
+ "16348": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16349": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16350": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16351": {
+  "p": 0.45,
+  "duda": "Is premium-brand baby clothing (Baby Cottons, Carter's, Gap) from one-listing sellers with no condition words more often used or new?"
+ },
+ "16352": {
+  "p": 0.6,
+  "duda": "Is an unbranded single garment with size and colour only, from a one-listing seller, usually used?"
+ },
+ "16353": {
+  "p": 0.4,
+  "duda": "Is premium-brand baby clothing (Baby Cottons, Carter's, Gap) from one-listing sellers with no condition words more often used or new?"
+ },
+ "16354": {
+  "p": 0.4,
+  "duda": "Are electronic spare parts with a short seller warranty ('se lo probamos', 1 month) usually new parts or pulled/used ones?"
+ },
+ "16355": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16356": {
+  "p": 0.55,
+  "duda": "Are structural building materials (roof trusses, beams, doors) with stock >1 from one-listing sellers usually salvaged/used or newly fabricated?"
+ },
+ "16357": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16358": {
+  "p": 0.55,
+  "duda": "Is branded sports/outdoor gear (hydration packs, etc.) from one-listing sellers with no condition words more often used?"
+ },
+ "16359": {
+  "p": 0.4,
+  "duda": "Is a book price near the 2015 new-book range (150-250 ARS) a reliable sign of a new copy?"
+ },
+ "16360": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16361": {
+  "p": 0.6,
+  "duda": "Is an Anagrama (imported publisher) title at about half the new price from a one-listing seller usually used?"
+ },
+ "16362": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16363": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16364": {
+  "p": 0.35,
+  "duda": "Does 'nuevas' plus 'oferta' for building fixtures from a one-listing seller reliably mean new?"
+ },
+ "16365": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16366": {
+  "p": 0.4,
+  "duda": "Are garden furniture combos with stock >1 on a gold tier usually new shop stock?"
+ },
+ "16367": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16368": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16369": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16370": {
+  "p": 0.45,
+  "duda": "Are structural building materials (roof trusses, beams, doors) from one-listing sellers usually salvaged/used or newly fabricated?"
+ },
+ "16371": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16372": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16373": {
+  "p": 0.6,
+  "duda": "Are accessories for discontinued film cameras with stock >1 labeled used or new old stock?"
+ },
+ "16374": {
+  "p": 0.55,
+  "duda": "Are postage stamps (mint series identified by Yvert number) labeled new or used in MercadoLibre?"
+ },
+ "16375": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16376": {
+  "p": 0.6,
+  "duda": "Are generic home textiles (curtains) with no brand or condition words from small sellers usually used?"
+ },
+ "16377": {
+  "p": 0.6,
+  "duda": "How are real-estate listings of existing houses (estado 'muy bueno') labeled: used or new?"
+ },
+ "16378": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "16379": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16380": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16381": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16382": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16383": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16384": {
+  "p": 0.5,
+  "duda": "Are high-priced CDs of out-of-print or special editions from small sellers usually used collector copies or sealed new ones?"
+ },
+ "16385": {
+  "p": 0.5,
+  "duda": "Are home medical devices (nebulizers) priced near retail from one-listing sellers usually new or lightly used?"
+ },
+ "16386": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16387": {
+  "p": 0.4,
+  "duda": "Are postage stamps (thematic sheets) labeled new or used in MercadoLibre?"
+ },
+ "16388": {
+  "p": 0.55,
+  "duda": "Are DVDs of classic films from small sellers with a phone photo usually used?"
+ },
+ "16389": {
+  "p": 0.55,
+  "duda": "Are expensive one-off formal dresses from one-listing sellers usually worn once (used) or new?"
+ },
+ "16390": {
+  "p": 0.45,
+  "duda": "Does 'oferta' on branded sneakers from a one-listing seller suggest new stock or a resold pair?"
+ },
+ "16391": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16392": {
+  "p": 0.6,
+  "duda": "Do very large book sellers that put an internal code (#c197) in titles sell mainly used books?"
+ },
+ "16393": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16394": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16395": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16396": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16397": {
+  "p": 0.55,
+  "duda": "Are 'de colección' football shirts from specialised small sellers with stock >1 vintage used items or new retro reissues?"
+ },
+ "16398": {
+  "p": 0.6,
+  "duda": "Are cheap compilation CDs from mid-size sellers usually used?"
+ },
+ "16399": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16400": {
+  "p": 0.3,
+  "duda": "How are live animals (puppies) labeled: new or used?"
+ }
+}

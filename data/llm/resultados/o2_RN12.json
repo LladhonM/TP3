@@ -1,0 +1,402 @@
+{
+ "17101": {
+  "p": 0.62,
+  "duda": "Is a book priced well below typical new retail (under ~100 ARS in 2015) a reliable sign of a used copy?"
+ },
+ "17102": {
+  "p": 0.65,
+  "duda": "Are individual back issues of magazines usually labeled used?"
+ },
+ "17103": {
+  "p": 0.5,
+  "duda": "Are CDs or records sold singly, without condition words, usually used copies?"
+ },
+ "17104": {
+  "p": 0.3,
+  "duda": "Are mint (unused) stamps from collector sellers labeled new or used?"
+ },
+ "17105": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17106": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17107": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17108": {
+  "p": 0.4,
+  "duda": "When 'nuevo' appears in the title of a single-size garment from a private seller, how often is it actually labeled new?"
+ },
+ "17109": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17110": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17111": {
+  "p": 0.65,
+  "duda": "Does the pro-audio rule (rule 3) extend to synthesizers and keyboard workstations?"
+ },
+ "17112": {
+  "p": 0.6,
+  "duda": "Are football club jerseys sold singly well below official retail usually used?"
+ },
+ "17113": {
+  "p": 0.65,
+  "duda": "For single-unit clothing or shoes from private sellers with no condition words, does a price far below brand retail imply used?"
+ },
+ "17114": {
+  "p": 0.5,
+  "duda": "Are camping items (tents, sleeping bags) from one-off private sellers usually used?"
+ },
+ "17115": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17116": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17117": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17118": {
+  "p": 0.38,
+  "duda": "When 'nuevo' appears in the title of a single-size garment from a private seller, how often is it actually labeled new?"
+ },
+ "17119": {
+  "p": 0.55,
+  "duda": "Are original paintings or artworks sold by individuals labeled new or used?"
+ },
+ "17120": {
+  "p": 0.65,
+  "duda": "For single-unit clothing or shoes from private sellers with no condition words, does a price far below brand retail imply used?"
+ },
+ "17121": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17122": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17123": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17124": {
+  "p": 0.15,
+  "duda": "How are non-physical offers (services, rentals, investment shares, photo books) labeled: always new?"
+ },
+ "17125": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17126": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17127": {
+  "p": 0.58,
+  "duda": "Are lots of parts or electronic components (lote de piezas) usually used or new old stock?"
+ },
+ "17128": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17129": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17130": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17131": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17132": {
+  "p": 0.25,
+  "duda": "How are non-physical offers (services, rentals, investment shares, photo books) labeled: always new?"
+ },
+ "17133": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17134": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17135": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17136": {
+  "p": 0.55,
+  "duda": "Are handmade or artisan items (decor, wooden toys, rustic furniture) labeled new?"
+ },
+ "17137": {
+  "p": 0.5,
+  "duda": "Are single computer/electronics replacement parts (PSUs, keyboards, coolers, boards) with exact part numbers usually used pulls or new stock?"
+ },
+ "17138": {
+  "p": 0.45,
+  "duda": "Are generic aftermarket car accessories (fog lights, etc.) with no car model named usually new?"
+ },
+ "17139": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "17140": {
+  "p": 0.65,
+  "duda": "Does rule 3 (pro audio, small seller) still hold when the price is close to new retail?"
+ },
+ "17141": {
+  "p": 0.45,
+  "duda": "Are decades-old vinyl records described as 'nuevo' (new old stock) labeled new?"
+ },
+ "17142": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17143": {
+  "p": 0.35,
+  "duda": "Are handmade or artisan items (decor, wooden toys, rustic furniture) labeled new?"
+ },
+ "17144": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17145": {
+  "p": 0.4,
+  "duda": "Are current comics and graphic novels sold near cover price usually new?"
+ },
+ "17146": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "17147": {
+  "p": 0.58,
+  "duda": "Is a book priced well below typical new retail (under ~100 ARS in 2015) a reliable sign of a used copy?"
+ },
+ "17148": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17149": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17150": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17151": {
+  "p": 0.4,
+  "duda": "Are CDs or records sold singly, without condition words, usually used copies?"
+ },
+ "17152": {
+  "p": 0.4,
+  "duda": "Is a literature book priced near new retail (~150-200 ARS in 2015) usually new?"
+ },
+ "17153": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17154": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17155": {
+  "p": 0.48,
+  "duda": "Do enthusiastic adjectives in clothing/accessory titles ('hermosa', 'miralo!!!') indicate a private reseller of used items?"
+ },
+ "17156": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17157": {
+  "p": 0.55,
+  "duda": "Do enthusiastic adjectives in clothing/accessory titles ('hermosa', 'miralo!!!') indicate a private reseller of used items?"
+ },
+ "17158": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17159": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17160": {
+  "p": 0.48,
+  "duda": "For generic clothing with no brand, condition words or details, is there any default lean?"
+ },
+ "17161": {
+  "p": 0.65,
+  "duda": "Are older editions of classic literary works sold by book sellers usually used?"
+ },
+ "17162": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17163": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17164": {
+  "p": 0.4,
+  "duda": "Are boxed die-cast or promotional collectibles (Lledo, Matchbox) labeled new when in original packaging?"
+ },
+ "17165": {
+  "p": 0.65,
+  "duda": "Are school reading books (Edelvives, SM, Ala Delta) sold cheaply usually used copies?"
+ },
+ "17166": {
+  "p": 0.58,
+  "duda": "For single-unit clothing or shoes from private sellers with no condition words, does a price far below brand retail imply used?"
+ },
+ "17167": {
+  "p": 0.62,
+  "duda": "Are single computer/electronics replacement parts (PSUs, keyboards, coolers, boards) with exact part numbers usually used pulls or new stock?"
+ },
+ "17168": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17169": {
+  "p": 0.6,
+  "duda": "Is a book priced well below typical new retail (under ~100 ARS in 2015) a reliable sign of a used copy?"
+ },
+ "17170": {
+  "p": 0.6,
+  "duda": "Are out-of-print history or essay books sold by multi-listing book sellers usually used?"
+ },
+ "17171": {
+  "p": 0.32,
+  "duda": "Are lots of parts or electronic components (lote de piezas) usually used or new old stock?"
+ },
+ "17172": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17173": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17174": {
+  "p": 0.45,
+  "duda": "Are single computer/electronics replacement parts (PSUs, keyboards, coolers, boards) with exact part numbers usually used pulls or new stock?"
+ },
+ "17175": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17176": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17177": {
+  "p": 0.4,
+  "duda": "Are single computer/electronics replacement parts (PSUs, keyboards, coolers, boards) with exact part numbers usually used pulls or new stock?"
+ },
+ "17178": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17179": {
+  "p": 0.6,
+  "duda": "Are designer-brand kids' clothes sold singly usually used?"
+ },
+ "17180": {
+  "p": 0.6,
+  "duda": "Do one-word, uninformative titles (e.g. 'Camera') from private sellers lean used?"
+ },
+ "17181": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17182": {
+  "p": 0.35,
+  "duda": "Are fitness or how-to books/DVDs with generic titles usually new?"
+ },
+ "17183": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17184": {
+  "p": 0.65,
+  "duda": "Does 'producto en perfectas condiciones' in the warranty signal a used-clothing reseller?"
+ },
+ "17185": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17186": {
+  "p": 0.5,
+  "duda": "Are large appliances (air conditioners, etc.) sold by one-off private sellers near retail price usually used?"
+ },
+ "17187": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17188": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "17189": {
+  "p": 0.45,
+  "duda": "For generic clothing with no brand, condition words or details, is there any default lean?"
+ },
+ "17190": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17191": {
+  "p": 0.62,
+  "duda": "Are CDs or records sold singly, without condition words, usually used copies?"
+ },
+ "17192": {
+  "p": 0.6,
+  "duda": "Are car parts for specific older models (ABS units, mirrors, hitches) usually used pulls?"
+ },
+ "17193": {
+  "p": 0.48,
+  "duda": "For unfamiliar book titles from multi-listing book sellers, is there a default lean?"
+ },
+ "17194": {
+  "p": 0.45,
+  "duda": "Are construction materials (tiles, flooring, sheets) without 'demolicion' or 'segunda' usually new?"
+ },
+ "17195": {
+  "p": 0.3,
+  "duda": "Are mint (unused) stamps from collector sellers labeled new or used?"
+ },
+ "17196": {
+  "p": 0.6,
+  "duda": "Are decor items like lanterns or candle holders priced high, without 'antiguo', usually vintage used?"
+ },
+ "17197": {
+  "p": 0.5,
+  "duda": "Are very cheap book listings with odd prices (e.g. 19.95, 25.90 ARS) usually ebooks (new) rather than used copies?"
+ },
+ "17198": {
+  "p": 0.35,
+  "duda": "Are popular licensed dolls (Monster High, Barbie) at retail-level prices usually new?"
+ },
+ "17199": {
+  "p": 0.62,
+  "duda": "Are car parts for specific older models (ABS units, mirrors, hitches) usually used pulls?"
+ },
+ "17200": {
+  "p": 0.55,
+  "duda": "Are imported US kids-brand clothes (Gymboree, Carter's) in single sizes usually resold used?"
+ }
+}

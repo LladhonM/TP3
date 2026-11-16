@@ -1,0 +1,402 @@
+{
+ "1001": {
+  "p": 0.53,
+  "duda": "When a title gives only a brand, 'Mini', and a storage capacity, does it identify an external drive, and is there any evidence of prior use?"
+ },
+ "1002": {
+  "p": 0.26,
+  "duda": ""
+ },
+ "1003": {
+  "p": 0.48,
+  "duda": "Do material-and-color-only handbag titles provide any reliable evidence of prior use?"
+ },
+ "1004": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1005": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should general nonfiction books retain the guideline's slight lean toward new?"
+ },
+ "1006": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1007": {
+  "p": 0.48,
+  "duda": "Do titles for specialized salon chairs without condition details distinguish new shop stock from resold equipment?"
+ },
+ "1008": {
+  "p": 0.6,
+  "duda": "Does a bookseller's promise that photos show the exact copy and that it is inspected indicate a used copy?"
+ },
+ "1009": {
+  "p": 0.5,
+  "duda": "Does naming an imported clothing brand, without condition information, distinguish retail stock from personal resale?"
+ },
+ "1010": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should general nonfiction books retain the guideline's slight lean toward new?"
+ },
+ "1011": {
+  "p": 0.6,
+  "duda": "For imported branded clothing, how much should a low 2015 asking price imply prior use rather than imitation or discounted new stock?"
+ },
+ "1012": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1013": {
+  "p": 0.52,
+  "duda": "For complete vehicle instrument clusters without condition details, how can new replacement parts be distinguished from salvaged parts?"
+ },
+ "1014": {
+  "p": 0.49,
+  "duda": "Does 'original Japan' on a motorcycle replacement part distinguish new OEM stock from a salvaged original?"
+ },
+ "1015": {
+  "p": 0.59,
+  "duda": "Does an offer to trade an appliance meaningfully indicate personal resale when condition is unstated?"
+ },
+ "1016": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1017": {
+  "p": 0.4,
+  "duda": "For vintage vehicle replacement parts, how reliably does 'new' mean newly manufactured or unused old stock rather than previously fitted parts?"
+ },
+ "1018": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1019": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1020": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1021": {
+  "p": 0.16,
+  "duda": ""
+ },
+ "1022": {
+  "p": 0.5,
+  "duda": "Does 'original' on a named artist's painting distinguish a first sale from resale?"
+ },
+ "1023": {
+  "p": 0.48,
+  "duda": "Do 'super offer' and capacity specifications on a vehicle carrier provide evidence of new condition?"
+ },
+ "1024": {
+  "p": 0.65,
+  "duda": "How often does 'like new' in clothing listings describe previously worn items versus unworn personal purchases?"
+ },
+ "1025": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1026": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1027": {
+  "p": 0.49,
+  "duda": "Does a clothing brand name and an adjective such as 'beautiful' provide any evidence of prior wear?"
+ },
+ "1028": {
+  "p": 0.6,
+  "duda": "Are combined refrigerator thermostat-and-light housings usually salvaged components or sold new as replacement assemblies?"
+ },
+ "1029": {
+  "p": 0.65,
+  "duda": "How strongly should 'good condition' in a CD listing indicate a previously owned copy?"
+ },
+ "1030": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should general nonfiction books retain the guideline's slight lean toward new?"
+ },
+ "1031": {
+  "p": 0.69,
+  "duda": "When a music listing names two old tracks and a catalog-style number, is it generally an original vinyl single or a newer reissue?"
+ },
+ "1032": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "1033": {
+  "p": 0.29,
+  "duda": ""
+ },
+ "1034": {
+  "p": 0.5,
+  "duda": "Does a markdown on a named baby accessory distinguish retail clearance from personal resale?"
+ },
+ "1035": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1036": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should general nonfiction books retain the guideline's slight lean toward new?"
+ },
+ "1037": {
+  "p": 0.43,
+  "duda": "Does a generic bookseller warranty add evidence of new condition when neither edition nor condition is stated?"
+ },
+ "1038": {
+  "p": 0.5,
+  "duda": "Does describing footwear as imported, without condition information, distinguish retail stock from personal resale?"
+ },
+ "1039": {
+  "p": 0.61,
+  "duda": "Does 'original' on a complete automotive starter motor usually indicate a salvaged OEM unit or a new replacement?"
+ },
+ "1040": {
+  "p": 0.46,
+  "duda": "For older processors bundled with newer storage and memory and a hardware warranty, are assembled desktops usually new builds or refurbished systems?"
+ },
+ "1041": {
+  "p": 0.35,
+  "duda": "Does a short functional warranty with test logs indicate newly assembled aftermarket electronics or refurbished units?"
+ },
+ "1042": {
+  "p": 0.4,
+  "duda": "For old cassette releases explicitly called 'new', how reliably does that mean unsold unused stock?"
+ },
+ "1043": {
+  "p": 0.49,
+  "duda": "Do descriptions of a garment's color, style, and material quality provide any evidence of prior wear?"
+ },
+ "1044": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1045": {
+  "p": 0.26,
+  "duda": ""
+ },
+ "1046": {
+  "p": 0.37,
+  "duda": "Do descriptive organizer titles without condition details identify new retail stock reliably?"
+ },
+ "1047": {
+  "p": 0.5,
+  "duda": "Without an exact model or condition statement, can a branded dollhouse listing distinguish new stock from resale?"
+ },
+ "1048": {
+  "p": 0.63,
+  "duda": "For branded sunglasses, how much should a low 2015 asking price imply prior use rather than imitation or discounted new stock?"
+ },
+ "1049": {
+  "p": 0.68,
+  "duda": "Are older translated crime novels with a bookseller's condition-dependent acceptance promise typically secondhand or unsold stock?"
+ },
+ "1050": {
+  "p": 0.73,
+  "duda": ""
+ },
+ "1051": {
+  "p": 0.4,
+  "duda": "For collectible stamps, does 'new' mean uncancelled even when the stamp is decades old, and is that classified as new here?"
+ },
+ "1052": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should literary books retain the guideline's slight lean toward new?"
+ },
+ "1053": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "1054": {
+  "p": 0.48,
+  "duda": "Does a baby-clothing brand and garment type provide any evidence of prior wear when condition is unstated?"
+ },
+ "1055": {
+  "p": 0.15,
+  "duda": "Are live aquarium fish classified as new regardless of whether they previously lived in a private aquarium?"
+ },
+ "1056": {
+  "p": 0.74,
+  "duda": ""
+ },
+ "1057": {
+  "p": 0.49,
+  "duda": "For branded travel accessories for children, is there any product-specific basis for inferring use without condition details?"
+ },
+ "1058": {
+  "p": 0.48,
+  "duda": "Do generic garment titles without condition details provide any reliable evidence of prior wear?"
+ },
+ "1059": {
+  "p": 0.52,
+  "duda": "For imported branded clothing, how much should a low 2015 asking price imply prior use rather than imitation or discounted new stock?"
+ },
+ "1060": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1061": {
+  "p": 0.17,
+  "duda": ""
+ },
+ "1062": {
+  "p": 0.64,
+  "duda": "Does 'from the team's kit room' on a football jersey mean match-worn, or can it describe unworn team-issued stock?"
+ },
+ "1063": {
+  "p": 0.63,
+  "duda": "When an older translated science-fiction title lacks publisher and edition details, is it reasonable to infer a secondhand edition?"
+ },
+ "1064": {
+  "p": 0.48,
+  "duda": "Does describing a bag as fashionable provide any evidence of new condition when no condition statement is given?"
+ },
+ "1065": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should literary books retain the guideline's slight lean toward new?"
+ },
+ "1066": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "1067": {
+  "p": 0.47,
+  "duda": "Without an exact helmet model or condition wording, is there any product-specific basis for distinguishing new stock from resale?"
+ },
+ "1068": {
+  "p": 0.65,
+  "duda": "In collectible cassette listings, does 'mint' describe a previously owned copy's condition or imply sealed new stock?"
+ },
+ "1069": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1070": {
+  "p": 0.52,
+  "duda": "For vintage action figures, what wording distinguishes unopened collectible stock from previously opened figures?"
+ },
+ "1071": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should literary criticism retain the guideline's slight lean toward new?"
+ },
+ "1072": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1073": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1074": {
+  "p": 0.36,
+  "duda": "For collector die-cast cars identified by year and store-exclusive variation, should unopened condition be assumed when packaging is unstated?"
+ },
+ "1075": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "1076": {
+  "p": 0.48,
+  "duda": "Does bundling older novels by one author provide reliable evidence of secondhand copies when condition is unstated?"
+ },
+ "1077": {
+  "p": 0.5,
+  "duda": "When a stamp listing gives only year and catalog number, is there any reliable way to infer cancelled versus unused condition?"
+ },
+ "1078": {
+  "p": 0.29,
+  "duda": ""
+ },
+ "1079": {
+  "p": 0.48,
+  "duda": "Do generic baby-linen titles without packaging or condition details provide any reliable evidence of prior use?"
+ },
+ "1080": {
+  "p": 0.5,
+  "duda": "Does 'rose of the winds' in decor listings usually refer to a newly made floor inlay, a compass, or a collectible object?"
+ },
+ "1081": {
+  "p": 0.65,
+  "duda": "Does 'perfect condition' on an appliance component imply prior installation or merely tested new stock?"
+ },
+ "1082": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should general nonfiction books retain the guideline's slight lean toward new?"
+ },
+ "1083": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1084": {
+  "p": 0.49,
+  "duda": "For a named baby high-chair brand without model or condition details, is there any basis for distinguishing shop stock from personal resale?"
+ },
+ "1085": {
+  "p": 0.62,
+  "duda": "In old stamp listings, does 'without gum' imply prior postal use, or can the stamp still be considered unused?"
+ },
+ "1086": {
+  "p": 0.48,
+  "duda": "Do generic garment titles without condition details provide any reliable evidence of prior wear?"
+ },
+ "1087": {
+  "p": 0.55,
+  "duda": "Should regional encyclopedias be treated as study material under the used-leaning textbook rule, or as general nonfiction?"
+ },
+ "1088": {
+  "p": 0.53,
+  "duda": "Does 'I am selling' in the title of a recent tablet meaningfully indicate personal resale when condition is unstated?"
+ },
+ "1089": {
+  "p": 0.59,
+  "duda": "Are beverage-branded coolers typically resold promotional equipment, or commonly sold as new retail stock?"
+ },
+ "1090": {
+  "p": 0.5,
+  "duda": "Without publisher or format details, how can foreign-language titles be distinguished as textbooks, general literature, or recorded media?"
+ },
+ "1091": {
+  "p": 0.68,
+  "duda": "Does 'collection' paired with an appliance model identify a vintage household item, or can it refer to a current product range?"
+ },
+ "1092": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "1093": {
+  "p": 0.77,
+  "duda": ""
+ },
+ "1094": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "1095": {
+  "p": 0.4,
+  "duda": "When a handbag is simply described as 'new', how often is that a shop's new stock versus an owner's resale description?"
+ },
+ "1096": {
+  "p": 0.45,
+  "duda": "Does bundling history books provide reliable evidence of secondhand copies when condition is unstated?"
+ },
+ "1097": {
+  "p": 0.36,
+  "duda": "Does an unqualified bird-feeder listing imply a newly made product, or is condition indeterminate without materials and use details?"
+ },
+ "1098": {
+  "p": 0.37,
+  "duda": "Does a generic warranty on inexpensive jewelry provide meaningful evidence that it is newly made stock?"
+ },
+ "1099": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should literary travel books retain the guideline's slight lean toward new?"
+ },
+ "1100": {
+  "p": 0.45,
+  "duda": "Without edition or condition details, should culinary travel guides retain the guideline's slight lean toward new?"
+ }
+}

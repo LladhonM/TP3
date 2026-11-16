@@ -1,0 +1,402 @@
+{
+ "2701": {
+  "p": 0.65,
+  "duda": "Are aftermarket vehicle performance parts (fuel tuners such as Power Commander) from one-off sellers usually removed from the seller's own vehicle (used)?"
+ },
+ "2702": {
+  "p": 0.65,
+  "duda": "For original parts of discontinued car models (e.g. Ford Taunus), are listings mostly used removed parts or new-old-stock?"
+ },
+ "2703": {
+  "p": 0.65,
+  "duda": "Do guitar pickups and similar instrument parts from one-off sellers follow the pro-audio rule (lean used)?"
+ },
+ "2704": {
+  "p": 0.45,
+  "duda": "How are postage stamps labeled in this dataset: mint stamps as new and cancelled ones as used, or mostly one class?"
+ },
+ "2705": {
+  "p": 0.62,
+  "duda": "Are CDs by older or out-of-print artists usually used resales?"
+ },
+ "2706": {
+  "p": 0.6,
+  "duda": "Are football shirts of past seasons with a specific player name/number usually used collector items?"
+ },
+ "2707": {
+  "p": 0.55,
+  "duda": "Are pool pumps/filters and similar seasonal equipment from one-off sellers usually used?"
+ },
+ "2708": {
+  "p": 0.58,
+  "duda": "Are collector's/limited edition DVD and CD box sets usually resold used or sold new sealed?"
+ },
+ "2709": {
+  "p": 0.45,
+  "duda": "How are postage stamps labeled in this dataset: mint stamps as new and cancelled ones as used, or mostly one class?"
+ },
+ "2710": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2711": {
+  "p": 0.68,
+  "duda": "When 'como nuevo' appears together with a shop-style warranty (e.g. 1 year, direct exchange), is the item usually used/refurbished?"
+ },
+ "2712": {
+  "p": 0.45,
+  "duda": "Are generic household tools like aluminum ladders listed without brand mostly new stock or used resales?"
+ },
+ "2713": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2714": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "2715": {
+  "p": 0.62,
+  "duda": "Are discontinued phone models (several years old in 2015) usually used, even when no condition words appear?"
+ },
+ "2716": {
+  "p": 0.42,
+  "duda": "Are sports club pennants and similar fan merchandise usually new stock or used/vintage?"
+ },
+ "2717": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2718": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2719": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "2720": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2721": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "2722": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2723": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2724": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2725": {
+  "p": 0.52,
+  "duda": "Are branded football shirts sold by one-off sellers with the price in the title usually new or used?"
+ },
+ "2726": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2727": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2728": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2729": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "2730": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2731": {
+  "p": 0.55,
+  "duda": "Are single-size shoes/boots from one-off sellers without condition words usually used?"
+ },
+ "2732": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2733": {
+  "p": 0.35,
+  "duda": "Are generic tools without brand or condition words mostly new?"
+ },
+ "2734": {
+  "p": 0.45,
+  "duda": "Are one-of-a-kind decor items (decanters, design objects) usually personal resales (used) or new handmade items?"
+ },
+ "2735": {
+  "p": 0.55,
+  "duda": "Are low-priced household appliances (extractor fans) without brand mostly used?"
+ },
+ "2736": {
+  "p": 0.55,
+  "duda": "Do large book sellers that tag listings with an internal stock number (e.g. '#7083') mostly sell used books?"
+ },
+ "2737": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "2738": {
+  "p": 0.5,
+  "duda": "Are single trading cards (Yu-Gi-Oh, Magic) usually labeled new or used?"
+ },
+ "2739": {
+  "p": 0.45,
+  "duda": "Are action figures from collectible-toy sellers (loose, older lines) usually labeled used?"
+ },
+ "2740": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2741": {
+  "p": 0.6,
+  "duda": "Are very cheap single baby clothes usually used resales?"
+ },
+ "2742": {
+  "p": 0.52,
+  "duda": "Are baby care items (bath seats, strollers) from one-off sellers usually used?"
+ },
+ "2743": {
+  "p": 0.62,
+  "duda": "Are toy sets of known franchises (Thomas & Friends) from one-off sellers usually used?"
+ },
+ "2744": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2745": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "2746": {
+  "p": 0.85,
+  "duda": "Does a 'Garantía CESVI' warranty indicate parts from a certified auto recycler (used)?"
+ },
+ "2747": {
+  "p": 0.52,
+  "duda": "Are branded accessories (suspenders, belts) from small sellers usually vintage/used?"
+ },
+ "2748": {
+  "p": 0.5,
+  "duda": "Are clothes of foreign brands not sold locally (Forever 21, Gap, KTM) from one-off sellers usually used resales or new imported items?"
+ },
+ "2749": {
+  "p": 0.6,
+  "duda": "Do academic books about literature or pedagogy count as study material (lean used)?"
+ },
+ "2750": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2751": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "2752": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2753": {
+  "p": 0.45,
+  "duda": "Are clothes of foreign brands not sold locally (Forever 21, Gap, KTM) from one-off sellers usually used resales or new imported items?"
+ },
+ "2754": {
+  "p": 0.5,
+  "duda": "Are older collector toys and figures (diecast, Corinthian, busts) resold by collectors usually labeled used?"
+ },
+ "2755": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2756": {
+  "p": 0.4,
+  "duda": "How are savings-plan car listings (plan de ahorro, 0km) labeled: new or used?"
+ },
+ "2757": {
+  "p": 0.4,
+  "duda": "How are real-estate listings (construction projects, trusts) labeled: new or used?"
+ },
+ "2758": {
+  "p": 0.65,
+  "duda": "Are clothes of foreign brands not sold locally (Forever 21, Gap, KTM) from one-off sellers usually used resales or new imported items?"
+ },
+ "2759": {
+  "p": 0.58,
+  "duda": "Are expensive professional equipment listings with remaining manufacturer warranty from one-off sellers usually used?"
+ },
+ "2760": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2761": {
+  "p": 0.55,
+  "duda": "Are single-size shoes/boots from one-off sellers without condition words usually used?"
+ },
+ "2762": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2763": {
+  "p": 0.4,
+  "duda": "Does 'traído de USA/Alemania' (brought from abroad) usually mean a new item?"
+ },
+ "2764": {
+  "p": 0.55,
+  "duda": "Are collectible candy figures (Chocolatín Jack, Kinder) labeled used or new?"
+ },
+ "2765": {
+  "p": 0.45,
+  "duda": "Are fitness machines identified only by a model number usually new stock?"
+ },
+ "2766": {
+  "p": 0.62,
+  "duda": "Are older collector toys and figures (diecast, Corinthian, busts) resold by collectors usually labeled used?"
+ },
+ "2767": {
+  "p": 0.55,
+  "duda": "Are heaters and home appliances from one-off sellers without brand usually used?"
+ },
+ "2768": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2769": {
+  "p": 0.6,
+  "duda": "Does the pro-audio rule (1-2 listing sellers lean used) also apply to car audio amplifiers?"
+ },
+ "2770": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2771": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2772": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2773": {
+  "p": 0.5,
+  "duda": "Does 'vintage' in decor titles usually mean an old used item or a new vintage-style item?"
+ },
+ "2774": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2775": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2776": {
+  "p": 0.45,
+  "duda": "Are generic bags/handbags without brand mostly new stock?"
+ },
+ "2777": {
+  "p": 0.45,
+  "duda": "Are branded bags and leather goods (Prune, Chiarini) from small sellers mostly new stock or used resales?"
+ },
+ "2778": {
+  "p": 0.5,
+  "duda": "Does 'traído de USA/Alemania' (brought from abroad) usually mean a new item?"
+ },
+ "2779": {
+  "p": 0.4,
+  "duda": "Are clothes of local designer brands at full price mostly new?"
+ },
+ "2780": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2781": {
+  "p": 0.5,
+  "duda": "Are sneakers listed without model by one-off sellers usually used?"
+ },
+ "2782": {
+  "p": 0.45,
+  "duda": "How are postage stamps labeled in this dataset: mint stamps as new and cancelled ones as used, or mostly one class?"
+ },
+ "2783": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2784": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2785": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2786": {
+  "p": 0.5,
+  "duda": "Are construction items like doors and windows listed by individuals typically demolition salvage (used)?"
+ },
+ "2787": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2788": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "2789": {
+  "p": 0.55,
+  "duda": "Are branded bags and leather goods (Prune, Chiarini) from small sellers mostly new stock or used resales?"
+ },
+ "2790": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2791": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2792": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "2793": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2794": {
+  "p": 0.6,
+  "duda": "Are older collector toys and figures (diecast, Corinthian, busts) resold by collectors usually labeled used?"
+ },
+ "2795": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2796": {
+  "p": 0.62,
+  "duda": "Are electronics listed with only a brand and no model usually used?"
+ },
+ "2797": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "2798": {
+  "p": 0.62,
+  "duda": "Are cheap copies of popular non-fiction books from large book sellers usually used?"
+ },
+ "2799": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2800": {
+  "p": 0.42,
+  "duda": "Are original artworks (paintings) sold by non-artist resellers labeled used?"
+ }
+}

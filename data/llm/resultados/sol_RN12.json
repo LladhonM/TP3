@@ -1,0 +1,402 @@
+{
+ "17101": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17102": {
+  "p": 0.5,
+  "duda": "Does an issue number alone help distinguish unused back-issue magazines from previously read copies?"
+ },
+ "17103": {
+  "p": 0.5,
+  "duda": "How can new and secondhand music CDs be distinguished when packaging and condition are unspecified?"
+ },
+ "17104": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "17105": {
+  "p": 0.39,
+  "duda": "Does 'recently arrived from the USA' usually denote new imported phones when packaging is unspecified?"
+ },
+ "17106": {
+  "p": 0.4,
+  "duda": "How should 'new' in clothing titles be interpreted when tags or original packaging are not mentioned?"
+ },
+ "17107": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "17108": {
+  "p": 0.4,
+  "duda": "How should 'new' in clothing titles be interpreted when tags or original packaging are not mentioned?"
+ },
+ "17109": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17110": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "17111": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17112": {
+  "p": 0.5,
+  "duda": "Do branded football shirts without a season or condition description usually represent retail stock or personal resale?"
+ },
+ "17113": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for branded clothing without condition wording?"
+ },
+ "17114": {
+  "p": 0.48,
+  "duda": "How can new and previously used camping equipment be distinguished when the title gives only a brand and capacity?"
+ },
+ "17115": {
+  "p": 0.65,
+  "duda": "How often is professional video test equipment from an individual seller unused old stock rather than previously operated equipment?"
+ },
+ "17116": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17117": {
+  "p": 0.13,
+  "duda": ""
+ },
+ "17118": {
+  "p": 0.4,
+  "duda": "How should 'new' in clothing titles be interpreted when tags or original packaging are not mentioned?"
+ },
+ "17119": {
+  "p": 0.5,
+  "duda": "How should condition be inferred when an ambiguous title does not clearly identify the type of object being sold?"
+ },
+ "17120": {
+  "p": 0.5,
+  "duda": "How can new footwear be distinguished from personal resale when only brand, style and size are given?"
+ },
+ "17121": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17122": {
+  "p": 0.65,
+  "duda": "Does a mixed-brand car-audio bundle usually indicate a previously installed system?"
+ },
+ "17123": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "17124": {
+  "p": 0.45,
+  "duda": "How should condition be assigned when a title could describe a service or a physical product?"
+ },
+ "17125": {
+  "p": 0.87,
+  "duda": ""
+ },
+ "17126": {
+  "p": 0.4,
+  "duda": "Do generic garment titles without brand, size or condition usually indicate new retail merchandise?"
+ },
+ "17127": {
+  "p": 0.58,
+  "duda": "Do mixed lots of lamp components usually contain salvaged used parts or unused surplus?"
+ },
+ "17128": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17129": {
+  "p": 0.4,
+  "duda": "Are legacy computer cables without condition wording typically unused replacement stock or secondhand accessories?"
+ },
+ "17130": {
+  "p": 0.5,
+  "duda": "How can new and previously used children's sports equipment be distinguished without condition or packaging information?"
+ },
+ "17131": {
+  "p": 0.62,
+  "duda": "Are parts for discontinued vehicles usually salvaged parts or unused replacement stock when condition is unstated?"
+ },
+ "17132": {
+  "p": 0.5,
+  "duda": "How are new/used labels applied to investments, rentals and services rather than physical goods?"
+ },
+ "17133": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17134": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "17135": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17136": {
+  "p": 0.45,
+  "duda": "How should condition be inferred for toys without packaging or condition details?"
+ },
+ "17137": {
+  "p": 0.6,
+  "duda": "Are discontinued computer components generally secondhand or unsold new inventory when condition is unstated?"
+ },
+ "17138": {
+  "p": 0.5,
+  "duda": "How can unused replacement automotive parts be distinguished from salvaged parts without condition wording?"
+ },
+ "17139": {
+  "p": 0.4,
+  "duda": "Do bulk lots of electrical fittings usually represent unused surplus or components recovered from installations?"
+ },
+ "17140": {
+  "p": 0.65,
+  "duda": "How often is professional audio equipment from an individual seller unused rather than previously operated equipment?"
+ },
+ "17141": {
+  "p": 0.4,
+  "duda": "Does 'new' on an older vinyl release indicate unplayed old stock or a condition description of a previously owned record?"
+ },
+ "17142": {
+  "p": 0.62,
+  "duda": "How can unused replacement automotive parts be distinguished from salvaged parts without condition wording?"
+ },
+ "17143": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17144": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17145": {
+  "p": 0.45,
+  "duda": "How can new and secondhand collected comic volumes be distinguished without packaging or condition information?"
+ },
+ "17146": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "17147": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17148": {
+  "p": 0.5,
+  "duda": "How can new flooring stock be distinguished from reclaimed flooring when neither condition nor demolition is mentioned?"
+ },
+ "17149": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17150": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for children's bags without condition wording?"
+ },
+ "17151": {
+  "p": 0.5,
+  "duda": "How can new and secondhand music CDs be distinguished when packaging and condition are unspecified?"
+ },
+ "17152": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17153": {
+  "p": 0.5,
+  "duda": "When miniature spirits are sold without a fill level, should they be interpreted as full bottles or empty collectible containers?"
+ },
+ "17154": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "17155": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for children's bags without condition wording?"
+ },
+ "17156": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17157": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for clothing described only by style and measurements?"
+ },
+ "17158": {
+  "p": 0.6,
+  "duda": "Do older scholarly art titles without an edition date usually indicate secondhand copies or new reprints?"
+ },
+ "17159": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "17160": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for clothing without condition wording?"
+ },
+ "17161": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17162": {
+  "p": 0.62,
+  "duda": "Do multi-record artist collections usually represent a personal used collection or new packaged stock?"
+ },
+ "17163": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17164": {
+  "p": 0.55,
+  "duda": "Are 'Code 3' model vehicles generally newly customized collectibles or previously owned models?"
+ },
+ "17165": {
+  "p": 0.45,
+  "duda": "Do children's fiction series commonly assigned at school follow the condition pattern of literature or of study materials?"
+ },
+ "17166": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for clothing without condition wording?"
+ },
+ "17167": {
+  "p": 0.65,
+  "duda": "Are television circuit boards without explicit condition information usually salvaged parts or unused replacements?"
+ },
+ "17168": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "17169": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17170": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17171": {
+  "p": 0.45,
+  "duda": "Are obsolete electronic components sold in lots typically unused old stock or recovered used parts?"
+ },
+ "17172": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for branded clothing without condition wording?"
+ },
+ "17173": {
+  "p": 0.72,
+  "duda": "Does 'loose' on collectible toys usually imply prior use, or can it also describe unused items removed from packaging?"
+ },
+ "17174": {
+  "p": 0.65,
+  "duda": "Are original replacement parts for older laptops generally salvaged or unused stock when condition is unstated?"
+ },
+ "17175": {
+  "p": 0.4,
+  "duda": "How should the new/used distinction be applied to natural mineral specimens without prior-ownership information?"
+ },
+ "17176": {
+  "p": 0.42,
+  "duda": "How should condition be inferred for branded imported toys without packaging or condition details?"
+ },
+ "17177": {
+  "p": 0.64,
+  "duda": "Are original replacement parts for older laptops generally salvaged or unused stock when condition is unstated?"
+ },
+ "17178": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17179": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for branded children's clothing without condition wording?"
+ },
+ "17180": {
+  "p": 0.5,
+  "duda": "How should condition be inferred when an ambiguous title does not clearly identify the type of object being sold?"
+ },
+ "17181": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17182": {
+  "p": 0.7,
+  "duda": "Do exercise technique manuals follow the condition pattern of study manuals or general-interest books?"
+ },
+ "17183": {
+  "p": 0.45,
+  "duda": "Without a bottle size, fill level or seal description, how can new perfume bottles be distinguished from partially used ones?"
+ },
+ "17184": {
+  "p": 0.65,
+  "duda": "Does a clothing warranty promising 'perfect condition' describe a secondhand item's condition or a retail quality guarantee?"
+ },
+ "17185": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17186": {
+  "p": 0.5,
+  "duda": "How can new household appliances be distinguished from personal resale without a model, warranty or condition description?"
+ },
+ "17187": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "17188": {
+  "p": 0.5,
+  "duda": "How are new/used labels applied to investments, rentals and services rather than physical goods?"
+ },
+ "17189": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for clothing without condition wording?"
+ },
+ "17190": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17191": {
+  "p": 0.5,
+  "duda": "How can new and secondhand music CDs be distinguished when packaging and condition are unspecified?"
+ },
+ "17192": {
+  "p": 0.58,
+  "duda": "How can unused replacement automotive parts be distinguished from salvaged parts without condition wording?"
+ },
+ "17193": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17194": {
+  "p": 0.5,
+  "duda": "How can new roofing tiles be distinguished from reclaimed tiles when neither condition nor demolition is mentioned?"
+ },
+ "17195": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "17196": {
+  "p": 0.5,
+  "duda": "How can newly made decorative objects be distinguished from previously owned decor without condition or production details?"
+ },
+ "17197": {
+  "p": 0.45,
+  "duda": "Without condition or edition details, how can new stock be distinguished from secondhand copies of general-interest books?"
+ },
+ "17198": {
+  "p": 0.4,
+  "duda": "How should condition be inferred for branded toys without packaging or condition details?"
+ },
+ "17199": {
+  "p": 0.7,
+  "duda": "Are parts for discontinued vehicles usually salvaged parts or unused replacement stock when condition is unstated?"
+ },
+ "17200": {
+  "p": 0.5,
+  "duda": "How can retail stock be distinguished from personal resale for branded children's clothing without condition wording?"
+ }
+}

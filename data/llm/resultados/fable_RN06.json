@@ -1,0 +1,402 @@
+{
+ "16501": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16502": {
+  "p": 0.6,
+  "duda": "Is a branded leather handbag (e.g. Prüne) listed by a one-listing seller with no condition words usually a personal resale (used)?"
+ },
+ "16503": {
+  "p": 0.45,
+  "duda": "Are very cheap costume-jewellery items from small designer brands, listed by one-off sellers, usually new?"
+ },
+ "16504": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16505": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16506": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16507": {
+  "p": 0.55,
+  "duda": "Are postage-stamp lots (used or mint) typically labelled used or new by MercadoLibre sellers?"
+ },
+ "16508": {
+  "p": 0.55,
+  "duda": "Is single-unit imported-brand clothing with no 'nuevo' or condition word, from a one-listing seller, more often used?"
+ },
+ "16509": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "16510": {
+  "p": 0.6,
+  "duda": "Are children's party dresses listed as a single unit without condition words usually second-hand?"
+ },
+ "16511": {
+  "p": 0.5,
+  "duda": "When a title is just a bare name with no product type, is there any reliable way to infer condition from a mid-size seller with 'Sí' warranty?"
+ },
+ "16512": {
+  "p": 0.5,
+  "duda": "Are postage-stamp lots (used or mint) typically labelled used or new by MercadoLibre sellers?"
+ },
+ "16513": {
+  "p": 0.45,
+  "duda": "Are single collectible trading cards (Magic: The Gathering singles) usually listed as new or used?"
+ },
+ "16514": {
+  "p": 0.45,
+  "duda": "Do sellers with dozens of single-copy book listings and no warranty text tend to be second-hand bookshops?"
+ },
+ "16515": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16516": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16517": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16518": {
+  "p": 0.45,
+  "duda": "Do sellers with dozens of single-copy book listings and no warranty text tend to be second-hand bookshops?"
+ },
+ "16519": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16520": {
+  "p": 0.5,
+  "duda": "Are postage-stamp lots (used or mint) typically labelled used or new by MercadoLibre sellers?"
+ },
+ "16521": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16522": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16523": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16524": {
+  "p": 0.38,
+  "duda": "Does 'libre de fábrica' on a flagship phone from a one-listing seller suggest a new unit or a personal resale?"
+ },
+ "16525": {
+  "p": 0.6,
+  "duda": "When a title is only a car model name with a very low price (clearly a toy, manual or collectible), is it usually a used collectible?"
+ },
+ "16526": {
+  "p": 0.4,
+  "duda": "When a one-listing private seller writes 'Nueva!!!' on a baby item, is the item usually labelled new or used?"
+ },
+ "16527": {
+  "p": 0.45,
+  "duda": "Do sneakers marked 'original' with a single size and no condition words tend to be new shop stock or personal resale?"
+ },
+ "16528": {
+  "p": 0.6,
+  "duda": "Is single-unit imported-brand clothing with no 'nuevo' or condition word, from a one-listing seller, more often used?"
+ },
+ "16529": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16530": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16531": {
+  "p": 0.5,
+  "duda": "Are multi-item packs of books or films from one-listing sellers with no condition words usually used?"
+ },
+ "16532": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16533": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16534": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (apartments for sale, rentals) labelled in the new/used field?"
+ },
+ "16535": {
+  "p": 0.4,
+  "duda": "Are perfumes listed by one-off sellers without 'sellado' or 'nuevo' usually labelled new?"
+ },
+ "16536": {
+  "p": 0.5,
+  "duda": "Do sellers with dozens of single-copy book listings and no warranty text tend to be second-hand bookshops?"
+ },
+ "16537": {
+  "p": 0.6,
+  "duda": "Is single-unit women's clothing with only a colour/style description and no size run usually second-hand?"
+ },
+ "16538": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16539": {
+  "p": 0.5,
+  "duda": "Are accessories from local fashion brands (belts, wallets) priced high and sold as single units usually new or resold?"
+ },
+ "16540": {
+  "p": 0.4,
+  "duda": "Are replacement glass shades for lamps usually new stock or salvaged pieces?"
+ },
+ "16541": {
+  "p": 0.4,
+  "duda": "Are niche-publisher or imported books at relatively high prices from small sellers usually new?"
+ },
+ "16542": {
+  "p": 0.5,
+  "duda": "Is single-unit women's clothing with only a colour/style description and no size run usually second-hand?"
+ },
+ "16543": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16544": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16545": {
+  "p": 0.62,
+  "duda": "Do adjectives like 'divino' or 'hermoso' in clothing titles signal a personal second-hand sale?"
+ },
+ "16546": {
+  "p": 0.4,
+  "duda": "Does a warranty text offering to replace the book with 'another copy' indicate a new-book shop?"
+ },
+ "16547": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16548": {
+  "p": 0.5,
+  "duda": "Are bulky pet items (kennels, carriers) from one-listing sellers without condition words usually used?"
+ },
+ "16549": {
+  "p": 0.6,
+  "duda": "Are generic unbranded PC components (heatsinks, fans) sold 'per unit' usually pulled from used machines?"
+ },
+ "16550": {
+  "p": 0.4,
+  "duda": "Are 'por cierre' (business closing) liquidation listings usually new leftover stock or used equipment?"
+ },
+ "16551": {
+  "p": 0.6,
+  "duda": "Is single-unit imported-brand clothing with no 'nuevo' or condition word, from a one-listing seller, more often used?"
+ },
+ "16552": {
+  "p": 0.4,
+  "duda": "How are service and rental listings (tourist rentals) labelled in the new/used field?"
+ },
+ "16553": {
+  "p": 0.4,
+  "duda": "Are die-cast scale model cars from small sellers usually listed as new even if they are collector resales?"
+ },
+ "16554": {
+  "p": 0.5,
+  "duda": "Does 'importado de USA' on children's branded clothing indicate new items brought from a trip or outgrown used ones?"
+ },
+ "16555": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16556": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16557": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16558": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16559": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16560": {
+  "p": 0.6,
+  "duda": "Are airguns and their accessories listed by one-off sellers with 'único' in the title usually used?"
+ },
+ "16561": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16562": {
+  "p": 0.55,
+  "duda": "Are single DVDs with 'Sin garantía' from small sellers mostly used copies?"
+ },
+ "16563": {
+  "p": 0.55,
+  "duda": "Is single-unit women's clothing with only a colour/style description and no size run usually second-hand?"
+ },
+ "16564": {
+  "p": 0.4,
+  "duda": "Do shops that sell reclaimed-wood (pinotea) furniture list their items as new or as antiques/used?"
+ },
+ "16565": {
+  "p": 0.55,
+  "duda": "Does an internal stock number in a book title indicate a second-hand bookshop?"
+ },
+ "16566": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16567": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16568": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16569": {
+  "p": 0.5,
+  "duda": "Are brand-name chargers with no model detail from one-listing sellers usually used leftovers?"
+ },
+ "16570": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16571": {
+  "p": 0.4,
+  "duda": "Are audiophile electronic components (capacitors, tubes) from small sellers usually new old stock or used pulls?"
+ },
+ "16572": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16573": {
+  "p": 0.42,
+  "duda": "Do sellers with dozens of single-copy book listings and no warranty text tend to be second-hand bookshops?"
+ },
+ "16574": {
+  "p": 0.45,
+  "duda": "Do sneakers marked 'original' with a single size and no condition words tend to be new shop stock or personal resale?"
+ },
+ "16575": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16576": {
+  "p": 0.6,
+  "duda": "Is a title prefixed with 'Libro:' from a one-listing seller typically a personal used copy?"
+ },
+ "16577": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16578": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16579": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16580": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16581": {
+  "p": 0.6,
+  "duda": "Are classics in older editions at low prices from mid-size book sellers usually used?"
+ },
+ "16582": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16583": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16584": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16585": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16586": {
+  "p": 0.4,
+  "duda": "Are motorcycle custom accessories from one-listing sellers without condition words usually new?"
+ },
+ "16587": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16588": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16589": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16590": {
+  "p": 0.5,
+  "duda": "Do sellers with dozens of single-copy book listings and a bare 'Sí' warranty tend to sell used books?"
+ },
+ "16591": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16592": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16593": {
+  "p": 0.5,
+  "duda": "Is single-unit women's clothing with only a colour/style description and no size run usually second-hand?"
+ },
+ "16594": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16595": {
+  "p": 0.55,
+  "duda": "Are imported CDs of 1990s albums from mid-size music sellers usually used copies?"
+ },
+ "16596": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16597": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16598": {
+  "p": 0.6,
+  "duda": "Are out-of-print political or history books from mid-size sellers with a bare 'SI' warranty usually used?"
+ },
+ "16599": {
+  "p": 0.4,
+  "duda": "Are sports boards (SUP, surf) with a bundle offer and no condition words usually new shop stock?"
+ },
+ "16600": {
+  "p": 0.5,
+  "duda": "Are professional law/tax reference books count as study material (leaning used) or as shop-stocked new titles?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "10901": {
+  "p": 0.55,
+  "duda": "Do mixed-brand wakeboard boot listings usually represent new retail stock or previously owned equipment when condition is unstated?"
+ },
+ "10902": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10903": {
+  "p": 0.68,
+  "duda": "Does 'con detalle' in clothing listings usually indicate wear, or can it equally indicate a defect in a new garment?"
+ },
+ "10904": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "10905": {
+  "p": 0.84,
+  "duda": ""
+ },
+ "10906": {
+  "p": 0.5,
+  "duda": "For clothing identified only by brand, material, design or size, is there a reliable condition cue beyond the base rate?"
+ },
+ "10907": {
+  "p": 0.35,
+  "duda": "Do children's sticker books named by series and publisher favor new stock when completion and condition are unspecified?"
+ },
+ "10908": {
+  "p": 0.5,
+  "duda": "For collectible postage stamps, how should condition be inferred when neither mint status nor cancellation is stated?"
+ },
+ "10909": {
+  "p": 0.62,
+  "duda": "For older imported CD releases without sealed or condition wording, how strongly does age favor used copies over unsold stock?"
+ },
+ "10910": {
+  "p": 0.6,
+  "duda": "Do wheel listings tied to a car model without dimensions or retail details usually describe used take-offs?"
+ },
+ "10911": {
+  "p": 0.5,
+  "duda": "For appliances described without wear, installation history, packaging or a retail warranty, is there a reliable condition cue?"
+ },
+ "10912": {
+  "p": 0.45,
+  "duda": "Do bundles of different comic titles advertised as an offer favor new retail stock or previously read collections?"
+ },
+ "10913": {
+  "p": 0.5,
+  "duda": "Does 'original' with a designer brand provide any condition evidence when the garment type and ownership history are unstated?"
+ },
+ "10914": {
+  "p": 0.45,
+  "duda": "For household furnishings described without age, wear, provenance or manufacturing details, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10915": {
+  "p": 0.5,
+  "duda": "For household furnishings described without age, wear, provenance or manufacturing details, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10916": {
+  "p": 0.4,
+  "duda": "Does a batch of handmade costumes described by workmanship favor new production or former rental stock?"
+ },
+ "10917": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "10918": {
+  "p": 0.5,
+  "duda": "For a hard drive identified only by model and capacity, is there a reliable way to distinguish new stock from a previously installed drive?"
+ },
+ "10919": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "10920": {
+  "p": 0.47,
+  "duda": "For machinery identified only by brand, model or capacity, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10921": {
+  "p": 0.45,
+  "duda": "Should the weak new lean for general literature still apply to older imported editions when condition is unstated?"
+ },
+ "10922": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "10923": {
+  "p": 0.48,
+  "duda": "Does 'original en caja' for an incomplete appliance assembly favor unused spare stock or a salvaged part?"
+ },
+ "10924": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10925": {
+  "p": 0.62,
+  "duda": "For older imported CD releases without sealed or condition wording, how strongly does age favor used copies over unsold stock?"
+ },
+ "10926": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "10927": {
+  "p": 0.65,
+  "duda": "For collectible cigarette packaging, does 'marquilla' normally denote a packet emptied after use or an unused printed wrapper?"
+ },
+ "10928": {
+  "p": 0.45,
+  "duda": "Should a general science encyclopedia follow the general nonfiction rule or the study-material rule?"
+ },
+ "10929": {
+  "p": 0.65,
+  "duda": "For older cassette releases without condition or sealed wording, how strongly does age favor used copies over unsold stock?"
+ },
+ "10930": {
+  "p": 0.5,
+  "duda": "For fashion accessories described only by design or brand, is there a reliable condition cue beyond the base rate?"
+ },
+ "10931": {
+  "p": 0.45,
+  "duda": "Should literary works in school-reading editions follow the literature rule or the study-material rule when classroom use is unstated?"
+ },
+ "10932": {
+  "p": 0.45,
+  "duda": "Should the weak new lean for general literature and history apply when only the title and authors are given?"
+ },
+ "10933": {
+  "p": 0.16,
+  "duda": ""
+ },
+ "10934": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10935": {
+  "p": 0.38,
+  "duda": "Do watch model listings with a simple 'Sí' warranty provide a meaningful new-stock cue?"
+ },
+ "10936": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "10937": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "10938": {
+  "p": 0.52,
+  "duda": "Do lots of sprinklers without packaging or wear information favor unused installation surplus or recovered equipment?"
+ },
+ "10939": {
+  "p": 0.45,
+  "duda": "Are DVD optical pickups sold with their carriages usually unused replacement modules or salvaged assemblies when condition is unstated?"
+ },
+ "10940": {
+  "p": 0.65,
+  "duda": "Should 'sin uso' with promotional language receive the standard used lean when ownership history is unstated?"
+ },
+ "10941": {
+  "p": 0.5,
+  "duda": "For clothing identified only by brand, material, design or size, is there a reliable condition cue beyond the base rate?"
+ },
+ "10942": {
+  "p": 0.4,
+  "duda": "For printer cartridges without sealed, refilled or expiry information, how should new stock be distinguished from used cartridges?"
+ },
+ "10943": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "10944": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "10945": {
+  "p": 0.47,
+  "duda": "For medical devices identified only by model, is there a reliable condition cue without packaging, warranty or usage history?"
+ },
+ "10946": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10947": {
+  "p": 0.5,
+  "duda": "Does 'original importado' alone distinguish new retail stock from personal resale for branded electronics?"
+ },
+ "10948": {
+  "p": 0.47,
+  "duda": "For household furnishings described without age, wear, provenance or manufacturing details, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10949": {
+  "p": 0.65,
+  "duda": "When a furniture bundle specifies only the mattress as new, should the unqualified bed frame and bedside tables be presumed used?"
+ },
+ "10950": {
+  "p": 0.5,
+  "duda": "For branded baby activity products without packaging or condition wording, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10951": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "10952": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "10953": {
+  "p": 0.45,
+  "duda": "Should the weak new lean for general literature and essays apply when only the title and author are given?"
+ },
+ "10954": {
+  "p": 0.73,
+  "duda": "Does a complete vehicle gearbox identified only by model and part number usually denote a dismantled used assembly or a new replacement?"
+ },
+ "10955": {
+  "p": 0.6,
+  "duda": "Should standalone bilingual dictionaries follow the study-material rule or the general-reference rule?"
+ },
+ "10956": {
+  "p": 0.45,
+  "duda": "Does painted furniture without restoration or custom-production wording favor new handcrafted stock or used furniture?"
+ },
+ "10957": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "10958": {
+  "p": 0.5,
+  "duda": "For clothing identified only by brand, material, design or size, is there a reliable condition cue beyond the base rate?"
+ },
+ "10959": {
+  "p": 0.2,
+  "duda": "How should services be mapped to new versus used when no physical item is offered?"
+ },
+ "10960": {
+  "p": 0.6,
+  "duda": "For older cassette releases without condition or sealed wording, how strongly does age favor used copies over unsold stock?"
+ },
+ "10961": {
+  "p": 0.4,
+  "duda": "For older discrete electronic components, does original country-of-manufacture wording favor unused old stock or salvaged parts?"
+ },
+ "10962": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "10963": {
+  "p": 0.57,
+  "duda": "Do vehicle body panels identified only by car model usually denote used take-offs or new aftermarket replacements?"
+ },
+ "10964": {
+  "p": 0.09,
+  "duda": ""
+ },
+ "10965": {
+  "p": 0.47,
+  "duda": "For display fixtures described without materials, manufacturing details or wear, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10966": {
+  "p": 0.5,
+  "duda": "Do jewelry display stands mentioning a quinceañera favor prior event use or newly made event products?"
+ },
+ "10967": {
+  "p": 0.48,
+  "duda": "For appliances described without wear, installation history, packaging or a retail warranty, is there a reliable condition cue?"
+ },
+ "10968": {
+  "p": 0.5,
+  "duda": "For clothing identified only by brand, material, design or size, is there a reliable condition cue beyond the base rate?"
+ },
+ "10969": {
+  "p": 0.4,
+  "duda": "Does certification wording such as 'aprobados' favor new retail heating products, or is it equally common in used listings?"
+ },
+ "10970": {
+  "p": 0.45,
+  "duda": "Should the weak new lean for general literature and history apply when only the title and authors are given?"
+ },
+ "10971": {
+  "p": 0.5,
+  "duda": "For branded protective sports clothing without wear or retail wording, is there a reliable cue distinguishing new stock from personal resale?"
+ },
+ "10972": {
+  "p": 0.5,
+  "duda": "Do academic-looking art-history titles count as study material when no course or textbook framing is given?"
+ },
+ "10973": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10974": {
+  "p": 0.7,
+  "duda": "For mixed lots of circulation coins without mint-state wording, should likely prior circulation be treated as evidence of used condition?"
+ },
+ "10975": {
+  "p": 0.45,
+  "duda": "Do generic handcrafted decor titles favor new production when no maker, customization or prior-use wording is supplied?"
+ },
+ "10976": {
+  "p": 0.5,
+  "duda": "For machinery identified only by brand, model or capacity, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10977": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "10978": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10979": {
+  "p": 0.65,
+  "duda": "Should 'impecables' receive the standard used lean for game discs when prior play is unstated?"
+ },
+ "10980": {
+  "p": 0.4,
+  "duda": "For branded fashion accessories priced far below authentic retail, does the price favor new replicas or used genuine items?"
+ },
+ "10981": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10982": {
+  "p": 0.45,
+  "duda": "Should the weak new lean for general literature still apply to older editions when condition is unstated?"
+ },
+ "10983": {
+  "p": 0.45,
+  "duda": "Does a generic guarantee on a literary book provide additional evidence of new stock when its terms are unspecified?"
+ },
+ "10984": {
+  "p": 0.65,
+  "duda": "Does 'exposición' in an audio enclosure title denote a previously displayed demonstration item or an enclosure made for exhibition use?"
+ },
+ "10985": {
+  "p": 0.4,
+  "duda": "Do full model and capacity descriptions alone favor new stock for air conditioners without installation, wear or warranty details?"
+ },
+ "10986": {
+  "p": 0.45,
+  "duda": "Does a complete multi-issue comic run favor a previously read personal collection or new bundled retail stock?"
+ },
+ "10987": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10988": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10989": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10990": {
+  "p": 0.55,
+  "duda": "Does a bookseller's offer to let buyers inspect condition favor secondhand stock when no wear is stated?"
+ },
+ "10991": {
+  "p": 0.4,
+  "duda": "Does multi-sport promotional wording favor newly marketed sports clothing when condition is unstated?"
+ },
+ "10992": {
+  "p": 0.5,
+  "duda": "For clothing identified only by brand, material, design or size, is there a reliable condition cue beyond the base rate?"
+ },
+ "10993": {
+  "p": 0.45,
+  "duda": "Should literary works in school-reading editions follow the literature rule or the study-material rule when classroom use is unstated?"
+ },
+ "10994": {
+  "p": 0.38,
+  "duda": "When a recent phone is called 'nuevo' without a seal or retail warranty, should the phone-model and title rules remain a single weak new lean?"
+ },
+ "10995": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10996": {
+  "p": 0.6,
+  "duda": "For collectible postage stamps, how should condition be inferred when neither mint status nor cancellation is stated?"
+ },
+ "10997": {
+  "p": 0.5,
+  "duda": "For compact exercise equipment without brand, condition or warranty details, is there a reliable cue distinguishing new stock from resale?"
+ },
+ "10998": {
+  "p": 0.65,
+  "duda": "Does 'original de utilería' on a numbered team jersey imply player-worn equipment, or can it describe unused team-issued apparel?"
+ },
+ "10999": {
+  "p": 0.75,
+  "duda": "How much should an original box reduce the used probability for antique toys when unused or sealed wording is absent?"
+ },
+ "11000": {
+  "p": 0.5,
+  "duda": "Does 'vendo' in a furniture listing carry reliable personal-resale evidence when condition is unstated?"
+ }
+}

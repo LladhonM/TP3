@@ -1,0 +1,402 @@
+{
+ "17301": {
+  "p": 0.47,
+  "duda": "What product-specific wording distinguishes newly made thread curtains from household resale curtains?"
+ },
+ "17302": {
+  "p": 0.65,
+  "duda": "Does 'excellent' in scale-model listings usually describe an owned model's condition or the quality of a new kit?"
+ },
+ "17303": {
+  "p": 0.32,
+  "duda": "Are vintage sewing notions still in their original blister packs normally classified as new old stock?"
+ },
+ "17304": {
+  "p": 0.15,
+  "duda": "How are live animals assigned new versus used condition in this marketplace?"
+ },
+ "17305": {
+  "p": 0.39,
+  "duda": "Does quality-percentage wording in branded footwear listings usually indicate retail stock or resale condition?"
+ },
+ "17306": {
+  "p": 0.47,
+  "duda": "Can a furniture listing with only the product name provide any reliable condition evidence?"
+ },
+ "17307": {
+  "p": 0.22,
+  "duda": "Are newly crafted decorations made from recycled bottles classified as new finished products?"
+ },
+ "17308": {
+  "p": 0.55,
+  "duda": "What wording distinguishes aftermarket vehicle guards from guards removed from a vehicle?"
+ },
+ "17309": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "17310": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "17311": {
+  "p": 0.53,
+  "duda": "How can an older music DVD be distinguished as retail stock versus a personal copy without condition wording?"
+ },
+ "17312": {
+  "p": 0.48,
+  "duda": "Does geographic provenance in fossil jewelry listings distinguish newly made jewelry from owned souvenirs?"
+ },
+ "17313": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17314": {
+  "p": 0.29,
+  "duda": ""
+ },
+ "17315": {
+  "p": 0.08,
+  "duda": "How are live animals assigned new versus used condition in this marketplace?"
+ },
+ "17316": {
+  "p": 0.65,
+  "duda": "Should 'excellent' and 'very good' without an explicit reference to condition be treated as resale-condition descriptions in furniture listings?"
+ },
+ "17317": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "17318": {
+  "p": 0.5,
+  "duda": "What evidence can establish condition when a consumer-electronics listing gives no model or condition description?"
+ },
+ "17319": {
+  "p": 0.2,
+  "duda": "Are surgical staplers described as universal instruments single-use sterile products or reusable equipment?"
+ },
+ "17320": {
+  "p": 0.5,
+  "duda": "Do music-single listings without a format or condition description give any reliable basis for distinguishing new from used?"
+ },
+ "17321": {
+  "p": 0.47,
+  "duda": "What wording distinguishes a newly made printed shoulder bag from an owned bag offered for resale?"
+ },
+ "17322": {
+  "p": 0.52,
+  "duda": "Do exact dimensions in metal-ladder listings indicate custom fabrication or an existing ladder being resold?"
+ },
+ "17323": {
+  "p": 0.47,
+  "duda": "Does a generic long-range headphone description provide any reliable evidence of condition?"
+ },
+ "17324": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "17325": {
+  "p": 0.5,
+  "duda": "Can a generic living-room table listing establish condition without material, model, or condition wording?"
+ },
+ "17326": {
+  "p": 0.4,
+  "duda": "For imported classical CDs, what evidence beyond 'new' distinguishes sealed retail stock from an owned copy?"
+ },
+ "17327": {
+  "p": 0.5,
+  "duda": "How should condition be estimated when a listing gives only a franchise name without identifying the product or edition?"
+ },
+ "17328": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "17329": {
+  "p": 0.6,
+  "duda": "How much does a low 2015 price for branded children's canvas shoes distinguish worn shoes from discounted new stock?"
+ },
+ "17330": {
+  "p": 0.47,
+  "duda": "What text evidence distinguishes a new generic plush toy from a household resale toy?"
+ },
+ "17331": {
+  "p": 0.5,
+  "duda": "Do individual garment measurements indicate resale, or are they equally common for new oversized clothing?"
+ },
+ "17332": {
+  "p": 0.83,
+  "duda": ""
+ },
+ "17333": {
+  "p": 0.63,
+  "duda": "Do exact dimensions and wired-glass construction usually indicate salvaged doors or newly fabricated units?"
+ },
+ "17334": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "17335": {
+  "p": 0.43,
+  "duda": "Does a bookseller's missing-page and defect return policy distinguish new stock from secondhand books?"
+ },
+ "17336": {
+  "p": 0.81,
+  "duda": ""
+ },
+ "17337": {
+  "p": 0.5,
+  "duda": "Can a title consisting of several outdoor-clothing brands establish whether the actual garment is new or used?"
+ },
+ "17338": {
+  "p": 0.47,
+  "duda": "Should obscure basic mobile phones receive the recent-model new-item lean when no exact model or release date is supplied?"
+ },
+ "17339": {
+  "p": 0.62,
+  "duda": "How often are football shirts from several seasons earlier sold as unworn old stock rather than owned shirts?"
+ },
+ "17340": {
+  "p": 0.45,
+  "duda": "What edition or condition details distinguish current self-help book stock from secondhand copies?"
+ },
+ "17341": {
+  "p": 0.45,
+  "duda": "Are shock absorbers for discontinued cars usually new replacement parts or components removed from vehicles?"
+ },
+ "17342": {
+  "p": 0.45,
+  "duda": "Does the term 'amamantador' identify a nursing device whose hygiene requirements meaningfully favor new condition?"
+ },
+ "17343": {
+  "p": 0.29,
+  "duda": "How can a title meaning 'private diary' be distinguished as unused stationery versus a published book?"
+ },
+ "17344": {
+  "p": 0.83,
+  "duda": ""
+ },
+ "17345": {
+  "p": 0.56,
+  "duda": "How much does a low price for a named fashion-brand garment distinguish resale from clearance stock in 2015?"
+ },
+ "17346": {
+  "p": 0.45,
+  "duda": "Should standalone psychoanalytic works be treated as general nonfiction unless a textbook or course edition is specified?"
+ },
+ "17347": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "17348": {
+  "p": 0.54,
+  "duda": "How can a number in a decorative-object title be distinguished as a historical date versus an inventory number?"
+ },
+ "17349": {
+  "p": 0.53,
+  "duda": "Does describing a children's garment as also fitting an adult suggest personal resale or ordinary retail sizing advice?"
+ },
+ "17350": {
+  "p": 0.5,
+  "duda": "What wording distinguishes a new baby bath support from one resold after a child outgrows it?"
+ },
+ "17351": {
+  "p": 0.35,
+  "duda": "Are rubber seals for vintage vehicles generally new reproductions or salvaged original parts?"
+ },
+ "17352": {
+  "p": 0.4,
+  "duda": "For roofing materials, what evidence beyond 'new' distinguishes unused stock from recovered material?"
+ },
+ "17353": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17354": {
+  "p": 0.5,
+  "duda": "Does a music seller's delivery offer provide any condition evidence when the CD itself has no condition description?"
+ },
+ "17355": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "17356": {
+  "p": 0.55,
+  "duda": "Does a mixed set of pewter-style trays and bathroom accessories usually represent household resale or new decorative stock?"
+ },
+ "17357": {
+  "p": 0.47,
+  "duda": "How is new versus used condition assigned to vacation-rental listings?"
+ },
+ "17358": {
+  "p": 0.45,
+  "duda": "Should children's fiction retain the general-literature lean when it could also be assigned as school reading?"
+ },
+ "17359": {
+  "p": 0.35,
+  "duda": "Do alternative animal designs and per-unit pricing meaningfully indicate new retail tableware?"
+ },
+ "17360": {
+  "p": 0.54,
+  "duda": "How much does a low price for a licensed children's costume distinguish resale from discounted new stock?"
+ },
+ "17361": {
+  "p": 0.48,
+  "duda": "Does 'ready to use' in furniture listings indicate prior ownership or simply delivery in assembled condition?"
+ },
+ "17362": {
+  "p": 0.83,
+  "duda": ""
+ },
+ "17363": {
+  "p": 0.08,
+  "duda": "How are live animals assigned new versus used condition in this marketplace?"
+ },
+ "17364": {
+  "p": 0.5,
+  "duda": "When a foreign-language publication title lacks an author or publisher, what evidence distinguishes general nonfiction from an owner's manual?"
+ },
+ "17365": {
+  "p": 0.47,
+  "duda": "What wording distinguishes a newly made chiffon skirt from an owned garment offered for resale?"
+ },
+ "17366": {
+  "p": 0.79,
+  "duda": ""
+ },
+ "17367": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17368": {
+  "p": 0.35,
+  "duda": "Does model-specific promotional wording such as 'the best' and 'excellent quality' indicate new foosball-table stock?"
+ },
+ "17369": {
+  "p": 0.6,
+  "duda": "Does approximate age sizing rather than an exact label size suggest that children's clothing is being resold?"
+ },
+ "17370": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "17371": {
+  "p": 0.47,
+  "duda": "Can a footwear listing with no brand, model, size, or condition wording provide any reliable condition evidence?"
+ },
+ "17372": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17373": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17374": {
+  "p": 0.4,
+  "duda": "What evidence beyond 'new' establishes whether a surveillance recorder is unused retail stock?"
+ },
+ "17375": {
+  "p": 0.59,
+  "duda": "Do mixed spray-gun and air-compressor accessory bundles tend to be personal tool resales or new retail sets?"
+ },
+ "17376": {
+  "p": 0.87,
+  "duda": ""
+ },
+ "17377": {
+  "p": 0.52,
+  "duda": "How should explicit 'new' wording be weighed against the used-item lean for professional lenses from small sellers?"
+ },
+ "17378": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17379": {
+  "p": 0.3,
+  "duda": "Are vintage woodwind reeds offered in batches generally unused old stock rather than previously played reeds?"
+ },
+ "17380": {
+  "p": 0.39,
+  "duda": "Does a named decorative style indicate newly created artwork or equally often describe a resold picture?"
+ },
+ "17381": {
+  "p": 0.28,
+  "duda": "Do generic TV-series DVD listings with functionality guarantees usually represent newly supplied copies?"
+ },
+ "17382": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "17383": {
+  "p": 0.44,
+  "duda": "How much should an album's release recency influence condition when no seal or condition is described?"
+ },
+ "17384": {
+  "p": 0.25,
+  "duda": "How is new versus used condition assigned to repair and reupholstery services?"
+ },
+ "17385": {
+  "p": 0.47,
+  "duda": "Do precise gold purity and gemstone specifications distinguish new jewelry from estate jewelry?"
+ },
+ "17386": {
+  "p": 0.47,
+  "duda": "What evidence can establish condition for a disc player when neither its model nor its condition is specified?"
+ },
+ "17387": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17388": {
+  "p": 0.79,
+  "duda": ""
+ },
+ "17389": {
+  "p": 0.65,
+  "duda": "Does a small mixed lot of precious-metal rings usually indicate personal resale rather than retail stock?"
+ },
+ "17390": {
+  "p": 0.4,
+  "duda": "What evidence beyond 'new' establishes whether a fashion garment is unused retail stock?"
+ },
+ "17391": {
+  "p": 0.66,
+  "duda": "Should ordinary older collectible coins without a stated grade be presumed circulated?"
+ },
+ "17392": {
+  "p": 0.4,
+  "duda": "Does a technique description such as 'textured' indicate newly produced decorative artwork?"
+ },
+ "17393": {
+  "p": 0.4,
+  "duda": "Are uncirculated collectible coins classified as new even when they have been privately owned for decades?"
+ },
+ "17394": {
+  "p": 0.5,
+  "duda": "Can a banknote's date and catalog number establish condition without an explicit circulation grade?"
+ },
+ "17395": {
+  "p": 0.4,
+  "duda": "What evidence beyond 'new' establishes whether branded football boots are unused retail stock?"
+ },
+ "17396": {
+  "p": 0.65,
+  "duda": "Does 'check stock' materially counter the resale implication of 'unused' in commercial-equipment listings?"
+ },
+ "17397": {
+  "p": 0.65,
+  "duda": "Are remanufactured toner cartridges classified as used because the cartridge was previously used, or as new replenished consumables?"
+ },
+ "17398": {
+  "p": 0.45,
+  "duda": "Does premium pricing for a specialist classical CD set distinguish new imported stock from an owned collectible copy?"
+ },
+ "17399": {
+  "p": 0.39,
+  "duda": "Does an exchange-on-failure guarantee meaningfully favor new music media over used stock?"
+ },
+ "17400": {
+  "p": 0.5,
+  "duda": "How should ambiguous titles be interpreted when clothing attributes conflict with an apparent furniture term?"
+ }
+}

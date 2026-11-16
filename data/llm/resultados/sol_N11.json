@@ -1,0 +1,402 @@
+{
+ "3301": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3302": {
+  "p": 0.48,
+  "duda": "For branded motorcycle helmets with a size but no condition statement, what distinguishes retail stock from personal resale?"
+ },
+ "3303": {
+  "p": 0.07,
+  "duda": ""
+ },
+ "3304": {
+  "p": 0.78,
+  "duda": "Are internal replacement boards for discontinued computers usually salvaged parts or unused old stock?"
+ },
+ "3305": {
+  "p": 0.47,
+  "duda": "How should furniture listings with only a generic product name and no condition or manufacturing details be assessed?"
+ },
+ "3306": {
+  "p": 0.47,
+  "duda": "Does a silver purity specification alone help distinguish newly made jewelry from previously owned jewelry?"
+ },
+ "3307": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3308": {
+  "p": 0.8,
+  "duda": "Do generic spare-parts listings for discontinued laptops usually describe dismantled machines or unused replacement stock?"
+ },
+ "3309": {
+  "p": 0.6,
+  "duda": "Does a short warranty on a television replacement board usually indicate a recovered board or a new replacement?"
+ },
+ "3310": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when the title gives only brand, garment and color?"
+ },
+ "3311": {
+  "p": 0.65,
+  "duda": "Do souvenirs branded with defunct shipping lines usually indicate previously owned collectibles rather than unused old stock?"
+ },
+ "3312": {
+  "p": 0.47,
+  "duda": "Do bar-counter listings without manufacturing or condition details typically describe new fabrication or existing fixtures?"
+ },
+ "3313": {
+  "p": 0.73,
+  "duda": "Are mixed CD bundles highlighting individual import editions usually resales of personal collections?"
+ },
+ "3314": {
+  "p": 0.47,
+  "duda": "What distinguishes new stock from resale for named football-boot models without condition details?"
+ },
+ "3315": {
+  "p": 0.4,
+  "duda": "Does a guarantee of perfect printing on a professional reference book imply a newly produced copy or merely acceptable condition?"
+ },
+ "3316": {
+  "p": 0.65,
+  "duda": "Does a promise to test professional audio equipment before delivery distinguish new stock from used equipment?"
+ },
+ "3317": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when only the garment and materials are specified?"
+ },
+ "3318": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3319": {
+  "p": 0.45,
+  "duda": "What distinguishes new literary books from used copies when only title and author are provided?"
+ },
+ "3320": {
+  "p": 0.42,
+  "duda": "Does an authenticity-only guarantee help distinguish new collectible trading cards from previously owned ones?"
+ },
+ "3321": {
+  "p": 0.29,
+  "duda": "Do branded third-party game-console mounts without condition details generally represent new accessory stock?"
+ },
+ "3322": {
+  "p": 0.4,
+  "duda": "Does children's furniture decorated with current entertainment characters usually indicate new custom manufacture or household resale?"
+ },
+ "3323": {
+  "p": 0.5,
+  "duda": "How should payment-difference listings be classified when they do not describe the condition of the underlying item?"
+ },
+ "3324": {
+  "p": 0.47,
+  "duda": "What distinguishes new decorative objects from household resale when only the objects are named?"
+ },
+ "3325": {
+  "p": 0.36,
+  "duda": "Do holiday promotions and 'only pair' wording indicate new footwear stock or personal resale?"
+ },
+ "3326": {
+  "p": 0.45,
+  "duda": "Should scholarly books about education be treated as general nonfiction or study material when no course use is mentioned?"
+ },
+ "3327": {
+  "p": 0.47,
+  "duda": "What distinguishes new fashion bags from personal resale when only the design is described?"
+ },
+ "3328": {
+  "p": 0.5,
+  "duda": "Does a satisfaction-and-return guarantee on an imported CD indicate new stock or also routinely cover used copies?"
+ },
+ "3329": {
+  "p": 0.28,
+  "duda": "Do personal beauty tools without condition details generally represent unused merchandise despite being reusable?"
+ },
+ "3330": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when only the garment, fabric and size are specified?"
+ },
+ "3331": {
+  "p": 0.45,
+  "duda": "What distinguishes new children's storybooks from used copies when only title and authors are provided?"
+ },
+ "3332": {
+  "p": 0.47,
+  "duda": "Does an unspecified warranty on a compilation CD provide any meaningful evidence about whether it is new or used?"
+ },
+ "3333": {
+  "p": 0.5,
+  "duda": "What distinguishes retail teamwear from supporter resale when only brand, club, garment and size are given?"
+ },
+ "3334": {
+  "p": 0.4,
+  "duda": "What distinguishes new workshop tools from used tools when the listing gives only tool type and manufacturer?"
+ },
+ "3335": {
+  "p": 0.75,
+  "duda": "Are multi-album bundles by one artist usually personal collection resales rather than new retail bundles?"
+ },
+ "3336": {
+  "p": 0.4,
+  "duda": "Do reusable natural-hair extensions without condition details generally represent new merchandise or personal resale?"
+ },
+ "3337": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "3338": {
+  "p": 0.5,
+  "duda": "What distinguishes new football shirts from supporter resale when no season, condition or originality details are supplied?"
+ },
+ "3339": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when only garment, fabric and color are specified?"
+ },
+ "3340": {
+  "p": 0.4,
+  "duda": "What additional evidence distinguishes retail-new clothing from owned clothing described simply as new?"
+ },
+ "3341": {
+  "p": 0.5,
+  "duda": "Do import-location abbreviations in CD titles convey condition, or only the edition's origin?"
+ },
+ "3342": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3343": {
+  "p": 0.46,
+  "duda": "What distinguishes retail children's clothing from personal resale when only brand, garment and age size are specified?"
+ },
+ "3344": {
+  "p": 0.4,
+  "duda": "Do branded imported cosmetic bags without condition details usually represent new merchandise or personal resale?"
+ },
+ "3345": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when only a generic garment name is provided?"
+ },
+ "3346": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "3347": {
+  "p": 0.45,
+  "duda": "What distinguishes new history books from used copies when only bibliographic details are supplied?"
+ },
+ "3348": {
+  "p": 0.5,
+  "duda": "What distinguishes new compilation CDs from used copies when there is no sealing or condition statement?"
+ },
+ "3349": {
+  "p": 0.43,
+  "duda": "What distinguishes retail tactical-sport accessories from personal resale when only the accessory type is specified?"
+ },
+ "3350": {
+  "p": 0.45,
+  "duda": "What distinguishes new specialist nonfiction books from used copies when only title and author are supplied?"
+ },
+ "3351": {
+  "p": 0.5,
+  "duda": "What distinguishes new machining fixtures from used workshop equipment when no condition details are given?"
+ },
+ "3352": {
+  "p": 0.47,
+  "duda": "What distinguishes new decorative clocks from household resale when no model or condition is given?"
+ },
+ "3353": {
+  "p": 0.47,
+  "duda": "Do insulated construction-panel listings without condition details usually describe newly manufactured panels or reclaimed panels?"
+ },
+ "3354": {
+  "p": 0.45,
+  "duda": "Does an unspecified warranty on a literary book help distinguish a new copy from a used one?"
+ },
+ "3355": {
+  "p": 0.47,
+  "duda": "What distinguishes new branded camera cases from personal resale when no condition statement is supplied?"
+ },
+ "3356": {
+  "p": 0.25,
+  "duda": "Do canvas-on-stretcher listings featuring popular portraits usually describe newly produced decorative prints or previously owned art?"
+ },
+ "3357": {
+  "p": 0.58,
+  "duda": "How should current-year dealership car listings be assessed when they say single owner but omit mileage and zero-kilometer status?"
+ },
+ "3358": {
+  "p": 0.65,
+  "duda": "Does 'original' on a replacement carburetor for an older vehicle indicate a recovered factory part or unused original stock?"
+ },
+ "3359": {
+  "p": 0.62,
+  "duda": "Do hand-measured garment dimensions suggest personal resale, or are they equally common in new clothing listings?"
+ },
+ "3360": {
+  "p": 0.1,
+  "duda": "How should pet listings without an age or ownership history be mapped to new versus used?"
+ },
+ "3361": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3362": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "3363": {
+  "p": 0.5,
+  "duda": "Does an original part number on an automotive reservoir help distinguish new replacement stock from a recovered part?"
+ },
+ "3364": {
+  "p": 0.45,
+  "duda": "What distinguishes new literary books from used copies when only title and author are provided?"
+ },
+ "3365": {
+  "p": 0.5,
+  "duda": "Does describing framed textile art as original and handmade help distinguish new artisan work from previously owned decor?"
+ },
+ "3366": {
+  "p": 0.47,
+  "duda": "Do enthusiastic fashion descriptions and seller-reputation assurances provide any condition evidence without an explicit condition statement?"
+ },
+ "3367": {
+  "p": 0.4,
+  "duda": "What distinguishes retail die-cast models from previously displayed collectibles when only the vehicle, scale and seller branding are specified?"
+ },
+ "3368": {
+  "p": 0.5,
+  "duda": "How should short-term accommodation rentals be mapped to the new-versus-used item labels?"
+ },
+ "3369": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3370": {
+  "p": 0.35,
+  "duda": "Does handmade leatherwork wording generally indicate direct artisan sales or also commonly describe previously owned bags?"
+ },
+ "3371": {
+  "p": 0.42,
+  "duda": "What distinguishes new structural steel from reclaimed material when only the profile and size are specified?"
+ },
+ "3372": {
+  "p": 0.6,
+  "duda": "Do model-specific surgical instruments with a negotiable warranty usually represent new equipment or resale equipment?"
+ },
+ "3373": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3374": {
+  "p": 0.5,
+  "duda": "For commemorative coins, does previous ownership count as used even when circulation or wear is not mentioned?"
+ },
+ "3375": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "3376": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "3377": {
+  "p": 0.55,
+  "duda": "Does a dated racing livery on a collectible model provide condition evidence, or merely identify the vehicle being reproduced?"
+ },
+ "3378": {
+  "p": 0.65,
+  "duda": "Does tested-full-performance wording for vintage vacuum tubes usually indicate used tubes or unused old stock?"
+ },
+ "3379": {
+  "p": 0.3,
+  "duda": "Does a craft-material description on a household accessory generally indicate new handmade merchandise or personal resale?"
+ },
+ "3380": {
+  "p": 0.65,
+  "duda": "What textual evidence distinguishes new camera lenses from used lenses when only the brand and focal range are provided?"
+ },
+ "3381": {
+  "p": 0.4,
+  "duda": "Does a model-kit product-line name imply an unassembled new kit when assembly and condition are not specified?"
+ },
+ "3382": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "3383": {
+  "p": 0.45,
+  "duda": "What does 'kit' usually denote in phone listings that do not specify the included items, and does that imply their condition?"
+ },
+ "3384": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when only brand, garment and size are specified?"
+ },
+ "3385": {
+  "p": 0.47,
+  "duda": "What distinguishes new household appliances from used ones when only the type and brand are supplied?"
+ },
+ "3386": {
+  "p": 0.5,
+  "duda": "What distinguishes retail clothing from personal resale when only brand and garment are specified?"
+ },
+ "3387": {
+  "p": 0.24,
+  "duda": ""
+ },
+ "3388": {
+  "p": 0.4,
+  "duda": "What distinguishes new nursery lighting from household resale when only the intended audience and color are specified?"
+ },
+ "3389": {
+  "p": 0.64,
+  "duda": "Do model-year-specific automotive body panels without condition details usually represent recovered parts or new aftermarket replacements?"
+ },
+ "3390": {
+  "p": 0.5,
+  "duda": "What distinguishes new Blu-ray discs from used copies when there is no sealing or condition statement?"
+ },
+ "3391": {
+  "p": 0.47,
+  "duda": "What distinguishes new generic electronic cables from used ones when no packaging or condition details are provided?"
+ },
+ "3392": {
+  "p": 0.47,
+  "duda": "Does an unspecified warranty provide any condition evidence for otherwise generic clothing listings?"
+ },
+ "3393": {
+  "p": 0.47,
+  "duda": "What distinguishes new oversized branded dolls from used toys when no packaging, edition or condition is specified?"
+ },
+ "3394": {
+  "p": 0.47,
+  "duda": "Does 'imported' provide any condition evidence for branded clothing without further details?"
+ },
+ "3395": {
+  "p": 0.47,
+  "duda": "What distinguishes retail clothing from personal resale when only brand and garment are specified?"
+ },
+ "3396": {
+  "p": 0.39,
+  "duda": "What additional evidence distinguishes new recent-model phones from personal resale when only specifications and unlocked status are given?"
+ },
+ "3397": {
+  "p": 0.43,
+  "duda": "Does 'retro' on a football shirt usually mean a newly made reproduction or an original period garment?"
+ },
+ "3398": {
+  "p": 0.47,
+  "duda": "What distinguishes new pond or aquarium filters from used equipment when only capacity is specified?"
+ },
+ "3399": {
+  "p": 0.35,
+  "duda": "Does plural wording about clothing brought from abroad indicate new merchandise imported for resale or personal wardrobe resale?"
+ },
+ "3400": {
+  "p": 0.6,
+  "duda": "Does an athlete's autograph on clothing imply prior garment use, or can the item remain new collectible merchandise?"
+ }
+}

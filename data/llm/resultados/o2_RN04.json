@@ -1,0 +1,402 @@
+{
+ "16301": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16302": {
+  "p": 0.45,
+  "duda": "Does 'USA' in clothing/shoe titles indicate imported new stock or a used item?"
+ },
+ "16303": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16304": {
+  "p": 0.48,
+  "duda": "Are collector items (bootlegs, autographed box sets, collectible toys or models) without condition words usually listed as used?"
+ },
+ "16305": {
+  "p": 0.6,
+  "duda": "Are sports jerseys of retired players or old seasons usually used resales?"
+ },
+ "16306": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16307": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16308": {
+  "p": 0.58,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16309": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16310": {
+  "p": 0.45,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16311": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16312": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16313": {
+  "p": 0.52,
+  "duda": "Are office machines (shredders etc.) listed without condition words usually used?"
+ },
+ "16314": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16315": {
+  "p": 0.55,
+  "duda": "Are collector items (bootlegs, autographed box sets, collectible toys or models) without condition words usually listed as used?"
+ },
+ "16316": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16317": {
+  "p": 0.55,
+  "duda": "Are branded outdoor jackets (Columbia, North Face) without condition words usually new imports or used?"
+ },
+ "16318": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16319": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16320": {
+  "p": 0.6,
+  "duda": "Are out-of-print commemorative or club books usually used?"
+ },
+ "16321": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16322": {
+  "p": 0.45,
+  "duda": "Are generic personal items (clothes, shoes, home textiles, sports gear) with no condition words and no shop signals usually used?"
+ },
+ "16323": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16324": {
+  "p": 0.5,
+  "duda": "Are large building items (fences, gates, roof trusses) usually made-to-order new or dismantled used?"
+ },
+ "16325": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16326": {
+  "p": 0.6,
+  "duda": "Are 'mosaicos/baldosas de reposicion' salvaged old tiles (used) or leftover new stock?"
+ },
+ "16327": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16328": {
+  "p": 0.65,
+  "duda": "Are CDs/DVDs of albums or films released 10+ years before 2015, without condition words, usually used resales?"
+ },
+ "16329": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16330": {
+  "p": 0.6,
+  "duda": "Are older comics or graphic novels without condition words usually used?"
+ },
+ "16331": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16332": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16333": {
+  "p": 0.5,
+  "duda": "Are expensive industrial machines listed without condition words usually new or used?"
+ },
+ "16334": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16335": {
+  "p": 0.45,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16336": {
+  "p": 0.5,
+  "duda": "Are generic phone accessories (headsets, earphones) without model or condition info usually new?"
+ },
+ "16337": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16338": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16339": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16340": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16341": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16342": {
+  "p": 0.3,
+  "duda": "Are mint (unused) postage stamps labeled new and only cancelled stamps labeled used?"
+ },
+ "16343": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16344": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16345": {
+  "p": 0.2,
+  "duda": "Are digital e-book (PDF) listings labeled new?"
+ },
+ "16346": {
+  "p": 0.4,
+  "duda": "Are handmade/artisan items (carved leather, crafts) labeled new?"
+ },
+ "16347": {
+  "p": 0.55,
+  "duda": "Are children's/baby clothes without condition words usually used resales or new imports?"
+ },
+ "16348": {
+  "p": 0.58,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16349": {
+  "p": 0.55,
+  "duda": "Are institutional history or photo books (hospitals, clubs) usually used copies?"
+ },
+ "16350": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16351": {
+  "p": 0.45,
+  "duda": "Are children's/baby clothes without condition words usually used resales or new imports?"
+ },
+ "16352": {
+  "p": 0.55,
+  "duda": "Are generic personal items (clothes, shoes, home textiles, sports gear) with no condition words and no shop signals usually used?"
+ },
+ "16353": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16354": {
+  "p": 0.6,
+  "duda": "Are spare parts for old or discontinued devices (printheads, LCD panels) usually pulled/used rather than new?"
+ },
+ "16355": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16356": {
+  "p": 0.45,
+  "duda": "Are large building items (fences, gates, roof trusses) usually made-to-order new or dismantled used?"
+ },
+ "16357": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16358": {
+  "p": 0.55,
+  "duda": "Are generic personal items (clothes, shoes, home textiles, sports gear) with no condition words and no shop signals usually used?"
+ },
+ "16359": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "16360": {
+  "p": 0.15,
+  "duda": "Are digital e-book (PDF) listings labeled new?"
+ },
+ "16361": {
+  "p": 0.62,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16362": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16363": {
+  "p": 0.65,
+  "duda": "Are spare parts for old or discontinued devices (printheads, LCD panels) usually pulled/used rather than new?"
+ },
+ "16364": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16365": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16366": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16367": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16368": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16369": {
+  "p": 0.55,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16370": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16371": {
+  "p": 0.65,
+  "duda": "Are collector items (bootlegs, autographed box sets, collectible toys or models) without condition words usually listed as used?"
+ },
+ "16372": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16373": {
+  "p": 0.4,
+  "duda": "Are accessories for discontinued products (e.g. old camera cases) usually new-old-stock or used?"
+ },
+ "16374": {
+  "p": 0.4,
+  "duda": "Are mint (unused) postage stamps labeled new and only cancelled stamps labeled used?"
+ },
+ "16375": {
+  "p": 0.5,
+  "duda": "Does a book priced far below its 2015 new retail price (e.g. under ~100 ARS) indicate a used copy?"
+ },
+ "16376": {
+  "p": 0.55,
+  "duda": "Are generic personal items (clothes, shoes, home textiles, sports gear) with no condition words and no shop signals usually used?"
+ },
+ "16377": {
+  "p": 0.65,
+  "duda": "How are real-estate listings (houses, apartments) labeled: new or used?"
+ },
+ "16378": {
+  "p": 0.42,
+  "duda": "Is a low price for an item described as 'nuevo' evidence that it is actually used?"
+ },
+ "16379": {
+  "p": 0.6,
+  "duda": "Are home medical or therapy devices (nebulizers, ultrasound units) without condition words usually new or used?"
+ },
+ "16380": {
+  "p": 0.55,
+  "duda": "For very short ambiguous titles from mid-size sellers (likely books), what is the default lean?"
+ },
+ "16381": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16382": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16383": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16384": {
+  "p": 0.62,
+  "duda": "Are CDs/DVDs of albums or films released 10+ years before 2015, without condition words, usually used resales?"
+ },
+ "16385": {
+  "p": 0.5,
+  "duda": "Are home medical or therapy devices (nebulizers, ultrasound units) without condition words usually new or used?"
+ },
+ "16386": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16387": {
+  "p": 0.3,
+  "duda": "Are mint (unused) postage stamps labeled new and only cancelled stamps labeled used?"
+ },
+ "16388": {
+  "p": 0.6,
+  "duda": "Are CDs/DVDs of albums or films released 10+ years before 2015, without condition words, usually used resales?"
+ },
+ "16389": {
+  "p": 0.55,
+  "duda": "Are high-end or couture dresses without condition words usually worn-once resales?"
+ },
+ "16390": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16391": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16392": {
+  "p": 0.62,
+  "duda": "Do large sellers using catalogue codes (e.g. '#c197') typically sell used books/items?"
+ },
+ "16393": {
+  "p": 0.6,
+  "duda": "Are generic personal items (clothes, shoes, home textiles, sports gear) with no condition words and no shop signals usually used?"
+ },
+ "16394": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16395": {
+  "p": 0.65,
+  "duda": "Are collector items (bootlegs, autographed box sets, collectible toys or models) without condition words usually listed as used?"
+ },
+ "16396": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16397": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16398": {
+  "p": 0.55,
+  "duda": "Are CDs/DVDs of albums or films released 10+ years before 2015, without condition words, usually used resales?"
+ },
+ "16399": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16400": {
+  "p": 0.3,
+  "duda": "How are live animals (puppies, pets) labeled: new or used?"
+ }
+}

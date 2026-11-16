@@ -1,0 +1,402 @@
+{
+ "2501": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "2502": {
+  "p": 0.35,
+  "duda": "When a title includes what looks like a shop name (e.g., 'Lord Toys'), does that reliably indicate new stock?"
+ },
+ "2503": {
+  "p": 0.6,
+  "duda": "Are loose toy figures (Gundam, action figures) with accessories and no box mention from one-off sellers usually used?"
+ },
+ "2504": {
+  "p": 0.42,
+  "duda": "Are laptop replacement parts (hinges, boards, screens) without condition words usually new aftermarket parts or used parts harvested from broken laptops?"
+ },
+ "2505": {
+  "p": 0.6,
+  "duda": "For music listings that give only artist and album (no format, no condition words), are they mostly used collector copies or new stock?"
+ },
+ "2506": {
+  "p": 0.6,
+  "duda": "For music listings that give only artist and album (no format, no condition words), are they mostly used collector copies or new stock?"
+ },
+ "2507": {
+  "p": 0.55,
+  "duda": "Are old-season football jerseys (e.g., Argentina 2006) sold years later usually used, or leftover new stock / retro replicas?"
+ },
+ "2508": {
+  "p": 0.6,
+  "duda": "Are out-of-print books (published decades ago, specialised or journalistic) sold on MercadoLibre mostly used copies?"
+ },
+ "2509": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2510": {
+  "p": 0.55,
+  "duda": "Are stamp lots and circulated coins sold by collectors/dealers usually listed as used or as new?"
+ },
+ "2511": {
+  "p": 0.55,
+  "duda": "Is branded or designer clothing listed by a one-off seller with no condition words usually used or new?"
+ },
+ "2512": {
+  "p": 0.5,
+  "duda": "Does a book price well below the typical new retail price (e.g., under ~100 ARS in 2015) indicate a used copy?"
+ },
+ "2513": {
+  "p": 0.5,
+  "duda": "Are party items like cake toppers from one-off sellers usually resold after the party (used) or new?"
+ },
+ "2514": {
+  "p": 0.55,
+  "duda": "Are home decor objects (vases, figurines, ornaments) from one-off sellers without condition words usually household items resold (used) or new stock?"
+ },
+ "2515": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2516": {
+  "p": 0.45,
+  "duda": "Are collectible diecast scale models (Minichamps, Norev, Bburago) from collectors usually listed as new (boxed) or used?"
+ },
+ "2517": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2518": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2519": {
+  "p": 0.45,
+  "duda": "Is branded or designer clothing listed by a one-off seller with no condition words usually used or new?"
+ },
+ "2520": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2521": {
+  "p": 0.35,
+  "duda": "Are sellers who tag many music/book listings with '( Nuevo )' new-stock shops?"
+ },
+ "2522": {
+  "p": 0.42,
+  "duda": "Does the 'named recent phone leans new' rule also apply to named tablets (LG G Pad, Galaxy Tab)?"
+ },
+ "2523": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2524": {
+  "p": 0.65,
+  "duda": "Are kitchen fixtures (countertops with sinks) sold well below new price usually removed from remodels (used)?"
+ },
+ "2525": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2526": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2527": {
+  "p": 0.5,
+  "duda": "Are high-priced collectible knives (Puma, etc.) from one-off sellers usually used or new?"
+ },
+ "2528": {
+  "p": 0.6,
+  "duda": "Are antiques and vintage collectibles (old photos, sheet music, old toys) treated as used by default on MercadoLibre?"
+ },
+ "2529": {
+  "p": 0.55,
+  "duda": "Are small gas/plumbing fittings from one-off sellers priced below retail usually used?"
+ },
+ "2530": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2531": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2532": {
+  "p": 0.5,
+  "duda": "Is generic household furniture (tables, TV stands) from one-off sellers with no condition words usually used or new?"
+ },
+ "2533": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2534": {
+  "p": 0.55,
+  "duda": "For music listings that give only artist and album (no format, no condition words), are they mostly used collector copies or new stock?"
+ },
+ "2535": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2536": {
+  "p": 0.4,
+  "duda": "Are home decor objects (vases, figurines, ornaments) from one-off sellers without condition words usually household items resold (used) or new stock?"
+ },
+ "2537": {
+  "p": 0.45,
+  "duda": "Is generic household furniture (tables, TV stands) from one-off sellers with no condition words usually used or new?"
+ },
+ "2538": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2539": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2540": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2541": {
+  "p": 0.5,
+  "duda": "Does 'hermoso/hermosa' in a clothing title signal a person reselling (used) or a small shop (new)?"
+ },
+ "2542": {
+  "p": 0.5,
+  "duda": "Does a book price well below the typical new retail price (e.g., under ~100 ARS in 2015) indicate a used copy?"
+ },
+ "2543": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2544": {
+  "p": 0.4,
+  "duda": "Does the 'named phone leans new' rule apply equally to low-end basic phone models?"
+ },
+ "2545": {
+  "p": 0.55,
+  "duda": "Are collectible diecast scale models (Minichamps, Norev, Bburago) from collectors usually listed as new (boxed) or used?"
+ },
+ "2546": {
+  "p": 0.35,
+  "duda": "Does 'importado/importada' in a clothing or accessory title indicate a shop reselling new imported stock?"
+ },
+ "2547": {
+  "p": 0.6,
+  "duda": "Is branded or designer clothing listed by a one-off seller with no condition words usually used or new?"
+ },
+ "2548": {
+  "p": 0.45,
+  "duda": "Are home decor objects (vases, figurines, ornaments) from one-off sellers without condition words usually household items resold (used) or new stock?"
+ },
+ "2549": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2550": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2551": {
+  "p": 0.35,
+  "duda": "Are recent non-fiction books (published within ~1-2 years) from small book sellers mostly new?"
+ },
+ "2552": {
+  "p": 0.55,
+  "duda": "Does a warranty text like 'se ve antes de llevar' (can be inspected before buying) indicate an individual reselling a used item?"
+ },
+ "2553": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2554": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "2555": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "2556": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2557": {
+  "p": 0.45,
+  "duda": "Does 'hermoso/hermosa' in a clothing title signal a person reselling (used) or a small shop (new)?"
+ },
+ "2558": {
+  "p": 0.5,
+  "duda": "Are collectible game singles (trading cards, Clix figures) usually listed as new or used?"
+ },
+ "2559": {
+  "p": 0.5,
+  "duda": "Are auto parts for old car models (Fiat 128, etc.) from one-off sellers without condition words usually new-old-stock or used?"
+ },
+ "2560": {
+  "p": 0.35,
+  "duda": "Are personal-care appliances (shavers, curlers) with a named model from one-off sellers usually new?"
+ },
+ "2561": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2562": {
+  "p": 0.55,
+  "duda": "When 'nuevo' appears together with 'sin uso' / 'cero uso', which signal dominates?"
+ },
+ "2563": {
+  "p": 0.5,
+  "duda": "Are aftermarket performance car parts sold by individuals usually used (removed from their own car) or imported new?"
+ },
+ "2564": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2565": {
+  "p": 0.5,
+  "duda": "Which condition do service or real-estate listings (vacation rentals, installations) usually carry in this dataset?"
+ },
+ "2566": {
+  "p": 0.45,
+  "duda": "Are collectible diecast scale models (Minichamps, Norev, Bburago) from collectors usually listed as new (boxed) or used?"
+ },
+ "2567": {
+  "p": 0.5,
+  "duda": "Are baby clothes (bodies, enteritos) from one-off sellers mostly outgrown items resold (used)?"
+ },
+ "2568": {
+  "p": 0.4,
+  "duda": "Are cheap leather accessories (riñoneras, bolsos) labelled 'original' usually new stock?"
+ },
+ "2569": {
+  "p": 0.5,
+  "duda": "Do book sellers who put inventory numbers in titles (e.g., '#5286') usually sell used copies?"
+ },
+ "2570": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2571": {
+  "p": 0.35,
+  "duda": "Does 'importado/importada' in a clothing or accessory title indicate a shop reselling new imported stock?"
+ },
+ "2572": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2573": {
+  "p": 0.35,
+  "duda": "Are sellers who tag many music/book listings with '( Nuevo )' new-stock shops?"
+ },
+ "2574": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2575": {
+  "p": 0.45,
+  "duda": "Are home decor objects (vases, figurines, ornaments) from one-off sellers without condition words usually household items resold (used) or new stock?"
+ },
+ "2576": {
+  "p": 0.42,
+  "duda": "Does a book price well below the typical new retail price (e.g., under ~100 ARS in 2015) indicate a used copy?"
+ },
+ "2577": {
+  "p": 0.55,
+  "duda": "Are stamp lots and circulated coins sold by collectors/dealers usually listed as used or as new?"
+ },
+ "2578": {
+  "p": 0.4,
+  "duda": "Are simple knitwear items (scarves) at low prices usually handmade new stock?"
+ },
+ "2579": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2580": {
+  "p": 0.5,
+  "duda": "Are workshop tools (taps, dies, bits) from one-off sellers without condition words usually used?"
+ },
+ "2581": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2582": {
+  "p": 0.35,
+  "duda": "Are fashion accessories (bags, bandoleras) with exclamation-style titles usually new shop stock?"
+ },
+ "2583": {
+  "p": 0.4,
+  "duda": "Does '(artículo nuevo)' written by a one-off seller signal real new stock, or a person reselling an unused gift?"
+ },
+ "2584": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2585": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2586": {
+  "p": 0.35,
+  "duda": "Are stone crafts (onyx figurines) usually new artisan stock?"
+ },
+ "2587": {
+  "p": 0.55,
+  "duda": "Are accessories for obsolete devices (iPhone 4 cases/mounts) from one-off sellers usually used?"
+ },
+ "2588": {
+  "p": 0.4,
+  "duda": "Does 'Oferta' in a title indicate a shop selling new stock?"
+ },
+ "2589": {
+  "p": 0.55,
+  "duda": "Are electrical/hardware items listed with exact measurements and 'Sin garantía' usually vintage used items?"
+ },
+ "2590": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2591": {
+  "p": 0.65,
+  "duda": "Are out-of-print books (published decades ago, specialised or journalistic) sold on MercadoLibre mostly used copies?"
+ },
+ "2592": {
+  "p": 0.6,
+  "duda": "Is fine jewelry (gold/platinum rings) from one-off sellers with an authenticity certificate usually estate (used) or new?"
+ },
+ "2593": {
+  "p": 0.65,
+  "duda": "Are older editions of professional manuals (e.g., a 2011 drug manual sold in 2015) mostly used copies?"
+ },
+ "2594": {
+  "p": 0.6,
+  "duda": "Are discontinued camera models (e.g., Nikon D3100) with kit lens sold by a one-off seller usually used?"
+ },
+ "2595": {
+  "p": 0.5,
+  "duda": "Are designer accessories (Gucci ties, etc.) from one-off sellers usually used originals or new (possibly replica) stock?"
+ },
+ "2596": {
+  "p": 0.5,
+  "duda": "Are bridal items (headpieces, dresses) from one-off sellers mostly resold after the wedding (used)?"
+ },
+ "2597": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2598": {
+  "p": 0.65,
+  "duda": "Are secondary-school / philosophy textbooks (e.g., Fazzini) mostly sold used?"
+ },
+ "2599": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2600": {
+  "p": 0.4,
+  "duda": "Are home decor objects (vases, figurines, ornaments) from one-off sellers without condition words usually household items resold (used) or new stock?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "10001": {
+  "p": 0.45,
+  "duda": "Are antique or vintage items that were never used (new old stock, e.g., old fountain-pen nibs) usually labeled new or used?"
+ },
+ "10002": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "10003": {
+  "p": 0.6,
+  "duda": "Are branded women's party dresses listed singly without condition words usually resold after being worn (used) or new?"
+ },
+ "10004": {
+  "p": 0.45,
+  "duda": "Are car underbody/body parts (skid plates, bumpers) without condition words usually new aftermarket or used take-offs?"
+ },
+ "10005": {
+  "p": 0.45,
+  "duda": "When a literature book is priced well above typical 2015 new-book prices, does that indicate a used out-of-print copy?"
+ },
+ "10006": {
+  "p": 0.35,
+  "duda": "Are children's clothes advertised as brought from the USA ('de USA') usually new imported resale or used?"
+ },
+ "10007": {
+  "p": 0.35,
+  "duda": "When a seller lists many children's/school reading books with 'Nuevo' in the title at the same low price (e.g., 65 ARS), are they usually new (stock liquidation) or used?"
+ },
+ "10008": {
+  "p": 0.35,
+  "duda": "Are generic artwork listings like 'Cuadros abstractos' usually new works sold by the artist or used decor?"
+ },
+ "10009": {
+  "p": 0.35,
+  "duda": "When a private seller lists a luxury watch with 'Nuevo' at a price close to retail, is it usually labeled new?"
+ },
+ "10010": {
+  "p": 0.42,
+  "duda": "Are low-priced small kitchen items (e.g., a 'bifera' grill plate) with no condition words usually new shop stock?"
+ },
+ "10011": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10012": {
+  "p": 0.45,
+  "duda": "Are unbranded women's shoes listed only with style and color (no condition words) usually new from small shops or used?"
+ },
+ "10013": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10014": {
+  "p": 0.52,
+  "duda": "Are older or foreign-published books likely out of print in Argentina in 2015 usually sold as used?"
+ },
+ "10015": {
+  "p": 0.4,
+  "duda": "Does the warranty phrase 'se revisa al retirar' (inspect at pickup) indicate a used item?"
+ },
+ "10016": {
+  "p": 0.42,
+  "duda": "Do specialised non-fiction books (architecture, design, essays) sold by large book sellers lean new or used?"
+ },
+ "10017": {
+  "p": 0.35,
+  "duda": "Are religious items such as rosaries without condition words usually new?"
+ },
+ "10018": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "10019": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10020": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10021": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10022": {
+  "p": 0.5,
+  "duda": "Are kiosk partwork collectibles (Salvat, Aguilar, Eaglemoss figures, book series, 1/43 models) resold by collectors usually labeled new or used?"
+ },
+ "10023": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10024": {
+  "p": 0.45,
+  "duda": "Are stamps listed without condition words (no 'nuevo/mint' or 'usado/matasellado') usually labeled new or used?"
+ },
+ "10025": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10026": {
+  "p": 0.4,
+  "duda": "Are lamps and home lighting listed with only a generic style description usually new shop stock or used?"
+ },
+ "10027": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10028": {
+  "p": 0.38,
+  "duda": "When 'nuevo/nueva' appears on clothing or accessories from a private single-item seller, is the item usually labeled new?"
+ },
+ "10029": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10030": {
+  "p": 0.48,
+  "duda": "Are clothes from fast-fashion brands not sold in Argentina in 2015 (Forever 21, Pull & Bear) usually new imports or used?"
+ },
+ "10031": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10032": {
+  "p": 0.55,
+  "duda": "Are clothes from fast-fashion brands not sold in Argentina in 2015 (Forever 21, Pull & Bear) usually new imports or used?"
+ },
+ "10033": {
+  "p": 0.58,
+  "duda": "When branded clothing is priced well below 2015 retail (about half or less), is it usually used?"
+ },
+ "10034": {
+  "p": 0.58,
+  "duda": "Are listings with a one-word generic title (e.g., 'Cámara') and no photos usually used items from private sellers?"
+ },
+ "10035": {
+  "p": 0.6,
+  "duda": "Are football shirts priced well above retail (collector price) usually used or vintage?"
+ },
+ "10036": {
+  "p": 0.35,
+  "duda": "When a seller lists many children's/school reading books with 'Nuevo' in the title at the same low price (e.g., 65 ARS), are they usually new (stock liquidation) or used?"
+ },
+ "10037": {
+  "p": 0.55,
+  "duda": "Are collectible phone cards (tarjetas telefónicas) usually labeled used?"
+ },
+ "10038": {
+  "p": 0.35,
+  "duda": "When a seller lists many children's/school reading books with 'Nuevo' in the title at the same low price (e.g., 65 ARS), are they usually new (stock liquidation) or used?"
+ },
+ "10039": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10040": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10041": {
+  "p": 0.48,
+  "duda": "Are imported consumer electronics not officially sold in Argentina (e.g., Pebble watch) usually new or used when sold by private sellers?"
+ },
+ "10042": {
+  "p": 0.6,
+  "duda": "Are retro handheld games (Game Boy Advance) sold in 2015 usually used originals or new reproduction cartridges?"
+ },
+ "10043": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10044": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10045": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "10046": {
+  "p": 0.58,
+  "duda": "When branded clothing is priced well below 2015 retail (about half or less), is it usually used?"
+ },
+ "10047": {
+  "p": 0.62,
+  "duda": "Do professional/university reference books (e.g., psychology test manuals) count as study material that leans used?"
+ },
+ "10048": {
+  "p": 0.35,
+  "duda": "Are household appliances like water heaters listed without condition words at near-retail prices usually new?"
+ },
+ "10049": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10050": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "10051": {
+  "p": 0.5,
+  "duda": "Are kiosk partwork collectibles (Salvat, Aguilar, Eaglemoss figures, book series, 1/43 models) resold by collectors usually labeled new or used?"
+ },
+ "10052": {
+  "p": 0.45,
+  "duda": "Are hardware/tool items (e.g., ladders) without condition words usually new?"
+ },
+ "10053": {
+  "p": 0.65,
+  "duda": "Are CDs priced well below the new import price (e.g., 60 ARS) usually used?"
+ },
+ "10054": {
+  "p": 0.6,
+  "duda": "Are accessories for connectors obsolete by 2015 (e.g., 30-pin iPod docks) usually used?"
+ },
+ "10055": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10056": {
+  "p": 0.65,
+  "duda": "Are listings bundling clothes of different brands and styles usually used wardrobe clearances?"
+ },
+ "10057": {
+  "p": 0.45,
+  "duda": "Are mouth-played instruments (e.g., harmonicas) usually sold new rather than used?"
+ },
+ "10058": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "10059": {
+  "p": 0.5,
+  "duda": "When 'nuevo' appears on a product model discontinued years before 2015, is it usually actually new?"
+ },
+ "10060": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10061": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10062": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10063": {
+  "p": 0.4,
+  "duda": "Are trade/industrial equipment items (e.g., butcher pulleys) listed in multi-unit lots usually new?"
+ },
+ "10064": {
+  "p": 0.4,
+  "duda": "Are CDs titled 'Nuevo - Original' by sellers with many music listings usually new?"
+ },
+ "10065": {
+  "p": 0.5,
+  "duda": "Are stamps listed without condition words (no 'nuevo/mint' or 'usado/matasellado') usually labeled new or used?"
+ },
+ "10066": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10067": {
+  "p": 0.42,
+  "duda": "Do mass-market literature or spiritual paperbacks priced below typical 2015 new-book prices lean used?"
+ },
+ "10068": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10069": {
+  "p": 0.48,
+  "duda": "Do mass-market literature or spiritual paperbacks priced below typical 2015 new-book prices lean used?"
+ },
+ "10070": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10071": {
+  "p": 0.45,
+  "duda": "Are cheap decorative figurines (e.g., a small ceramic owl) usually used home items or new crafts?"
+ },
+ "10072": {
+  "p": 0.4,
+  "duda": "Do mass-market literature or spiritual paperbacks priced below typical 2015 new-book prices lean used?"
+ },
+ "10073": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10074": {
+  "p": 0.5,
+  "duda": "Are kiosk partwork collectibles (Salvat, Aguilar, Eaglemoss figures, book series, 1/43 models) resold by collectors usually labeled new or used?"
+ },
+ "10075": {
+  "p": 0.35,
+  "duda": "Are souvenir items brought from abroad (e.g., Egyptian silk scarves) usually labeled new?"
+ },
+ "10076": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10077": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10078": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10079": {
+  "p": 0.35,
+  "duda": "When a seller lists many children's/school reading books with 'Nuevo' in the title at the same low price (e.g., 65 ARS), are they usually new (stock liquidation) or used?"
+ },
+ "10080": {
+  "p": 0.55,
+  "duda": "Are cheap children's plastic furniture items from private sellers usually used?"
+ },
+ "10081": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10082": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10083": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10084": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10085": {
+  "p": 0.55,
+  "duda": "Are unbranded shoes listed with only size and material usually used?"
+ },
+ "10086": {
+  "p": 0.65,
+  "duda": "Does 'sin uso' on pet or baby gear map to the used label as rule 4 suggests, or to new?"
+ },
+ "10087": {
+  "p": 0.35,
+  "duda": "Are lamps and home lighting listed with only a generic style description usually new shop stock or used?"
+ },
+ "10088": {
+  "p": 0.4,
+  "duda": "Are kiosk partwork collectibles (Salvat, Aguilar, Eaglemoss figures, book series, 1/43 models) resold by collectors usually labeled new or used?"
+ },
+ "10089": {
+  "p": 0.58,
+  "duda": "When branded clothing is priced well below 2015 retail (about half or less), is it usually used?"
+ },
+ "10090": {
+  "p": 0.4,
+  "duda": "Are listings with vague titles like 'Hermosas... únicas!' usually handmade new items?"
+ },
+ "10091": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10092": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10093": {
+  "p": 0.6,
+  "duda": "Are car body parts that name an exact trim and year with an OEM part number usually used take-offs?"
+ },
+ "10094": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10095": {
+  "p": 0.55,
+  "duda": "Are university-level non-fiction books (communication, political science) priced cheaply usually used?"
+ },
+ "10096": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10097": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10098": {
+  "p": 0.45,
+  "duda": "When 'nuevo/nueva' appears on clothing or accessories from a private single-item seller, is the item usually labeled new?"
+ },
+ "10099": {
+  "p": 0.6,
+  "duda": "Are small computer parts tied to old PC brands (e.g., PCChips brackets) usually used pulls?"
+ },
+ "10100": {
+  "p": 0.65,
+  "duda": "Are car accessories like AC kits for a specific model without condition words usually used?"
+ }
+}

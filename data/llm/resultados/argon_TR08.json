@@ -1,0 +1,402 @@
+{
+ "12701": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12702": {
+  "p": 0.5,
+  "duda": "Do generic evening/party dress listings without brand, size, or condition words in the title lean used (one-time personal wear) or follow the ~46% clothing base rate?"
+ },
+ "12703": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12704": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12705": {
+  "p": 0.6,
+  "duda": "When a clothing or sports jersey title says 'Única!!' without specifying multiple sizes, does that reliably indicate a used single item?"
+ },
+ "12706": {
+  "p": 0.78,
+  "duda": "In numismatics and philately (old banknotes, coins, and stamps), how often do sellers label circulated or vintage items as 'usado' versus 'nuevo'?"
+ },
+ "12707": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12708": {
+  "p": 0.3,
+  "duda": "For car and motorcycle classifieds (where attributes include 'Horario de contacto'), how are 0km/dealership listings ('Entrega Inmediata', '0km') vs recent-model cars distributed between 'nuevo' and 'usado'?"
+ },
+ "12709": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12710": {
+  "p": 0.55,
+  "duda": "When an architectural or furniture item is titled 'Antiguo/Antigua' (e.g., antique doors) but carries a multi-year written warranty, is it typically classified as 'usado' (salvaged/restored) or 'nuevo'?"
+ },
+ "12711": {
+  "p": 0.58,
+  "duda": "Are older dated collector dolls and action figures (e.g., a 2004 special edition sold in 2015) without 'en caja sellada' usually listed as 'usado' or 'nuevo'?"
+ },
+ "12712": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12713": {
+  "p": 0.62,
+  "duda": "Do multi-volume book or comic bundles sold together in a single listing (e.g., 'Vol 1 y 2', 'el precio es por los 2') strongly lean 'usado'?"
+ },
+ "12714": {
+  "p": 0.52,
+  "duda": "In women's clothing, does specifying a single size (e.g., 'Talle M') and brand in the title lean toward 'usado' (personal closet item) or stay near the 46% clothing average?"
+ },
+ "12715": {
+  "p": 0.48,
+  "duda": "For furniture listings phrased as a matching set ('con espejo haciendo juego') without dimensions or factory/color customization options, are they more often 'usado' or 'nuevo'?"
+ },
+ "12716": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12717": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12718": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12719": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12720": {
+  "p": 0.56,
+  "duda": "Do ultra-minimalist one-word clothing/accessory titles (e.g., just 'Cartera') lean 'usado' compared to descriptive titles?"
+ },
+ "12721": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12722": {
+  "p": 0.45,
+  "duda": "For branded clothing listings that include the exact model/line name (e.g., 'Bermuda Rever Pass Guerrilla Gabardina Hombre') without condition words or a single size, do they lean 'nuevo'?"
+ },
+ "12723": {
+  "p": 0.55,
+  "duda": "When OEM car wheels and tires are sold together ('Llantas y Cubiertas [Car Model]') with a short seller warranty like '6 meses', are they typically used take-offs or new?"
+ },
+ "12724": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "12725": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12726": {
+  "p": 0.45,
+  "duda": "Do branded modular hardware/shelving components (like Rapiestant shelves) without condition words typically lean 'nuevo' or 'usado'?"
+ },
+ "12727": {
+  "p": 0.45,
+  "duda": "When a listing sells an odd-numbered mixed lot of hardware/consumables (e.g., 'Lote ... 23 Unid' of mixed sizes) with 'Nuevos' in the title, how often is it classified as 'usado' vs 'nuevo'?"
+ },
+ "12728": {
+  "p": 0.45,
+  "duda": "When an out-of-print book seller includes '/ Nuevo' in the title alongside boilerplate stating 'Las fotos corresponden al ejemplar publicado... cuidadosamente revisado', is the listing usually labeled 'nuevo' or 'usado'?"
+ },
+ "12729": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12730": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12731": {
+  "p": 0.48,
+  "duda": "Do contemporary Argentine children's and young-adult fiction books (e.g., Editorial Norma / Alfaguara Infantil, often assigned in schools) behave like general literature (~45% used) or school textbooks (~70% used)?"
+ },
+ "12732": {
+  "p": 0.38,
+  "duda": "Are personal footwear items like slippers ('pantuflas') and underwear predominantly 'nuevo' compared to general clothing/footwear?"
+ },
+ "12733": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12734": {
+  "p": 0.38,
+  "duda": "What is the base rate of 'usado' for phone accessories such as cases ('funda') when no colors or packaging details are mentioned?"
+ },
+ "12735": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "12736": {
+  "p": 0.62,
+  "duda": "For imported niche music CDs from the 1990s/2000s that include 'Mercado Envíos' in the title and don't state 'nuevo' or 'sellado', how often are they 'usado'?"
+ },
+ "12737": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "12738": {
+  "p": 0.55,
+  "duda": "Are original paintings or pairs of framed artworks by named artists ('Par de cuadros de [Artist]') usually listed as 'usado' or 'nuevo'?"
+ },
+ "12739": {
+  "p": 0.52,
+  "duda": "Do branded sneakers listing a single size in the title (e.g., 'Talle 10') without condition or box details lean 'usado' or 'nuevo'?"
+ },
+ "12740": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12741": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "12742": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12743": {
+  "p": 0.58,
+  "duda": "In cheap unbranded clothing listings, does the word 'Liquido!' in the title lean toward 'usado' (closet cleanout) or 'nuevo' (store clearance)?"
+ },
+ "12744": {
+  "p": 0.42,
+  "duda": "In furniture listings like 'Puff Cúbico Azul', does specifying a single color without 'varios colores' or material details shift the probability toward 'usado' compared to the 29–43% category average?"
+ },
+ "12745": {
+  "p": 0.48,
+  "duda": "When a board game or toy has only the English box title (e.g., 'Deluxe Backgammon Set') and no Spanish description in the title, does it lean 'usado' or 'nuevo'?"
+ },
+ "12746": {
+  "p": 0.5,
+  "duda": "Are commercial amusement/ride parts like 'Caballos y figuras para calesitas' usually sold new by fiberglass workshops or used from dismantled rides?"
+ },
+ "12747": {
+  "p": 0.62,
+  "duda": "Are model train parts and accessories (e.g., Märklin switches) with 'Sin garantía' mostly 'usado' even when the seller includes a shop-like prefix in the title?"
+ },
+ "12748": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12749": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12750": {
+  "p": 0.45,
+  "duda": "For personal grooming appliances (such as electric shavers) listed with zero photos and no warranty, do they lean 'nuevo' or 'usado'?"
+ },
+ "12751": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12752": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12753": {
+  "p": 0.65,
+  "duda": "When a PC component title uses an informal or slightly inaccurate model name (e.g., 'Gabinete V9 Black Widow' instead of 'Thermaltake V9 Black Edition') without warranty, does it reliably indicate a 'usado' listing?"
+ },
+ "12754": {
+  "p": 0.48,
+  "duda": "For descriptive women's clothing titles that specify 'Importada', color, fabric, and a single size (e.g., 'Talle M') without condition words, are they more often 'nuevo' or 'usado'?"
+ },
+ "12755": {
+  "p": 0.56,
+  "duda": "In women's footwear (boots/shoes), does a branded title with multiple exclamation marks and no size range lean 'usado'?"
+ },
+ "12756": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12757": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12758": {
+  "p": 0.55,
+  "duda": "When a vintage 1990s collectible has warranty 'MI REPUTACION' but 'stock_inicial' > 1, is it more likely 'usado' or 'nuevo'?"
+ },
+ "12759": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12760": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12761": {
+  "p": 0.65,
+  "duda": "Are cheap utility containers like 'Balde de 20 Lts' without mention of brand or 'virgen/con tapa' typically empty once-used buckets ('usado')?"
+ },
+ "12762": {
+  "p": 0.56,
+  "duda": "Do generic leather handbag titles like 'Cartera De Cuero' without brand, color, or promotional words lean 'usado'?"
+ },
+ "12763": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "12764": {
+  "p": 0.5,
+  "duda": "How should single-word ambiguous titles like an artist/model name ('Picasso') with a non-round price (383 ARS) be weighted between 'usado' and 'nuevo'?"
+ },
+ "12765": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12766": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12767": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12768": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12769": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12770": {
+  "p": 0.35,
+  "duda": "Are art sculptures signed or attributed to a contemporary sculptor/maker in the title ('Por [Artist]') usually listed as 'nuevo' by the creator or 'usado'?"
+ },
+ "12771": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12772": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12773": {
+  "p": 0.6,
+  "duda": "Are collectible vintage cigarette packs (e.g., discontinued brands like Derby 100's) typically classified as 'usado' or 'nuevo'?"
+ },
+ "12774": {
+  "p": 0.6,
+  "duda": "For industrial machinery (e.g., a three-phase pressure washer) with camera photos and no warranty mentioned, does it lean 'usado'?"
+ },
+ "12775": {
+  "p": 0.65,
+  "duda": "Do TV series DVD sets without 'nuevo' or 'sellado' in the title and photographed with a camera lean 'usado' above the 55% media average?"
+ },
+ "12776": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12777": {
+  "p": 0.42,
+  "duda": "In children's clothing, does a plural title without a specific size (e.g., 'Calzas Modal Estampadas, Niña') lean 'nuevo'?"
+ },
+ "12778": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "12779": {
+  "p": 0.65,
+  "duda": "When a high-volume book seller appends a 4-digit inventory number like '#8160' to the title and uses camera photos, are their listings predominantly 'usado'?"
+ },
+ "12780": {
+  "p": 0.58,
+  "duda": "In furniture listings, how strongly does explicit 'Sin garantía' combined with a brief descriptive title ('Mesa Alta 2 Patas') shift the probability above the 29–43% category average?"
+ },
+ "12781": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12782": {
+  "p": 0.55,
+  "duda": "For music DVDs described as 'Dvd Original' with warranty 'Sí' and no mention of 'nuevo' or 'sellado', are they more often 'usado' or 'nuevo'?"
+ },
+ "12783": {
+  "p": 0.62,
+  "duda": "When lighting or decor includes both 'Retro Vintage' and 'Unica!!!' in the title, is it usually classified as 'usado' (genuine vintage piece) or 'nuevo'?"
+ },
+ "12784": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12785": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12786": {
+  "p": 0.38,
+  "duda": "For literature books with only the book title, studio image, and warranty 'Sí' from a mid-sized seller, do they lean 'nuevo' beyond the 55% new literature average?"
+ },
+ "12787": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12788": {
+  "p": 0.62,
+  "duda": "Is a single 'Sacapunta Metalico!!!' priced around 85 ARS typically a vintage collectible sharpener listed as 'usado'?"
+ },
+ "12789": {
+  "p": 0.45,
+  "duda": "For recent Japanese anime figures (e.g., Banpresto) where the seller appends their username to the title and gives no condition text, are they more often 'nuevo' or 'usado'?"
+ },
+ "12790": {
+  "p": 0.38,
+  "duda": "Are rubber appliance replacement parts labeled 'Original!' (like washing machine drain hoses/bellows) predominantly 'nuevo' or salvaged 'usado'?"
+ },
+ "12791": {
+  "p": 0.52,
+  "duda": "Does a minimal two-word art title like 'Cuadro Oleo' lean 'usado' (personal household painting) or follow the 29–43% decor base rate?"
+ },
+ "12792": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "12793": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12794": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12795": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12796": {
+  "p": 0.62,
+  "duda": "When a music listing names two specific albums by an artist in a single title (with stock_inicial=2) and no condition words, is it usually a private seller offering two used CDs?"
+ },
+ "12797": {
+  "p": 0.55,
+  "duda": "Do expensive toys with very short informal titles (e.g., 'Casa De Mickey' without brand or model details) lean 'usado'?"
+ },
+ "12798": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "12799": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "12800": {
+  "p": 0.82,
+  "duda": ""
+ }
+}

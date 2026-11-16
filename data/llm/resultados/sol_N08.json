@@ -1,0 +1,402 @@
+{
+ "3001": {
+  "p": 0.68,
+  "duda": "Are cylinder heads for older engines usually removed used parts or newly manufactured replacements?"
+ },
+ "3002": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3003": {
+  "p": 0.48,
+  "duda": "Do generic replacement lampshade titles distinguish new retail parts from salvaged parts?"
+ },
+ "3004": {
+  "p": 0.4,
+  "duda": "Does 'sellos nuevos' reliably mean unused stamps in philatelic listings?"
+ },
+ "3005": {
+  "p": 0.7,
+  "duda": "Should professional business management books be treated as study manuals or general nonfiction?"
+ },
+ "3006": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3007": {
+  "p": 0.75,
+  "duda": "Does 'original' on an enamel advertising sign usually identify a vintage piece or a modern licensed product?"
+ },
+ "3008": {
+  "p": 0.65,
+  "duda": "How reliably does 'impecable' indicate prior ownership of fishing equipment?"
+ },
+ "3009": {
+  "p": 0.58,
+  "duda": "Are older popular novels without edition details commonly available as new old stock?"
+ },
+ "3010": {
+  "p": 0.73,
+  "duda": "Are retro promotional collectibles usually previously owned even when no wear is described?"
+ },
+ "3011": {
+  "p": 0.35,
+  "duda": "Does promotional wording for a current character doll provide evidence of new retail stock?"
+ },
+ "3012": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3013": {
+  "p": 0.5,
+  "duda": "Can brand, size, and design alone distinguish new garments from personal resale?"
+ },
+ "3014": {
+  "p": 0.45,
+  "duda": "Can a general nonfiction book's title alone distinguish a new copy from a used copy?"
+ },
+ "3015": {
+  "p": 0.35,
+  "duda": "Are paper lampshades usually sold as new decorative stock when condition is unspecified?"
+ },
+ "3016": {
+  "p": 0.65,
+  "duda": "Does the professional audio rule also apply to a microphone with no model or intended use specified?"
+ },
+ "3017": {
+  "p": 0.36,
+  "duda": "Does 'modelo moderno y exclusivo' usually indicate newly made clothing or personal resale?"
+ },
+ "3018": {
+  "p": 0.35,
+  "duda": "How much does 'nuevo en caja' establish phone condition when the box is not explicitly sealed?"
+ },
+ "3019": {
+  "p": 0.45,
+  "duda": "Can a literary book's title and author alone distinguish a new copy from a used copy?"
+ },
+ "3020": {
+  "p": 0.54,
+  "duda": "When a stamp assortment omits cancellation status, is there a reliable default condition?"
+ },
+ "3021": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "3022": {
+  "p": 0.72,
+  "duda": "How common is unused old stock among antique plastic clothing and accessories?"
+ },
+ "3023": {
+  "p": 0.45,
+  "duda": "Does 'importadas' provide condition evidence for branded shoes without wear or packaging details?"
+ },
+ "3024": {
+  "p": 0.57,
+  "duda": "How should a factory-defect warranty be weighed against 'impecables' in a shoe listing?"
+ },
+ "3025": {
+  "p": 0.36,
+  "duda": "Are current-season football training shirts without condition details usually new merchandise?"
+ },
+ "3026": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3027": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3028": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "3029": {
+  "p": 0.48,
+  "duda": "Are older Hot Wheels collector releases usually sold unopened or loose when packaging is unspecified?"
+ },
+ "3030": {
+  "p": 0.68,
+  "duda": "Are older promotional CD singles commonly unused stock or previously owned collector copies?"
+ },
+ "3031": {
+  "p": 0.65,
+  "duda": "Do lots of fluorescent ballasts with sockets usually come from dismantled fixtures?"
+ },
+ "3032": {
+  "p": 0.5,
+  "duda": "Does calling a lamp 'super original' provide any evidence about its condition?"
+ },
+ "3033": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "3034": {
+  "p": 0.54,
+  "duda": "Can a wheel listing giving only rim diameter distinguish replacement retail stock from used wheels?"
+ },
+ "3035": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3036": {
+  "p": 0.5,
+  "duda": "Can brand, size, and design alone distinguish new garments from personal resale?"
+ },
+ "3037": {
+  "p": 0.44,
+  "duda": "Does 'unidad condensadora completa' normally describe a new assembly or a used working unit?"
+ },
+ "3038": {
+  "p": 0.45,
+  "duda": "Can a literary book's title and author alone distinguish a new copy from a used copy?"
+ },
+ "3039": {
+  "p": 0.68,
+  "duda": "Does 'vendo o permuto' reliably indicate prior ownership of an accessory?"
+ },
+ "3040": {
+  "p": 0.4,
+  "duda": "Are satirical political banknotes usually new novelty stock or previously owned collectibles?"
+ },
+ "3041": {
+  "p": 0.65,
+  "duda": "Should outdoor PA speakers follow the professional audio rule when the warranty only says 'Si'?"
+ },
+ "3042": {
+  "p": 0.64,
+  "duda": "Does a trading-card lot without packaging details usually consist of previously owned loose cards?"
+ },
+ "3043": {
+  "p": 0.45,
+  "duda": "Does naming a publisher without condition or printing details help distinguish new literary books from used copies?"
+ },
+ "3044": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3045": {
+  "p": 0.7,
+  "duda": "Should professional business management books be treated as study manuals or general nonfiction?"
+ },
+ "3046": {
+  "p": 0.48,
+  "duda": "Were older Windows tablet models still commonly sold as new stock in 2015?"
+ },
+ "3047": {
+  "p": 0.45,
+  "duda": "Can a generic folding-cart description distinguish new retail stock from a used household item?"
+ },
+ "3048": {
+  "p": 0.65,
+  "duda": "How should houses be classified when neither age nor 'a estrenar' is specified?"
+ },
+ "3049": {
+  "p": 0.29,
+  "duda": ""
+ },
+ "3050": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "3051": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "3052": {
+  "p": 0.46,
+  "duda": "Can a generic iron furniture title distinguish newly fabricated pieces from used furniture?"
+ },
+ "3053": {
+  "p": 0.69,
+  "duda": "Were SD camcorders still commonly sold as new stock in 2015?"
+ },
+ "3054": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "3055": {
+  "p": 0.4,
+  "duda": "How much confidence should 'nuevo' add for a book without sealing or a retail warranty?"
+ },
+ "3056": {
+  "p": 0.68,
+  "duda": "Are aircraft seat belts offered separately usually salvaged equipment or new replacement parts?"
+ },
+ "3057": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3058": {
+  "p": 0.6,
+  "duda": "Does an invitation to inspect furniture before paying indicate prior use or simply a sales policy?"
+ },
+ "3059": {
+  "p": 0.5,
+  "duda": "Do dental impression tray sets usually contain new disposable trays or reusable trays that may be resold?"
+ },
+ "3060": {
+  "p": 0.64,
+  "duda": "Does a short warranty on an older processor usually indicate tested used hardware?"
+ },
+ "3061": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "3062": {
+  "p": 0.68,
+  "duda": "Does 'completo' in a physical video-game listing usually imply an opened, previously owned copy?"
+ },
+ "3063": {
+  "p": 0.5,
+  "duda": "Can a garment listing containing only a fashion label provide any reliable condition evidence?"
+ },
+ "3064": {
+  "p": 0.48,
+  "duda": "Can a branded pen's model and finish distinguish new gift stock from a used pen?"
+ },
+ "3065": {
+  "p": 0.5,
+  "duda": "Does a satisfaction-and-refund guarantee help distinguish new CDs from used CDs?"
+ },
+ "3066": {
+  "p": 0.5,
+  "duda": "Do scale-model listings without assembly or packaging details usually refer to unbuilt kits or completed models?"
+ },
+ "3067": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3068": {
+  "p": 0.5,
+  "duda": "Can a tractor fuel pump's part number alone distinguish new replacement stock from a removed used part?"
+ },
+ "3069": {
+  "p": 0.5,
+  "duda": "Can brand, size, and design alone distinguish new garments from personal resale?"
+ },
+ "3070": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "3071": {
+  "p": 0.7,
+  "duda": "Are model-specific diesel cylinder heads usually removed used parts or new replacement castings?"
+ },
+ "3072": {
+  "p": 0.53,
+  "duda": "Does 'oportunidad' provide condition evidence for a watch without a model or wear description?"
+ },
+ "3073": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "3074": {
+  "p": 0.5,
+  "duda": "Can a current gaming headset's model and specifications alone distinguish new stock from resale?"
+ },
+ "3075": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3076": {
+  "p": 0.38,
+  "duda": "Should 'sin circular' banknotes count as new numismatic stock or as previously owned collectibles?"
+ },
+ "3077": {
+  "p": 0.57,
+  "duda": "Was the Janome 350E commonly available as new retail stock in Argentina in 2015?"
+ },
+ "3078": {
+  "p": 0.45,
+  "duda": "Can a Zippo lighter's intended use alone distinguish a new product from a used collectible?"
+ },
+ "3079": {
+  "p": 0.5,
+  "duda": "Can brand, size, and design alone distinguish new garments from personal resale?"
+ },
+ "3080": {
+  "p": 0.5,
+  "duda": "Can a generic cordless-tool title without a model, warranty, or condition distinguish new tools from used tools?"
+ },
+ "3081": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3082": {
+  "p": 0.45,
+  "duda": "Can a generic children's costume title distinguish new merchandise from a previously worn costume?"
+ },
+ "3083": {
+  "p": 0.48,
+  "duda": "Can a school-uniform garment's size and color distinguish new stock from personal resale?"
+ },
+ "3084": {
+  "p": 0.5,
+  "duda": "Can a baby car seat's brand alone distinguish new retail stock from a used seat?"
+ },
+ "3085": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "3086": {
+  "p": 0.43,
+  "duda": "Can a character-themed children's hat title distinguish newly made stock from a previously worn hat?"
+ },
+ "3087": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3088": {
+  "p": 0.33,
+  "duda": "Are unofficial concert DVDs usually newly produced discs or previously owned commercial releases?"
+ },
+ "3089": {
+  "p": 0.45,
+  "duda": "Can a general nonfiction book's title alone distinguish a new copy from a used copy?"
+ },
+ "3090": {
+  "p": 0.64,
+  "duda": "How common were new old-stock music cassettes in Argentina in 2015?"
+ },
+ "3091": {
+  "p": 0.35,
+  "duda": "How much does 'nuevo en caja' establish phone condition when the box is not explicitly sealed?"
+ },
+ "3092": {
+  "p": 0.7,
+  "duda": "Are body panels for older low-volume imported vehicles usually salvaged parts or new replacements?"
+ },
+ "3093": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "3094": {
+  "p": 0.43,
+  "duda": "Can a generic mechanical puller's size and design distinguish new retail stock from a used workshop tool?"
+ },
+ "3095": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3096": {
+  "p": 0.42,
+  "duda": "Can a cowhide rug's material and dimensions distinguish new stock from a used rug?"
+ },
+ "3097": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3098": {
+  "p": 0.5,
+  "duda": "Can brand, size, and design alone distinguish new garments from personal resale?"
+ },
+ "3099": {
+  "p": 0.42,
+  "duda": "Can a sports garment's product line alone distinguish new stock from personal resale?"
+ },
+ "3100": {
+  "p": 0.5,
+  "duda": "Can brand, size, and design alone distinguish new garments from personal resale?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "12901": {
+  "p": 0.48,
+  "duda": "How should branded footwear without a condition statement be distinguished from retail stock?"
+ },
+ "12902": {
+  "p": 0.7,
+  "duda": "Should classroom activity and commemorative-date books count as study material?"
+ },
+ "12903": {
+  "p": 0.48,
+  "duda": "How should baby feeding accessories without a condition statement be classified?"
+ },
+ "12904": {
+  "p": 0.45,
+  "duda": "Can literary titles without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12905": {
+  "p": 0.74,
+  "duda": "How often are discontinued comic-publisher editions unused old stock rather than previously owned copies?"
+ },
+ "12906": {
+  "p": 0.52,
+  "duda": "Do beer dispensers bundled with furniture usually represent resale equipment or new complete installations?"
+ },
+ "12907": {
+  "p": 0.4,
+  "duda": "How much should an explicit new claim count for music without a sealed-package statement?"
+ },
+ "12908": {
+  "p": 0.45,
+  "duda": "Are complete airline amenity kits typically sold as unused collectibles or used travel accessories?"
+ },
+ "12909": {
+  "p": 0.5,
+  "duda": "How should game listings be judged when the warranty describes both new and used products without identifying which applies?"
+ },
+ "12910": {
+  "p": 0.45,
+  "duda": "Should management advice books be treated as general nonfiction or study material?"
+ },
+ "12911": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "12912": {
+  "p": 0.4,
+  "duda": "How much should an explicit new claim count for older vinyl without a sealed-package statement?"
+ },
+ "12913": {
+  "p": 0.52,
+  "duda": "Are original engine components for discontinued vehicles usually old unused stock or salvaged parts?"
+ },
+ "12914": {
+  "p": 0.47,
+  "duda": "How should handbag listings without condition details be distinguished from new retail stock?"
+ },
+ "12915": {
+  "p": 0.44,
+  "duda": "Are stainless surgical storage boxes without condition details usually new supplies or resale equipment?"
+ },
+ "12916": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "12917": {
+  "p": 0.45,
+  "duda": "Are older exhibition and artist catalogs commonly available as unused publisher stock?"
+ },
+ "12918": {
+  "p": 0.49,
+  "duda": "Can national-team shirts without a year or condition statement be distinguished as retail merchandise versus resale?"
+ },
+ "12919": {
+  "p": 0.47,
+  "duda": "How should branded footwear without a condition statement be distinguished from retail stock?"
+ },
+ "12920": {
+  "p": 0.43,
+  "duda": "Does a lamp title specifying dimensions and light count reliably indicate new manufactured stock?"
+ },
+ "12921": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12922": {
+  "p": 0.45,
+  "duda": "Should specialist psychoanalytic essays and seminars count as general nonfiction or study material?"
+ },
+ "12923": {
+  "p": 0.43,
+  "duda": "Are replacement glass lampshades described by dimensions usually new stock or salvaged fixtures?"
+ },
+ "12924": {
+  "p": 0.46,
+  "duda": "Can branded clothing without condition details be distinguished as retail stock versus personal resale?"
+ },
+ "12925": {
+  "p": 0.14,
+  "duda": ""
+ },
+ "12926": {
+  "p": 0.45,
+  "duda": "Can general nonfiction without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12927": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "12928": {
+  "p": 0.5,
+  "duda": "How should water purifiers without a model or condition statement be classified?"
+ },
+ "12929": {
+  "p": 0.74,
+  "duda": "Should older practical filmmaking books be treated as study manuals or collectible general nonfiction?"
+ },
+ "12930": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "12931": {
+  "p": 0.47,
+  "duda": "Are specialized imported uniform garments without condition details typically retail stock or personal resale?"
+ },
+ "12932": {
+  "p": 0.63,
+  "duda": "How often are older die-cast model brands sold as unused old stock rather than previously owned collectibles?"
+ },
+ "12933": {
+  "p": 0.5,
+  "duda": "Can vehicle bumpers without condition details be distinguished as replacement stock versus salvaged parts?"
+ },
+ "12934": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "12935": {
+  "p": 0.48,
+  "duda": "Are collected screenplays without edition details typically current book stock or older resale copies?"
+ },
+ "12936": {
+  "p": 0.08,
+  "duda": "How should inexpensive professional software copies sold with post-sale support be classified?"
+ },
+ "12937": {
+  "p": 0.4,
+  "duda": "Does a branded sandal title naming its product line and country of manufacture indicate new retail stock?"
+ },
+ "12938": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12939": {
+  "p": 0.4,
+  "duda": "For postage stamps, how should mint or new philatelic condition map to the listing condition label?"
+ },
+ "12940": {
+  "p": 0.24,
+  "duda": "Does New in a motorcycle model name indicate condition or only the model variant?"
+ },
+ "12941": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12942": {
+  "p": 0.47,
+  "duda": "Can branded clothing without condition details be distinguished as retail stock versus personal resale?"
+ },
+ "12943": {
+  "p": 0.48,
+  "duda": "Are branded sanitary basins without condition details usually new stock or fixtures removed during renovation?"
+ },
+ "12944": {
+  "p": 0.34,
+  "duda": "Do inexpensive necklaces offered in plural generally indicate new craft or retail merchandise?"
+ },
+ "12945": {
+  "p": 0.84,
+  "duda": ""
+ },
+ "12946": {
+  "p": 0.66,
+  "duda": "How often are first-series Tonka miniature vehicles sold as unused old stock rather than previously owned collectibles?"
+ },
+ "12947": {
+  "p": 0.56,
+  "duda": "How should collectible action-figure vehicles be judged when packaging and condition are unspecified?"
+ },
+ "12948": {
+  "p": 0.47,
+  "duda": "Can clothing described by fabric and decorative details be distinguished as new stock versus personal resale?"
+ },
+ "12949": {
+  "p": 0.48,
+  "duda": "Are regional wooden religious carvings without age or condition details usually newly made crafts or resale decor?"
+ },
+ "12950": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "12951": {
+  "p": 0.45,
+  "duda": "Can general nonfiction without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12952": {
+  "p": 0.4,
+  "duda": "How much should an explicit new claim count for clothing without tags or packaging details?"
+ },
+ "12953": {
+  "p": 0.48,
+  "duda": "Are generic plastic container listings usually new packaging supplies or reused containers?"
+ },
+ "12954": {
+  "p": 0.47,
+  "duda": "Can knitwear without condition details be distinguished as new merchandise versus personal resale?"
+ },
+ "12955": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12956": {
+  "p": 0.45,
+  "duda": "Can general nonfiction without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12957": {
+  "p": 0.45,
+  "duda": "Should meditation instruction books be treated as general self-help or study manuals?"
+ },
+ "12958": {
+  "p": 0.48,
+  "duda": "Are crochet bedspreads without condition details usually newly made handicrafts or household resale items?"
+ },
+ "12959": {
+  "p": 0.47,
+  "duda": "How should generic hats without condition details be distinguished from new retail stock?"
+ },
+ "12960": {
+  "p": 0.23,
+  "duda": "Are character-themed party centerpieces usually newly made decorations or reused party supplies?"
+ },
+ "12961": {
+  "p": 0.45,
+  "duda": "Can general nonfiction without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12962": {
+  "p": 0.45,
+  "duda": "Can general nonfiction without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12963": {
+  "p": 0.47,
+  "duda": "How should handbag listings without condition details be distinguished from new retail stock?"
+ },
+ "12964": {
+  "p": 0.55,
+  "duda": "How should uncirculated older annual coin sets map to new versus used listing condition?"
+ },
+ "12965": {
+  "p": 0.61,
+  "duda": "Does a music warranty limited to inspection on collection indicate an opened resale copy?"
+ },
+ "12966": {
+  "p": 0.47,
+  "duda": "How should branded handbag listings without condition details be distinguished from new retail stock?"
+ },
+ "12967": {
+  "p": 0.56,
+  "duda": "How should older imported music releases be judged when the format and packaging condition are unspecified?"
+ },
+ "12968": {
+  "p": 0.4,
+  "duda": "How much should an explicit new claim count for bicycle components without packaging or warranty details?"
+ },
+ "12969": {
+  "p": 0.47,
+  "duda": "How should licensed character furniture without condition details be distinguished from new retail stock?"
+ },
+ "12970": {
+  "p": 0.39,
+  "duda": "Do silver pendants offered with silicone necklaces usually represent new jewelry stock?"
+ },
+ "12971": {
+  "p": 0.5,
+  "duda": "How should branded child car seats without model or condition details be classified?"
+ },
+ "12972": {
+  "p": 0.45,
+  "duda": "Should consumer health advice books be treated as general nonfiction or study material?"
+ },
+ "12973": {
+  "p": 0.48,
+  "duda": "How should stamp listings be classified when mint or cancelled condition is not stated?"
+ },
+ "12974": {
+  "p": 0.45,
+  "duda": "Can literary titles without edition or condition details be distinguished as new stock versus resale?"
+ },
+ "12975": {
+  "p": 0.48,
+  "duda": "How should aquariums without dimensions or condition details be distinguished from new manufactured stock?"
+ },
+ "12976": {
+  "p": 0.48,
+  "duda": "Are dated management books commonly sold as unused backlist stock rather than resale copies?"
+ },
+ "12977": {
+  "p": 0.35,
+  "duda": "Does a blanket product guarantee for music imply new stock when sealing is not mentioned?"
+ },
+ "12978": {
+  "p": 0.62,
+  "duda": "Do notebook connector-and-cable bundles described as spare parts usually come from dismantled computers?"
+ },
+ "12979": {
+  "p": 0.47,
+  "duda": "Does original in a licensed plush-toy title indicate authenticity alone rather than condition?"
+ },
+ "12980": {
+  "p": 0.46,
+  "duda": "Can wallets described by material and color be distinguished as retail stock versus personal resale?"
+ },
+ "12981": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12982": {
+  "p": 0.48,
+  "duda": "How should generic skate listings without model or condition details be classified?"
+ },
+ "12983": {
+  "p": 0.64,
+  "duda": "How strongly should a tablet model several years old in 2015 suggest resale rather than unused old stock?"
+ },
+ "12984": {
+  "p": 0.65,
+  "duda": "Does the small-seller professional-audio rule also apply to premium acoustic drum kits?"
+ },
+ "12985": {
+  "p": 0.25,
+  "duda": "Are cold-porcelain decorative objects typically newly made crafts when condition is unspecified?"
+ },
+ "12986": {
+  "p": 0.5,
+  "duda": "Are original ATV cylinder-and-piston sets without condition details usually new replacements or removed parts?"
+ },
+ "12987": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12988": {
+  "p": 0.51,
+  "duda": "Are washing-machine gearboxes without condition details usually new replacement assemblies or salvaged parts?"
+ },
+ "12989": {
+  "p": 0.65,
+  "duda": "How should antique stamp listings be classified when mint or cancelled condition is not stated?"
+ },
+ "12990": {
+  "p": 0.8,
+  "duda": "How should promotional toys originally supplied inside confectionery be classified when sold separately?"
+ },
+ "12991": {
+  "p": 0.51,
+  "duda": "Can branded leather jackets without condition details be distinguished as new stock versus personal resale?"
+ },
+ "12992": {
+  "p": 0.62,
+  "duda": "Do inflatable boats bundled with named outboard motors usually indicate personal resale or new dealer packages?"
+ },
+ "12993": {
+  "p": 0.29,
+  "duda": "Does air filter in motorcycle listings usually mean a replacement consumable or a reusable airbox assembly?"
+ },
+ "12994": {
+  "p": 0.46,
+  "duda": "How should imported branded handbags without condition details be distinguished from new retail stock?"
+ },
+ "12995": {
+  "p": 0.48,
+  "duda": "Can imported socket sets without condition details be distinguished as new retail stock versus owned tools?"
+ },
+ "12996": {
+  "p": 0.45,
+  "duda": "Should specialist psychoanalytic essays count as general nonfiction or study material?"
+ },
+ "12997": {
+  "p": 0.47,
+  "duda": "Are turned-wood stools sold in pairs usually newly made furniture or household resale items?"
+ },
+ "12998": {
+  "p": 0.4,
+  "duda": "Are recent commemorative stamp issues normally sold mint when cancellation is not mentioned?"
+ },
+ "12999": {
+  "p": 0.19,
+  "duda": ""
+ },
+ "13000": {
+  "p": 0.47,
+  "duda": "Can branded clothing described by fabric composition and size be distinguished as retail stock versus personal resale?"
+ }
+}

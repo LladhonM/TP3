@@ -1,0 +1,402 @@
+{
+ "2601": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2602": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "2603": {
+  "p": 0.45,
+  "duda": "For vehicle safety/emergency equipment (light bars, sirens) with no brand or condition words and a high price, is new the default?"
+ },
+ "2604": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2605": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2606": {
+  "p": 0.55,
+  "duda": "Do single-listing sellers of branded home fitness equipment (punching bags, etc.) without condition words usually sell used items?"
+ },
+ "2607": {
+  "p": 0.52,
+  "duda": "When a furniture title only describes colour/style of a few chairs (no brand, no condition words), is it usually a private seller's used item?"
+ },
+ "2608": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2609": {
+  "p": 0.45,
+  "duda": "For literature/general books sold cheaply by sellers with many book listings, is the item usually a used-book dealer's copy or new stock?"
+ },
+ "2610": {
+  "p": 0.5,
+  "duda": "For generic clothing or shoes with no brand and no condition words, is a low price (relative to new retail) a reliable sign of used?"
+ },
+ "2611": {
+  "p": 0.55,
+  "duda": "For kids' sporting goods (rollers, skates) from single sellers listing only brand and size, is used the default?"
+ },
+ "2612": {
+  "p": 0.62,
+  "duda": "Are 'cajon de vino para reciclado' (wine crates for upcycling) typically empty used crates or new pine boxes?"
+ },
+ "2613": {
+  "p": 0.55,
+  "duda": "Are conveyor belt pieces sold cheaply (per meter) usually used/recovered belting?"
+ },
+ "2614": {
+  "p": 0.55,
+  "duda": "Are gaucho silverware pieces (rastras, facones, silver mates) usually new artisan work or used/antique pieces?"
+ },
+ "2615": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2616": {
+  "p": 0.45,
+  "duda": "For generic clothing or shoes with no brand and no condition words, is a low price (relative to new retail) a reliable sign of used?"
+ },
+ "2617": {
+  "p": 0.5,
+  "duda": "Are specific-SKU barcode scanners / POS hardware from single-listing sellers usually used (business liquidation)?"
+ },
+ "2618": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2619": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2620": {
+  "p": 0.6,
+  "duda": "For old tango/jazz/folk recordings sold cheaply by a music seller with 'Sin garantía', is the item usually a used CD/LP rather than new stock?"
+ },
+ "2621": {
+  "p": 0.45,
+  "duda": "How are vintage items described as unused or 'nuevo en caja' (new old stock, old supplies) usually labeled: new or used?"
+ },
+ "2622": {
+  "p": 0.4,
+  "duda": "For literature/general books sold cheaply by sellers with many book listings, is the item usually a used-book dealer's copy or new stock?"
+ },
+ "2623": {
+  "p": 0.55,
+  "duda": "How are vintage items described as unused or 'nuevo en caja' (new old stock, old supplies) usually labeled: new or used?"
+ },
+ "2624": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2625": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2626": {
+  "p": 0.55,
+  "duda": "Are cheap 'practice balls' sold in any quantity (golf/tennis) usually recovered used balls?"
+ },
+ "2627": {
+  "p": 0.55,
+  "duda": "When a clothing listing gives exact measured dimensions per garment (waist, length), does that indicate a used-clothing reseller?"
+ },
+ "2628": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2629": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2630": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2631": {
+  "p": 0.45,
+  "duda": "Are dealer car listings for a recent model year described as 'sin rodar' / 0 km labeled new or used in this dataset?"
+ },
+ "2632": {
+  "p": 0.55,
+  "duda": "For electronics already outdated in 2015 (first-gen Galaxy Gear, old phones) from single sellers with no condition words, is used the default?"
+ },
+ "2633": {
+  "p": 0.62,
+  "duda": "Are small-workshop machines (screen-printing exposure units, shoe-gluing machines) sold by one-off sellers usually used?"
+ },
+ "2634": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2635": {
+  "p": 0.35,
+  "duda": "Are branded watches (Orient, Casio) from single-listing sellers offering home delivery usually new stock?"
+ },
+ "2636": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2637": {
+  "p": 0.4,
+  "duda": "Do old-publisher literature editions (e.g. Andres Bello) sold cheaply with several units count as new stock or used?"
+ },
+ "2638": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "2639": {
+  "p": 0.6,
+  "duda": "For old tango/jazz/folk recordings sold cheaply by a music seller with 'Sin garantía', is the item usually a used CD/LP rather than new stock?"
+ },
+ "2640": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2641": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2642": {
+  "p": 0.5,
+  "duda": "Are custom-styled bicycles (chopper, war-style, matte paint) usually new custom builds or restored used bikes?"
+ },
+ "2643": {
+  "p": 0.45,
+  "duda": "How are live animals (puppies) labeled in this dataset: new or used?"
+ },
+ "2644": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2645": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2646": {
+  "p": 0.4,
+  "duda": "When 'Nuevo/a' appears appended to a title in template style, is it a real condition statement from the seller?"
+ },
+ "2647": {
+  "p": 0.45,
+  "duda": "Are 1:24 diecast/scale model cars with catalog codes from single sellers usually new collectibles or used?"
+ },
+ "2648": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2649": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2650": {
+  "p": 0.45,
+  "duda": "Does warranty boilerplate saying items are 'en perfecto estado y revisados' indicate a used-goods seller even when the title sounds like new gift merchandise?"
+ },
+ "2651": {
+  "p": 0.52,
+  "duda": "Do academic humanities books (theatre criticism, essays used in university courses) count as study material that leans used?"
+ },
+ "2652": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2653": {
+  "p": 0.58,
+  "duda": "For branded clothing (Ayres, Guess, Kappa, etc.) listed well below new retail by small sellers, is used the default?"
+ },
+ "2654": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2655": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2656": {
+  "p": 0.65,
+  "duda": "Are leather/sheepskin garments listed far below new retail price reliably used?"
+ },
+ "2657": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "2658": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2659": {
+  "p": 0.35,
+  "duda": "Do unnamed furniture items (shelves) from single sellers in paid tiers lean new (made to order) or used?"
+ },
+ "2660": {
+  "p": 0.62,
+  "duda": "For branded clothing (Ayres, Guess, Kappa, etc.) listed well below new retail by small sellers, is used the default?"
+ },
+ "2661": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2662": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2663": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2664": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "2665": {
+  "p": 0.4,
+  "duda": "For literature/general books sold cheaply by sellers with many book listings, is the item usually a used-book dealer's copy or new stock?"
+ },
+ "2666": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2667": {
+  "p": 0.52,
+  "duda": "For literature/general books sold cheaply by sellers with many book listings, is the item usually a used-book dealer's copy or new stock?"
+ },
+ "2668": {
+  "p": 0.6,
+  "duda": "For branded clothing (Ayres, Guess, Kappa, etc.) listed well below new retail by small sellers, is used the default?"
+ },
+ "2669": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2670": {
+  "p": 0.55,
+  "duda": "Are professional equipment items (massage tables, consulting-room furniture) from single sellers usually used?"
+ },
+ "2671": {
+  "p": 0.6,
+  "duda": "Do personal-style warranty phrases ('mi palabra', 'mis calificaciones') indicate a private individual reselling used goods?"
+ },
+ "2672": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2673": {
+  "p": 0.5,
+  "duda": "For generic clothing or shoes with no brand and no condition words, is a low price (relative to new retail) a reliable sign of used?"
+ },
+ "2674": {
+  "p": 0.55,
+  "duda": "Are wooden pallets sold in bulk by a business usually used/recovered pallets?"
+ },
+ "2675": {
+  "p": 0.62,
+  "duda": "Are branded industrial tooling parts (Iscar, Sandvik holders) priced far below new usually used/surplus?"
+ },
+ "2676": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2677": {
+  "p": 0.5,
+  "duda": "Are small-workshop machines (screen-printing exposure units, shoe-gluing machines) sold by one-off sellers usually used?"
+ },
+ "2678": {
+  "p": 0.5,
+  "duda": "How are real estate listings (land lots, houses) labeled in this dataset: new or used?"
+ },
+ "2679": {
+  "p": 0.45,
+  "duda": "For literature/general books sold cheaply by sellers with many book listings, is the item usually a used-book dealer's copy or new stock?"
+ },
+ "2680": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2681": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2682": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2683": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2684": {
+  "p": 0.45,
+  "duda": "How are live animals (puppies) labeled in this dataset: new or used?"
+ },
+ "2685": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2686": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "2687": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2688": {
+  "p": 0.38,
+  "duda": "Are expensive imported literature editions (around 1000 ARS) from small sellers usually new stock?"
+ },
+ "2689": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2690": {
+  "p": 0.25,
+  "duda": "Are mint (uncancelled) stamps labeled new and cancelled stamps labeled used in this dataset?"
+ },
+ "2691": {
+  "p": 0.4,
+  "duda": "For lighting fixtures (reflectors, stage lights) with no condition words from single sellers, is new the default?"
+ },
+ "2692": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2693": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2694": {
+  "p": 0.5,
+  "duda": "Are luthier-made instruments listed by single sellers usually sold new by the maker or resold used by an owner?"
+ },
+ "2695": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2696": {
+  "p": 0.3,
+  "duda": "Are mineral specimens / collectible stones usually labeled new?"
+ },
+ "2697": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2698": {
+  "p": 0.35,
+  "duda": "For pro audio gear from 1-2 listing sellers, does a warranty mentioning invoice ('garantia y factura') override the used lean?"
+ },
+ "2699": {
+  "p": 0.55,
+  "duda": "Are boutique-clone amplifiers ('inspired by Marshall/Diezel') sold by single sellers usually new builds from a local maker or used?"
+ },
+ "2700": {
+  "p": 0.72,
+  "duda": ""
+ }
+}

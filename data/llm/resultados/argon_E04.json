@@ -1,0 +1,402 @@
+{
+ "1001": {
+  "p": 0.62,
+  "duda": "Do discontinued small-capacity computer storage devices (like 320GB external hard drives in 2015) with bare model-only titles predominantly correspond to used items?"
+ },
+ "1002": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1003": {
+  "p": 0.42,
+  "duda": "In leather handbags and accessories, does technical material terminology like 'cuero de vaca floter' without a brand name indicate new artisan/manufacturer stock?"
+ },
+ "1004": {
+  "p": 0.65,
+  "duda": "In vehicle and motorcycle listings from dealerships that include 'Único dueño Sí' in the attributes, are they usually listed as used or new?"
+ },
+ "1005": {
+  "p": 0.45,
+  "duda": "For Argentine history and biography books with only the title and author in the listing title, should we keep the baseline ~0.45 used probability for general books?"
+ },
+ "1006": {
+  "p": 0.38,
+  "duda": "Do unbranded lifestyle sets like 'matera con lona incluida' typically represent new craft/gift items rather than personal resales?"
+ },
+ "1007": {
+  "p": 0.5,
+  "duda": "Are commercial salon and shop fixtures (such as hairdressing chairs) without condition details more often used liquidations or new manufacturer stock?"
+ },
+ "1008": {
+  "p": 0.52,
+  "duda": "When a book listing has multiple units sold but warranty text saying 'las fotos corresponden al ejemplar que usted recibirá / se revisa antes de retirar', does it lean used or new?"
+ },
+ "1009": {
+  "p": 0.55,
+  "duda": "In clothing listings, does specifying a brand plus '(importada)' in parentheses lean toward personal used resale?"
+ },
+ "1010": {
+  "p": 0.48,
+  "duda": "Do older Argentine political essay books priced low (e.g. 50 ARS in 2015) without condition words follow the general book rate (~45% used) or lean more used?"
+ },
+ "1011": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1012": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1013": {
+  "p": 0.62,
+  "duda": "Are major OEM dashboard/interior car parts (like instrument clusters) with no mention of 'nuevo' or part numbers typically used salvage parts?"
+ },
+ "1014": {
+  "p": 0.52,
+  "duda": "For motorcycle replacement parts labeled 'Original Japón' without 'nuevo' or packaging mention, are they more often used parts or new spares?"
+ },
+ "1015": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1016": {
+  "p": 0.38,
+  "duda": "Are standard-size LED commercial signs (e.g. 'Cartel Luminoso Led Panchos 50x20') without condition words mostly new signs or used shop closures?"
+ },
+ "1017": {
+  "p": 0.4,
+  "duda": "For classic car restoration parts explicitly labeled 'Nuevos' (likely newly fabricated reproductions), does the ~40% used rate for 'nuevo' in the title still apply?"
+ },
+ "1018": {
+  "p": 0.35,
+  "duda": "Are inexpensive country flags with minimal titles (e.g., 'Bandera Japon') mostly new items?"
+ },
+ "1019": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1020": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1021": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1022": {
+  "p": 0.48,
+  "duda": "Are original paintings ('Acrilico Original De [Artista]') more frequently listed as new or used on MercadoLibre?"
+ },
+ "1023": {
+  "p": 0.45,
+  "duda": "Does promotional phrasing like 'Super Oferta!' in auto accessory titles lean toward new retail listings or used individual sales?"
+ },
+ "1024": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1025": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1026": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1027": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1028": {
+  "p": 0.65,
+  "duda": "Are specific interior plastic trim parts for older Argentine appliance brands (like Saccol refrigerators) typically salvaged used parts or new replacement stock?"
+ },
+ "1029": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1030": {
+  "p": 0.47,
+  "duda": "Do business and management books without condition words follow the general non-fiction rate (~45% used)?"
+ },
+ "1031": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1032": {
+  "p": 0.38,
+  "duda": "Do unbranded accessories with exact dimension specifications in the title (e.g., 'ancho 4 Cm') usually indicate new retail/artisan stock?"
+ },
+ "1033": {
+  "p": 0.48,
+  "duda": "Are sets of appliance knobs ('Perillas De Cocina Juego De 5 Unidades') without brand or packaging mention more often new replacement packs or salvaged parts?"
+ },
+ "1034": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1035": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1036": {
+  "p": 0.48,
+  "duda": "Do self-help books with only author and title in the listing follow the ~45% used baseline for general non-fiction books?"
+ },
+ "1037": {
+  "p": 0.45,
+  "duda": "For popular thriller/fiction novels priced around 70 ARS with 'Envio Gratis Cap Fed', are they mostly new pocket/remainder editions or used copies?"
+ },
+ "1038": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "1039": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1040": {
+  "p": 0.45,
+  "duda": "When a desktop PC has an older-generation CPU (like Athlon 64 Dual Core in 2015) but includes a shop-style warranty ('6 meses hardware y 1 año de software'), is it usually listed as new or used?"
+ },
+ "1041": {
+  "p": 0.38,
+  "duda": "Are custom-assembled automotive electronics (like MegaSquirt ECUs) sold with a 3-month warranty typically listed as new or used?"
+ },
+ "1042": {
+  "p": 0.42,
+  "duda": "For vintage music media from the 1980s (like cassettes or vinyl) that include 'Nuevo' in the title without 'sellado' or 'cerrado', are they more often listed as new or used?"
+ },
+ "1043": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1044": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "1045": {
+  "p": 0.46,
+  "duda": "Are high-ticket children's battery ride-on cars with exclamation marks and no condition words more often new retail items or parents reselling outgrown toys?"
+ },
+ "1046": {
+  "p": 0.45,
+  "duda": "Does descriptive phrasing like 'Muy Práctico' in jewelry/cosmetic organizer titles lean toward new retail products or used items?"
+ },
+ "1047": {
+  "p": 0.55,
+  "duda": "Are low-priced 'Casa de Muñecas Barbie' listings mostly used Mattel dollhouses or new artisanal wooden dollhouses made for Barbie-sized dolls?"
+ },
+ "1048": {
+  "p": 0.58,
+  "duda": "Are branded sunglasses like 'Ray-Ban Originales' without a model number and priced well below retail mostly used authentic pairs or new replicas?"
+ },
+ "1049": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1050": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1051": {
+  "p": 0.42,
+  "duda": "In philately listings, are vintage stamp sets described as 'Sellos Nuevos' (mint/unpostmarked) usually listed under the 'new' or 'used' item condition on MercadoLibre?"
+ },
+ "1052": {
+  "p": 0.48,
+  "duda": "For classic literature titles (like 'El Satiricón - Petronio') priced around 50 ARS with no publisher mentioned, are they more often new budget editions or used copies?"
+ },
+ "1053": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1054": {
+  "p": 0.44,
+  "duda": "Do higher-priced baby clothing items with just the garment type and brand in the title lean new or used?"
+ },
+ "1055": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1056": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1057": {
+  "p": 0.56,
+  "duda": "Are branded baby accessories from retail chains (like Imaginarium) without condition words more often used resales by parents or new items?"
+ },
+ "1058": {
+  "p": 0.5,
+  "duda": "For generic clothing titles like 'Vestido Corto Informal' with no brand or condition words, does a low price lean used or reflect budget fast fashion?"
+ },
+ "1059": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1060": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1061": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1062": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1063": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1064": {
+  "p": 0.47,
+  "duda": "Do generic fashion titles like 'Bolso Super Moderno' with no brand or material specified lean toward new budget retail or used personal resale?"
+ },
+ "1065": {
+  "p": 0.46,
+  "duda": "For large booksellers using '#NNNN' inventory codes in the title, are their listings predominantly used books or new/remainder stock?"
+ },
+ "1066": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1067": {
+  "p": 0.55,
+  "duda": "When a motorcycle gear listing uses a plural title ('Cascos Takai') with stock of 2 and no model specification, is it more likely a pair of used helmets or new budget stock?"
+ },
+ "1068": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1069": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1070": {
+  "p": 0.58,
+  "duda": "Are 1990s collectible action figures (like Playmates Star Trek) without mention of 'blister' or 'cerrado' mostly listed as used or new?"
+ },
+ "1071": {
+  "p": 0.35,
+  "duda": "Do recently published academic/essay editions from major publishers (like Fondo de Cultura Económica) sold near cover price lean strongly new?"
+ },
+ "1072": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1073": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1074": {
+  "p": 0.36,
+  "duda": "Do die-cast collectors selling specific Hot Wheels collector-number variations typically list them as new or used?"
+ },
+ "1075": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1076": {
+  "p": 0.55,
+  "duda": "When a book listing bundles two specific novels by the same author with '+' in the title, does it lean toward used book lots or new promotional packs?"
+ },
+ "1077": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1078": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1079": {
+  "p": 0.56,
+  "duda": "Are very low-priced unbranded baby bedding listings ('Juego De Sabanas Cuna Bebe') mostly used items sold by parents or budget homemade sets?"
+ },
+ "1080": {
+  "p": 0.62,
+  "duda": "Do high-priced decorative/architectural items prefaced with 'Increíble' (like 'Increíble Rosa De Los Vientos') mostly represent vintage/antique used pieces?"
+ },
+ "1081": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1082": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1083": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1084": {
+  "p": 0.64,
+  "duda": "Are branded baby high chairs ('Silla De Comer [Marca]') without model codes or condition words predominantly used items sold by parents?"
+ },
+ "1085": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1086": {
+  "p": 0.48,
+  "duda": "For two-word women's clothing titles describing only the garment and pattern (e.g., 'Short Estrellas'), should the prediction stay near the 46% category average?"
+ },
+ "1087": {
+  "p": 0.58,
+  "duda": "Are older regional reference works and encyclopedias (like 'Nueva Enciclopedia de la Provincia de Santa Fe') more often sold used or as new old stock?"
+ },
+ "1088": {
+  "p": 0.74,
+  "duda": ""
+ },
+ "1089": {
+  "p": 0.64,
+  "duda": "Are branded promotional beverage coolers (like 'Heladera Conservadora Gatorade') typically listed as used or new?"
+ },
+ "1090": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1091": {
+  "p": 0.45,
+  "duda": "What product does 'Yelmo Jet Coleccion' with multiple units sold refer to, and are such collection items typically listed as new or used?"
+ },
+ "1092": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1093": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1094": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1095": {
+  "p": 0.42,
+  "duda": "When a clothing or handbag listing describes a single item's visual details and ends with '.nueva.' on the free tier, does it follow the ~40% used rate for 'nuevo/nueva' in the title or lean more used?"
+ },
+ "1096": {
+  "p": 0.54,
+  "duda": "Do history book listings bundled as '- 2 Libros' at a low combined price lean used despite general history books leaning slightly new?"
+ },
+ "1097": {
+  "p": 0.35,
+  "duda": "Are high-priced garden bird feeders ('Comedero Para Pajaros') typically new handcrafted garden items or vintage/used decor?"
+ },
+ "1098": {
+  "p": 0.38,
+  "duda": "Do inexpensive costume jewelry items with '.9' pricing (like 59.9 ARS) and 'Sí' warranty usually represent new bijouterie stock?"
+ },
+ "1099": {
+  "p": 0.48,
+  "duda": "Are inexpensive English-language editions of literary novels in Argentina more often used paperbacks or new stock?"
+ },
+ "1100": {
+  "p": 0.38,
+  "duda": "Does including the publisher name at the end of a book title (e.g., '- Planeta') indicate a new bookstore listing more strongly than the ~45% baseline for non-fiction?"
+ }
+}

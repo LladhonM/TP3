@@ -1,0 +1,402 @@
+{
+ "16801": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16802": {
+  "p": 0.42,
+  "duda": "Are loose toy figures/collectibles (e.g. Simil anime figures, small vintage toys) usually labeled used or new?"
+ },
+ "16803": {
+  "p": 0.58,
+  "duda": "Are old collectible coins and banknotes (circulated or 'sin circular') usually labeled used or new by sellers?"
+ },
+ "16804": {
+  "p": 0.4,
+  "duda": "Are plumbing/gas fittings from one-off sellers usually leftover new stock or used?"
+ },
+ "16805": {
+  "p": 0.6,
+  "duda": "Is an older CD/EP title with no condition words usually a used copy or new old stock?"
+ },
+ "16806": {
+  "p": 0.42,
+  "duda": "Are old collectible coins and banknotes (circulated or 'sin circular') usually labeled used or new by sellers?"
+ },
+ "16807": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16808": {
+  "p": 0.45,
+  "duda": "Are 'edición limitada' Nextel phones listed in 2015 usually new-in-box collector stock or used handsets?"
+ },
+ "16809": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16810": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16811": {
+  "p": 0.38,
+  "duda": "Are handcrafted wood/alpaca boxes from one-off sellers usually artisan-new or resold used decor?"
+ },
+ "16812": {
+  "p": 0.5,
+  "duda": "Are imported children's clothing items from one-off sellers without condition words usually new (brought from abroad) or used?"
+ },
+ "16813": {
+  "p": 0.5,
+  "duda": "Is cheap women's clothing/accessories with no condition words and no brand usually used or new in these rows?"
+ },
+ "16814": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16815": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16816": {
+  "p": 0.58,
+  "duda": "Are baby/infant items (shoes, cot mattresses, car seats) from one-off sellers usually used (outgrown) or new?"
+ },
+ "16817": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16818": {
+  "p": 0.55,
+  "duda": "Are sports/outdoor gear items from one-off sellers (bike pedals, kite boards, boats, helmets, airguns) usually used?"
+ },
+ "16819": {
+  "p": 0.7,
+  "duda": "Are antique/vintage decor and collectibles (old bottles, almanacs, candelabras, soup tureens) usually labeled used?"
+ },
+ "16820": {
+  "p": 0.65,
+  "duda": "Are sports/outdoor gear items from one-off sellers (bike pedals, kite boards, boats, helmets, airguns) usually used?"
+ },
+ "16821": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16822": {
+  "p": 0.6,
+  "duda": "Are loose toy figures/collectibles (e.g. Simil anime figures, small vintage toys) usually labeled used or new?"
+ },
+ "16823": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16824": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16825": {
+  "p": 0.65,
+  "duda": "Are named car/motorcycle parts with no condition words (stereos, emblems, engine parts) usually used pulls or new stock?"
+ },
+ "16826": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16827": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16828": {
+  "p": 0.35,
+  "duda": "Is handmade clothing (knitted sweaters) from one-off sellers usually maker-new?"
+ },
+ "16829": {
+  "p": 0.6,
+  "duda": "Are cheap computer parts sold in quantity (heatsinks at ~40 ARS each) usually salvaged/used?"
+ },
+ "16830": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16831": {
+  "p": 0.5,
+  "duda": "Is cheap women's clothing/accessories with no condition words and no brand usually used or new in these rows?"
+ },
+ "16832": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16833": {
+  "p": 0.4,
+  "duda": "Is mid-priced furniture with a shop-style title (wood type, style, 'calidad premium') from a one-off seller usually new?"
+ },
+ "16834": {
+  "p": 0.55,
+  "duda": "Is an older CD/EP title with no condition words usually a used copy or new old stock?"
+ },
+ "16835": {
+  "p": 0.38,
+  "duda": "Are baby/infant items (shoes, cot mattresses, car seats) from one-off sellers usually used (outgrown) or new?"
+ },
+ "16836": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16837": {
+  "p": 0.55,
+  "duda": "Are baby/infant items (shoes, cot mattresses, car seats) from one-off sellers usually used (outgrown) or new?"
+ },
+ "16838": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16839": {
+  "p": 0.4,
+  "duda": "Are 1/43 scale model cars from collector sellers usually new in box or used?"
+ },
+ "16840": {
+  "p": 0.45,
+  "duda": "Is a branded item described as 'regalo' (a received gift being resold) usually labeled new or used?"
+ },
+ "16841": {
+  "p": 0.48,
+  "duda": "When the title gives only a bare book title with no author, should the probability stay at the base rate?"
+ },
+ "16842": {
+  "p": 0.48,
+  "duda": "Is cheap women's clothing/accessories with no condition words and no brand usually used or new in these rows?"
+ },
+ "16843": {
+  "p": 0.5,
+  "duda": "Are original artworks/paintings typically labeled new (artist selling) or used (resale)?"
+ },
+ "16844": {
+  "p": 0.6,
+  "duda": "Are antique/vintage decor and collectibles (old bottles, almanacs, candelabras, soup tureens) usually labeled used?"
+ },
+ "16845": {
+  "p": 0.45,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16846": {
+  "p": 0.6,
+  "duda": "Are antique/vintage decor and collectibles (old bottles, almanacs, candelabras, soup tureens) usually labeled used?"
+ },
+ "16847": {
+  "p": 0.55,
+  "duda": "Is an older CD/EP title with no condition words usually a used copy or new old stock?"
+ },
+ "16848": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16849": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16850": {
+  "p": 0.65,
+  "duda": "Is a cheap men's suit (well below new price) from a one-off seller usually used?"
+ },
+ "16851": {
+  "p": 0.6,
+  "duda": "Are loose toy figures/collectibles (e.g. Simil anime figures, small vintage toys) usually labeled used or new?"
+ },
+ "16852": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16853": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16854": {
+  "p": 0.62,
+  "duda": "Is an older CD/EP title with no condition words usually a used copy or new old stock?"
+ },
+ "16855": {
+  "p": 0.42,
+  "duda": "Do academic essay books (e.g. Latour) count as study material (leans used) or general non-fiction (leans new)?"
+ },
+ "16856": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16857": {
+  "p": 0.55,
+  "duda": "Are sports/outdoor gear items from one-off sellers (bike pedals, kite boards, boats, helmets, airguns) usually used?"
+ },
+ "16858": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "16859": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16860": {
+  "p": 0.5,
+  "duda": "Are sports/outdoor gear items from one-off sellers (bike pedals, kite boards, boats, helmets, airguns) usually used?"
+ },
+ "16861": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16862": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16863": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16864": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16865": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "16866": {
+  "p": 0.45,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16867": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16868": {
+  "p": 0.45,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16869": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16870": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16871": {
+  "p": 0.6,
+  "duda": "When an electronics item's price is clearly below the 2015 new retail price, should that lean used?"
+ },
+ "16872": {
+  "p": 0.35,
+  "duda": "Are 'edición limitada' Nextel phones listed in 2015 usually new-in-box collector stock or used handsets?"
+ },
+ "16873": {
+  "p": 0.38,
+  "duda": "Is commercial equipment (display fridges, concrete mixers) from one-off sellers usually new or used?"
+ },
+ "16874": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16875": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16876": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16877": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16878": {
+  "p": 0.45,
+  "duda": "Are old collectible coins and banknotes (circulated or 'sin circular') usually labeled used or new by sellers?"
+ },
+ "16879": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16880": {
+  "p": 0.6,
+  "duda": "Are antique/vintage decor and collectibles (old bottles, almanacs, candelabras, soup tureens) usually labeled used?"
+ },
+ "16881": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16882": {
+  "p": 0.65,
+  "duda": "Are sports/outdoor gear items from one-off sellers (bike pedals, kite boards, boats, helmets, airguns) usually used?"
+ },
+ "16883": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16884": {
+  "p": 0.5,
+  "duda": "When a book listing says 'libro nuevo en excelente estado', is it usually labeled new or used?"
+ },
+ "16885": {
+  "p": 0.5,
+  "duda": "Are baby/infant items (shoes, cot mattresses, car seats) from one-off sellers usually used (outgrown) or new?"
+ },
+ "16886": {
+  "p": 0.6,
+  "duda": "How are digital goods like game accounts labeled: used or new?"
+ },
+ "16887": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16888": {
+  "p": 0.5,
+  "duda": "Is commercial equipment (display fridges, concrete mixers) from one-off sellers usually new or used?"
+ },
+ "16889": {
+  "p": 0.6,
+  "duda": "Are named car/motorcycle parts with no condition words (stereos, emblems, engine parts) usually used pulls or new stock?"
+ },
+ "16890": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16891": {
+  "p": 0.62,
+  "duda": "Are named car/motorcycle parts with no condition words (stereos, emblems, engine parts) usually used pulls or new stock?"
+ },
+ "16892": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "16893": {
+  "p": 0.42,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16894": {
+  "p": 0.4,
+  "duda": "Are named car/motorcycle parts with no condition words (stereos, emblems, engine parts) usually used pulls or new stock?"
+ },
+ "16895": {
+  "p": 0.55,
+  "duda": "Is a branded item described as 'regalo' (a received gift being resold) usually labeled new or used?"
+ },
+ "16896": {
+  "p": 0.5,
+  "duda": "Is cheap women's clothing/accessories with no condition words and no brand usually used or new in these rows?"
+ },
+ "16897": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16898": {
+  "p": 0.45,
+  "duda": "Do cheap literature/non-fiction books from sellers with many listings (often with an inventory code) lean used or new?"
+ },
+ "16899": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16900": {
+  "p": 0.15,
+  "duda": ""
+ }
+}

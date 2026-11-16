@@ -1,0 +1,402 @@
+{
+ "16401": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16402": {
+  "p": 0.35,
+  "duda": "For real-estate listings described as 'a estrenar', how is the condition usually set: new or used?"
+ },
+ "16403": {
+  "p": 0.62,
+  "duda": "In clothing/footwear, is a price far below the brand's 2015 retail price (e.g. under ~40% of retail) a reliable sign that the item is used?"
+ },
+ "16404": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16405": {
+  "p": 0.6,
+  "duda": "In clothing/footwear, is a price far below the brand's 2015 retail price (e.g. under ~40% of retail) a reliable sign that the item is used?"
+ },
+ "16406": {
+  "p": 0.5,
+  "duda": "Are books from kiosk/newspaper collections (e.g. Osprey WWII series, Salvat, RBA) usually sold as new leftover stock or as used?"
+ },
+ "16407": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16408": {
+  "p": 0.38,
+  "duda": "When an individual lists a single bicycle as 'nueva a estrenar', is it usually marked new or used?"
+ },
+ "16409": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "16410": {
+  "p": 0.35,
+  "duda": "Do musical instrument cases and accessories with no condition words lean new?"
+ },
+ "16411": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16412": {
+  "p": 0.4,
+  "duda": "Do recent non-fiction essays from academic publishers (Gedisa, Paidós) priced near retail lean new?"
+ },
+ "16413": {
+  "p": 0.35,
+  "duda": "Does 'Art. original' or an article code in a clothing/shoe title indicate a shop selling new stock?"
+ },
+ "16414": {
+  "p": 0.6,
+  "duda": "Are older, out-of-print Argentine essay editions (1970s-80s) usually sold used?"
+ },
+ "16415": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16416": {
+  "p": 0.55,
+  "duda": "For books, does a price well below the new retail price (e.g. under ~40%) reliably indicate a used copy?"
+ },
+ "16417": {
+  "p": 0.35,
+  "duda": "Are plush toys of TV characters with no condition words usually new stock?"
+ },
+ "16418": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16419": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16420": {
+  "p": 0.48,
+  "duda": "When a listing is a generic product name with no condition words, brand or model, should it stay at the 47% base rate, or does the product type (bags, furniture, toys) lean one way?"
+ },
+ "16421": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16422": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16423": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16424": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16425": {
+  "p": 0.45,
+  "duda": "Are decorative items listed with a catalog code (e.g. antique/reproduction trays) usually from shops selling new stock or antique dealers selling used items?"
+ },
+ "16426": {
+  "p": 0.3,
+  "duda": "Do large sports items (kayaks, boats) from a local manufacturer brand with several units sold lean new?"
+ },
+ "16427": {
+  "p": 0.55,
+  "duda": "Are high-end bicycle components (Campagnolo, Shimano Dura-Ace) sold by one-off sellers usually used or new-in-box imports?"
+ },
+ "16428": {
+  "p": 0.35,
+  "duda": "Do fashion shoes (clogs, sandals) without size or condition words lean new?"
+ },
+ "16429": {
+  "p": 0.35,
+  "duda": "Are reconditioned car parts (turbos, alternators) offered by repair shops marked new or used?"
+ },
+ "16430": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16431": {
+  "p": 0.55,
+  "duda": "Are small bronze/metal decor items (picture frames, figurines) without condition words usually used/antique?"
+ },
+ "16432": {
+  "p": 0.6,
+  "duda": "For books, does a price well below the new retail price (e.g. under ~40%) reliably indicate a used copy?"
+ },
+ "16433": {
+  "p": 0.48,
+  "duda": "Do cheap generic add-on camera lenses (wide angle/macro conversion) count as pro gear that leans used, or as generic new accessories?"
+ },
+ "16434": {
+  "p": 0.38,
+  "duda": "Do women's leather boots from Argentine brands without size or condition words lean new?"
+ },
+ "16435": {
+  "p": 0.5,
+  "duda": "Are branded motorcycle/MTB gloves and protective gear sold by one-off sellers usually used?"
+ },
+ "16436": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16437": {
+  "p": 0.65,
+  "duda": "Are promotional/compilation CDs from magazines or brands (e.g. Popart promo) usually sold used?"
+ },
+ "16438": {
+  "p": 0.6,
+  "duda": "Are replacement parts for old car models (e.g. Ford Falcon steering boxes, manifolds) usually sold used or as new/rebuilt stock?"
+ },
+ "16439": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16440": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16441": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16442": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16443": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16444": {
+  "p": 0.35,
+  "duda": "Do basic women's garments (babuchas, leggings) with a color but no condition words lean new?"
+ },
+ "16445": {
+  "p": 0.35,
+  "duda": "For real-estate listings described as 'a estrenar', how is the condition usually set: new or used?"
+ },
+ "16446": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "16447": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16448": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "16449": {
+  "p": 0.45,
+  "duda": "For video games titled 'nuevo' but priced well below retail, is the item usually new?"
+ },
+ "16450": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16451": {
+  "p": 0.62,
+  "duda": "Are replacement parts for old car models (e.g. Ford Falcon steering boxes, manifolds) usually sold used or as new/rebuilt stock?"
+ },
+ "16452": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16453": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16454": {
+  "p": 0.42,
+  "duda": "Does the warranty text 'garantía de funcionamiento' indicate a used item, or is it also used by shops for new electronics?"
+ },
+ "16455": {
+  "p": 0.55,
+  "duda": "Are collectible banknotes and coins usually marked new (uncirculated) or used?"
+ },
+ "16456": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16457": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16458": {
+  "p": 0.55,
+  "duda": "Does a short warranty (e.g. 3 months) on computer parts indicate a used item?"
+ },
+ "16459": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "16460": {
+  "p": 0.4,
+  "duda": "Are small windsurf/kitesurf accessories (boom straps, harness lines) usually new or used?"
+ },
+ "16461": {
+  "p": 0.4,
+  "duda": "Are motorcycle accessories (grips, mirrors) from aftermarket brands without condition words usually new?"
+ },
+ "16462": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16463": {
+  "p": 0.5,
+  "duda": "When a listing is a generic product name with no condition words, brand or model, should it stay at the 47% base rate, or does the product type (bags, furniture, toys) lean one way?"
+ },
+ "16464": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16465": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16466": {
+  "p": 0.6,
+  "duda": "Are CDs of older rock/metal albums with no condition words usually used copies?"
+ },
+ "16467": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16468": {
+  "p": 0.52,
+  "duda": "When a listing is a generic product name with no condition words, brand or model, should it stay at the 47% base rate, or does the product type (bags, furniture, toys) lean one way?"
+ },
+ "16469": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16470": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16471": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16472": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16473": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16474": {
+  "p": 0.55,
+  "duda": "When the title is a single ambiguous word (e.g. 'Kirby', 'Barbie'), should the prediction stay at the base rate?"
+ },
+ "16475": {
+  "p": 0.35,
+  "duda": "Does 'importado' in a furniture/decor title indicate a shop selling new stock?"
+ },
+ "16476": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16477": {
+  "p": 0.4,
+  "duda": "Are notebook accessories (cooling bases, stands) without condition words usually new?"
+ },
+ "16478": {
+  "p": 0.6,
+  "duda": "Do enthusiastic adjectives like 'lindísima' in a single-size clothing listing indicate a person reselling a used garment?"
+ },
+ "16479": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16480": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "16481": {
+  "p": 0.68,
+  "duda": "Is enterprise IT hardware (rack UPS, servers) priced far below new retail usually used/refurbished?"
+ },
+ "16482": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16483": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16484": {
+  "p": 0.55,
+  "duda": "Are single clothing items listed as 'Garment - Brand' by sellers with ~10 listings usually used resale?"
+ },
+ "16485": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16486": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16487": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16488": {
+  "p": 0.6,
+  "duda": "Do university textbooks listed with stock above 1 still lean used, or does stock > 1 indicate a bookshop selling new copies?"
+ },
+ "16489": {
+  "p": 0.5,
+  "duda": "Are cheap children's toys (toy vanity, kitchen sets) without condition words usually used?"
+ },
+ "16490": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16491": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16492": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16493": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16494": {
+  "p": 0.6,
+  "duda": "Do education/pedagogy books (teacher training, school policy) count as study material that leans used?"
+ },
+ "16495": {
+  "p": 0.62,
+  "duda": "Are medical/orthopedic items (splints, braces) sold by individuals usually used after recovery?"
+ },
+ "16496": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16497": {
+  "p": 0.35,
+  "duda": "Are DIY power supplies for guitar pedals usually new (made by the seller) or used?"
+ },
+ "16498": {
+  "p": 0.65,
+  "duda": "Do sellers with many cheap book listings (30+) usually sell used copies?"
+ },
+ "16499": {
+  "p": 0.45,
+  "duda": "Do cheap children's T-shirts with a size and no condition words lean new or used?"
+ },
+ "16500": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

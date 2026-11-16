@@ -1,0 +1,402 @@
+{
+ "16501": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "16502": {
+  "p": 0.62,
+  "duda": "Is a branded leather bag (e.g. Prüne) priced well below retail from a one-listing seller usually a used resale?"
+ },
+ "16503": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16504": {
+  "p": 0.3,
+  "duda": "How are services and rentals (repairs, tourist rentals, real estate) labeled in this dataset: new or used?"
+ },
+ "16505": {
+  "p": 0.55,
+  "duda": "Are car/moto parts with no condition words (often from desarmaderos or 'sin garantía') more often used or new?"
+ },
+ "16506": {
+  "p": 0.65,
+  "duda": "Are cheap children's gear items (bike seats, strollers) from one-off sellers usually used?"
+ },
+ "16507": {
+  "p": 0.6,
+  "duda": "Are stamp lots and mint stamp series (estampillas, series completas) usually labeled used or new on MercadoLibre?"
+ },
+ "16508": {
+  "p": 0.6,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16509": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16510": {
+  "p": 0.55,
+  "duda": "Are children's party dresses from one-off sellers usually worn-once resales (used) or new?"
+ },
+ "16511": {
+  "p": 0.35,
+  "duda": "What kind of item is a one-word religious title like 'Ogum' (statue, book, CD) and is it usually sold new?"
+ },
+ "16512": {
+  "p": 0.4,
+  "duda": "Are stamp lots and mint stamp series (estampillas, series completas) usually labeled used or new on MercadoLibre?"
+ },
+ "16513": {
+  "p": 0.5,
+  "duda": "Are single trading cards (Magic: The Gathering singles) typically labeled used or new?"
+ },
+ "16514": {
+  "p": 0.45,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16515": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16516": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16517": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16518": {
+  "p": 0.4,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16519": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16520": {
+  "p": 0.4,
+  "duda": "Are stamp lots and mint stamp series (estampillas, series completas) usually labeled used or new on MercadoLibre?"
+ },
+ "16521": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16522": {
+  "p": 0.35,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16523": {
+  "p": 0.35,
+  "duda": "Are printer replacement parts (rollers, fusers) with a short shop warranty usually new or refurbished/used?"
+ },
+ "16524": {
+  "p": 0.42,
+  "duda": "Is a recent flagship phone priced near retail from a one-listing free-tier seller usually new or a used resale?"
+ },
+ "16525": {
+  "p": 0.5,
+  "duda": "When a title is just a car model (e.g. 'Fiat 600') at a tiny price, what is usually being sold (toy, manual, part) and in what condition?"
+ },
+ "16526": {
+  "p": 0.45,
+  "duda": "Is 'nueva' on branded baby gear from a one-off seller usually an unused gift resale labeled new or used?"
+ },
+ "16527": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16528": {
+  "p": 0.5,
+  "duda": "Does 'retro' in a clothing title usually mean a vintage used item or a new retro-style product?"
+ },
+ "16529": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16530": {
+  "p": 0.65,
+  "duda": "Does 'sin carga' on a fire extinguisher indicate a used unit needing recharge, or new stock sold empty?"
+ },
+ "16531": {
+  "p": 0.52,
+  "duda": "Are multi-DVD packs of classic films from one-off sellers usually used or new?"
+ },
+ "16532": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16533": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16534": {
+  "p": 0.55,
+  "duda": "How are services and rentals (repairs, tourist rentals, real estate) labeled in this dataset: new or used?"
+ },
+ "16535": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16536": {
+  "p": 0.5,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16537": {
+  "p": 0.55,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16538": {
+  "p": 0.38,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16539": {
+  "p": 0.45,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16540": {
+  "p": 0.45,
+  "duda": "Are lamp glass shades (Rochester style) usually antique used pieces or new reproductions?"
+ },
+ "16541": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16542": {
+  "p": 0.5,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16543": {
+  "p": 0.5,
+  "duda": "Are Ray-Ban sunglasses priced far below retail more often used originals or new replicas labeled new?"
+ },
+ "16544": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16545": {
+  "p": 0.55,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16546": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16547": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16548": {
+  "p": 0.5,
+  "duda": "Are pet carriers/beds from one-listing sellers usually used or new?"
+ },
+ "16549": {
+  "p": 0.6,
+  "duda": "Are single computer parts sold 'por unidad' at low prices (heatsinks, coolers) usually pulled used parts?"
+ },
+ "16550": {
+  "p": 0.35,
+  "duda": "Does 'por cierre' (business closing) usually mean new old stock (new) or used goods?"
+ },
+ "16551": {
+  "p": 0.5,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16552": {
+  "p": 0.4,
+  "duda": "How are services and rentals (repairs, tourist rentals, real estate) labeled in this dataset: new or used?"
+ },
+ "16553": {
+  "p": 0.4,
+  "duda": "Are diecast scale models (1/18) from small sellers usually labeled new (boxed) or used?"
+ },
+ "16554": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16555": {
+  "p": 0.6,
+  "duda": "Are old hobby/course books (astrology, self-help courses) usually used copies?"
+ },
+ "16556": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "16557": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16558": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16559": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16560": {
+  "p": 0.65,
+  "duda": "Are air rifles from one-listing sellers with 'leer abajo' and 'único' usually used?"
+ },
+ "16561": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16562": {
+  "p": 0.65,
+  "duda": "Are DVDs of older films from small sellers with 'sin garantía' usually used?"
+ },
+ "16563": {
+  "p": 0.5,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16564": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16565": {
+  "p": 0.4,
+  "duda": "Do book titles with a numeric inventory code prefix (e.g. '9466-') come from used-book shops or new-book shops?"
+ },
+ "16566": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16567": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16568": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16569": {
+  "p": 0.55,
+  "duda": "Are standalone brand chargers (e.g. 'Cargador Panasonic') from one-off sellers usually used?"
+ },
+ "16570": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16571": {
+  "p": 0.35,
+  "duda": "Are hi-fi crossover components (capacitors like Mundorf) usually sold new or as used pulls?"
+ },
+ "16572": {
+  "p": 0.65,
+  "duda": "Are old road maps (ACA) usually labeled used?"
+ },
+ "16573": {
+  "p": 0.4,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16574": {
+  "p": 0.45,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16575": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16576": {
+  "p": 0.5,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16577": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16578": {
+  "p": 0.6,
+  "duda": "Do book titles with a numeric inventory code suffix from sellers with many listings come from used-book shops?"
+ },
+ "16579": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16580": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16581": {
+  "p": 0.45,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16582": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16583": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16584": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16585": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16586": {
+  "p": 0.45,
+  "duda": "Are car/moto parts with no condition words (often from desarmaderos or 'sin garantía') more often used or new?"
+ },
+ "16587": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16588": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16589": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16590": {
+  "p": 0.47,
+  "duda": "Do cheap copies of literature/essay books from sellers with 10-60 listings (likely used-book shops) lean used or new?"
+ },
+ "16591": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16592": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16593": {
+  "p": 0.5,
+  "duda": "For single garments from one-off sellers with no condition words, is the default closer to used or new?"
+ },
+ "16594": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16595": {
+  "p": 0.45,
+  "duda": "Are imported CDs of older albums from music shops (20+ listings) usually new or used?"
+ },
+ "16596": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16597": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16598": {
+  "p": 0.6,
+  "duda": "Are older political/history essay books (out-of-print authors) usually used copies?"
+ },
+ "16599": {
+  "p": 0.5,
+  "duda": "Are SUP boards and other large sports gear from small sellers usually new or used?"
+ },
+ "16600": {
+  "p": 0.65,
+  "duda": ""
+ }
+}

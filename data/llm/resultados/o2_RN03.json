@@ -1,0 +1,402 @@
+{
+ "16201": {
+  "p": 0.66,
+  "duda": "Should a clearly below-retail price for branded clothing be read as evidence that the item is used?"
+ },
+ "16202": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16203": {
+  "p": 0.72,
+  "duda": "Are old or out-of-print book titles (published decades ago) almost always used copies?"
+ },
+ "16204": {
+  "p": 0.55,
+  "duda": "Are spare parts for office copiers/printers (controller boards, fusers) usually pulled from used machines or sold new?"
+ },
+ "16205": {
+  "p": 0.4,
+  "duda": "Do practical/hobby non-fiction books (pets, cooking, crafts) follow the general non-fiction lean toward new?"
+ },
+ "16206": {
+  "p": 0.38,
+  "duda": "Can a book price well below (or close to) the current retail price be taken as evidence that the copy is used (or new)?"
+ },
+ "16207": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16208": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16209": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16210": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16211": {
+  "p": 0.5,
+  "duda": "Are spare parts for specific (especially older) car models, such as gearboxes, radiators, turbos or body panels, usually used parts from dismantled vehicles or new/aftermarket stock?"
+ },
+ "16212": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16213": {
+  "p": 0.65,
+  "duda": "Do informal sale words in the title ('liquido', 'vendo') indicate a private seller reselling a used item?"
+ },
+ "16214": {
+  "p": 0.38,
+  "duda": "Does a title offering several sizes (e.g. 'T. S o M') indicate shop stock and therefore a new item?"
+ },
+ "16215": {
+  "p": 0.62,
+  "duda": "Are spare parts for specific (especially older) car models, such as gearboxes, radiators, turbos or body panels, usually used parts from dismantled vehicles or new/aftermarket stock?"
+ },
+ "16216": {
+  "p": 0.4,
+  "duda": "How are live animals, puppies and stud services usually labeled in this dataset, new or used?"
+ },
+ "16217": {
+  "p": 0.6,
+  "duda": "Are cheap school-reading classics (Calderon, Moliere, Hudson) priced well below retail usually used copies?"
+ },
+ "16218": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16219": {
+  "p": 0.42,
+  "duda": "When 'nuevo/nueva' appears in a clothing title with no tags, stock or warranty evidence, does the seller usually label the item new?"
+ },
+ "16220": {
+  "p": 0.62,
+  "duda": "Are vaguely titled car-audio bundles (brand name only, high price) usually a private seller's used setup?"
+ },
+ "16221": {
+  "p": 0.45,
+  "duda": "Are decorative home items (ceramic sets, frames, trays) without condition words more often new crafts or used household goods?"
+ },
+ "16222": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16223": {
+  "p": 0.4,
+  "duda": "When 'nuevo/nueva' appears in a clothing title with no tags, stock or warranty evidence, does the seller usually label the item new?"
+ },
+ "16224": {
+  "p": 0.48,
+  "duda": "Are imported English-language comics/graphic novels usually sold new by comic shops or resold used by collectors?"
+ },
+ "16225": {
+  "p": 0.57,
+  "duda": "Are ISP-branded modems/routers (Observa, Arnet, Speedy) usually used units?"
+ },
+ "16226": {
+  "p": 0.5,
+  "duda": "Are collectible scale models (1/43 diecast, model kits) labeled new when kept in their box, even if decades old?"
+ },
+ "16227": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16228": {
+  "p": 0.6,
+  "duda": "Can a book price well below (or close to) the current retail price be taken as evidence that the copy is used (or new)?"
+ },
+ "16229": {
+  "p": 0.6,
+  "duda": "Does the pro-audio rule (1-2 listing sellers lean used) also apply to musical instruments such as drums and guitars?"
+ },
+ "16230": {
+  "p": 0.35,
+  "duda": "Are furniture pieces described by material/manufacture ('hecho en hierro') usually made-to-order new by the maker?"
+ },
+ "16231": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16232": {
+  "p": 0.68,
+  "duda": "Are commercial/industrial machines and work tables listed by single-listing sellers usually used equipment?"
+ },
+ "16233": {
+  "p": 0.52,
+  "duda": "Are small beauty/home appliances (paraffin heaters, waxers) priced below retail usually used?"
+ },
+ "16234": {
+  "p": 0.62,
+  "duda": "Are spare parts for specific (especially older) car models, such as gearboxes, radiators, turbos or body panels, usually used parts from dismantled vehicles or new/aftermarket stock?"
+ },
+ "16235": {
+  "p": 0.45,
+  "duda": "Are car-model-specific accessories (trunk trays, covers, mats) usually new aftermarket stock?"
+ },
+ "16236": {
+  "p": 0.52,
+  "duda": "Are older Playmobil/LEGO sets identified by set number usually used collectors' items or new in box?"
+ },
+ "16237": {
+  "p": 0.65,
+  "duda": "Are spare parts for specific (especially older) car models, such as gearboxes, radiators, turbos or body panels, usually used parts from dismantled vehicles or new/aftermarket stock?"
+ },
+ "16238": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16239": {
+  "p": 0.55,
+  "duda": "Are spare parts for specific (especially older) car models, such as gearboxes, radiators, turbos or body panels, usually used parts from dismantled vehicles or new/aftermarket stock?"
+ },
+ "16240": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16241": {
+  "p": 0.42,
+  "duda": "Does a plural product title (e.g. 'Camisas ...') indicate a shop selling several units, i.e. new items?"
+ },
+ "16242": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16243": {
+  "p": 0.5,
+  "duda": "Are event decoration items (candy-bar trays, centerpieces) usually resold used after an event or sold new by decorators?"
+ },
+ "16244": {
+  "p": 0.68,
+  "duda": "Are tires listed in plural at roughly the price of one new tire usually used tires?"
+ },
+ "16245": {
+  "p": 0.3,
+  "duda": "How are services and digital goods (repairs, game boosting) usually labeled in this dataset, new or used?"
+ },
+ "16246": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "16247": {
+  "p": 0.42,
+  "duda": "Are imported collector CD editions (Japanese mini-LP, remasters with bonus) usually sold sealed new?"
+ },
+ "16248": {
+  "p": 0.38,
+  "duda": "For CDs, does 'nuevo' alone (without 'cerrado'/'sellado') usually mean a new sealed copy?"
+ },
+ "16249": {
+  "p": 0.58,
+  "duda": "Does a university textbook priced near its retail price still lean used, as the study-material rule suggests?"
+ },
+ "16250": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16251": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "16252": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16253": {
+  "p": 0.55,
+  "duda": "How are real-estate listings (apartments, houses) usually labeled in this dataset, new or used?"
+ },
+ "16254": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16255": {
+  "p": 0.32,
+  "duda": "How are live animals, puppies and stud services usually labeled in this dataset, new or used?"
+ },
+ "16256": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16257": {
+  "p": 0.42,
+  "duda": "Are school-reading literature classics sold by large book sellers usually new cheap editions or used copies?"
+ },
+ "16258": {
+  "p": 0.6,
+  "duda": "Are generic children's items (shoes, toys, puzzles) with no brand or condition words usually used?"
+ },
+ "16259": {
+  "p": 0.45,
+  "duda": "Are original (OEM) car parts with a part number offered by a 'vendo' private seller usually new leftover stock or used?"
+ },
+ "16260": {
+  "p": 0.45,
+  "duda": "Are shop ex-display/demo units with a shop warranty labeled new or used?"
+ },
+ "16261": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "16262": {
+  "p": 0.58,
+  "duda": "Is beer-brand promotional bar furniture (Quilmes chairs/tables) usually used items from bars?"
+ },
+ "16263": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "16264": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16265": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16266": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16267": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16268": {
+  "p": 0.55,
+  "duda": "Are old or out-of-print book titles (published decades ago) almost always used copies?"
+ },
+ "16269": {
+  "p": 0.4,
+  "duda": "Are budget sports items from cheap brands (e.g. Wellcold) at typical retail price usually new?"
+ },
+ "16270": {
+  "p": 0.38,
+  "duda": "Do self-help / NLP / pedagogy books follow the general non-fiction lean toward new?"
+ },
+ "16271": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16272": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16273": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16274": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16275": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16276": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16277": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16278": {
+  "p": 0.3,
+  "duda": "How are services and digital goods (repairs, game boosting) usually labeled in this dataset, new or used?"
+ },
+ "16279": {
+  "p": 0.75,
+  "duda": "Are old or out-of-print book titles (published decades ago) almost always used copies?"
+ },
+ "16280": {
+  "p": 0.45,
+  "duda": "Can a book price well below (or close to) the current retail price be taken as evidence that the copy is used (or new)?"
+ },
+ "16281": {
+  "p": 0.5,
+  "duda": "Are commercial/industrial machines and work tables listed by single-listing sellers usually used equipment?"
+ },
+ "16282": {
+  "p": 0.45,
+  "duda": "Are seasonal decorations (Christmas trees) usually resold used by individuals or sold new?"
+ },
+ "16283": {
+  "p": 0.55,
+  "duda": "Are bicycles sold by single-listing private sellers usually used, even at near-retail prices?"
+ },
+ "16284": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16285": {
+  "p": 0.58,
+  "duda": "Are bicycles sold by single-listing private sellers usually used, even at near-retail prices?"
+ },
+ "16286": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16287": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16288": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16289": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16290": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16291": {
+  "p": 0.65,
+  "duda": "Are cookware items from old Argentine brands (e.g. El Siglo) usually vintage used pieces?"
+ },
+ "16292": {
+  "p": 0.6,
+  "duda": "Are generic children's items (shoes, toys, puzzles) with no brand or condition words usually used?"
+ },
+ "16293": {
+  "p": 0.7,
+  "duda": "Are old or out-of-print book titles (published decades ago) almost always used copies?"
+ },
+ "16294": {
+  "p": 0.42,
+  "duda": "Are older-release movie DVDs priced around 100 ARS usually new stock or used copies?"
+ },
+ "16295": {
+  "p": 0.45,
+  "duda": "Are decorative home items (ceramic sets, frames, trays) without condition words more often new crafts or used household goods?"
+ },
+ "16296": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16297": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16298": {
+  "p": 0.62,
+  "duda": "Are spare parts for specific (especially older) car models, such as gearboxes, radiators, turbos or body panels, usually used parts from dismantled vehicles or new/aftermarket stock?"
+ },
+ "16299": {
+  "p": 0.38,
+  "duda": "Are sportswear sets (cycling kits) without condition words usually new shop stock?"
+ },
+ "16300": {
+  "p": 0.6,
+  "duda": "Are party/evening dresses usually resold used after being worn once?"
+ }
+}

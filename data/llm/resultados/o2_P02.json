@@ -1,0 +1,402 @@
+{
+ "4101": {
+  "p": 0.7,
+  "duda": "Are car body parts and mechanical car parts listed by small sellers usually salvaged used parts or new aftermarket stock?"
+ },
+ "4102": {
+  "p": 0.5,
+  "duda": "How are pet adoption or live-animal listings usually labeled, new or used?"
+ },
+ "4103": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4104": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4105": {
+  "p": 0.65,
+  "duda": "Are older or out-of-print books (published 10+ years before 2015) sold by small sellers almost always used?"
+ },
+ "4106": {
+  "p": 0.45,
+  "duda": "Are appliance spare parts (motors, brackets, heater parts) from small sellers usually salvaged used or new replacements?"
+ },
+ "4107": {
+  "p": 0.6,
+  "duda": "Are older or out-of-print books (published 10+ years before 2015) sold by small sellers almost always used?"
+ },
+ "4108": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4109": {
+  "p": 0.7,
+  "duda": "Does a warranty note like 'X months of warranty left' mean the item was bought and is being resold used?"
+ },
+ "4110": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4111": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4112": {
+  "p": 0.55,
+  "duda": "Are stamps and coins usually labeled used (circulated/cancelled) or new (mint) in these listings?"
+ },
+ "4113": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4114": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4115": {
+  "p": 0.75,
+  "duda": "Does a price clearly below the 2015 new retail price reliably indicate a used item?"
+ },
+ "4116": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4117": {
+  "p": 0.55,
+  "duda": "For branded sports gear (bags, rackets, bikes) with no condition words, should one lean used or new?"
+ },
+ "4118": {
+  "p": 0.45,
+  "duda": "Are boxed or unopened collectibles (toys, commemorative bottles, figures) usually labeled new or used?"
+ },
+ "4119": {
+  "p": 0.5,
+  "duda": "Are appliance spare parts (motors, brackets, heater parts) from small sellers usually salvaged used or new replacements?"
+ },
+ "4120": {
+  "p": 0.55,
+  "duda": "Does a price clearly below the 2015 new retail price reliably indicate a used item?"
+ },
+ "4121": {
+  "p": 0.3,
+  "duda": "How are service listings (events, design, art commissions) usually labeled, new or used?"
+ },
+ "4122": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4123": {
+  "p": 0.6,
+  "duda": "Are books from newspaper collections (e.g. La Nacion, Clarin editions) resold later usually used?"
+ },
+ "4124": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "4125": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4126": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4127": {
+  "p": 0.42,
+  "duda": "For literature or general non-fiction still in print, does a price well below the shop price indicate a used copy?"
+ },
+ "4128": {
+  "p": 0.5,
+  "duda": "Are baby gear items (car seats, strollers, pumps, toys) with no condition words usually resold used or sold new?"
+ },
+ "4129": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4130": {
+  "p": 0.45,
+  "duda": "Are items a person brought back from a trip (souvenirs, imports) usually labeled new or used?"
+ },
+ "4131": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4132": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4133": {
+  "p": 0.55,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4134": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4135": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "4136": {
+  "p": 0.6,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4137": {
+  "p": 0.55,
+  "duda": "When a title is generic with no brand, model or condition words, which way do these listings usually go?"
+ },
+ "4138": {
+  "p": 0.62,
+  "duda": "Do listings offering assorted spare parts for a model ('consultar parte disponible') come from dismantled used units?"
+ },
+ "4139": {
+  "p": 0.5,
+  "duda": "Are music CDs/DVDs with no condition words usually resold used or sold new?"
+ },
+ "4140": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4141": {
+  "p": 0.42,
+  "duda": "For literature or general non-fiction still in print, does a price well below the shop price indicate a used copy?"
+ },
+ "4142": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4143": {
+  "p": 0.4,
+  "duda": "For branded sports gear (bags, rackets, bikes) with no condition words, should one lean used or new?"
+ },
+ "4144": {
+  "p": 0.55,
+  "duda": "Are boxed or unopened collectibles (toys, commemorative bottles, figures) usually labeled new or used?"
+ },
+ "4145": {
+  "p": 0.62,
+  "duda": "Are older or out-of-print books (published 10+ years before 2015) sold by small sellers almost always used?"
+ },
+ "4146": {
+  "p": 0.55,
+  "duda": "For literature or general non-fiction still in print, does a price well below the shop price indicate a used copy?"
+ },
+ "4147": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4148": {
+  "p": 0.4,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4149": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "4150": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4151": {
+  "p": 0.68,
+  "duda": "Are older or out-of-print books (published 10+ years before 2015) sold by small sellers almost always used?"
+ },
+ "4152": {
+  "p": 0.45,
+  "duda": "Are car body parts and mechanical car parts listed by small sellers usually salvaged used parts or new aftermarket stock?"
+ },
+ "4153": {
+  "p": 0.55,
+  "duda": "Are music CDs/DVDs with no condition words usually resold used or sold new?"
+ },
+ "4154": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4155": {
+  "p": 0.62,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4156": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4157": {
+  "p": 0.62,
+  "duda": "Are baby gear items (car seats, strollers, pumps, toys) with no condition words usually resold used or sold new?"
+ },
+ "4158": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "4159": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "4160": {
+  "p": 0.58,
+  "duda": "Are decor and furniture items with generic titles from one-listing sellers usually used or new?"
+ },
+ "4161": {
+  "p": 0.5,
+  "duda": "Are original one-of-a-kind artworks or drawings usually labeled new or used?"
+ },
+ "4162": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4163": {
+  "p": 0.5,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4164": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4165": {
+  "p": 0.65,
+  "duda": "Are boxed or unopened collectibles (toys, commemorative bottles, figures) usually labeled new or used?"
+ },
+ "4166": {
+  "p": 0.62,
+  "duda": "Are older or out-of-print books (published 10+ years before 2015) sold by small sellers almost always used?"
+ },
+ "4167": {
+  "p": 0.35,
+  "duda": "Are decor and furniture items with generic titles from one-listing sellers usually used or new?"
+ },
+ "4168": {
+  "p": 0.45,
+  "duda": "Are brass hardware or fittings sold in multiple units usually new stock or salvaged antique pieces?"
+ },
+ "4169": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4170": {
+  "p": 0.4,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4171": {
+  "p": 0.45,
+  "duda": "Are jewelry items (chains, necklaces) from one-listing sellers usually new stock or resold used?"
+ },
+ "4172": {
+  "p": 0.55,
+  "duda": "Are expensive tools or industrial machines from one-listing sellers usually used?"
+ },
+ "4173": {
+  "p": 0.62,
+  "duda": "Are car body parts and mechanical car parts listed by small sellers usually salvaged used parts or new aftermarket stock?"
+ },
+ "4174": {
+  "p": 0.5,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4175": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4176": {
+  "p": 0.5,
+  "duda": "Are expensive tools or industrial machines from one-listing sellers usually used?"
+ },
+ "4177": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4178": {
+  "p": 0.58,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4179": {
+  "p": 0.45,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4180": {
+  "p": 0.55,
+  "duda": "When a title is generic with no brand, model or condition words, which way do these listings usually go?"
+ },
+ "4181": {
+  "p": 0.42,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4182": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4183": {
+  "p": 0.55,
+  "duda": "Do listings titled with a catalog number plus a topic (e.g. '10102- Energia Eolica') come from used-book or educational-kit sellers?"
+ },
+ "4184": {
+  "p": 0.62,
+  "duda": "Does a designer-brand garment priced far below its retail price indicate a used item?"
+ },
+ "4185": {
+  "p": 0.55,
+  "duda": "Are stamps and coins usually labeled used (circulated/cancelled) or new (mint) in these listings?"
+ },
+ "4186": {
+  "p": 0.6,
+  "duda": "Are baby gear items (car seats, strollers, pumps, toys) with no condition words usually resold used or sold new?"
+ },
+ "4187": {
+  "p": 0.5,
+  "duda": "Are stamps and coins usually labeled used (circulated/cancelled) or new (mint) in these listings?"
+ },
+ "4188": {
+  "p": 0.4,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4189": {
+  "p": 0.62,
+  "duda": "Are car body parts and mechanical car parts listed by small sellers usually salvaged used parts or new aftermarket stock?"
+ },
+ "4190": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4191": {
+  "p": 0.55,
+  "duda": "For a short clothing or footwear title with no condition words and no size/color options, should one lean used or new?"
+ },
+ "4192": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4193": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4194": {
+  "p": 0.4,
+  "duda": "Are decor and furniture items with generic titles from one-listing sellers usually used or new?"
+ },
+ "4195": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4196": {
+  "p": 0.5,
+  "duda": "When a title is generic with no brand, model or condition words, which way do these listings usually go?"
+ },
+ "4197": {
+  "p": 0.45,
+  "duda": "Are baby gear items (car seats, strollers, pumps, toys) with no condition words usually resold used or sold new?"
+ },
+ "4198": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4199": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4200": {
+  "p": 0.78,
+  "duda": ""
+ }
+}

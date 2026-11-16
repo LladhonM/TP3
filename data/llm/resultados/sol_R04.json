@@ -1,0 +1,402 @@
+{
+ "1801": {
+  "p": 0.4,
+  "duda": "Are older PC football games typically sold as newly produced copies or as secondhand original discs?"
+ },
+ "1802": {
+  "p": 0.3,
+  "duda": "Are precisely numbered replacement motors for RC vehicles generally new spares or parts removed from existing vehicles?"
+ },
+ "1803": {
+  "p": 0.62,
+  "duda": "Are mechanical scooter wheel counters generally vintage used accessories or unused replacement stock?"
+ },
+ "1804": {
+  "p": 0.47,
+  "duda": "Does 'manchado batik' in clothing titles normally describe an intentional fabric pattern rather than damage?"
+ },
+ "1805": {
+  "p": 0.6,
+  "duda": "Do kitchen cabinet offers describing several modules usually represent removed fitted kitchens or newly manufactured sets?"
+ },
+ "1806": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new leather bags from personal resale when no model or condition is given?"
+ },
+ "1807": {
+  "p": 0.55,
+  "duda": "Does 'oportunidad' in appliance listings reliably indicate personal resale when no condition is stated?"
+ },
+ "1808": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1809": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1810": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes new generic clothing from used clothing when only material and size are provided?"
+ },
+ "1811": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "1812": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1813": {
+  "p": 0.45,
+  "duda": "How should general nonfiction books be classified when no edition or physical condition is supplied?"
+ },
+ "1814": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1815": {
+  "p": 0.6,
+  "duda": "Should collected atlas installments be treated as study material or as general nonfiction?"
+ },
+ "1816": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1817": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1818": {
+  "p": 0.45,
+  "duda": "What wording distinguishes newly made wooden toys from used toys when condition is unstated?"
+ },
+ "1819": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes newly made melamine furniture from existing household furniture?"
+ },
+ "1820": {
+  "p": 0.47,
+  "duda": "Does listing several international shoe size equivalents help distinguish retail footwear from personal resale?"
+ },
+ "1821": {
+  "p": 0.45,
+  "duda": "Are artist monographs without edition or condition details meaningfully different from other general nonfiction books?"
+ },
+ "1822": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes new generic clothing from used clothing when only color and cut are provided?"
+ },
+ "1823": {
+  "p": 0.4,
+  "duda": "Are simple iron steps commonly offered as newly fabricated products when no condition is stated?"
+ },
+ "1824": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1825": {
+  "p": 0.4,
+  "duda": "How much confidence should an unsealed 'new' claim add for a book with no edition or shop warranty?"
+ },
+ "1826": {
+  "p": 0.4,
+  "duda": "How much confidence should an unsupported 'new' claim add for clothing without tags or packaging information?"
+ },
+ "1827": {
+  "p": 0.62,
+  "duda": "Are older Hong Kong editions of Bandai collectible figures commonly unused old stock or previously owned collectibles?"
+ },
+ "1828": {
+  "p": 0.47,
+  "duda": "What wording distinguishes retail shoulder bags from personal resale when no model or condition is given?"
+ },
+ "1829": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "1830": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1831": {
+  "p": 0.5,
+  "duda": "Does a DVD warranty promising good condition and no defects indicate used media or ordinary retail quality assurance?"
+ },
+ "1832": {
+  "p": 0.37,
+  "duda": "Are branded PC peripheral kits generally new retail bundles when their contents and condition are unspecified?"
+ },
+ "1833": {
+  "p": 0.65,
+  "duda": "Does an unspecified 'disco' by an older recording artist usually mean secondhand vinyl or a new reissue?"
+ },
+ "1834": {
+  "p": 0.13,
+  "duda": ""
+ },
+ "1835": {
+  "p": 0.6,
+  "duda": "Are military grenade pouches and fragmentation helmets usually used surplus or newly made tactical equipment?"
+ },
+ "1836": {
+  "p": 0.5,
+  "duda": "Does 'mayolicas' without further detail usually describe new tiles or salvaged decorative ceramics?"
+ },
+ "1837": {
+  "p": 0.65,
+  "duda": "When does an older named smartphone model become more likely personal resale than remaining new stock?"
+ },
+ "1838": {
+  "p": 0.47,
+  "duda": "Does promotional wording such as 'super oferta' distinguish new sports clothing from used clothing?"
+ },
+ "1839": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes imported branded jackets sold new from personal resale without condition details?"
+ },
+ "1840": {
+  "p": 0.6,
+  "duda": "How should antique stationery be classified when it may be unused old stock rather than previously used?"
+ },
+ "1841": {
+  "p": 0.4,
+  "duda": "Are hand-engraved silver traditional accessories usually newly crafted goods or secondhand pieces?"
+ },
+ "1842": {
+  "p": 0.45,
+  "duda": "How should literary books be classified when no edition or physical condition is supplied?"
+ },
+ "1843": {
+  "p": 0.45,
+  "duda": "How should history books be classified when no edition or physical condition is supplied?"
+ },
+ "1844": {
+  "p": 0.55,
+  "duda": "Are high-current industrial circuit breakers without brand or condition details generally new stock or recovered equipment?"
+ },
+ "1845": {
+  "p": 0.62,
+  "duda": "Do mixed bundles of sports documentary DVDs usually represent previously owned magazine collections?"
+ },
+ "1846": {
+  "p": 0.45,
+  "duda": "How should literary books be classified when no edition or physical condition is supplied?"
+ },
+ "1847": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1848": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1849": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes newly made tables from household resale when only the shape is specified?"
+ },
+ "1850": {
+  "p": 0.45,
+  "duda": "How should novels be classified when no edition or physical condition is supplied?"
+ },
+ "1851": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1852": {
+  "p": 0.72,
+  "duda": "Does 'read carefully' on a low-priced appliance usually flag defects or merely purchase terms?"
+ },
+ "1853": {
+  "p": 0.42,
+  "duda": "Are decorative wood-and-resin boxes with dried flowers usually newly made crafts or secondhand ornaments?"
+ },
+ "1854": {
+  "p": 0.55,
+  "duda": "How should older console game compilations be classified without sealing or condition information?"
+ },
+ "1855": {
+  "p": 0.75,
+  "duda": "Are antique cinema posters typically previously displayed originals, unused original stock, or modern reproductions?"
+ },
+ "1856": {
+  "p": 0.07,
+  "duda": ""
+ },
+ "1857": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1858": {
+  "p": 0.65,
+  "duda": "How should antique toiletries be classified when it is unclear whether the contents are unopened or only the bottle is being sold?"
+ },
+ "1859": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1860": {
+  "p": 0.45,
+  "duda": "How should literary books be classified when no edition or physical condition is supplied?"
+ },
+ "1861": {
+  "p": 0.45,
+  "duda": "How should biographical books be classified when no edition or physical condition is supplied?"
+ },
+ "1862": {
+  "p": 0.55,
+  "duda": "Does including a carrying bag with an acoustic guitar meaningfully distinguish personal resale from a new retail bundle?"
+ },
+ "1863": {
+  "p": 0.43,
+  "duda": "Does offering fire detectors with optional bases indicate new installation stock or recovered equipment?"
+ },
+ "1864": {
+  "p": 0.73,
+  "duda": ""
+ },
+ "1865": {
+  "p": 0.4,
+  "duda": "Are model-specific carbon-fiber motorcycle protectors commonly newly manufactured accessories or removed used parts?"
+ },
+ "1866": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes new baby shoes from used baby shoes when only brand and size are provided?"
+ },
+ "1867": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "1868": {
+  "p": 0.75,
+  "duda": "How is new versus used defined for rental properties when construction age and previous occupancy are unspecified?"
+ },
+ "1869": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "1870": {
+  "p": 0.47,
+  "duda": "Are exterior trim pieces for older car models generally new reproductions or salvaged original parts?"
+ },
+ "1871": {
+  "p": 0.62,
+  "duda": "Do bundles of children's clothing from different brands generally indicate personal resale?"
+ },
+ "1872": {
+  "p": 0.52,
+  "duda": "How can older science-fiction paperbacks be distinguished from new reprints when the edition is unspecified?"
+ },
+ "1873": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1874": {
+  "p": 0.5,
+  "duda": "How should commercially released CDs be classified without sealing or physical condition information?"
+ },
+ "1875": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1876": {
+  "p": 0.65,
+  "duda": "Does 'without flaws' in an apparel warranty indicate resale condition or standard quality assurance?"
+ },
+ "1877": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new electronic character toys from used toys when no condition is stated?"
+ },
+ "1878": {
+  "p": 0.4,
+  "duda": "Does 'new book' in the warranty field carry more condition information than the same unsupported claim in the title?"
+ },
+ "1879": {
+  "p": 0.4,
+  "duda": "Are reusable filters for commercial coffee machines generally sold as new replacement components or used equipment?"
+ },
+ "1880": {
+  "p": 0.47,
+  "duda": "How should vague accessory titles be interpreted when the stated category does not identify what the product covers?"
+ },
+ "1881": {
+  "p": 0.55,
+  "duda": "Does 'vintage' in handbag titles usually indicate actual age and prior ownership or merely a design style?"
+ },
+ "1882": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1883": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes new branded leggings from used clothing without condition details?"
+ },
+ "1884": {
+  "p": 0.65,
+  "duda": "Are authenticated exotic-leather designer bags commonly personal resale when packaging and condition are unstated?"
+ },
+ "1885": {
+  "p": 0.43,
+  "duda": "Does describing a wool coat by a designer-inspired style commonly indicate newly made clothing?"
+ },
+ "1886": {
+  "p": 0.4,
+  "duda": "How much confidence should an unsupported 'new product' claim in the warranty field add for kitchen tools?"
+ },
+ "1887": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1888": {
+  "p": 0.65,
+  "duda": "Are collectible foreign pressings of older CDs usually previously owned when no sealing information is provided?"
+ },
+ "1889": {
+  "p": 0.45,
+  "duda": "How should novels be classified when no edition or physical condition is supplied?"
+ },
+ "1890": {
+  "p": 0.42,
+  "duda": "Does detailed cut-and-pattern wording in an unbranded dress title distinguish new retail garments from personal resale?"
+ },
+ "1891": {
+  "p": 0.35,
+  "duda": "Do exact dimensions in PVC curtain listings usually describe newly manufactured products or existing fitted curtains?"
+ },
+ "1892": {
+  "p": 0.47,
+  "duda": "What textual evidence distinguishes newly made TV furniture from household resale when only its function is given?"
+ },
+ "1893": {
+  "p": 0.4,
+  "duda": "For legacy business telephone modules, does a full seller warranty distinguish new stock from refurbished parts?"
+ },
+ "1894": {
+  "p": 0.58,
+  "duda": "How can older religious fiction editions be distinguished from new reprints when only the author and title are given?"
+ },
+ "1895": {
+  "p": 0.47,
+  "duda": "How should several-year-old branded computer peripherals be classified without packaging or condition information?"
+ },
+ "1896": {
+  "p": 0.4,
+  "duda": "Does a manufacturer's overseas warranty distinguish new high-end fishing equipment bundles from personal resale?"
+ },
+ "1897": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1898": {
+  "p": 0.65,
+  "duda": "Are model-specific internal television ribbon cables generally salvaged from donor sets or sold as new replacement parts?"
+ },
+ "1899": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1900": {
+  "p": 0.45,
+  "duda": "How should general nonfiction books be classified when no edition or physical condition is supplied?"
+ }
+}

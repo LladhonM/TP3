@@ -1,0 +1,402 @@
+{
+ "3401": {
+  "p": 0.55,
+  "duda": "For branded clothing/shoes listed by one-off sellers at well below retail price with no condition words, is the low price a reliable sign of used?"
+ },
+ "3402": {
+  "p": 0.45,
+  "duda": "Are branded fashion watches (Armani Exchange, Guess, etc.) sold by one-off sellers near retail price usually new or used?"
+ },
+ "3403": {
+  "p": 0.5,
+  "duda": "Is gym/fitness equipment (benches, machines) sold by individuals with no condition words usually new or used?"
+ },
+ "3404": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "3405": {
+  "p": 0.62,
+  "duda": "Are vintage/discontinued toys and collectibles (80s-2000s brands like Jocsa, Hot Wheels first editions, Majorette) usually labeled used, even when still in blister?"
+ },
+ "3406": {
+  "p": 0.5,
+  "duda": "How do coin, banknote and stamp dealers label condition: is 'sin circular' / mint ('nueva goma') marked new, and circulated lots marked used?"
+ },
+ "3407": {
+  "p": 0.63,
+  "duda": "Are cheap single volumes of classic academic works (Freud, Nietzsche, literary criticism) mostly second-hand copies?"
+ },
+ "3408": {
+  "p": 0.42,
+  "duda": "Are vintage/discontinued toys and collectibles (80s-2000s brands like Jocsa, Hot Wheels first editions, Majorette) usually labeled used, even when still in blister?"
+ },
+ "3409": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3410": {
+  "p": 0.55,
+  "duda": "Do sellers with many book listings at low prices (used-book stores) mostly label their books used, regardless of genre?"
+ },
+ "3411": {
+  "p": 0.55,
+  "duda": "Are CDs/LPs of classic artists (Peter Gabriel, The Kinks) without format or condition words usually new imports or used copies?"
+ },
+ "3412": {
+  "p": 0.45,
+  "duda": "Are vintage/discontinued toys and collectibles (80s-2000s brands like Jocsa, Hot Wheels first editions, Majorette) usually labeled used, even when still in blister?"
+ },
+ "3413": {
+  "p": 0.62,
+  "duda": "For branded clothing/shoes listed by one-off sellers at well below retail price with no condition words, is the low price a reliable sign of used?"
+ },
+ "3414": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3415": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3416": {
+  "p": 0.55,
+  "duda": "Are hand tools and spare parts of older brands sold by one-off sellers with no condition words usually used?"
+ },
+ "3417": {
+  "p": 0.35,
+  "duda": "Is construction material sold by unit (iron profiles, angles) with several units sold usually new stock?"
+ },
+ "3418": {
+  "p": 0.35,
+  "duda": "Do 'Oferta!' style titles from one-off clothing sellers indicate new shop stock?"
+ },
+ "3419": {
+  "p": 0.5,
+  "duda": "When the title names only a generic part or object (valve, reel, unknown word) with no model or condition, should the default be the base rate?"
+ },
+ "3420": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3421": {
+  "p": 0.6,
+  "duda": "Do sellers with many book listings at low prices (used-book stores) mostly label their books used, regardless of genre?"
+ },
+ "3422": {
+  "p": 0.4,
+  "duda": "Are household 'lotes' (hangers, decor, blankets) from one-off sellers usually handmade new items or leftovers being resold used?"
+ },
+ "3423": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3424": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3425": {
+  "p": 0.65,
+  "duda": "Are cheap single volumes of classic academic works (Freud, Nietzsche, literary criticism) mostly second-hand copies?"
+ },
+ "3426": {
+  "p": 0.6,
+  "duda": "How do coin, banknote and stamp dealers label condition: is 'sin circular' / mint ('nueva goma') marked new, and circulated lots marked used?"
+ },
+ "3427": {
+  "p": 0.6,
+  "duda": "Do sellers with many book listings at low prices (used-book stores) mostly label their books used, regardless of genre?"
+ },
+ "3428": {
+  "p": 0.5,
+  "duda": "Are body/electrical parts for discontinued car models (Ford Sierra, Fiat Duna, Corsa) usually used parts from junkyards or new old stock?"
+ },
+ "3429": {
+  "p": 0.5,
+  "duda": "Is branded children's clothing ('original') from one-off sellers without condition words usually used?"
+ },
+ "3430": {
+  "p": 0.6,
+  "duda": "Are home heaters/fireplaces listed by individuals without photos or condition words usually used?"
+ },
+ "3431": {
+  "p": 0.4,
+  "duda": "Are household 'lotes' (hangers, decor, blankets) from one-off sellers usually handmade new items or leftovers being resold used?"
+ },
+ "3432": {
+  "p": 0.35,
+  "duda": "How are live animal and stud-service listings (puppies, breeding) labeled: new or used?"
+ },
+ "3433": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3434": {
+  "p": 0.55,
+  "duda": "Are handmade party decorations made of reused jars/cans labeled new or used?"
+ },
+ "3435": {
+  "p": 0.5,
+  "duda": "When the title names only a generic part or object (valve, reel, unknown word) with no model or condition, should the default be the base rate?"
+ },
+ "3436": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3437": {
+  "p": 0.38,
+  "duda": "When old media (cassettes, CDs, magazines from the 90s-2000s) are described as 'nuevo', are they usually labeled new (new old stock) or used?"
+ },
+ "3438": {
+  "p": 0.4,
+  "duda": "Is a novel priced near the full bookshop price by a mid-size seller a reliable sign of new?"
+ },
+ "3439": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3440": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3441": {
+  "p": 0.5,
+  "duda": "Are children's books from one-off sellers at low prices usually used?"
+ },
+ "3442": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3443": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3444": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3445": {
+  "p": 0.65,
+  "duda": "Do sellers with many book listings at low prices (used-book stores) mostly label their books used, regardless of genre?"
+ },
+ "3446": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3447": {
+  "p": 0.45,
+  "duda": "Are generic PC parts (power supplies) sold cheaply by one-off sellers usually new?"
+ },
+ "3448": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3449": {
+  "p": 0.5,
+  "duda": "Are antique or 'antiguo'-style furniture and sculptures labeled used, even when sold by a dealer?"
+ },
+ "3450": {
+  "p": 0.58,
+  "duda": "Does 'a estrenar' behave like 'sin uso' (lean used) or like 'nuevo' (lean new)?"
+ },
+ "3451": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3452": {
+  "p": 0.45,
+  "duda": "Are fashion accessories/jewelry with an unclear name from one-off sellers usually new?"
+ },
+ "3453": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3454": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3455": {
+  "p": 0.65,
+  "duda": "Are antique or 'antiguo'-style furniture and sculptures labeled used, even when sold by a dealer?"
+ },
+ "3456": {
+  "p": 0.4,
+  "duda": "Are very cheap brand-named phone chargers usually new generic stock or used originals?"
+ },
+ "3457": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3458": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3459": {
+  "p": 0.4,
+  "duda": "Are industrial machines (pasta laminators, bakery equipment) with a seller warranty of months usually new from the manufacturer or used?"
+ },
+ "3460": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3461": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3462": {
+  "p": 0.35,
+  "duda": "Are household 'lotes' (hangers, decor, blankets) from one-off sellers usually handmade new items or leftovers being resold used?"
+ },
+ "3463": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3464": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3465": {
+  "p": 0.4,
+  "duda": "How do coin, banknote and stamp dealers label condition: is 'sin circular' / mint ('nueva goma') marked new, and circulated lots marked used?"
+ },
+ "3466": {
+  "p": 0.6,
+  "duda": "Are mixed lots of shoes/clothing ('zapatos y sandalias', 'cuellos vintage') usually used?"
+ },
+ "3467": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3468": {
+  "p": 0.35,
+  "duda": "When old media (cassettes, CDs, magazines from the 90s-2000s) are described as 'nuevo', are they usually labeled new (new old stock) or used?"
+ },
+ "3469": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3470": {
+  "p": 0.45,
+  "duda": "Are computer replacement parts with an OEM part number (HP remote, netbook boards) and a short warranty usually new old stock or used pulls?"
+ },
+ "3471": {
+  "p": 0.5,
+  "duda": "Are CDs/LPs of classic artists (Peter Gabriel, The Kinks) without format or condition words usually new imports or used copies?"
+ },
+ "3472": {
+  "p": 0.5,
+  "duda": "Are Chinese-brand tablets listed by individuals with a city in the title usually used?"
+ },
+ "3473": {
+  "p": 0.5,
+  "duda": "Are high-end fishing reels (Abu Garcia Ambassadeur) sold by individuals usually used?"
+ },
+ "3474": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3475": {
+  "p": 0.35,
+  "duda": "Are fashion accessories/jewelry with an unclear name from one-off sellers usually new?"
+ },
+ "3476": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3477": {
+  "p": 0.5,
+  "duda": "How are real estate listings (land lots, houses) labeled in this dataset: new or used?"
+ },
+ "3478": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3479": {
+  "p": 0.6,
+  "duda": "Are computer replacement parts with an OEM part number (HP remote, netbook boards) and a short warranty usually new old stock or used pulls?"
+ },
+ "3480": {
+  "p": 0.5,
+  "duda": "Is women's clothing from sellers with ~10 listings and no condition words usually used (closet clearing) or new?"
+ },
+ "3481": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3482": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3483": {
+  "p": 0.5,
+  "duda": "Are mixed lots of shoes/clothing ('zapatos y sandalias', 'cuellos vintage') usually used?"
+ },
+ "3484": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3485": {
+  "p": 0.45,
+  "duda": "How do coin, banknote and stamp dealers label condition: is 'sin circular' / mint ('nueva goma') marked new, and circulated lots marked used?"
+ },
+ "3486": {
+  "p": 0.5,
+  "duda": "Are old magazines described as 'Nueva' in the warranty labeled new or used?"
+ },
+ "3487": {
+  "p": 0.4,
+  "duda": "Does 'a estrenar' behave like 'sin uso' (lean used) or like 'nuevo' (lean new)?"
+ },
+ "3488": {
+  "p": 0.35,
+  "duda": "Are body/electrical parts for discontinued car models (Ford Sierra, Fiat Duna, Corsa) usually used parts from junkyards or new old stock?"
+ },
+ "3489": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3490": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3491": {
+  "p": 0.4,
+  "duda": "How are live animal and stud-service listings (puppies, breeding) labeled: new or used?"
+ },
+ "3492": {
+  "p": 0.55,
+  "duda": "When the title names only a generic part or object (valve, reel, unknown word) with no model or condition, should the default be the base rate?"
+ },
+ "3493": {
+  "p": 0.65,
+  "duda": "Do sellers with many book listings at low prices (used-book stores) mostly label their books used, regardless of genre?"
+ },
+ "3494": {
+  "p": 0.6,
+  "duda": "Are body/electrical parts for discontinued car models (Ford Sierra, Fiat Duna, Corsa) usually used parts from junkyards or new old stock?"
+ },
+ "3495": {
+  "p": 0.62,
+  "duda": "Do sellers with many book listings at low prices (used-book stores) mostly label their books used, regardless of genre?"
+ },
+ "3496": {
+  "p": 0.55,
+  "duda": "Are vintage/discontinued toys and collectibles (80s-2000s brands like Jocsa, Hot Wheels first editions, Majorette) usually labeled used, even when still in blister?"
+ },
+ "3497": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3498": {
+  "p": 0.4,
+  "duda": "How do coin, banknote and stamp dealers label condition: is 'sin circular' / mint ('nueva goma') marked new, and circulated lots marked used?"
+ },
+ "3499": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3500": {
+  "p": 0.45,
+  "duda": "Are partwork/kiosk collection models (Altaya, Ixo, Salvat) resold online usually labeled new or used?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "1301": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1302": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "1303": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1304": {
+  "p": 0.55,
+  "duda": "How are formal dresses offered for both sale and rental ('venta y alquiler') typically classified?"
+ },
+ "1305": {
+  "p": 0.65,
+  "duda": "Are individual trading card singles (e.g. Magic: The Gathering cards or playsets) usually listed as used or new?"
+ },
+ "1306": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1307": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1308": {
+  "p": 0.6,
+  "duda": "In philately listings, are vintage postage stamps typically listed as used or new?"
+ },
+ "1309": {
+  "p": 0.78,
+  "duda": "Are antique or vintage furniture pieces that have been restored or reupholstered ('tapizado nuevo', 'a nuevo') typically listed as used or new?"
+ },
+ "1310": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1311": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1312": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1313": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1314": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1315": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1316": {
+  "p": 0.62,
+  "duda": "In philately listings, are vintage postage stamps typically listed as used or new?"
+ },
+ "1317": {
+  "p": 0.5,
+  "duda": "Are individual luxury makeup items sold by small sellers at below-retail prices typically listed as used or new?"
+ },
+ "1318": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "1319": {
+  "p": 0.55,
+  "duda": "When specialized sports footwear lists a single exact size in multiple scales (EU/AR/cm) without condition words, does it lean used or new?"
+ },
+ "1320": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1321": {
+  "p": 0.65,
+  "duda": "Are clothing items described as personally bought abroad ('comprado en USA') with no condition mentioned usually listed as used or new?"
+ },
+ "1322": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1323": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1324": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1325": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "1326": {
+  "p": 0.45,
+  "duda": "In numismatics, are vintage banknotes described as 'Sin Circular' (uncirculated) typically listed as new or used?"
+ },
+ "1327": {
+  "p": 0.58,
+  "duda": "In philately listings, are vintage postage stamps typically listed as used or new?"
+ },
+ "1328": {
+  "p": 0.55,
+  "duda": "Do clothing listings starting with subjective hype words like 'Espectacular!!' or 'Divina!' and claiming 'Orig.' lean used or new?"
+ },
+ "1329": {
+  "p": 0.5,
+  "duda": "How are listings with only a short title and a 3-digit number (issue or catalog code) and multiple stock units typically classified?"
+ },
+ "1330": {
+  "p": 0.55,
+  "duda": "Are comic books and kiosk graphic novel editions from the 2000s sold by multi-listing book sellers typically listed as used or new?"
+ },
+ "1331": {
+  "p": 0.58,
+  "duda": "When an individual lists an odd assortment of specific sizes/colors of workwear (e.g. '2 pantalones T54, 1 pantalon T56'), are they usually listed as used or new?"
+ },
+ "1332": {
+  "p": 0.48,
+  "duda": "Are high-end imported kitchen appliances listed with a descriptive model title and no condition words typically new or used?"
+ },
+ "1333": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1334": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1335": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "1336": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1337": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1338": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1339": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1340": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1341": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1342": {
+  "p": 0.48,
+  "duda": "Are recent brand-name toys (e.g. Nerf blasters) listed with only the model name and no box or condition details more often new or used?"
+ },
+ "1343": {
+  "p": 0.4,
+  "duda": "For branded women's clothing with 'Nueva!' in the title and no warranty or tag mention, does it follow the general ~40% used rate for 'nuevo/nueva'?"
+ },
+ "1344": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1345": {
+  "p": 0.6,
+  "duda": "Do book listings with parenthetical date/shelf codes in the title (e.g. '(set15)') and no photos come primarily from used bookstores?"
+ },
+ "1346": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1347": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1348": {
+  "p": 0.45,
+  "duda": "For music CDs with a store-wide guarantee ('todos nuestros productos están totalmente garantizados') and no mention of 'cerrado/sellado', are they mostly new or used?"
+ },
+ "1349": {
+  "p": 0.45,
+  "duda": "Are framed art reproduction prints (e.g. 'Cuadro Monet') with no dimensions or material specs typically new decor or used household items?"
+ },
+ "1350": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "1351": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1352": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1353": {
+  "p": 0.62,
+  "duda": "Are mechanical transmission or engine parts for classic cars like the Fiat 600 with no condition specified mostly used parts or new old stock?"
+ },
+ "1354": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1355": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1356": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1357": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1358": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1359": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1360": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1361": {
+  "p": 0.5,
+  "duda": "Are very short generic costume jewelry listings (e.g. 'Collar Multicolor') with no brand or material details more often new handmade items or used personal items?"
+ },
+ "1362": {
+  "p": 0.45,
+  "duda": "Are named artisan indigenous textiles (e.g. 'Matra Mapuche') typically listed as new handcrafts or used/vintage collectibles?"
+ },
+ "1363": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1364": {
+  "p": 0.62,
+  "duda": "For music albums where the seller cites personal reputation ('100% calificaciones positivas') instead of commercial warranty and does not mention 'cerrado', do they lean used?"
+ },
+ "1365": {
+  "p": 0.4,
+  "duda": "For business laptops (e.g. ThinkPad L-series) with 'Nueva!!' in the title but no warranty or sealed-box mention, how often are they listed as used vs. new?"
+ },
+ "1366": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1367": {
+  "p": 0.5,
+  "duda": "When a school textbook has 'Nuevo' in the title and .99 pricing (Rule 1 vs. Rule 5), is it typically listed as new old stock or used?"
+ },
+ "1368": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1369": {
+  "p": 0.45,
+  "duda": "Are imported Spanish literary/academic books (e.g. Editorial Renacimiento) listed as 'Author-Title-Publisher' by medium-sized sellers mostly new or used?"
+ },
+ "1370": {
+  "p": 0.5,
+  "duda": "Do seasonal outerwear listings with generic retail-like phrases ('Temporada Invierno') but no brand or condition words lean new or used?"
+ },
+ "1371": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1372": {
+  "p": 0.55,
+  "duda": "Are single costume jewelry rings described by appearance (e.g. 'Anillo Dorado De Strass Con Piedra Roja') with no size variants mostly used personal jewelry or new bijouterie?"
+ },
+ "1373": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1374": {
+  "p": 0.48,
+  "duda": "Are domestic gas grills ('parrilla balconera a gas') with no brand or condition words more often new fabricated items or used household items?"
+ },
+ "1375": {
+  "p": 0.45,
+  "duda": "In numismatics, are vintage banknotes described as 'Sin Circular' (uncirculated) typically listed as new or used?"
+ },
+ "1376": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "1377": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1378": {
+  "p": 0.48,
+  "duda": "When a title combines personal resale phrasing ('Vendo estos...') with the word 'Nuevo' for a single-size garment/shoe, does it lean new or used?"
+ },
+ "1379": {
+  "p": 0.62,
+  "duda": "Do replacement auto parts with spelling errors in the part name (e.g. 'Bomba De Embrage') and no brand specified lean used?"
+ },
+ "1380": {
+  "p": 0.35,
+  "duda": "Are garden/decor items explicitly described as 'Replica Decorativa' usually listed as new or used?"
+ },
+ "1381": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1382": {
+  "p": 0.45,
+  "duda": "For literary/essay books from the late 1990s or 2000s with 'Si' warranty and no condition words, do they follow the ~45% used rate?"
+ },
+ "1383": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1384": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1385": {
+  "p": 0.5,
+  "duda": "Are high-price commercial machinery packages ('Lavadero De Ropa Completo') with multiple past sales usually new dealer packages or used business liquidations?"
+ },
+ "1386": {
+  "p": 0.5,
+  "duda": "Are vehicle repair kits explicitly missing a component (e.g. 'Kit Carburacion ... Sin Punzuard') typically listed as new or used?"
+ },
+ "1387": {
+  "p": 0.48,
+  "duda": "Are OEM-branded bicycle components like saddles ('Asiento Bicicleta Cannondale Mtb') with no model code or condition words mostly used take-offs or new retail parts?"
+ },
+ "1388": {
+  "p": 0.58,
+  "duda": "Are multi-item phone case bundles for an older phone model (e.g. 'Fundas Galaxy S3 (flip Cover+funda Tpu+antideslizante)') usually used personal bundles or new promo combos?"
+ },
+ "1389": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1390": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1391": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1392": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "1393": {
+  "p": 0.48,
+  "duda": "Are generic outdoor structures like 'Gazebo Para Exterior Tipo Pergola' with no brand, dimensions, or condition words more often new or used?"
+ },
+ "1394": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1395": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1396": {
+  "p": 0.65,
+  "duda": "Are personal medical/maternity support garments (e.g. 'Faja Post Parto') with personal-reputation warranty ('su garantía es mi reputación') typically listed as used or new?"
+ },
+ "1397": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1398": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "1399": {
+  "p": 0.5,
+  "duda": "Are criollo knife blades listed simply as 'Hoja Argentina [length] Cm' with no brand or condition words mostly new artisanal blades or vintage used blades?"
+ },
+ "1400": {
+  "p": 0.4,
+  "duda": "Do imported electronics like Baofeng radios with 'Nuevo' in the title on a single-listing account follow the ~40% used rate for 'nuevo'?"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "16901": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "16902": {
+  "p": 0.6,
+  "duda": "Are newspaper-issued music CDs usually resold copies or unsold original stock when condition is omitted?"
+ },
+ "16903": {
+  "p": 0.5,
+  "duda": "For replacement parts for classic cars, what wording distinguishes newly manufactured reproductions from recovered original parts?"
+ },
+ "16904": {
+  "p": 0.38,
+  "duda": "Does hand-painted wording on decorative figures usually describe new artisan production or previously owned pieces?"
+ },
+ "16905": {
+  "p": 0.36,
+  "duda": "What additional evidence distinguishes genuinely new books from resale copies described simply as new?"
+ },
+ "16906": {
+  "p": 0.54,
+  "duda": "Are bundles of separate albums by one artist usually secondhand collections or new retail bundles?"
+ },
+ "16907": {
+  "p": 0.5,
+  "duda": "For collectible action figures, which wording distinguishes unopened retail stock from previously displayed figures?"
+ },
+ "16908": {
+  "p": 0.72,
+  "duda": "Are older promotional music singles usually previously handled copies or unused promotional stock?"
+ },
+ "16909": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16910": {
+  "p": 0.46,
+  "duda": "Does a generic warranty mentioning sealed items provide evidence that the particular music listing is sealed?"
+ },
+ "16911": {
+  "p": 0.55,
+  "duda": "What model or price clues distinguish new circulation pumps from previously installed pumps when condition is omitted?"
+ },
+ "16912": {
+  "p": 0.45,
+  "duda": "What product wording distinguishes new slippers from previously owned pairs when condition is omitted?"
+ },
+ "16913": {
+  "p": 0.6,
+  "duda": "For console games released several years earlier, what distinguishes unsold new copies from secondhand copies without packaging details?"
+ },
+ "16914": {
+  "p": 0.48,
+  "duda": "What wording distinguishes retail footwear from personal resale when only the style and size are given?"
+ },
+ "16915": {
+  "p": 0.47,
+  "duda": "For collectible diecast models, what distinguishes new shop stock from previously displayed collections without packaging details?"
+ },
+ "16916": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "16917": {
+  "p": 0.47,
+  "duda": "What wording distinguishes retail footwear from personal resale when only the style and material are given?"
+ },
+ "16918": {
+  "p": 0.52,
+  "duda": "How should new-in-box wording without an explicit seal be weighed against the private-seller prior for professional audio gear?"
+ },
+ "16919": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16920": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16921": {
+  "p": 0.45,
+  "duda": "What wording distinguishes unused electrical installation boxes from recovered installed units?"
+ },
+ "16922": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16923": {
+  "p": 0.14,
+  "duda": ""
+ },
+ "16924": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16925": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16926": {
+  "p": 0.52,
+  "duda": "What wording distinguishes new phone cases from personal resale when condition is omitted?"
+ },
+ "16927": {
+  "p": 0.65,
+  "duda": "How consistently are personally resold items described as unused labeled used rather than new?"
+ },
+ "16928": {
+  "p": 0.42,
+  "duda": "Does a book inspection warranty alter the interpretation of a title describing the book as new?"
+ },
+ "16929": {
+  "p": 0.3,
+  "duda": "Are inexpensive branded guitar picks generally new accessories when no packaging or condition is specified?"
+ },
+ "16930": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16931": {
+  "p": 0.62,
+  "duda": "Does a keyboard instrument described only by its country of origin usually indicate a vintage resale instrument?"
+ },
+ "16932": {
+  "p": 0.58,
+  "duda": "Does imported-origin and quality wording on clothing distinguish personal resale from retail stock?"
+ },
+ "16933": {
+  "p": 0.47,
+  "duda": "What wording distinguishes newly made upholstered chairs from previously owned chairs when condition is omitted?"
+ },
+ "16934": {
+  "p": 0.4,
+  "duda": "For imported cosmetic palettes, what distinguishes new retail products from opened personal resale without seal information?"
+ },
+ "16935": {
+  "p": 0.4,
+  "duda": "Does mint grading on vintage stamps imply a new-condition listing, or can unused collectible resale still be labeled used?"
+ },
+ "16936": {
+  "p": 0.45,
+  "duda": "What wording distinguishes new branded backpacks from previously owned ones when only the model and capacity are given?"
+ },
+ "16937": {
+  "p": 0.62,
+  "duda": "Does a short shop warranty on an older console game usually indicate secondhand stock or also cover new copies?"
+ },
+ "16938": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new clothing from personal resale when only the garment type and fabric are given?"
+ },
+ "16939": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new rugs from previously owned rugs when only the color and pattern are given?"
+ },
+ "16940": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16941": {
+  "p": 0.58,
+  "duda": "Are obsolete data cartridges without packaging information usually previously recorded tapes or unused old stock?"
+ },
+ "16942": {
+  "p": 0.55,
+  "duda": "What wording distinguishes new toy playsets from previously played-with sets when packaging and completeness are omitted?"
+ },
+ "16943": {
+  "p": 0.48,
+  "duda": "What wording distinguishes new designer clothing from personal resale when only the brand and garment type are given?"
+ },
+ "16944": {
+  "p": 0.48,
+  "duda": "What wording distinguishes new carved wooden decorations from previously owned pieces?"
+ },
+ "16945": {
+  "p": 0.42,
+  "duda": "Does design-focused wording on upholstered accent chairs usually indicate new artisan production or personal resale?"
+ },
+ "16946": {
+  "p": 0.48,
+  "duda": "For collectible model cars, what distinguishes new shop stock from previously used or displayed models without packaging details?"
+ },
+ "16947": {
+  "p": 0.65,
+  "duda": "Are bundles of older original phone headsets usually recovered accessories or unused old stock?"
+ },
+ "16948": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16949": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16950": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16951": {
+  "p": 0.63,
+  "duda": "Does a clothing warranty referring to its condition and authenticity usually indicate personal resale?"
+ },
+ "16952": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "16953": {
+  "p": 0.57,
+  "duda": "What wording distinguishes newly manufactured phone replacement components from parts recovered from another phone?"
+ },
+ "16954": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "16955": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16956": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16957": {
+  "p": 0.62,
+  "duda": "What wording distinguishes new replacement vehicle body panels from salvaged original panels?"
+ },
+ "16958": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new branded clothing from personal resale when condition is omitted?"
+ },
+ "16959": {
+  "p": 0.5,
+  "duda": "What wording distinguishes new engine cylinder heads from used or reconditioned heads?"
+ },
+ "16960": {
+  "p": 0.6,
+  "duda": "Does rarity-focused wording on religious jewelry usually indicate older resale pieces or newly made designs?"
+ },
+ "16961": {
+  "p": 0.5,
+  "duda": "What wording distinguishes newly made model railway replacement parts from recovered vintage components?"
+ },
+ "16962": {
+  "p": 0.65,
+  "duda": "Should immaculate condition wording on camera accessories be treated as evidence of personal resale?"
+ },
+ "16963": {
+  "p": 0.5,
+  "duda": "Do weight-based descriptions of gold jewelry distinguish new retail pieces from estate jewelry?"
+ },
+ "16964": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16965": {
+  "p": 0.45,
+  "duda": "Are newspaper-issued literary books without condition wording usually unsold new stock or secondhand copies?"
+ },
+ "16966": {
+  "p": 0.45,
+  "duda": "Does carved-wood wording on decorative clocks indicate new artisan production or previously owned pieces?"
+ },
+ "16967": {
+  "p": 0.5,
+  "duda": "What wording distinguishes newly produced heraldic decorations from older collectible emblems?"
+ },
+ "16968": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new branded clothing from personal resale when condition is omitted?"
+ },
+ "16969": {
+  "p": 0.7,
+  "duda": "Should legal treatises and professional reference books be treated as study material or general nonfiction?"
+ },
+ "16970": {
+  "p": 0.6,
+  "duda": "What wording distinguishes new automotive starter motors from used or reconditioned units?"
+ },
+ "16971": {
+  "p": 0.5,
+  "duda": "How should scenic postcards be classified when neither their age nor postal use is specified?"
+ },
+ "16972": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16973": {
+  "p": 0.5,
+  "duda": "What model or price clues distinguish new water pumps from previously installed pumps when condition is omitted?"
+ },
+ "16974": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "16975": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16976": {
+  "p": 0.45,
+  "duda": "What wording distinguishes newly manufactured melamine furniture from previously owned pieces?"
+ },
+ "16977": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "16978": {
+  "p": 0.53,
+  "duda": "What model or price clues distinguish new spin dryers from previously owned units when condition is omitted?"
+ },
+ "16979": {
+  "p": 0.45,
+  "duda": "What wording distinguishes new crystal pendant lamps from previously installed fixtures?"
+ },
+ "16980": {
+  "p": 0.65,
+  "duda": "Should like-new condition wording in a book warranty be treated as evidence of resale?"
+ },
+ "16981": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish new retail books from secondhand copies when condition is omitted?"
+ },
+ "16982": {
+  "p": 0.55,
+  "duda": "How should newly assembled clocks made from original vintage vehicle parts be classified?"
+ },
+ "16983": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16984": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16985": {
+  "p": 0.5,
+  "duda": "What wording distinguishes new leather clothing from personal resale when condition is omitted?"
+ },
+ "16986": {
+  "p": 0.62,
+  "duda": "Should short scientific geography monographs be treated as study material or general nonfiction?"
+ },
+ "16987": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16988": {
+  "p": 0.43,
+  "duda": "Are very old craft supplies generally unused old stock, and how is that distinguished from previously used material?"
+ },
+ "16989": {
+  "p": 0.38,
+  "duda": "What additional evidence distinguishes genuinely new books from resale copies described simply as new?"
+ },
+ "16990": {
+  "p": 0.64,
+  "duda": "Are replacement boards for discontinued televisions with short warranties usually recovered parts or new service stock?"
+ },
+ "16991": {
+  "p": 0.45,
+  "duda": "What wording distinguishes new industrial drill bits from previously used tools when only technical specifications are given?"
+ },
+ "16992": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new cameo jewelry from previously owned pieces when age and condition are omitted?"
+ },
+ "16993": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "16994": {
+  "p": 0.45,
+  "duda": "What wording distinguishes new collectible tobacco pipes from previously smoked estate pipes without explicit condition details?"
+ },
+ "16995": {
+  "p": 0.42,
+  "duda": "Do recent publication dates and retail-like prices provide reliable evidence of new condition for literary books?"
+ },
+ "16996": {
+  "p": 0.4,
+  "duda": "Does repeat-customer promotional wording on inexpensive jewelry reliably indicate new retail merchandise?"
+ },
+ "16997": {
+  "p": 0.53,
+  "duda": "For movie-adaptation comics, what distinguishes unsold new copies from secondhand copies without edition or condition details?"
+ },
+ "16998": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16999": {
+  "p": 0.5,
+  "duda": "What wording distinguishes new game controllers from personal resale when neither model nor condition is specified?"
+ },
+ "17000": {
+  "p": 0.18,
+  "duda": ""
+ }
+}

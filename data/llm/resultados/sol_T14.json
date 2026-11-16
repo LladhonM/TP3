@@ -1,0 +1,402 @@
+{
+ "11301": {
+  "p": 0.39,
+  "duda": "Should entry-level phone models released two years earlier still receive the recent-phone lean?"
+ },
+ "11302": {
+  "p": 0.25,
+  "duda": "Does mint condition in stamp listings usually correspond to new condition, even for previously owned collections?"
+ },
+ "11303": {
+  "p": 0.45,
+  "duda": "How should literary books with no condition or edition-age information be distinguished from secondhand copies?"
+ },
+ "11304": {
+  "p": 0.49,
+  "duda": "Are specialized track spikes commonly sold as unused retail stock or as previously worn athletic footwear?"
+ },
+ "11305": {
+  "p": 0.38,
+  "duda": "Are large imported Craftsman tool sets commonly offered as new retail kits or as previously owned sets?"
+ },
+ "11306": {
+  "p": 0.45,
+  "duda": "How should history books with no condition or edition-age information be distinguished from secondhand copies?"
+ },
+ "11307": {
+  "p": 0.52,
+  "duda": "Are replacement grilles for older mass-market cars usually newly manufactured parts or salvaged originals?"
+ },
+ "11308": {
+  "p": 0.55,
+  "duda": "When a music listing says only disco, how can one distinguish new releases from secondhand records or CDs?"
+ },
+ "11309": {
+  "p": 0.57,
+  "duda": "Do multi-column chests with a central mirror usually represent older furniture or newly made traditional designs?"
+ },
+ "11310": {
+  "p": 0.4,
+  "duda": "For diving equipment, does nuevo alone usually indicate retail stock or an owner's unused equipment?"
+ },
+ "11311": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "11312": {
+  "p": 0.37,
+  "duda": "Are retro-design bicycle saddles usually newly manufactured accessories or restored older saddles?"
+ },
+ "11313": {
+  "p": 0.47,
+  "duda": "How can work overalls without condition details be distinguished between retail workwear and previously worn garments?"
+ },
+ "11314": {
+  "p": 0.62,
+  "duda": "Do listings of sought-after historical poster prints usually refer to period originals or modern reproductions?"
+ },
+ "11315": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "11316": {
+  "p": 0.43,
+  "duda": "Are football-club skinny training trousers commonly new merchandise or secondhand sportswear when condition is unstated?"
+ },
+ "11317": {
+  "p": 0.5,
+  "duda": "Can a complete stamp series identified only by its catalogue number be assumed unused, or is cancellation information essential?"
+ },
+ "11318": {
+  "p": 0.44,
+  "duda": "Do drinking-glass listings identified by dimensions and an offer usually represent new tableware or secondhand pieces?"
+ },
+ "11319": {
+  "p": 0.47,
+  "duda": "How can generic fashion trousers without condition details be distinguished between retail stock and secondhand clothing?"
+ },
+ "11320": {
+  "p": 0.65,
+  "duda": "Does the professional-audio resale lean also apply to older consumer microphones?"
+ },
+ "11321": {
+  "p": 0.62,
+  "duda": "Are individual original-equipment car wheels usually removed used parts or unused replacement stock?"
+ },
+ "11322": {
+  "p": 0.65,
+  "duda": "Are branded directional video microphones without condition details usually resold equipment or unused accessories?"
+ },
+ "11323": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "11324": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "11325": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "11326": {
+  "p": 0.52,
+  "duda": "Are branded leather boots specified by a single size commonly secondhand pairs or remaining new retail stock?"
+ },
+ "11327": {
+  "p": 0.6,
+  "duda": "Are model-specific printer pickup rollers usually salvaged components or newly supplied replacement parts?"
+ },
+ "11328": {
+  "p": 0.66,
+  "duda": "Are model-specific television main boards usually removed from donor televisions or supplied as new service parts?"
+ },
+ "11329": {
+  "p": 0.44,
+  "duda": "Does a bookseller's return guarantee for missing pages distinguish new books from secondhand inventory?"
+ },
+ "11330": {
+  "p": 0.65,
+  "duda": "For engine parts, does impecable usually describe a used component rather than new stock?"
+ },
+ "11331": {
+  "p": 0.4,
+  "duda": "When a novel is described only as nuevo, how often is it unused resale rather than new retail stock?"
+ },
+ "11332": {
+  "p": 0.4,
+  "duda": "Does primera edicion nuevo usually indicate new bookstore stock or a previously owned collectible book?"
+ },
+ "11333": {
+  "p": 0.78,
+  "duda": "Are empty boxes for discontinued phones generally previously owned packaging or unused replacement packaging?"
+ },
+ "11334": {
+  "p": 0.42,
+  "duda": "Does imported US fashion footwear without condition details usually represent retail imports or secondhand personal purchases?"
+ },
+ "11335": {
+  "p": 0.76,
+  "duda": "For obsolete vehicle engines, are original replacement cylinder heads usually salvaged parts or unused old stock?"
+ },
+ "11336": {
+  "p": 0.36,
+  "duda": "Does a generic affirmative warranty materially strengthen nuevo in DVD listings?"
+ },
+ "11337": {
+  "p": 0.61,
+  "duda": "Are older Salvat biography editions generally secondhand books or unsold publisher stock?"
+ },
+ "11338": {
+  "p": 0.52,
+  "duda": "Are imported Glenat graphic novels commonly offered as new bookstore stock or previously owned collectible editions?"
+ },
+ "11339": {
+  "p": 0.46,
+  "duda": "Do simple melamine bookcases described by dimensions usually represent new manufactured furniture or household resale?"
+ },
+ "11340": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "11341": {
+  "p": 0.45,
+  "duda": "How should general nonfiction books with no edition or condition information be distinguished from secondhand copies?"
+ },
+ "11342": {
+  "p": 0.38,
+  "duda": "Are simple Tower of Hanoi puzzles usually newly made products or previously owned games?"
+ },
+ "11343": {
+  "p": 0.47,
+  "duda": "Are branded tennis skirts without condition details commonly new sportswear or previously worn garments?"
+ },
+ "11344": {
+  "p": 0.65,
+  "duda": "Should sin uso in clothing consistently be treated as an owner's resale even when the item is described as designer fashion?"
+ },
+ "11345": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "11346": {
+  "p": 0.25,
+  "duda": "Do kilogram-sized shine and protection treatments usually represent new packaged products or opened leftovers?"
+ },
+ "11347": {
+  "p": 0.6,
+  "duda": "Are traditional branded hats using numeric hat sizes usually vintage resale or current retail stock?"
+ },
+ "11348": {
+  "p": 0.47,
+  "duda": "How can branded bags with no model or condition details be distinguished between new and secondhand stock?"
+ },
+ "11349": {
+  "p": 0.62,
+  "duda": "Are locally branded hydraulic metal saws commonly sold as older used machinery or newly manufactured equipment?"
+ },
+ "11350": {
+  "p": 0.58,
+  "duda": "Do Matchbox vehicles described in HO scale usually indicate older collectible toys or current boxed models?"
+ },
+ "11351": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "11352": {
+  "p": 0.4,
+  "duda": "Does an exact manufacturer cabinet code usually indicate new networking-rack stock or resold installed equipment?"
+ },
+ "11353": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "11354": {
+  "p": 0.5,
+  "duda": "How can classic-film listings without a format or condition statement be distinguished between new and secondhand editions?"
+ },
+ "11355": {
+  "p": 0.38,
+  "duda": "Do generic adjustable roller skates advertised with bearing and wheel specifications usually represent new retail products?"
+ },
+ "11356": {
+  "p": 0.47,
+  "duda": "How can generic sandal listings without brand, size or condition details be distinguished between new and used pairs?"
+ },
+ "11357": {
+  "p": 0.46,
+  "duda": "Are rubber floor mats for discontinued cars usually newly made replacements or original used accessories?"
+ },
+ "11358": {
+  "p": 0.72,
+  "duda": "Are older confectionery promotional figures offered without packaging generally classified as used collectibles?"
+ },
+ "11359": {
+  "p": 0.55,
+  "duda": "Are anniversary SACD editions commonly available as sealed old stock or mostly resold by collectors?"
+ },
+ "11360": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "11361": {
+  "p": 0.47,
+  "duda": "Are branded stovetop coffee makers described only by capacity and finish commonly new retail items or household resale?"
+ },
+ "11362": {
+  "p": 0.6,
+  "duda": "Does an M vinyl grade usually mean an unplayed new record or a previously owned mint collectible?"
+ },
+ "11363": {
+  "p": 0.47,
+  "duda": "Are wicker laundry baskets described only by size and a lid usually new handmade products or used household items?"
+ },
+ "11364": {
+  "p": 0.72,
+  "duda": "Are older fast-food promotional toys without a sealed-packaging statement generally classified as used collectibles?"
+ },
+ "11365": {
+  "p": 0.24,
+  "duda": "Do six-month warranties on television replacement cables generally imply new parts, or are salvaged parts also sold that way?"
+ },
+ "11366": {
+  "p": 0.39,
+  "duda": "Should dual-SIM variants of recent Galaxy Core models receive the same new-phone lean as other recent named phones?"
+ },
+ "11367": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "11368": {
+  "p": 0.62,
+  "duda": "Do named cartoonists' drawings for older magazines usually refer to period originals or newly made reproductions?"
+ },
+ "11369": {
+  "p": 0.5,
+  "duda": "Does oportunidad in a suit-jacket listing suggest personal resale, or is it equally common for new discounted clothing?"
+ },
+ "11370": {
+  "p": 0.75,
+  "duda": "Are books from defunct mass-market publishers generally secondhand copies or surviving unused stock?"
+ },
+ "11371": {
+  "p": 0.72,
+  "duda": "Are crankshafts identified by an older vehicle's model year usually salvaged components or new replacements?"
+ },
+ "11372": {
+  "p": 0.52,
+  "duda": "Does a precise half-size in slipper listings suggest a personal resale pair or ordinary new retail sizing?"
+ },
+ "11373": {
+  "p": 0.45,
+  "duda": "How should romance novels with no condition or edition-age information be distinguished from secondhand copies?"
+ },
+ "11374": {
+  "p": 0.66,
+  "duda": "Were older standalone GPS models still commonly sold as new stock in 2015, or predominantly as used devices?"
+ },
+ "11375": {
+  "p": 0.46,
+  "duda": "Do TV units described by wood species usually indicate newly made furniture or household resale?"
+ },
+ "11376": {
+  "p": 0.43,
+  "duda": "Does a generic affirmative warranty help distinguish new digipack CDs from secondhand copies?"
+ },
+ "11377": {
+  "p": 0.65,
+  "duda": "How strongly should the professional-audio resale lean apply to discontinued guitar effects pedals?"
+ },
+ "11378": {
+  "p": 0.6,
+  "duda": "Are designer occasion dresses bundled with a matching bolero commonly resold after an event or sold as new sets?"
+ },
+ "11379": {
+  "p": 0.47,
+  "duda": "Are generically advertised rack cabinets commonly newly fabricated products or previously installed equipment?"
+ },
+ "11380": {
+  "p": 0.62,
+  "duda": "Should professional pedagogy books receive the study-material used lean or the general-nonfiction new lean?"
+ },
+ "11381": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "11382": {
+  "p": 0.66,
+  "duda": "Are obsolete 10/100 PCI network cards usually used computer pulls or unused old retail stock?"
+ },
+ "11383": {
+  "p": 0.65,
+  "duda": "Are complete appliance control boards typically removed from donor appliances or supplied as new service replacements?"
+ },
+ "11384": {
+  "p": 0.47,
+  "duda": "How can six-piece drinking-glass sets without packaging or condition details be distinguished between new stock and household resale?"
+ },
+ "11385": {
+  "p": 0.4,
+  "duda": "Are imported branded bras in a specified size usually new resale merchandise or previously worn garments?"
+ },
+ "11386": {
+  "p": 0.65,
+  "duda": "Are model-specific engine control units usually salvaged or refurbished components rather than new replacements?"
+ },
+ "11387": {
+  "p": 0.6,
+  "duda": "Should hobby instruction books receive the study-manual used lean or the general-nonfiction new lean?"
+ },
+ "11388": {
+  "p": 0.38,
+  "duda": "Are individually listed branded combination wrenches with model specifications commonly new hardware stock or used tools?"
+ },
+ "11389": {
+  "p": 0.62,
+  "duda": "Were portable electronic chess computers advertised by origin and playing strength mostly older resale devices in 2015?"
+ },
+ "11390": {
+  "p": 0.51,
+  "duda": "Does emphasizing originality in branded cap listings distinguish retail merchandise from previously worn caps?"
+ },
+ "11391": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "11392": {
+  "p": 0.25,
+  "duda": "Does en blister in vintage action-figure listings imply unopened new stock, or can it include previously opened figures?"
+ },
+ "11393": {
+  "p": 0.58,
+  "duda": "Does promo on a CD listing usually mean a previously distributed promotional copy or a discounted new retail edition?"
+ },
+ "11394": {
+  "p": 0.33,
+  "duda": "Do three-month warranties on older networking equipment usually indicate new stock or tested used equipment?"
+ },
+ "11395": {
+  "p": 0.47,
+  "duda": "How can animal sculptures without maker, age or condition details be distinguished between new decorative stock and previously owned pieces?"
+ },
+ "11396": {
+  "p": 0.62,
+  "duda": "Are matching branded thermal clothing bundles commonly resold personal gear or new retail sets?"
+ },
+ "11397": {
+  "p": 0.7,
+  "duda": "Are original-equipment car stereos usually removed used units or unused replacement stock?"
+ },
+ "11398": {
+  "p": 0.72,
+  "duda": "Does a tank advertised for multipurpose use usually imply a previously used vessel being repurposed?"
+ },
+ "11399": {
+  "p": 0.65,
+  "duda": "How strongly should the professional-audio resale lean apply to valve guitar amplifier heads without condition details?"
+ },
+ "11400": {
+  "p": 0.49,
+  "duda": "Are named Maisto die-cast models without box or condition information usually new collectible stock or previously owned models?"
+ }
+}

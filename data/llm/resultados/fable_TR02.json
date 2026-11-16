@@ -1,0 +1,402 @@
+{
+ "12101": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12102": {
+  "p": 0.55,
+  "duda": "For a music CD with no condition words and no 'nuevo'/'sellado', is a one-off listing from a small seller usually a second-hand copy?"
+ },
+ "12103": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12104": {
+  "p": 0.4,
+  "duda": "Are cheap generic accessories (pumps, small tools) with a bare title and stock 1 usually new shop stock or personal resale?"
+ },
+ "12105": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12106": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12107": {
+  "p": 0.55,
+  "duda": "Are wooden trade tools such as hat blocks or shoe lasts usually sold as old workshop pieces (used) or as newly made craft items?"
+ },
+ "12108": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12109": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12110": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12111": {
+  "p": 0.35,
+  "duda": "Does a warranty like 'if the book is faulty, money is refunded' indicate a bookshop selling new copies or a second-hand dealer?"
+ },
+ "12112": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12113": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12114": {
+  "p": 0.55,
+  "duda": "Are TV/monitor internal spare parts (flex cables, T-Con boards) identified by the TV model usually pulled from scrapped sets and labelled used, or labelled new?"
+ },
+ "12115": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12116": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12117": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12118": {
+  "p": 0.4,
+  "duda": "Are collectible figures (gashapon, anime figures) with no condition words and stock above 1 usually listed as new?"
+ },
+ "12119": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12120": {
+  "p": 0.55,
+  "duda": "Is a single party dress listed with only praise words ('espectacular') and no brand or size usually a worn dress being resold?"
+ },
+ "12121": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12122": {
+  "p": 0.5,
+  "duda": "Does 'importada' on a single clothing item with size stated point to a new item brought from abroad or to a personal resale?"
+ },
+ "12123": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12124": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12125": {
+  "p": 0.45,
+  "duda": "Are stickers and decals sold as a lot by a one-listing seller usually new stock or an old personal collection?"
+ },
+ "12126": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12127": {
+  "p": 0.65,
+  "duda": "Are crystal lamps with 'caireles' sold as a pair by a small seller usually antique/second-hand pieces?"
+ },
+ "12128": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "12129": {
+  "p": 0.4,
+  "duda": "When a children's-clothing seller writes 'product in perfect condition, origin USA' in the warranty, is it new imported clothing or second-hand clothing?"
+ },
+ "12130": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12131": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12132": {
+  "p": 0.6,
+  "duda": "Are chess and other hobby manuals with 'Sin garantía' usually second-hand copies?"
+ },
+ "12133": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12134": {
+  "p": 0.4,
+  "duda": "How are real-estate listings (land lots, apartments, rentals) labelled in this dataset: new or used?"
+ },
+ "12135": {
+  "p": 0.6,
+  "duda": "Is a single garment described only by cut and brand, with no size run or stock, usually a used personal item?"
+ },
+ "12136": {
+  "p": 0.6,
+  "duda": "Are postage stamps and souvenir sheets (mint, from past years) usually labelled used as collectibles or new?"
+ },
+ "12137": {
+  "p": 0.45,
+  "duda": "Are US-brand children's clothes (The Children's Place, Carter's, Gap) sold singly with a size usually new imports or outgrown used items?"
+ },
+ "12138": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12139": {
+  "p": 0.4,
+  "duda": "How are real-estate listings (land lots, apartments, rentals) labelled in this dataset: new or used?"
+ },
+ "12140": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12141": {
+  "p": 0.65,
+  "duda": "Is broadcast/radio equipment (stereo encoders, transmitters) from a one-listing seller usually second-hand?"
+ },
+ "12142": {
+  "p": 0.62,
+  "duda": "Are notebook screens sold very cheaply with a short 30-day warranty usually pulled (used) parts?"
+ },
+ "12143": {
+  "p": 0.6,
+  "duda": "For a cheap CD/book title with no condition words from a small seller, is it usually a second-hand copy?"
+ },
+ "12144": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12145": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12146": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "12147": {
+  "p": 0.62,
+  "duda": "Are trim parts for classic cars (Torino, Falcon) usually used originals, or new old stock/reproductions labelled new?"
+ },
+ "12148": {
+  "p": 0.35,
+  "duda": "Are recent small-press essay books listed without photos by a mid-size seller usually new copies?"
+ },
+ "12149": {
+  "p": 0.35,
+  "duda": "How are temporary holiday rentals labelled in this dataset: new or used?"
+ },
+ "12150": {
+  "p": 0.45,
+  "duda": "For classic literature listed only as 'title - author' with no publisher or condition, is the copy usually new or second-hand?"
+ },
+ "12151": {
+  "p": 0.4,
+  "duda": "Are branded sneakers listed singly with colour but no size or condition words usually new?"
+ },
+ "12152": {
+  "p": 0.45,
+  "duda": "Does 'estilo <brand>' on a handbag indicate a new imitation product or a person reselling their own bag?"
+ },
+ "12153": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12154": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12155": {
+  "p": 0.4,
+  "duda": "Are branded toys described as a 'gift set' by a one-listing seller usually new unopened items?"
+ },
+ "12156": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (land lots, apartments, rentals) labelled in this dataset: new or used?"
+ },
+ "12157": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12158": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12159": {
+  "p": 0.55,
+  "duda": "For spiritual/self-help books with a bare title from a one-listing seller, is the copy usually second-hand?"
+ },
+ "12160": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12161": {
+  "p": 0.4,
+  "duda": "Are licensed children's ride-on toys (scooters, bikes) with no condition words and a non-round price usually new shop stock?"
+ },
+ "12162": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "12163": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "12164": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12165": {
+  "p": 0.45,
+  "duda": "Are branded jeans (Levi's) listed singly with no size or condition words usually new or used?"
+ },
+ "12166": {
+  "p": 0.6,
+  "duda": "Are expensive collector's-edition music box sets from a one-listing seller usually opened/second-hand copies?"
+ },
+ "12167": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12168": {
+  "p": 0.35,
+  "duda": "Is silver 925 jewellery listed with no condition words usually new stock from a small maker/reseller?"
+ },
+ "12169": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12170": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12171": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12172": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "12173": {
+  "p": 0.35,
+  "duda": "Are individual replacement keys for a notebook keyboard, sold with high stock by a shop, taken from used keyboards and labelled used?"
+ },
+ "12174": {
+  "p": 0.65,
+  "duda": "How are whole businesses or industrial installations for sale ('fábrica de ...') labelled: used or new?"
+ },
+ "12175": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12176": {
+  "p": 0.35,
+  "duda": "Are CDs with digitized compilations of old maps/photos labelled new, even though the content is antique?"
+ },
+ "12177": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12178": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12179": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "12180": {
+  "p": 0.4,
+  "duda": "Is a children's bicycle with a keyword-stuffed generic title and no condition words usually new shop stock?"
+ },
+ "12181": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12182": {
+  "p": 0.58,
+  "duda": "For Argentine history books first published decades ago and listed by a mid-size bookseller, is the copy usually an old second-hand edition?"
+ },
+ "12183": {
+  "p": 0.35,
+  "duda": "Does stock above 1 on a classical music title reliably indicate new copies?"
+ },
+ "12184": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12185": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12186": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "12187": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12188": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "12189": {
+  "p": 0.6,
+  "duda": "Are ammunition reloading tools (dies, presses) from a one-listing seller usually second-hand?"
+ },
+ "12190": {
+  "p": 0.65,
+  "duda": "Do classic business/management texts used in university courses count as study material that leans used?"
+ },
+ "12191": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "12192": {
+  "p": 0.6,
+  "duda": "Do economics classics used in university courses, from a one-listing seller, lean used like study material?"
+ },
+ "12193": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12194": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12195": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12196": {
+  "p": 0.6,
+  "duda": "Are anime action figures (Saint Seiya, Dragon Ball) with a bare title from a one-listing seller usually second-hand?"
+ },
+ "12197": {
+  "p": 0.4,
+  "duda": "Is medical diagnostic equipment (otoscopes, stethoscopes) on a paid gold listing with several units sold usually new?"
+ },
+ "12198": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12199": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12200": {
+  "p": 0.45,
+  "duda": "For academic history books from a large bookseller with only 'Sí' as warranty, are the copies usually new or second-hand?"
+ }
+}

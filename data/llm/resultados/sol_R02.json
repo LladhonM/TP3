@@ -1,0 +1,402 @@
+{
+ "1601": {
+  "p": 0.24,
+  "duda": ""
+ },
+ "1602": {
+  "p": 0.57,
+  "duda": "Are fog-machine canisters usually new replacement tanks or salvaged parts?"
+ },
+ "1603": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1604": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "1605": {
+  "p": 0.4,
+  "duda": "What additional evidence distinguishes new retail books from personal resales described as 'nuevo'?"
+ },
+ "1606": {
+  "p": 0.83,
+  "duda": ""
+ },
+ "1607": {
+  "p": 0.4,
+  "duda": "What additional evidence distinguishes new printers from personal resales described as 'nueva'?"
+ },
+ "1608": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "1609": {
+  "p": 0.73,
+  "duda": ""
+ },
+ "1610": {
+  "p": 0.6,
+  "duda": "Are model-specific TV ribbon cables with short warranties usually salvaged or newly manufactured?"
+ },
+ "1611": {
+  "p": 0.6,
+  "duda": "Do occasion dresses without condition details usually represent personal resales or new dressmaking stock?"
+ },
+ "1612": {
+  "p": 0.4,
+  "duda": "How should branded perfumes be judged when neither sealing nor remaining volume is stated?"
+ },
+ "1613": {
+  "p": 0.55,
+  "duda": "Are Japanese CD boxes advertised with an obi but no seal usually used collectibles or new imports?"
+ },
+ "1614": {
+  "p": 0.35,
+  "duda": "Are chargers for older handheld consoles usually new aftermarket accessories or used originals?"
+ },
+ "1615": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1616": {
+  "p": 0.48,
+  "duda": "Does imported luggage without condition details usually represent retail stock or personal resale?"
+ },
+ "1617": {
+  "p": 0.6,
+  "duda": "Do wedding dresses without condition details usually represent personal resales or new dressmaking stock?"
+ },
+ "1618": {
+  "p": 0.47,
+  "duda": "How can character toys be classified when their edition, packaging and condition are unspecified?"
+ },
+ "1619": {
+  "p": 0.65,
+  "duda": "What product evidence distinguishes new professional mixers from used equipment when condition is unstated?"
+ },
+ "1620": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1621": {
+  "p": 0.46,
+  "duda": "Are model-specific refrigerator control boards usually new replacements or recovered components?"
+ },
+ "1622": {
+  "p": 0.62,
+  "duda": "Are older industrial PLC models without condition details usually surplus new stock or used equipment?"
+ },
+ "1623": {
+  "p": 0.47,
+  "duda": "What evidence supports a condition judgment for footwear described only by type and color?"
+ },
+ "1624": {
+  "p": 0.41,
+  "duda": "Are wrought-iron folding chairs without condition details usually newly manufactured or secondhand?"
+ },
+ "1625": {
+  "p": 0.4,
+  "duda": "How should vintage cassettes described as 'nuevo' be judged when sealing is not mentioned?"
+ },
+ "1626": {
+  "p": 0.62,
+  "duda": "Are obscure imported live CDs without sealing details usually used collectibles or new releases?"
+ },
+ "1627": {
+  "p": 0.5,
+  "duda": "Does a mixed offering of shoes and boots indicate personal resale or retail stock without further details?"
+ },
+ "1628": {
+  "p": 0.57,
+  "duda": "Are inexpensive orthopedic walking aids without condition details usually resold after recovery or sold new?"
+ },
+ "1629": {
+  "p": 0.52,
+  "duda": "How should branded footwear be judged when condition and packaging are unspecified?"
+ },
+ "1630": {
+  "p": 0.47,
+  "duda": "Do historical furniture style names usually identify antiques or newly manufactured reproductions?"
+ },
+ "1631": {
+  "p": 0.38,
+  "duda": "How should new-versus-used labels apply to holiday rentals advertised as 'a estrenar'?"
+ },
+ "1632": {
+  "p": 0.19,
+  "duda": ""
+ },
+ "1633": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "1634": {
+  "p": 0.71,
+  "duda": "Are older named golf drivers without condition details usually used clubs or unsold retail stock?"
+ },
+ "1635": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1636": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1637": {
+  "p": 0.47,
+  "duda": "How should branded garments be judged when only the brand and size are specified?"
+ },
+ "1638": {
+  "p": 0.77,
+  "duda": ""
+ },
+ "1639": {
+  "p": 0.42,
+  "duda": "Are industrial dial thermometers without condition details usually new instruments or used surplus?"
+ },
+ "1640": {
+  "p": 0.59,
+  "duda": "Are named original-equipment ATV tire sets usually used take-offs or new retail stock?"
+ },
+ "1641": {
+  "p": 0.68,
+  "duda": "Are collectible gaming tokens without a circulation statement usually classified as used?"
+ },
+ "1642": {
+  "p": 0.54,
+  "duda": "Do children's titles identified by a creator but no edition date usually denote collectible editions or current retail copies?"
+ },
+ "1643": {
+  "p": 0.65,
+  "duda": "What product evidence distinguishes new camera lenses from used equipment when condition is unstated?"
+ },
+ "1644": {
+  "p": 0.83,
+  "duda": ""
+ },
+ "1645": {
+  "p": 0.4,
+  "duda": "What additional evidence distinguishes new retail footwear from personal resales described as 'nueva'?"
+ },
+ "1646": {
+  "p": 0.45,
+  "duda": "How should literary books be judged when their edition and condition are unspecified?"
+ },
+ "1647": {
+  "p": 0.67,
+  "duda": "Are original paintings advertised under an artist's name usually secondary-market works or newly sold works?"
+ },
+ "1648": {
+  "p": 0.48,
+  "duda": "Does 'imported' or 'unique' footwear suggest new retail stock or personal resale without condition details?"
+ },
+ "1649": {
+  "p": 0.47,
+  "duda": "What evidence supports a condition judgment for cushions with no material, manufacture or condition details?"
+ },
+ "1650": {
+  "p": 0.3,
+  "duda": "Does an 'a estrenar' property-age attribute reliably indicate a new listing condition in this dataset?"
+ },
+ "1651": {
+  "p": 0.59,
+  "duda": "Does 'liquido' on a single branded garment usually signal personal resale or retail clearance?"
+ },
+ "1652": {
+  "p": 0.43,
+  "duda": "Are named bicycle cranksets without condition details usually new upgrades or used take-offs?"
+ },
+ "1653": {
+  "p": 0.45,
+  "duda": "Are technical triathlon garments identified by a model usually new retail stock or personal resales?"
+ },
+ "1654": {
+  "p": 0.51,
+  "duda": "Do printers with continuous pigment-ink systems usually represent new retailer conversions or used owner-modified printers?"
+ },
+ "1655": {
+  "p": 0.45,
+  "duda": "How should self-help books be judged when their edition and condition are unspecified?"
+ },
+ "1656": {
+  "p": 0.5,
+  "duda": "How should new-versus-used labels apply to holiday accommodation rentals?"
+ },
+ "1657": {
+  "p": 0.36,
+  "duda": "How much does a newly released computer-component model favor new condition without packaging or warranty details?"
+ },
+ "1658": {
+  "p": 0.64,
+  "duda": "Do inexpensive bundles of unspecified motors usually consist of salvaged parts or new hobby components?"
+ },
+ "1659": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "1660": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1661": {
+  "p": 0.45,
+  "duda": "Are baby neck pillows without manufacture or condition details usually new products or personal resales?"
+ },
+ "1662": {
+  "p": 0.3,
+  "duda": "Does plural clearance language for branded children's clothing usually indicate new retail stock?"
+ },
+ "1663": {
+  "p": 0.54,
+  "duda": "How should baby chairs be judged when their type, model and condition are unspecified?"
+ },
+ "1664": {
+  "p": 0.63,
+  "duda": "Do books naming older biographical series without a publication year usually denote vintage editions or later reprints?"
+ },
+ "1665": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1666": {
+  "p": 0.54,
+  "duda": "Does 'oportunidad' on a branded watch indicate personal resale or ordinary retail promotion?"
+ },
+ "1667": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "1668": {
+  "p": 0.17,
+  "duda": ""
+ },
+ "1669": {
+  "p": 0.29,
+  "duda": ""
+ },
+ "1670": {
+  "p": 0.35,
+  "duda": "Are sets of burlap cushion covers usually newly made craft products or secondhand household items?"
+ },
+ "1671": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1672": {
+  "p": 0.47,
+  "duda": "What evidence supports a condition judgment for furniture described only by its generic name?"
+ },
+ "1673": {
+  "p": 0.56,
+  "duda": "Does 'excelente' modifying a garment describe its condition or merely promote its quality?"
+ },
+ "1674": {
+  "p": 0.47,
+  "duda": "How should furniture be judged when the title specifies materials but no condition or manufacture details?"
+ },
+ "1675": {
+  "p": 0.42,
+  "duda": "How should branded underwear be judged when tags, packaging and condition are unspecified?"
+ },
+ "1676": {
+  "p": 0.47,
+  "duda": "How should branded garments be judged when condition, tags and packaging are unspecified?"
+ },
+ "1677": {
+  "p": 0.5,
+  "duda": "How should new-versus-used labels apply to equipment rental services rather than equipment sales?"
+ },
+ "1678": {
+  "p": 0.68,
+  "duda": "Are pens bearing industrial company names usually vintage promotional collectibles or new stationery?"
+ },
+ "1679": {
+  "p": 0.63,
+  "duda": "Does inviting offers on household furniture usually indicate personal resale or ordinary retail negotiation?"
+ },
+ "1680": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1681": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1682": {
+  "p": 0.5,
+  "duda": "How should listings consisting only of a person's name be interpreted without a product type?"
+ },
+ "1683": {
+  "p": 0.51,
+  "duda": "Are specialized rigid laptop backpacks without condition details usually new imports or personal resales?"
+ },
+ "1684": {
+  "p": 0.45,
+  "duda": "How should general nonfiction books be judged when edition and condition are unspecified?"
+ },
+ "1685": {
+  "p": 0.44,
+  "duda": "Do lots of assorted metal household containers usually represent new stock or secondhand clearances?"
+ },
+ "1686": {
+  "p": 0.38,
+  "duda": "Do very low-priced bundles of occult books usually denote digital copies rather than used printed books?"
+ },
+ "1687": {
+  "p": 0.74,
+  "duda": ""
+ },
+ "1688": {
+  "p": 0.4,
+  "duda": "What additional evidence distinguishes new industrial equipment from personal resales described as 'nuevo'?"
+ },
+ "1689": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "1690": {
+  "p": 0.4,
+  "duda": "What additional evidence distinguishes new retail helmets from personal resales described as 'nuevo'?"
+ },
+ "1691": {
+  "p": 0.45,
+  "duda": "How should philosophical books be judged when edition and condition are unspecified?"
+ },
+ "1692": {
+  "p": 0.47,
+  "duda": "What evidence supports a condition judgment for footwear described only by its style?"
+ },
+ "1693": {
+  "p": 0.48,
+  "duda": "How should character-branded backpacks be judged when model age and condition are unspecified?"
+ },
+ "1694": {
+  "p": 0.4,
+  "duda": "Does a detailed crochet-dress description usually indicate newly made clothing or personal resale?"
+ },
+ "1695": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "1696": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "1697": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "1698": {
+  "p": 0.69,
+  "duda": "Are ECUs specified for older car models usually salvaged originals or unused replacement stock?"
+ },
+ "1699": {
+  "p": 0.47,
+  "duda": "Do small lots of acrylic tableware usually represent new retail sets or secondhand household items?"
+ },
+ "1700": {
+  "p": 0.35,
+  "duda": "Do low-priced branded fashion sunglasses generally indicate new replicas or used originals?"
+ }
+}

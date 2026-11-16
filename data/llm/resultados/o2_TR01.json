@@ -1,0 +1,402 @@
+{
+ "12001": {
+  "p": 0.38,
+  "duda": "Are handmade leather pet accessories (harnesses, collars) usually listed as new by small craftsmen?"
+ },
+ "12002": {
+  "p": 0.45,
+  "duda": "Is a furniture listing with a placeholder price (e.g. $1) and a generic title more often a carpenter's made-to-order piece (new) or a private sale (used)?"
+ },
+ "12003": {
+  "p": 0.6,
+  "duda": "Does a title starting with 'Vendo' indicate a private resale of a used item?"
+ },
+ "12004": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12005": {
+  "p": 0.62,
+  "duda": "When a tablet or other electronic device is listed 'con funda y accesorios', is it usually a used personal device?"
+ },
+ "12006": {
+  "p": 0.5,
+  "duda": "Is clothing from brands without stores in Argentina (Forever 21, Victoria's Secret) usually new imported stock or used?"
+ },
+ "12007": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12008": {
+  "p": 0.55,
+  "duda": "Are alpaca (nickel silver) cutlery sets usually second-hand/inherited or new?"
+ },
+ "12009": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12010": {
+  "p": 0.52,
+  "duda": "Are licensed children's games and toys from older franchises usually sold used?"
+ },
+ "12011": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "12012": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12013": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12014": {
+  "p": 0.55,
+  "duda": "When a premium branded item is priced far below retail, is it more often used or a new replica?"
+ },
+ "12015": {
+  "p": 0.5,
+  "duda": "Do multi-listing booksellers with a print-defect return policy selling at very low prices (~40 ARS) sell new or used books?"
+ },
+ "12016": {
+  "p": 0.45,
+  "duda": "Are imported niche non-fiction books (aviation, military history) usually new imports or used copies?"
+ },
+ "12017": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12018": {
+  "p": 0.42,
+  "duda": "Are discontinued 1/18 diecast scale models usually sold as new-in-box collector stock or as used?"
+ },
+ "12019": {
+  "p": 0.62,
+  "duda": "Is very low-priced clothing (under ~100 ARS) more often used?"
+ },
+ "12020": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12021": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12022": {
+  "p": 0.58,
+  "duda": "Does a single-size footwear listing that names several competing brands indicate a private resale or a shop using keywords?"
+ },
+ "12023": {
+  "p": 0.4,
+  "duda": "How are live animals (fish, pets, livestock) usually labeled on MercadoLibre: new or used?"
+ },
+ "12024": {
+  "p": 0.35,
+  "duda": "Does 'liquido' (clearance) in a title indicate a shop clearing new stock?"
+ },
+ "12025": {
+  "p": 0.5,
+  "duda": "For cryptic titles with only proper names and a low price (likely books, records or art), which condition is more common?"
+ },
+ "12026": {
+  "p": 0.38,
+  "duda": "Are console games marked 'Nuevo' in collector editions (steelbook) usually sealed new stock?"
+ },
+ "12027": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12028": {
+  "p": 0.4,
+  "duda": "Are official football club training shirts in a single size usually new stock?"
+ },
+ "12029": {
+  "p": 0.5,
+  "duda": "Are generic unbranded women's handbags in the free tier more often used?"
+ },
+ "12030": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12031": {
+  "p": 0.38,
+  "duda": "Are lots of leftover components labeled 'nuevos' sold by individuals listed as new?"
+ },
+ "12032": {
+  "p": 0.62,
+  "duda": "Do sellers with many listings of older esoteric/self-help books and 'Sin garantia' sell used copies?"
+ },
+ "12033": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12034": {
+  "p": 0.6,
+  "duda": "Are truck accessories such as roll bars sold by single-listing sellers usually removed from a vehicle (used)?"
+ },
+ "12035": {
+  "p": 0.38,
+  "duda": "Are music CDs from multi-listing sellers with stock above 1 usually new?"
+ },
+ "12036": {
+  "p": 0.58,
+  "duda": "Are classical music recordings (CD/vinyl) of famous conductors usually second-hand?"
+ },
+ "12037": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12038": {
+  "p": 0.6,
+  "duda": "Are dance costumes usually resold used after performances?"
+ },
+ "12039": {
+  "p": 0.42,
+  "duda": "Are car electrical modules (window regulators etc.) without condition words more often new aftermarket or used?"
+ },
+ "12040": {
+  "p": 0.55,
+  "duda": "Is children's clothing listed singly more often used?"
+ },
+ "12041": {
+  "p": 0.5,
+  "duda": "Are single women's coats without brand or condition words more often used?"
+ },
+ "12042": {
+  "p": 0.45,
+  "duda": "Are children's school-reading literature books (Norma, Alfaguara Infantil) from booksellers new or used?"
+ },
+ "12043": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12044": {
+  "p": 0.55,
+  "duda": "Are generic 'Peliculas DVD' listings usually used originals or new copies?"
+ },
+ "12045": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12046": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12047": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12048": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12049": {
+  "p": 0.35,
+  "duda": "Is server memory or parts listed by part number usually new or refurbished/pulled?"
+ },
+ "12050": {
+  "p": 0.55,
+  "duda": "Are vintage stamps described as 'mint' labeled new or used?"
+ },
+ "12051": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12052": {
+  "p": 0.38,
+  "duda": "Are raw materials (wood, supplies) listed as new?"
+ },
+ "12053": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12054": {
+  "p": 0.35,
+  "duda": "Is original artwork sold by its artist labeled new or used?"
+ },
+ "12055": {
+  "p": 0.55,
+  "duda": "Is single-size footwear without brand or condition words more often used?"
+ },
+ "12056": {
+  "p": 0.6,
+  "duda": "Are foreign-brand clothing items not sold in Argentina usually resold used?"
+ },
+ "12057": {
+  "p": 0.35,
+  "duda": "Are car listings with financing or 'plan de ahorro' attributes usually new cars?"
+ },
+ "12058": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12059": {
+  "p": 0.6,
+  "duda": "Are branded luggage listings priced below retail usually used?"
+ },
+ "12060": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12061": {
+  "p": 0.55,
+  "duda": "Are older collectible action figures (DC Direct, 1990s) usually sold as used?"
+ },
+ "12062": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12063": {
+  "p": 0.55,
+  "duda": "Are consumer electronics accessories (headphones) from single-listing free-tier sellers more often used?"
+ },
+ "12064": {
+  "p": 0.38,
+  "duda": "Are decorative paintings sold by individuals labeled new or used?"
+ },
+ "12065": {
+  "p": 0.35,
+  "duda": "Are recent best-selling non-fiction books usually new?"
+ },
+ "12066": {
+  "p": 0.65,
+  "duda": "Are car body parts (bumper reinforcements, frames) sold by individuals usually used?"
+ },
+ "12067": {
+  "p": 0.35,
+  "duda": "Does a stated warranty period (e.g. 6 months) on machinery imply a new item?"
+ },
+ "12068": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12069": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12070": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12071": {
+  "p": 0.42,
+  "duda": "Are albums by small or independent bands usually sold new by the band?"
+ },
+ "12072": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12073": {
+  "p": 0.38,
+  "duda": "Are recent flagship phones priced 10-20% below retail more often used?"
+ },
+ "12074": {
+  "p": 0.6,
+  "duda": "Are fast-food promotional toys usually sold used?"
+ },
+ "12075": {
+  "p": 0.62,
+  "duda": "Are vintage toy soldiers (Britains) usually sold used?"
+ },
+ "12076": {
+  "p": 0.45,
+  "duda": "Are generic shop fixtures (dispensers, displays) from single-listing sellers more often used?"
+ },
+ "12077": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12078": {
+  "p": 0.52,
+  "duda": "Are novels by classic authors in older Spanish translations usually used?"
+ },
+ "12079": {
+  "p": 0.6,
+  "duda": "Are movie-merchandise collectibles from decades ago usually sold used?"
+ },
+ "12080": {
+  "p": 0.45,
+  "duda": "Are single women's jackets without brand or condition words more often used?"
+ },
+ "12081": {
+  "p": 0.5,
+  "duda": "Are imported football/national-team shirts without brand more often used?"
+ },
+ "12082": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12083": {
+  "p": 0.48,
+  "duda": "Are generic lighting items (spots, reflectors) without brand more often used?"
+ },
+ "12084": {
+  "p": 0.62,
+  "duda": "Do subjective comfort words ('comodisimos') in a footwear title indicate a used item?"
+ },
+ "12085": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12086": {
+  "p": 0.25,
+  "duda": "How are live animals (fish, pets, livestock) usually labeled on MercadoLibre: new or used?"
+ },
+ "12087": {
+  "p": 0.42,
+  "duda": "Are band t-shirts without condition words usually new?"
+ },
+ "12088": {
+  "p": 0.35,
+  "duda": "How is real estate (houses under construction or to finish) usually labeled: new or used?"
+ },
+ "12089": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12090": {
+  "p": 0.58,
+  "duda": "Does mentioning the box and a remaining warranty date in the title indicate a used item being resold?"
+ },
+ "12091": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12092": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12093": {
+  "p": 0.62,
+  "duda": "Are party dresses usually resold used?"
+ },
+ "12094": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12095": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12096": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12097": {
+  "p": 0.42,
+  "duda": "Are appliances (freezers) listed without photos in plural form more often new stock?"
+ },
+ "12098": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12099": {
+  "p": 0.6,
+  "duda": "Are imported foreign-language editions of books usually used?"
+ },
+ "12100": {
+  "p": 0.5,
+  "duda": "Are generic pump/equipment titles without brand or condition words more often used?"
+ }
+}

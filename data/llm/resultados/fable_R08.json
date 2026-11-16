@@ -1,0 +1,402 @@
+{
+ "2201": {
+  "p": 0.6,
+  "duda": "When a multi-listing clothing seller writes 'Origen USA' and 'sin detalles / en perfectas condiciones' in the warranty, is that typically imported second-hand clothing (used) or new imported stock?"
+ },
+ "2202": {
+  "p": 0.4,
+  "duda": "Do generic electronics listings with 'Oferta!!' and no brand or condition words from one-off sellers tend to be new?"
+ },
+ "2203": {
+  "p": 0.45,
+  "duda": "How are mint (never-hinged) stamp sets from past decades usually labeled by stamp dealers: new or used?"
+ },
+ "2204": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2205": {
+  "p": 0.35,
+  "duda": "Is a literary book priced near current bookstore retail (300+ ARS in 2015) a reliable sign of a new copy?"
+ },
+ "2206": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2207": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2208": {
+  "p": 0.5,
+  "duda": "Do single-unit clothing listings with praise adjectives like 'hermosa' and no condition words lean used or new?"
+ },
+ "2209": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2210": {
+  "p": 0.58,
+  "duda": "Do generic furniture titles with no style, material or maker details (e.g. 'placard ropero grande') from one-off sellers lean used?"
+ },
+ "2211": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2212": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2213": {
+  "p": 0.45,
+  "duda": "Do children's fiction books with only the title and no publisher or condition lean new or used?"
+ },
+ "2214": {
+  "p": 0.4,
+  "duda": "Does 'a estrenar' in a title behave like 'nuevo' (lean new) or like 'sin uso' (lean used)?"
+ },
+ "2215": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2216": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2217": {
+  "p": 0.6,
+  "duda": "Are internal laptop components identified by part number (wifi cards, RAM, boards) from one-off sellers mostly pulled, used parts?"
+ },
+ "2218": {
+  "p": 0.45,
+  "duda": "Do listings whose title starts with an internal stock code for bronze lighting or decor pieces come from manufacturers of new pieces or from antique dealers?"
+ },
+ "2219": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2220": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2221": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2222": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2223": {
+  "p": 0.5,
+  "duda": "Do women's clothing listings with only garment type, size and price in the title, and no brand or condition words, lean new or used?"
+ },
+ "2224": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2225": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2226": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2227": {
+  "p": 0.45,
+  "duda": "Are illustrated reference guides (gems, nature, hobbies) at a relatively high price more often new copies?"
+ },
+ "2228": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2229": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2230": {
+  "p": 0.55,
+  "duda": "For large book sellers offering cheap classic titles with 'Envio gratis' and a generic 'Con garantia', are these second-hand bookshops (used) or remainder/new-stock sellers?"
+ },
+ "2231": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2232": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2233": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2234": {
+  "p": 0.5,
+  "duda": "Are office-class multifunction printers listed by one-off sellers with only the model name usually used or refurbished units?"
+ },
+ "2235": {
+  "p": 0.55,
+  "duda": "How do stamp dealers label 19th-century individual stamps listed by catalogue number: used or new?"
+ },
+ "2236": {
+  "p": 0.45,
+  "duda": "Do car parts listed by vehicle fitment only (no brand, no 'original', no condition) from small sellers lean new aftermarket or used salvage?"
+ },
+ "2237": {
+  "p": 0.6,
+  "duda": "Do book titles that include publication year and page count indicate a second-hand bookseller describing a specific copy?"
+ },
+ "2238": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2239": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2240": {
+  "p": 0.55,
+  "duda": "Do power tools listed by a one-off seller with just type and brand, no model or condition, lean used?"
+ },
+ "2241": {
+  "p": 0.58,
+  "duda": "When a multi-listing clothing seller writes 'Origen USA' and 'sin detalles / en perfectas condiciones' in the warranty, is that typically imported second-hand clothing (used) or new imported stock?"
+ },
+ "2242": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2243": {
+  "p": 0.65,
+  "duda": "Are vintage collectibles (pins, badges, memorabilia from past decades) labeled used even when never worn?"
+ },
+ "2244": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2245": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2246": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "2247": {
+  "p": 0.5,
+  "duda": "When a title is only a proper name with no product information, is there any reliable prior for new versus used?"
+ },
+ "2248": {
+  "p": 0.65,
+  "duda": "Does the word 'original' on a video game or disc, without 'nuevo' or 'sellado', indicate a resold used copy?"
+ },
+ "2249": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2250": {
+  "p": 0.42,
+  "duda": "Are metalwork items like gates and doors with sales recorded on the listing typically made to order (new) rather than salvaged?"
+ },
+ "2251": {
+  "p": 0.5,
+  "duda": "How do coin sellers label modern circulation coins from recent years with no grade mentioned: new or used?"
+ },
+ "2252": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2253": {
+  "p": 0.5,
+  "duda": "Are emblems and badges for classic cars (e.g. Ford Falcon) usually new reproduction parts or used originals?"
+ },
+ "2254": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2255": {
+  "p": 0.6,
+  "duda": "Is an unusually high price for an out-of-print literary title a sign of a collectible used copy rather than a new one?"
+ },
+ "2256": {
+  "p": 0.65,
+  "duda": "Do children's footwear listings with a generic title and no brand or size from one-off sellers lean used?"
+ },
+ "2257": {
+  "p": 0.55,
+  "duda": "Does a short warranty such as '1 mes' on an electronic part indicate a used or pulled item rather than new stock?"
+ },
+ "2258": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2259": {
+  "p": 0.65,
+  "duda": "Do very cheap copies of popular novels from one-off sellers lean used despite literature leaning new overall?"
+ },
+ "2260": {
+  "p": 0.45,
+  "duda": "Do generic furniture titles at a high price (several thousand ARS) from one-off sellers lean new, as from a carpenter or maker?"
+ },
+ "2261": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2262": {
+  "p": 0.6,
+  "duda": "Are 12-inch dance/electronic vinyl singles and EPs listed without 'nuevo' or 'sellado' mostly second-hand DJ copies?"
+ },
+ "2263": {
+  "p": 0.5,
+  "duda": "Do baby furniture listings with catalogue-style feature descriptions but from a one-off free-tier seller lean new or used?"
+ },
+ "2264": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2265": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2266": {
+  "p": 0.6,
+  "duda": "Are 12-inch dance/electronic vinyl singles and EPs listed without 'nuevo' or 'sellado' mostly second-hand DJ copies?"
+ },
+ "2267": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2268": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2269": {
+  "p": 0.6,
+  "duda": "Do branded sportswear listings in a single size from one-off free-tier sellers, with no 'nuevo' or 'original', lean used?"
+ },
+ "2270": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2271": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2272": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2273": {
+  "p": 0.6,
+  "duda": "Do cheap unbranded single-size women's garments from small sellers lean used?"
+ },
+ "2274": {
+  "p": 0.55,
+  "duda": "Are technical documents such as wiring diagrams or plans usually resold originals (used) or freshly printed copies (new)?"
+ },
+ "2275": {
+  "p": 0.6,
+  "duda": "Do academic or professional-topic books with a bare title and low price count as study material that leans used?"
+ },
+ "2276": {
+  "p": 0.45,
+  "duda": "Do numismatic dealers label 'sin circular' (uncirculated) coins from past decades as new or used?"
+ },
+ "2277": {
+  "p": 0.5,
+  "duda": "When construction machinery is listed at a token price far below its real value, is it usually a rental/service ad (new) or a used machine with price to be negotiated?"
+ },
+ "2278": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2279": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2280": {
+  "p": 0.45,
+  "duda": "Do small baby accessories with a generic title from sellers with several listings lean new?"
+ },
+ "2281": {
+  "p": 0.45,
+  "duda": "Does a plural product title ('Cunas') with a single unit of stock indicate a shop selling new items?"
+ },
+ "2282": {
+  "p": 0.6,
+  "duda": "Are 12-inch dance/electronic vinyl singles and EPs listed without 'nuevo' or 'sellado' mostly second-hand DJ copies?"
+ },
+ "2283": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2284": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2285": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2286": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2287": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2288": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2289": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2290": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2291": {
+  "p": 0.5,
+  "duda": "How do stamp dealers label modern thematic stamp sets listed by Yvert catalogue number: new or used?"
+ },
+ "2292": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2293": {
+  "p": 0.5,
+  "duda": "Are machine-shop accessories (dividing heads, chucks, tailstocks) from one-off sellers mostly used workshop equipment or new imported tooling?"
+ },
+ "2294": {
+  "p": 0.45,
+  "duda": "Do cheap generic household metal items from one-off sellers lean new (small maker) or used?"
+ },
+ "2295": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2296": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2297": {
+  "p": 0.58,
+  "duda": "For large book sellers offering cheap classic titles with 'Envio gratis' and a generic 'Con garantia', are these second-hand bookshops (used) or remainder/new-stock sellers?"
+ },
+ "2298": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2299": {
+  "p": 0.4,
+  "duda": "Do branded sportswear listings naming a specific product line (e.g. Adidas Barricade) at near-retail price lean new?"
+ },
+ "2300": {
+  "p": 0.6,
+  "duda": "Does a warranty text like 'Producto revisado' indicate a used item that the seller checked before listing?"
+ }
+}

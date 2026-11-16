@@ -1,0 +1,402 @@
+{
+ "11201": {
+  "p": 0.38,
+  "duda": "Do sellers with many book listings (e.g. 50+) mostly sell new stock, or are they second-hand book dealers?"
+ },
+ "11202": {
+  "p": 0.65,
+  "duda": "Is a price well below new retail for leather footwear (e.g. under ~500 ARS in 2015) reliable evidence of a used item?"
+ },
+ "11203": {
+  "p": 0.4,
+  "duda": "Are cheap essay/political editions from small Argentine publishers (e.g. Nuestra America) typically sold new?"
+ },
+ "11204": {
+  "p": 0.42,
+  "duda": "Are imported Spanish academic/history editions (Herder, Critica) on MercadoLibre more often new stock or second-hand copies?"
+ },
+ "11205": {
+  "p": 0.55,
+  "duda": "Are branded fashion items (Prune, Ringo, Grimoldi, Reebok) listed at roughly half of retail price usually used resales?"
+ },
+ "11206": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "11207": {
+  "p": 0.65,
+  "duda": "Are old translated lyrics/songbook books (e.g. 'Canciones' series of rock artists) mostly sold used?"
+ },
+ "11208": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "11209": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "11210": {
+  "p": 0.55,
+  "duda": "For car/engine parts with no condition words and no 'original/nuevo' mention, are they usually salvaged used parts or new aftermarket?"
+ },
+ "11211": {
+  "p": 0.52,
+  "duda": "Are small decorative household objects (plates, mirrors, ornaments) with no brand mostly personal resales (used) or shop stock (new)?"
+ },
+ "11212": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11213": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "11214": {
+  "p": 0.55,
+  "duda": "For single clothing items with generic titles, one size and a low price, is the used rate higher than the 47% base?"
+ },
+ "11215": {
+  "p": 0.25,
+  "duda": "How are live animals (puppies, pets) labeled in this dataset: new or used?"
+ },
+ "11216": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11217": {
+  "p": 0.55,
+  "duda": "Does a book priced far below typical new retail (e.g. under ~90 ARS in 2015) indicate a used copy?"
+ },
+ "11218": {
+  "p": 0.5,
+  "duda": "For bare generic titles (no brand, model or condition words), is there any default lean beyond the 47% base rate?"
+ },
+ "11219": {
+  "p": 0.6,
+  "duda": "Are cheap children's clothing items (single size, low price) mostly used resales?"
+ },
+ "11220": {
+  "p": 0.6,
+  "duda": "Are old computing books/manual collections (early 2000s) mostly used, even when the seller offers an exchange for defects?"
+ },
+ "11221": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "11222": {
+  "p": 0.45,
+  "duda": "Do consumer electronics listings that name a city or neighborhood in the title tend to be private used resales?"
+ },
+ "11223": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11224": {
+  "p": 0.5,
+  "duda": "For single clothing items with generic titles, one size and a low price, is the used rate higher than the 47% base?"
+ },
+ "11225": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "11226": {
+  "p": 0.35,
+  "duda": "Are religious/devotional books generally sold new?"
+ },
+ "11227": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "11228": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11229": {
+  "p": 0.35,
+  "duda": "Are low-cost footwear brands (e.g. Wembly) listed near retail price usually new?"
+ },
+ "11230": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11231": {
+  "p": 0.55,
+  "duda": "How are original paintings and prints labeled: new when sold by the artist, used when resold by a collector or for a known/older artist?"
+ },
+ "11232": {
+  "p": 0.62,
+  "duda": "Are cheap children's clothing items (single size, low price) mostly used resales?"
+ },
+ "11233": {
+  "p": 0.45,
+  "duda": "Are mint stamps and collector coins labeled new, and circulated/postmarked ones used, or do collectors label them inconsistently?"
+ },
+ "11234": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "11235": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "11236": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "11237": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "11238": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "11239": {
+  "p": 0.4,
+  "duda": "Are lighting fixtures (plafones, lamps) with no condition words mostly sold new by shops?"
+ },
+ "11240": {
+  "p": 0.45,
+  "duda": "For bare generic titles (no brand, model or condition words), is there any default lean beyond the 47% base rate?"
+ },
+ "11241": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "11242": {
+  "p": 0.45,
+  "duda": "For bare generic titles (no brand, model or condition words), is there any default lean beyond the 47% base rate?"
+ },
+ "11243": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11244": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "11245": {
+  "p": 0.55,
+  "duda": "Are sports jerseys of foreign stars listed by individuals (location/price in title) mostly used resales?"
+ },
+ "11246": {
+  "p": 0.6,
+  "duda": "Is a price well below new retail for leather footwear (e.g. under ~500 ARS in 2015) reliable evidence of a used item?"
+ },
+ "11247": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11248": {
+  "p": 0.55,
+  "duda": "Are small decorative household objects (plates, mirrors, ornaments) with no brand mostly personal resales (used) or shop stock (new)?"
+ },
+ "11249": {
+  "p": 0.55,
+  "duda": "Are branded fashion items (Prune, Ringo, Grimoldi, Reebok) listed at roughly half of retail price usually used resales?"
+ },
+ "11250": {
+  "p": 0.6,
+  "duda": "Are esoteric/religion books from older editions mostly sold used?"
+ },
+ "11251": {
+  "p": 0.5,
+  "duda": "For consumer electronics priced moderately below new retail with no condition words, is it usually a private used resale?"
+ },
+ "11252": {
+  "p": 0.55,
+  "duda": "Does the word 'original' in DVD/Blu-ray/CD titles signal a private resale (used) rather than shop stock?"
+ },
+ "11253": {
+  "p": 0.5,
+  "duda": "Are cheap children's clothing items (single size, low price) mostly used resales?"
+ },
+ "11254": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "11255": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "11256": {
+  "p": 0.4,
+  "duda": "Are motorcycle gear items (gloves, jackets) without condition words usually new stock?"
+ },
+ "11257": {
+  "p": 0.5,
+  "duda": "Are mint stamps and collector coins labeled new, and circulated/postmarked ones used, or do collectors label them inconsistently?"
+ },
+ "11258": {
+  "p": 0.55,
+  "duda": "For consumer electronics priced moderately below new retail with no condition words, is it usually a private used resale?"
+ },
+ "11259": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "11260": {
+  "p": 0.55,
+  "duda": "For car/engine parts with no condition words and no 'original/nuevo' mention, are they usually salvaged used parts or new aftermarket?"
+ },
+ "11261": {
+  "p": 0.2,
+  "duda": "How are event tickets labeled in this dataset: new or used?"
+ },
+ "11262": {
+  "p": 0.55,
+  "duda": "Are baby/infant care items (potties, strollers) without condition words mostly used resales?"
+ },
+ "11263": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "11264": {
+  "p": 0.5,
+  "duda": "How are original paintings and prints labeled: new when sold by the artist, used when resold by a collector or for a known/older artist?"
+ },
+ "11265": {
+  "p": 0.4,
+  "duda": "Are handmade/craft decorative items usually labeled new?"
+ },
+ "11266": {
+  "p": 0.55,
+  "duda": "Are branded fashion items (Prune, Ringo, Grimoldi, Reebok) listed at roughly half of retail price usually used resales?"
+ },
+ "11267": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "11268": {
+  "p": 0.5,
+  "duda": "For CDs of older albums sold by high-volume music sellers, are they mostly used stock?"
+ },
+ "11269": {
+  "p": 0.35,
+  "duda": "Are gaming peripherals at near-retail price with units already sold usually new?"
+ },
+ "11270": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "11271": {
+  "p": 0.48,
+  "duda": "For single clothing items with generic titles, one size and a low price, is the used rate higher than the 47% base?"
+ },
+ "11272": {
+  "p": 0.45,
+  "duda": "For single clothing items with generic titles, one size and a low price, is the used rate higher than the 47% base?"
+ },
+ "11273": {
+  "p": 0.55,
+  "duda": "For furniture with a one-word generic title (e.g. 'Escritorio'), is it usually a private used resale?"
+ },
+ "11274": {
+  "p": 0.6,
+  "duda": "Are original-brand chargers for older camera/phone models mostly used items?"
+ },
+ "11275": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "11276": {
+  "p": 0.5,
+  "duda": "For single clothing items with generic titles, one size and a low price, is the used rate higher than the 47% base?"
+ },
+ "11277": {
+  "p": 0.55,
+  "duda": "For generic toys with no brand (e.g. 'Pista de autos'), is it usually a private used resale?"
+ },
+ "11278": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "11279": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "11280": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "11281": {
+  "p": 0.45,
+  "duda": "How are original paintings and prints labeled: new when sold by the artist, used when resold by a collector or for a known/older artist?"
+ },
+ "11282": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "11283": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "11284": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "11285": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "11286": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "11287": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "11288": {
+  "p": 0.45,
+  "duda": "Are restored/painted vintage-style furniture pieces labeled new or used?"
+ },
+ "11289": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "11290": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "11291": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "11292": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "11293": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "11294": {
+  "p": 0.5,
+  "duda": "Does a book priced far below typical new retail (e.g. under ~90 ARS in 2015) indicate a used copy?"
+ },
+ "11295": {
+  "p": 0.6,
+  "duda": "Are branded fashion items (Prune, Ringo, Grimoldi, Reebok) listed at roughly half of retail price usually used resales?"
+ },
+ "11296": {
+  "p": 0.55,
+  "duda": "Does rule 3 (pro audio/video gear from small sellers leans used) also apply to DJ/stage lighting controllers?"
+ },
+ "11297": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "11298": {
+  "p": 0.4,
+  "duda": "Are vintage vinyl singles described as 'nuevo' (new old stock) labeled new or used?"
+ },
+ "11299": {
+  "p": 0.35,
+  "duda": "Are football club jerseys without condition words usually new?"
+ },
+ "11300": {
+  "p": 0.5,
+  "duda": "Does a book priced far below typical new retail (e.g. under ~90 ARS in 2015) indicate a used copy?"
+ }
+}

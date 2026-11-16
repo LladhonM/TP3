@@ -1,0 +1,402 @@
+{
+ "12401": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "12402": {
+  "p": 0.5,
+  "duda": "Are car/motorcycle spare parts with no condition words (single-part listings by small sellers) usually used take-offs or new aftermarket stock?"
+ },
+ "12403": {
+  "p": 0.55,
+  "duda": "Are car/motorcycle spare parts with no condition words (single-part listings by small sellers) usually used take-offs or new aftermarket stock?"
+ },
+ "12404": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12405": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12406": {
+  "p": 0.45,
+  "duda": "Are original artworks and handmade items sold by the maker labeled as new?"
+ },
+ "12407": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12408": {
+  "p": 0.45,
+  "duda": "Are die-cast models and scale-model kits usually listed as new (boxed/unbuilt) or used?"
+ },
+ "12409": {
+  "p": 0.45,
+  "duda": "Are dance costume accessories (belly-dance wings, etc.) usually sold new by small shops or resold used by dancers?"
+ },
+ "12410": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12411": {
+  "p": 0.6,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12412": {
+  "p": 0.5,
+  "duda": "Are walking sticks and tripods (low price, small quantities) from one-listing sellers usually new or used?"
+ },
+ "12413": {
+  "p": 0.6,
+  "duda": "Are baby and children's items (strollers, walkers, clothes) from one-listing sellers usually second-hand resales?"
+ },
+ "12414": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12415": {
+  "p": 0.6,
+  "duda": "How are collectibles (stamps, coins, banknotes, phone cards, old packs) usually labeled on MercadoLibre: new (mint/uncirculated) or used?"
+ },
+ "12416": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12417": {
+  "p": 0.58,
+  "duda": "Are hobby/sport gear sets (fishing reel+rod, binoculars) from one-listing sellers usually personal used gear?"
+ },
+ "12418": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12419": {
+  "p": 0.55,
+  "duda": "Are classic-car (e.g. Ford Falcon) trim and body parts usually used originals or new reproductions?"
+ },
+ "12420": {
+  "p": 0.55,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12421": {
+  "p": 0.55,
+  "duda": "For vague, generic titles (one or two words, no brand) from one-listing sellers, should we assume a person reselling a used household item?"
+ },
+ "12422": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12423": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12424": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12425": {
+  "p": 0.35,
+  "duda": "Are die-cast models and scale-model kits usually listed as new (boxed/unbuilt) or used?"
+ },
+ "12426": {
+  "p": 0.65,
+  "duda": "Are baby and children's items (strollers, walkers, clothes) from one-listing sellers usually second-hand resales?"
+ },
+ "12427": {
+  "p": 0.4,
+  "duda": "For vague, generic titles (one or two words, no brand) from one-listing sellers, should we assume a person reselling a used household item?"
+ },
+ "12428": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12429": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12430": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12431": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12432": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12433": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12434": {
+  "p": 0.4,
+  "duda": "When a multi-listing book seller's warranty text says 'producto nuevo' generically, does it reflect the actual item condition?"
+ },
+ "12435": {
+  "p": 0.6,
+  "duda": "Does a low price for a book (well below a new copy) reliably indicate a used copy?"
+ },
+ "12436": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12437": {
+  "p": 0.45,
+  "duda": "Are branded children's bicycles (e.g. Aurorita) from one-listing sellers usually new or used?"
+ },
+ "12438": {
+  "p": 0.55,
+  "duda": "Are baby and children's items (strollers, walkers, clothes) from one-listing sellers usually second-hand resales?"
+ },
+ "12439": {
+  "p": 0.35,
+  "duda": "How are collectibles (stamps, coins, banknotes, phone cards, old packs) usually labeled on MercadoLibre: new (mint/uncirculated) or used?"
+ },
+ "12440": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12441": {
+  "p": 0.4,
+  "duda": "Are small silver jewelry items with catalog-style numbering (#16) usually new stock?"
+ },
+ "12442": {
+  "p": 0.65,
+  "duda": "Are CDs of older albums (1990s) from small sellers usually used copies or new stock?"
+ },
+ "12443": {
+  "p": 0.55,
+  "duda": "Are CDs of older albums (1990s) from small sellers usually used copies or new stock?"
+ },
+ "12444": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12445": {
+  "p": 0.65,
+  "duda": "Does a low price for a book (well below a new copy) reliably indicate a used copy?"
+ },
+ "12446": {
+  "p": 0.6,
+  "duda": "How are collectibles (stamps, coins, banknotes, phone cards, old packs) usually labeled on MercadoLibre: new (mint/uncirculated) or used?"
+ },
+ "12447": {
+  "p": 0.45,
+  "duda": "Does 'USA' in a clothing title signal a used imported garment (e.g. bought abroad/thrift) rather than new stock?"
+ },
+ "12448": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12449": {
+  "p": 0.5,
+  "duda": "For vague, generic titles (one or two words, no brand) from one-listing sellers, should we assume a person reselling a used household item?"
+ },
+ "12450": {
+  "p": 0.6,
+  "duda": "Does a low price for a book (well below a new copy) reliably indicate a used copy?"
+ },
+ "12451": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12452": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12453": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12454": {
+  "p": 0.4,
+  "duda": "How are collectibles (stamps, coins, banknotes, phone cards, old packs) usually labeled on MercadoLibre: new (mint/uncirculated) or used?"
+ },
+ "12455": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12456": {
+  "p": 0.6,
+  "duda": "Is printed sheet music (partituras) from small sellers usually old used copies?"
+ },
+ "12457": {
+  "p": 0.35,
+  "duda": "Do study-material lean-used rules still apply when the seller explicitly says the books are new?"
+ },
+ "12458": {
+  "p": 0.6,
+  "duda": "Does 'USA' in a clothing title signal a used imported garment (e.g. bought abroad/thrift) rather than new stock?"
+ },
+ "12459": {
+  "p": 0.55,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12460": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12461": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12462": {
+  "p": 0.65,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12463": {
+  "p": 0.4,
+  "duda": "Are vintage-themed signs and posters (station names, old brands) usually new reproductions or used originals?"
+ },
+ "12464": {
+  "p": 0.6,
+  "duda": "Does a low price for a book (well below a new copy) reliably indicate a used copy?"
+ },
+ "12465": {
+  "p": 0.5,
+  "duda": "Are car/motorcycle spare parts with no condition words (single-part listings by small sellers) usually used take-offs or new aftermarket stock?"
+ },
+ "12466": {
+  "p": 0.45,
+  "duda": "How are collectibles (stamps, coins, banknotes, phone cards, old packs) usually labeled on MercadoLibre: new (mint/uncirculated) or used?"
+ },
+ "12467": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12468": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12469": {
+  "p": 0.4,
+  "duda": "Are original artworks and handmade items sold by the maker labeled as new?"
+ },
+ "12470": {
+  "p": 0.5,
+  "duda": "Are baby and children's items (strollers, walkers, clothes) from one-listing sellers usually second-hand resales?"
+ },
+ "12471": {
+  "p": 0.4,
+  "duda": "Are die-cast models and scale-model kits usually listed as new (boxed/unbuilt) or used?"
+ },
+ "12472": {
+  "p": 0.55,
+  "duda": "Are replacement electronic parts (laptop screens, displays) from one-listing sellers usually used pulls or new?"
+ },
+ "12473": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12474": {
+  "p": 0.6,
+  "duda": "Are cameras described only by megapixels (no brand/model) usually old used units?"
+ },
+ "12475": {
+  "p": 0.5,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12476": {
+  "p": 0.5,
+  "duda": "Are mixed character toy/figure lots (Dragon Ball, Mickey, Spider-Man) usually used toys?"
+ },
+ "12477": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12478": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12479": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12480": {
+  "p": 0.5,
+  "duda": "Are baby and children's items (strollers, walkers, clothes) from one-listing sellers usually second-hand resales?"
+ },
+ "12481": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12482": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12483": {
+  "p": 0.6,
+  "duda": "Are die-cast models and scale-model kits usually listed as new (boxed/unbuilt) or used?"
+ },
+ "12484": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12485": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12486": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12487": {
+  "p": 0.55,
+  "duda": "How are collectibles (stamps, coins, banknotes, phone cards, old packs) usually labeled on MercadoLibre: new (mint/uncirculated) or used?"
+ },
+ "12488": {
+  "p": 0.45,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12489": {
+  "p": 0.4,
+  "duda": "Are budget 2-in-1 tablets/notebooks bundled with accessories from one-listing sellers usually new?"
+ },
+ "12490": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12491": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12492": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12493": {
+  "p": 0.45,
+  "duda": "Are football club shirts (specific maker, e.g. Napoli Macron) from small sellers usually new replicas or used shirts?"
+ },
+ "12494": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12495": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12496": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12497": {
+  "p": 0.5,
+  "duda": "Are car/motorcycle spare parts with no condition words (single-part listings by small sellers) usually used take-offs or new aftermarket stock?"
+ },
+ "12498": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12499": {
+  "p": 0.62,
+  "duda": "Are unbranded or cheap clothing/shoe items (no condition words, single small seller) more often used resales or new shop stock?"
+ },
+ "12500": {
+  "p": 0.5,
+  "duda": "Are hobby/sport gear sets (fishing reel+rod, binoculars) from one-listing sellers usually personal used gear?"
+ }
+}

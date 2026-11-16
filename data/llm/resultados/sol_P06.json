@@ -1,0 +1,402 @@
+{
+ "4501": {
+  "p": 0.48,
+  "duda": "What wording distinguishes new stock from personal resale in generic footwear listings without condition details?"
+ },
+ "4502": {
+  "p": 0.74,
+  "duda": "How should dated collectible magazines be distinguished from unused old stock when condition is omitted?"
+ },
+ "4503": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "4504": {
+  "p": 0.39,
+  "duda": "What additional evidence distinguishes a new music release from a resale merely described as nuevo?"
+ },
+ "4505": {
+  "p": 0.48,
+  "duda": "What evidence distinguishes retail stock from personal resale for branded handbags without condition wording?"
+ },
+ "4506": {
+  "p": 0.4,
+  "duda": "When are notebook chargers listed without condition details likely to be new replacements rather than previously used accessories?"
+ },
+ "4507": {
+  "p": 0.48,
+  "duda": "Does the recent-phone rule also apply to contemporary tablet models without condition details?"
+ },
+ "4508": {
+  "p": 0.62,
+  "duda": "How can original vehicle interior parts be distinguished from new OEM stock when no condition is stated?"
+ },
+ "4509": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4510": {
+  "p": 0.48,
+  "duda": "What wording distinguishes new collectible figures from opened or displayed figures when packaging is not mentioned?"
+ },
+ "4511": {
+  "p": 0.65,
+  "duda": "Should books described as estado de nuevo be treated like other as-new resale descriptions?"
+ },
+ "4512": {
+  "p": 0.6,
+  "duda": "How should retro decorative objects be distinguished from newly made retro-style merchandise?"
+ },
+ "4513": {
+  "p": 0.5,
+  "duda": "What evidence distinguishes unused collectible stamps from cancelled stamps when the title only identifies the series?"
+ },
+ "4514": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "4515": {
+  "p": 0.63,
+  "duda": "When an illustrated literary edition names its printmaker, how strongly does that indicate a vintage resale rather than new stock?"
+ },
+ "4516": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4517": {
+  "p": 0.7,
+  "duda": "When a short English title matches a language-course series, is that sufficient to identify the listing as study material?"
+ },
+ "4518": {
+  "p": 0.48,
+  "duda": "What evidence distinguishes new boxed die-cast models from previously owned collection pieces when condition is omitted?"
+ },
+ "4519": {
+  "p": 0.5,
+  "duda": "What wording distinguishes new stock from personal resale in children's rain-boot listings without condition details?"
+ },
+ "4520": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "4521": {
+  "p": 0.48,
+  "duda": "What evidence distinguishes new glassware sets from household resale when neither age nor condition is given?"
+ },
+ "4522": {
+  "p": 0.62,
+  "duda": "How can older remix vinyl releases be distinguished from unplayed old stock without condition or sealing information?"
+ },
+ "4523": {
+  "p": 0.4,
+  "duda": "What wording distinguishes newly made decorative brooches from previously owned jewelry?"
+ },
+ "4524": {
+  "p": 0.45,
+  "duda": "Should individual volumes of general-interest nonfiction series follow the general nonfiction prior without condition evidence?"
+ },
+ "4525": {
+  "p": 0.61,
+  "duda": "Does the professional-audio resale lean extend to complete acoustic drum kits?"
+ },
+ "4526": {
+  "p": 0.5,
+  "duda": "What product or condition information is conveyed by unconventional footwear names when no other details are supplied?"
+ },
+ "4527": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "4528": {
+  "p": 0.36,
+  "duda": "Does replica branding usually indicate newly manufactured apparel, or is condition still indeterminate?"
+ },
+ "4529": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4530": {
+  "p": 0.65,
+  "duda": "What evidence would distinguish new imported guitar pedals from the small-seller professional-audio resale pattern?"
+ },
+ "4531": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "4532": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4533": {
+  "p": 0.5,
+  "duda": "What wording distinguishes new branded sports equipment from an owner's resale when condition is absent?"
+ },
+ "4534": {
+  "p": 0.48,
+  "duda": "What evidence distinguishes retail fashion footwear from personal resale without condition wording?"
+ },
+ "4535": {
+  "p": 0.5,
+  "duda": "Does a complete dated stamp series imply unused stamps, or must mint versus cancelled condition be stated explicitly?"
+ },
+ "4536": {
+  "p": 0.51,
+  "duda": "Does a small mixed bundle of named collectible figures provide condition evidence without packaging details?"
+ },
+ "4537": {
+  "p": 0.45,
+  "duda": "How can older literary titles be distinguished from currently available new editions when no edition date is supplied?"
+ },
+ "4538": {
+  "p": 0.45,
+  "duda": "Should historical books with no edition or condition details retain the general nonfiction prior?"
+ },
+ "4539": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "4540": {
+  "p": 0.6,
+  "duda": "Does esta en garantia usually describe an already purchased phone with remaining coverage rather than a new retail warranty?"
+ },
+ "4541": {
+  "p": 0.45,
+  "duda": "Does a generic guarantee of book quality provide any condition evidence beyond the general nonfiction prior?"
+ },
+ "4542": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "4543": {
+  "p": 0.5,
+  "duda": "What evidence distinguishes new military-style riding boots from previously worn boots when condition is omitted?"
+ },
+ "4544": {
+  "p": 0.47,
+  "duda": "Does a brand and exact shoe size provide meaningful condition evidence without an explicit condition description?"
+ },
+ "4545": {
+  "p": 0.65,
+  "duda": "What evidence would distinguish new guitar amplifiers from the small-seller professional-audio resale pattern?"
+ },
+ "4546": {
+  "p": 0.65,
+  "duda": "What additional evidence can distinguish unopened retail electronics from owner resale described only as sin uso?"
+ },
+ "4547": {
+  "p": 0.13,
+  "duda": ""
+ },
+ "4548": {
+  "p": 0.6,
+  "duda": "How should individual older trading cards be classified when neither play wear nor mint condition is specified?"
+ },
+ "4549": {
+  "p": 0.45,
+  "duda": "How can legal or labor-history books be distinguished from study manuals when the title could fit either purpose?"
+ },
+ "4550": {
+  "p": 0.58,
+  "duda": "Does estilo 80 describe vintage apparel or newly made clothing inspired by that period?"
+ },
+ "4551": {
+  "p": 0.6,
+  "duda": "How can parts for classic vehicles be distinguished from newly fabricated restoration replacements?"
+ },
+ "4552": {
+  "p": 0.7,
+  "duda": "How can vintage branded promotional toys be distinguished from modern reproductions or unused old stock?"
+ },
+ "4553": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "4554": {
+  "p": 0.3,
+  "duda": "Should vintage water-transfer decals that remain transferable count as unused old stock despite their age?"
+ },
+ "4555": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4556": {
+  "p": 0.45,
+  "duda": "Does a seller's general professionalism guarantee provide any evidence that a literary book is new?"
+ },
+ "4557": {
+  "p": 0.48,
+  "duda": "What evidence distinguishes newly made silver religious jewelry from personal resale when condition is unstated?"
+ },
+ "4558": {
+  "p": 0.45,
+  "duda": "Should narrative nonfiction without condition or edition details retain the general nonfiction prior?"
+ },
+ "4559": {
+  "p": 0.49,
+  "duda": "What evidence distinguishes retail stock from personal resale for branded handbags without condition wording?"
+ },
+ "4560": {
+  "p": 0.54,
+  "duda": "How can embroidered linen sets be distinguished from unused household trousseau or newly manufactured stock?"
+ },
+ "4561": {
+  "p": 0.62,
+  "duda": "How should obsolete collectible coins be classified when circulation or mint condition is not specified?"
+ },
+ "4562": {
+  "p": 0.45,
+  "duda": "Should contemporary self-help books without condition details follow the general nonfiction prior?"
+ },
+ "4563": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4564": {
+  "p": 0.45,
+  "duda": "Should historical books with no edition or condition details retain the general nonfiction prior?"
+ },
+ "4565": {
+  "p": 0.5,
+  "duda": "What evidence distinguishes new home exercise machines from personal resale when no condition information is supplied?"
+ },
+ "4566": {
+  "p": 0.5,
+  "duda": "How can collectible album stickers be distinguished as unused, removed from an album, or reproductions without condition details?"
+ },
+ "4567": {
+  "p": 0.48,
+  "duda": "Does promotional praise such as espectacular convey any condition evidence for branded clothing?"
+ },
+ "4568": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4569": {
+  "p": 0.62,
+  "duda": "How can trim panels for discontinued vehicles be distinguished from new replacement stock?"
+ },
+ "4570": {
+  "p": 0.5,
+  "duda": "What evidence distinguishes newly manufactured wall lights from previously installed fixtures when condition is omitted?"
+ },
+ "4571": {
+  "p": 0.49,
+  "duda": "Does importado provide any condition evidence for occasion dresses without further description?"
+ },
+ "4572": {
+  "p": 0.78,
+  "duda": "How should historical banknotes be classified when authenticity is implied but circulated versus uncirculated condition is unspecified?"
+ },
+ "4573": {
+  "p": 0.52,
+  "duda": "What evidence distinguishes new workshop tools from used tools when only the generic tool name is given?"
+ },
+ "4574": {
+  "p": 0.46,
+  "duda": "Are named partwork die-cast car collections commonly sold as new stock when packaging is not mentioned?"
+ },
+ "4575": {
+  "p": 0.52,
+  "duda": "How should a title consisting only of an Olympic host city and year be identified as a video game versus other memorabilia?"
+ },
+ "4576": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4577": {
+  "p": 0.45,
+  "duda": "Should novels without condition or edition details retain the literature prior?"
+ },
+ "4578": {
+  "p": 0.54,
+  "duda": "Does inspection before collection imply used apparel, or is it also routine for new clothing?"
+ },
+ "4579": {
+  "p": 0.4,
+  "duda": "Does specific imported character branding distinguish retail children's footwear from personal resale without condition details?"
+ },
+ "4580": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "4581": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "4582": {
+  "p": 0.45,
+  "duda": "How can newly assembled commercial jukeboxes be distinguished from previously operated machines without condition or warranty details?"
+ },
+ "4583": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4584": {
+  "p": 0.38,
+  "duda": "Does an official contemporary sticker album imply an empty new album unless filling or completion is mentioned?"
+ },
+ "4585": {
+  "p": 0.48,
+  "duda": "What wording distinguishes imported rain boots sold as new stock from personal resale?"
+ },
+ "4586": {
+  "p": 0.4,
+  "duda": "Does a complete interchangeable-lens sports-eyewear kit provide evidence of new retail stock without condition wording?"
+ },
+ "4587": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "4588": {
+  "p": 0.65,
+  "duda": "Should estado nuevo in a book-condition guarantee be interpreted as as-new resale wording rather than explicit new stock?"
+ },
+ "4589": {
+  "p": 0.65,
+  "duda": "Does a bookseller's promise to inspect and disclose defects meaningfully indicate secondhand books?"
+ },
+ "4590": {
+  "p": 0.6,
+  "duda": "How can rare imported miniature soldiers be distinguished as new collection stock versus previously owned loose figures?"
+ },
+ "4591": {
+  "p": 0.45,
+  "duda": "What evidence distinguishes newly made rustic table runners from used household textiles without condition wording?"
+ },
+ "4592": {
+  "p": 0.6,
+  "duda": "How can body panels for older imported cars be distinguished from new aftermarket or OEM replacements?"
+ },
+ "4593": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4594": {
+  "p": 0.55,
+  "duda": "What evidence distinguishes new home IPL devices from personal resale when cartridge use and condition are unstated?"
+ },
+ "4595": {
+  "p": 0.24,
+  "duda": ""
+ },
+ "4596": {
+  "p": 0.5,
+  "duda": "What evidence distinguishes new branded football boots from used pairs when only model and size are supplied?"
+ },
+ "4597": {
+  "p": 0.52,
+  "duda": "What evidence distinguishes new branded fashion sandals from personal resale without condition wording?"
+ },
+ "4598": {
+  "p": 0.72,
+  "duda": "Are internal laptop webcam modules identified by OEM part number usually salvaged, or commonly available as new service parts?"
+ },
+ "4599": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "4600": {
+  "p": 0.82,
+  "duda": ""
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "4201": {
+  "p": 0.62,
+  "duda": "Are old albums of niche/foreign folk bands (title only, no format) usually second-hand rather than reissues sold new?"
+ },
+ "4202": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4203": {
+  "p": 0.65,
+  "duda": "Are 1990s vinyl 12-inch singles from small record sellers usually used, or new old stock?"
+ },
+ "4204": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4205": {
+  "p": 0.45,
+  "duda": "When a title is only a book name with no author, edition or condition, should it default to the general non-fiction lean (new) or stay 50/50?"
+ },
+ "4206": {
+  "p": 0.6,
+  "duda": "Are children's clothing/shoes with brand and size but no condition words, priced below retail, usually used?"
+ },
+ "4207": {
+  "p": 0.6,
+  "duda": "Are single vintage trading cards (e.g., 1999 Pokemon Base Set) usually labeled used or new?"
+ },
+ "4208": {
+  "p": 0.52,
+  "duda": "For generic unbranded clothing with no condition words, is there any lean beyond 50/50?"
+ },
+ "4209": {
+  "p": 0.42,
+  "duda": "Are branded phone accessories (power banks, chargers) from one-time sellers usually new?"
+ },
+ "4210": {
+  "p": 0.45,
+  "duda": "Are rare imported CDs from large music dealers usually sold new or used?"
+ },
+ "4211": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4212": {
+  "p": 0.45,
+  "duda": "Are dog houses and similar handmade goods usually new (craftsman-made) or used?"
+ },
+ "4213": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4214": {
+  "p": 0.5,
+  "duda": "Are decorative paintings from private sellers usually labeled new (artist's work) or used?"
+ },
+ "4215": {
+  "p": 0.6,
+  "duda": "Does rule 3 (pro audio/video gear from small sellers leans used) also apply to DJ/stage lighting effects?"
+ },
+ "4216": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (land, houses, apartments) labeled in this dataset: new, used, or by 'a estrenar' status?"
+ },
+ "4217": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4218": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4219": {
+  "p": 0.55,
+  "duda": "Are store fixtures (slatwall shelves, display racks) usually sold used by closing shops or new by manufacturers?"
+ },
+ "4220": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4221": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4222": {
+  "p": 0.68,
+  "duda": "Is a book priced far below new retail (e.g., 70 ARS in 2015) a reliable sign that it is used?"
+ },
+ "4223": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4224": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4225": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4226": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (land, houses, apartments) labeled in this dataset: new, used, or by 'a estrenar' status?"
+ },
+ "4227": {
+  "p": 0.5,
+  "duda": "Are Argentine rock CDs priced around retail (~100 ARS in 2015) usually new?"
+ },
+ "4228": {
+  "p": 0.52,
+  "duda": "How are real-estate listings (land, houses, apartments) labeled in this dataset: new, used, or by 'a estrenar' status?"
+ },
+ "4229": {
+  "p": 0.68,
+  "duda": "Does a warranty text that excludes wear damage imply the item is used/vintage?"
+ },
+ "4230": {
+  "p": 0.42,
+  "duda": "Are cheap branded kitchenware items from small sellers usually new?"
+ },
+ "4231": {
+  "p": 0.55,
+  "duda": "Are aftermarket motorcycle parts (e.g., exhausts) from one-time sellers usually used take-offs?"
+ },
+ "4232": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4233": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4234": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4235": {
+  "p": 0.52,
+  "duda": "How are real-estate listings (land, houses, apartments) labeled in this dataset: new, used, or by 'a estrenar' status?"
+ },
+ "4236": {
+  "p": 0.45,
+  "duda": "Are engine parts marked 'original' for older vehicles usually new old stock from parts shops or used take-offs?"
+ },
+ "4237": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4238": {
+  "p": 0.6,
+  "duda": "Are imported English academic/science books from book sellers usually used?"
+ },
+ "4239": {
+  "p": 0.42,
+  "duda": "Are wooden furniture pieces (e.g., wine racks) with no condition words usually new, carpenter-made?"
+ },
+ "4240": {
+  "p": 0.6,
+  "duda": "Are imported branded apparel items (e.g., rodeo jackets) from one-time sellers usually used?"
+ },
+ "4241": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4242": {
+  "p": 0.6,
+  "duda": "Does 'Vendo' at the start of a title signal a private used sale?"
+ },
+ "4243": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4244": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4245": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4246": {
+  "p": 0.4,
+  "duda": "Are uncirculated ('sc', 'sin circular') banknotes and coins labeled new or used?"
+ },
+ "4247": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4248": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4249": {
+  "p": 0.38,
+  "duda": "How are real-estate listings (land, houses, apartments) labeled in this dataset: new, used, or by 'a estrenar' status?"
+ },
+ "4250": {
+  "p": 0.4,
+  "duda": "Are boxed collectible figures (Funko Pop) from single sellers usually new?"
+ },
+ "4251": {
+  "p": 0.6,
+  "duda": "Are bundles of an electronics item plus its accessory (e.g., speaker + cradle) from one-time sellers usually used?"
+ },
+ "4252": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4253": {
+  "p": 0.42,
+  "duda": "Are unbranded leather shoes with a size range (41-42) usually new from small producers?"
+ },
+ "4254": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4255": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4256": {
+  "p": 0.62,
+  "duda": "Are designer-replica furniture pieces (e.g., Mies chair) from one-time sellers usually used?"
+ },
+ "4257": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4258": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4259": {
+  "p": 0.45,
+  "duda": "When a title is only a book name with no author, edition or condition, should it default to the general non-fiction lean (new) or stay 50/50?"
+ },
+ "4260": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4261": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4262": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4263": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4264": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4265": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4266": {
+  "p": 0.62,
+  "duda": "Is a bed sold together with its mattress by a private seller usually used?"
+ },
+ "4267": {
+  "p": 0.55,
+  "duda": "Are original DVDs of recent movies/series from one-time sellers usually used?"
+ },
+ "4268": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4269": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4270": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4271": {
+  "p": 0.5,
+  "duda": "Are children's clothing/shoes with brand and size but no condition words, priced below retail, usually used?"
+ },
+ "4272": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4273": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4274": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4275": {
+  "p": 0.55,
+  "duda": "Are 'importados' shoes from one-time sellers usually used?"
+ },
+ "4276": {
+  "p": 0.45,
+  "duda": "Are trading stickers (figuritas) offered for sale or swap ('canje') labeled new or used?"
+ },
+ "4277": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4278": {
+  "p": 0.58,
+  "duda": "Are branded t-shirts priced well below retail usually used?"
+ },
+ "4279": {
+  "p": 0.4,
+  "duda": "Are hand tools from sellers with several listings usually new?"
+ },
+ "4280": {
+  "p": 0.62,
+  "duda": "Are children's clothing/shoes with brand and size but no condition words, priced below retail, usually used?"
+ },
+ "4281": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4282": {
+  "p": 0.58,
+  "duda": "Does a pickup neighborhood in the title (e.g., 'x Almagro') signal a private used sale?"
+ },
+ "4283": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4284": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4285": {
+  "p": 0.6,
+  "duda": "Are expensive engine parts (e.g., turbos) priced below new retail usually used or rebuilt?"
+ },
+ "4286": {
+  "p": 0.5,
+  "duda": "Are design furniture pieces with 'Sin garantía' from small sellers usually used?"
+ },
+ "4287": {
+  "p": 0.55,
+  "duda": "Are original DVDs of recent movies/series from one-time sellers usually used?"
+ },
+ "4288": {
+  "p": 0.45,
+  "duda": "Are DVDs of theatre plays sold by producers/authors labeled new?"
+ },
+ "4289": {
+  "p": 0.5,
+  "duda": "Are 'original' licensed collectible mugs usually new or used?"
+ },
+ "4290": {
+  "p": 0.6,
+  "duda": "Are original OEM tools from vehicle toolkits usually used?"
+ },
+ "4291": {
+  "p": 0.62,
+  "duda": "Do teacher-training / pedagogy books count as study material (leans used)?"
+ },
+ "4292": {
+  "p": 0.55,
+  "duda": "Are 1990s imported new-age CDs at high prices usually new imports or used?"
+ },
+ "4293": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4294": {
+  "p": 0.52,
+  "duda": "Does rule 2 (named phone leans new) still apply to models already discontinued by 2015, such as iPhone 5 or Galaxy Pocket?"
+ },
+ "4295": {
+  "p": 0.5,
+  "duda": "Does rule 2 (named phone leans new) still apply to models already discontinued by 2015, such as iPhone 5 or Galaxy Pocket?"
+ },
+ "4296": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4297": {
+  "p": 0.52,
+  "duda": "How are real-estate listings (land, houses, apartments) labeled in this dataset: new, used, or by 'a estrenar' status?"
+ },
+ "4298": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4299": {
+  "p": 0.4,
+  "duda": "Are helmets usually sold new, since buyers avoid used helmets?"
+ },
+ "4300": {
+  "p": 0.62,
+  "duda": "Are very cheap original DVDs (well below retail) from large media sellers usually used?"
+ }
+}

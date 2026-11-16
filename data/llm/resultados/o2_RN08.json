@@ -1,0 +1,402 @@
+{
+ "16701": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16702": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16703": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16704": {
+  "p": 0.63,
+  "duda": "Are cheap single pairs of shoes described only by color and size (no brand) usually personal resales (used) or shop stock?"
+ },
+ "16705": {
+  "p": 0.35,
+  "duda": "Are small decorative boxes/organizers (tea-bag boxes, etc.) without brand usually handmade new items or household resales?"
+ },
+ "16706": {
+  "p": 0.45,
+  "duda": "Are branded promotional merchandise items (e.g. Hellmann's condiment holders) usually listed as new or used?"
+ },
+ "16707": {
+  "p": 0.55,
+  "duda": "Are obscure 19th-century history titles sold by high-volume book sellers usually old used copies or new reprints?"
+ },
+ "16708": {
+  "p": 0.5,
+  "duda": "Are collectible coins and stamps from numismatic/philatelic dealers usually labeled new or used?"
+ },
+ "16709": {
+  "p": 0.5,
+  "duda": "Are women's handbags from Argentine brands (Indu, etc.) listed with one photo on free tier usually new or used?"
+ },
+ "16710": {
+  "p": 0.55,
+  "duda": "Do sellers who tag items with inventory codes like (c1) and 'se envía la pieza que se publica' usually sell vintage/used pieces?"
+ },
+ "16711": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16712": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16713": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16714": {
+  "p": 0.35,
+  "duda": "Are vouchers/gift or complimentary cards (airline wifi cards, etc.) labeled new or used?"
+ },
+ "16715": {
+  "p": 0.55,
+  "duda": "Are cheap baby walkers/ride-ons from toy brands (New Plast) priced below retail usually used?"
+ },
+ "16716": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16717": {
+  "p": 0.55,
+  "duda": "Are art/coffee-table books about Buenos Aires landmarks sold cheaply by small sellers usually used copies?"
+ },
+ "16718": {
+  "p": 0.58,
+  "duda": "How are real-estate listings (apartments/houses for sale or rent) labeled in this dataset: new or used?"
+ },
+ "16719": {
+  "p": 0.4,
+  "duda": "Are car batteries (Willard, Moura) listed at near-retail price usually new, or are used batteries common?"
+ },
+ "16720": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16721": {
+  "p": 0.35,
+  "duda": "Are handmade cushions/home textiles without brand usually listed as new?"
+ },
+ "16722": {
+  "p": 0.4,
+  "duda": "Are hand-painted porcelain items (sugar bowls, etc.) usually new artisan work or used/vintage pieces?"
+ },
+ "16723": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16724": {
+  "p": 0.4,
+  "duda": "Are women's coats/trench coats in plus sizes from small sellers usually new stock or used?"
+ },
+ "16725": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16726": {
+  "p": 0.4,
+  "duda": "Do listings 'en liquidación' of brand accessories (Isadora) indicate shop clearance (new) or personal resale?"
+ },
+ "16727": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16728": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16729": {
+  "p": 0.45,
+  "duda": "Are clothes described as 'importada de NYC' by small sellers usually new items brought from travel or used?"
+ },
+ "16730": {
+  "p": 0.6,
+  "duda": "Are vintage car parts labeled 'original' (old models like Chevrolet 51) usually NOS (new) or used/removed parts?"
+ },
+ "16731": {
+  "p": 0.63,
+  "duda": "Are formal suits/tuxedos sold by individuals usually used (worn once) or new?"
+ },
+ "16732": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16733": {
+  "p": 0.55,
+  "duda": "Are branded clothing items (Polo Ralph Lauren) sold singly on free tier usually used resales or new (possibly replicas)?"
+ },
+ "16734": {
+  "p": 0.45,
+  "duda": "Are imported underground metal CDs sold by individuals usually new sealed copies or used collection items?"
+ },
+ "16735": {
+  "p": 0.6,
+  "duda": "Are starter motors/alternators for cars sold well below new price usually used or rebuilt (labeled used)?"
+ },
+ "16736": {
+  "p": 0.5,
+  "duda": "Are expensive industrial machines (dispersers, mixers) without brand usually new from manufacturers or used equipment?"
+ },
+ "16737": {
+  "p": 0.4,
+  "duda": "Are dresses from Argentine designer brands (Vitamina) listed at full retail price usually new or used?"
+ },
+ "16738": {
+  "p": 0.55,
+  "duda": "Is a recent phone listed together with an accessory (case) a sign of a personal used resale?"
+ },
+ "16739": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16740": {
+  "p": 0.55,
+  "duda": "Are radar detectors listed 'con accesorios' and 'oferta' by single-listing sellers usually used or new?"
+ },
+ "16741": {
+  "p": 0.4,
+  "duda": "Are luxury watches with English-language titles (Emporio Armani) usually new imports or used?"
+ },
+ "16742": {
+  "p": 0.4,
+  "duda": "Are cheap hardware replacement parts (electric lock strikes) usually new?"
+ },
+ "16743": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16744": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16745": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "16746": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "16747": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16748": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16749": {
+  "p": 0.5,
+  "duda": "Are high-end sewing/embroidery machines (Brother Innovis) sold by individuals usually used or new imports?"
+ },
+ "16750": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16751": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16752": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "16753": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16754": {
+  "p": 0.45,
+  "duda": "Are professional cleaning tools (Tornador gun) sold by individuals with one sale usually new or used?"
+ },
+ "16755": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "16756": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16757": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16758": {
+  "p": 0.45,
+  "duda": "Are small decorative perfume holders/roll-ons without brand usually new trinkets or used vintage items?"
+ },
+ "16759": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16760": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16761": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16762": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16763": {
+  "p": 0.5,
+  "duda": "Are magazine back issues (Revista Sudestada etc.) usually labeled new or used?"
+ },
+ "16764": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16765": {
+  "p": 0.4,
+  "duda": "Do high-volume book sellers with mixed catalogs sell mainly used copies or new stock of classic non-fiction?"
+ },
+ "16766": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16767": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16768": {
+  "p": 0.6,
+  "duda": "Are embroidered formal blouses (madrina, alta costura) sold singly usually used?"
+ },
+ "16769": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16770": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16771": {
+  "p": 0.5,
+  "duda": "Are hanging boxing bags sold by individuals at modest prices usually used or new?"
+ },
+ "16772": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16773": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16774": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16775": {
+  "p": 0.62,
+  "duda": "Do book sellers that add letter codes like (a) to titles of academic books sell used copies?"
+ },
+ "16776": {
+  "p": 0.62,
+  "duda": "Is a high-end phone (LG G Flex) listed far below its new price a sign it is used even without condition words?"
+ },
+ "16777": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16778": {
+  "p": 0.35,
+  "duda": "Are entry-level car stereos (Pioneer DEH) sold with several units on gold tier usually new?"
+ },
+ "16779": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16780": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16781": {
+  "p": 0.5,
+  "duda": "Are old foreign literature titles (Handke) from mixed high-volume book sellers usually used copies?"
+ },
+ "16782": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16783": {
+  "p": 0.45,
+  "duda": "Are hair straighteners sold by individuals at near-retail price usually new or used?"
+ },
+ "16784": {
+  "p": 0.5,
+  "duda": "How are rental property listings (quintas for daily/weekly rental) labeled: new or used?"
+ },
+ "16785": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16786": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "16787": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16788": {
+  "p": 0.55,
+  "duda": "Are comic book issues (Marvel, X-Men) sold singly at low price usually used or new?"
+ },
+ "16789": {
+  "p": 0.45,
+  "duda": "Are popular romance paperbacks (Julia Quinn) sold cheaply by small sellers usually used or new?"
+ },
+ "16790": {
+  "p": 0.55,
+  "duda": "Are expensive Asian decorative items (incense burners) from individuals usually used/antique?"
+ },
+ "16791": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16792": {
+  "p": 0.42,
+  "duda": ""
+ },
+ "16793": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16794": {
+  "p": 0.55,
+  "duda": "Are RC model engines/parts (Align, OS) sold by individuals usually used?"
+ },
+ "16795": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16796": {
+  "p": 0.55,
+  "duda": "Are baby clothes from Argentine brands (Magdalena Esposito) sold singly usually used?"
+ },
+ "16797": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16798": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16799": {
+  "p": 0.55,
+  "duda": "Are women's blouses from local brands (Akiabara) sold singly at low price usually used?"
+ },
+ "16800": {
+  "p": 0.55,
+  "duda": "Do sellers with many kids' clothing listings at very low prices and 'perfectas condiciones' sell used clothes?"
+ }
+}

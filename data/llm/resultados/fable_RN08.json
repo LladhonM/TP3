@@ -1,0 +1,402 @@
+{
+ "16701": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16702": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16703": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16704": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16705": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16706": {
+  "p": 0.42,
+  "duda": "Are branded promotional/merchandising items (e.g. restaurant condiment holders with a brand logo) usually listed as new or as used collectibles?"
+ },
+ "16707": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16708": {
+  "p": 0.6,
+  "duda": "Do professional numismatic/philatelic dealers usually list old coins and stamps as used or as new?"
+ },
+ "16709": {
+  "p": 0.47,
+  "duda": "When a handbag listing gives only a brand name and no condition words, is it more often a personal resale (used) or new stock?"
+ },
+ "16710": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16711": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16712": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16713": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16714": {
+  "p": 0.4,
+  "duda": "Are unused vouchers, cards and airline memorabilia typically listed as new or as used collectibles?"
+ },
+ "16715": {
+  "p": 0.65,
+  "duda": "Are baby gear items (walkers, strollers) listed by one-off sellers on the free tier mostly second-hand?"
+ },
+ "16716": {
+  "p": 0.65,
+  "duda": "Do mid-size sellers of out-of-print Argentine essays/history books (warranty text like 'consulte reputacion') usually list them as used?"
+ },
+ "16717": {
+  "p": 0.6,
+  "duda": "Are art/coffee-table books sold by individuals with pickup-only terms usually listed as used?"
+ },
+ "16718": {
+  "p": 0.45,
+  "duda": "How are real-estate listings (apartments for sale, with building age stated) labelled in this dataset: new or used?"
+ },
+ "16719": {
+  "p": 0.35,
+  "duda": "Are car batteries listed by one-off sellers without photos usually new units or second-hand ones?"
+ },
+ "16720": {
+  "p": 0.65,
+  "duda": "Are out-of-print role-playing game modules and supplements generally listed as used?"
+ },
+ "16721": {
+  "p": 0.4,
+  "duda": "Are generic cushions/upholstery items from one-off sellers usually made-to-order new goods or second-hand?"
+ },
+ "16722": {
+  "p": 0.35,
+  "duda": "Is 'pintada a mano' porcelain typically a new handcrafted product or an antique/used piece?"
+ },
+ "16723": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16724": {
+  "p": 0.45,
+  "duda": "When a clothing title describes garment type, colour and size but no brand or condition, is it more often new or used?"
+ },
+ "16725": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16726": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16727": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16728": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16729": {
+  "p": 0.45,
+  "duda": "Does 'importada de' (brought from abroad) in clothing titles indicate new resale items or personal used clothing?"
+ },
+ "16730": {
+  "p": 0.45,
+  "duda": "Are 'original' parts for classic cars (1950s) usually new-old-stock listed as new, or salvaged parts listed as used?"
+ },
+ "16731": {
+  "p": 0.65,
+  "duda": "Are formal wear items (tuxedos, party dresses) from one-off sellers with no condition words mostly used?"
+ },
+ "16732": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16733": {
+  "p": 0.55,
+  "duda": "Are premium-brand garments listed by individuals on the free tier with no condition words more often used than new?"
+ },
+ "16734": {
+  "p": 0.5,
+  "duda": "Are imported underground metal CDs from small sellers usually new distro stock or used collection copies?"
+ },
+ "16735": {
+  "p": 0.6,
+  "duda": "Are car starter motors/alternators with a brand name and a city in the title usually used or reconditioned parts?"
+ },
+ "16736": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16737": {
+  "p": 0.55,
+  "duda": "Are premium-brand garments listed by individuals on the free tier with no condition words more often used than new?"
+ },
+ "16738": {
+  "p": 0.55,
+  "duda": "Does a phone listed together with a personal accessory (e.g. '+ funda' of a specific colour) indicate a used phone?"
+ },
+ "16739": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16740": {
+  "p": 0.6,
+  "duda": "Does 'con accesorios' on an electronics listing from a one-off seller indicate a second-hand item?"
+ },
+ "16741": {
+  "p": 0.4,
+  "duda": "Do titles copied in English from foreign retail sites indicate new imported goods?"
+ },
+ "16742": {
+  "p": 0.5,
+  "duda": "Are low-priced hardware items (locks, electrical parts) from one-off free-tier sellers usually used leftovers or new?"
+ },
+ "16743": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16744": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16745": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16746": {
+  "p": 0.38,
+  "duda": "When a small seller of second-hand books writes 'Nuevo' in a title, is the item actually labelled new?"
+ },
+ "16747": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16748": {
+  "p": 0.4,
+  "duda": "Are political badges/rosettes sold cheaply usually newly made merchandise or used memorabilia?"
+ },
+ "16749": {
+  "p": 0.6,
+  "duda": "Are high-end domestic sewing/embroidery machines from one-off sellers usually second-hand?"
+ },
+ "16750": {
+  "p": 0.55,
+  "duda": "Does a warranty text like 'garantía 100% de descripción' signal a vintage/second-hand clothing seller?"
+ },
+ "16751": {
+  "p": 0.35,
+  "duda": "Does a full spec-sheet style phone title from a one-off seller indicate a new unit?"
+ },
+ "16752": {
+  "p": 0.5,
+  "duda": "When a personal seller writes 'nuevo (sin ningún uso)' for a dress, do they select new or used as the listing condition?"
+ },
+ "16753": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16754": {
+  "p": 0.35,
+  "duda": "Are car-detailing tools from one-off sellers with no condition words usually new?"
+ },
+ "16755": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "16756": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16757": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16758": {
+  "p": 0.45,
+  "duda": "Are small decorative accessories (perfume bottles, trinkets) with 'sin garantía' usually new giftware or used items?"
+ },
+ "16759": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16760": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16761": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16762": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16763": {
+  "p": 0.55,
+  "duda": "Are back issues of magazines generally listed as used even if unread?"
+ },
+ "16764": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16765": {
+  "p": 0.5,
+  "duda": "Do booksellers with 20–40 listings and no warranty text mostly sell used or new books?"
+ },
+ "16766": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16767": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16768": {
+  "p": 0.65,
+  "duda": "Are formal wear items (tuxedos, party dresses) from one-off sellers with no condition words mostly used?"
+ },
+ "16769": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16770": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16771": {
+  "p": 0.55,
+  "duda": "Are fitness items (punching bags, weights) from one-off free-tier sellers more often used?"
+ },
+ "16772": {
+  "p": 0.6,
+  "duda": "Are spare parts for very old laptop models usually pulled (used) parts or new-old-stock?"
+ },
+ "16773": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16774": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16775": {
+  "p": 0.65,
+  "duda": "Do booksellers who add internal codes like '(a)' or 'B6' to titles sell used books?"
+ },
+ "16776": {
+  "p": 0.5,
+  "duda": "Does a bare phone title ('Celular + model') with a single camera photo from a one-off seller indicate a used phone despite the recent-model rule?"
+ },
+ "16777": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16778": {
+  "p": 0.6,
+  "duda": "Are car stereos of discontinued models listed by one-off sellers usually used?"
+ },
+ "16779": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16780": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16781": {
+  "p": 0.6,
+  "duda": "Do booksellers with 20–40 listings and no warranty text mostly sell used or new books?"
+ },
+ "16782": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16783": {
+  "p": 0.6,
+  "duda": "Are small personal-care appliances (hair straighteners) from one-off free-tier sellers with no warranty usually used?"
+ },
+ "16784": {
+  "p": 0.45,
+  "duda": "How are rental listings (temporary rental of houses) labelled in this dataset: new or used?"
+ },
+ "16785": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16786": {
+  "p": 0.35,
+  "duda": "Does a 'cambio por defectos' warranty on a book indicate a seller of new copies?"
+ },
+ "16787": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16788": {
+  "p": 0.5,
+  "duda": "Are single issues of superhero comics from one-off sellers usually used or new?"
+ },
+ "16789": {
+  "p": 0.55,
+  "duda": "Are popular romance paperbacks from mid-size sellers with a bare 'Sí' warranty used or new?"
+ },
+ "16790": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16791": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16792": {
+  "p": 0.55,
+  "duda": "Does a 'money back if faulty' warranty from a 20+ listing bookseller indicate new or used books?"
+ },
+ "16793": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16794": {
+  "p": 0.55,
+  "duda": "Are RC hobby components (engines, servos) from one-off sellers usually used or surplus-new?"
+ },
+ "16795": {
+  "p": 0.65,
+  "duda": "Are 'descatalogado' cassettes/CDs usually used copies, or sealed old stock listed as new?"
+ },
+ "16796": {
+  "p": 0.6,
+  "duda": "Are designer-brand baby clothes listed by one-off sellers usually used?"
+ },
+ "16797": {
+  "p": 0.67,
+  "duda": ""
+ },
+ "16798": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16799": {
+  "p": 0.6,
+  "duda": "Are premium-brand garments listed by individuals with no condition words more often used than new?"
+ },
+ "16800": {
+  "p": 0.7,
+  "duda": ""
+ }
+}

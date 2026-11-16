@@ -1,0 +1,10 @@
+# Datos de la competencia (se bajan de Kaggle) y cachés que genera el pipeline
+data/*.jsonlines
+data/processed/
+
+# Lo que genera el notebook 1
+modelo/
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

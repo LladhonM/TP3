@@ -1,0 +1,402 @@
+{
+ "2701": {
+  "p": 0.5,
+  "duda": "Do aftermarket vehicle tuning modules have a reliable condition signal when packaging and prior installation are not mentioned?"
+ },
+ "2702": {
+  "p": 0.73,
+  "duda": "Are original trim panels for long-discontinued cars generally salvaged parts or unused old stock?"
+ },
+ "2703": {
+  "p": 0.65,
+  "duda": "Does the small-seller used-audio-gear tendency also apply to guitar pickup sets?"
+ },
+ "2704": {
+  "p": 0.45,
+  "duda": "For collectible stamps, does used condition primarily mean postmarked, or can previously owned mint stamps also count as used?"
+ },
+ "2705": {
+  "p": 0.45,
+  "duda": "Are less widely distributed Argentine music CDs commonly available as unused back-catalog stock?"
+ },
+ "2706": {
+  "p": 0.52,
+  "duda": "Do player-number football shirts from recent past seasons usually represent personal resale or unsold new merchandise?"
+ },
+ "2707": {
+  "p": 0.5,
+  "duda": "What distinguishes new replacement pool pumps from previously installed pumps when condition is unstated?"
+ },
+ "2708": {
+  "p": 0.48,
+  "duda": "Are collector-edition music DVD boxes commonly sold as unused stock years after release without a sealing claim?"
+ },
+ "2709": {
+  "p": 0.46,
+  "duda": "For collectible stamps, does used condition primarily mean postmarked, or can previously owned mint stamps also count as used?"
+ },
+ "2710": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "2711": {
+  "p": 0.65,
+  "duda": "How much should a long exchange warranty offset an explicit like-new description on computer hardware?"
+ },
+ "2712": {
+  "p": 0.5,
+  "duda": "Does a generic ladder specification provide any reliable condition evidence without packaging or usage details?"
+ },
+ "2713": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "2714": {
+  "p": 0.52,
+  "duda": "Are original replacement audio remotes generally used takeoffs or unused spare parts?"
+ },
+ "2715": {
+  "p": 0.77,
+  "duda": "How often were five-year-old smartphone models sold as unused old stock in 2015?"
+ },
+ "2716": {
+  "p": 0.48,
+  "duda": "Are football club pennants without vintage or condition claims usually new merchandise or collected memorabilia?"
+ },
+ "2717": {
+  "p": 0.38,
+  "duda": "Are certified commemorative coins classified as new when previously owned but uncirculated?"
+ },
+ "2718": {
+  "p": 0.36,
+  "duda": "Does handmade wording alone indicate newly produced clothing when condition is unstated?"
+ },
+ "2719": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "2720": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2721": {
+  "p": 0.78,
+  "duda": "How strongly should discontinued console games lean used when sealed packaging is not mentioned?"
+ },
+ "2722": {
+  "p": 0.5,
+  "duda": "What wording distinguishes newly made wooden kitchen boards from household resale when condition is unstated?"
+ },
+ "2723": {
+  "p": 0.4,
+  "duda": "Should a new claim on an older music release imply unused stock without a sealing claim?"
+ },
+ "2724": {
+  "p": 0.24,
+  "duda": ""
+ },
+ "2725": {
+  "p": 0.5,
+  "duda": "Do branded football shirts without season or condition details provide any reliable evidence of prior use?"
+ },
+ "2726": {
+  "p": 0.07,
+  "duda": ""
+ },
+ "2727": {
+  "p": 0.38,
+  "duda": "How much additional evidence does an abbreviated new claim provide for a hardcover book without a sealing claim?"
+ },
+ "2728": {
+  "p": 0.29,
+  "duda": "Are newly decorated or upcycled household objects classified as new after modification?"
+ },
+ "2729": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2730": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "2731": {
+  "p": 0.5,
+  "duda": "Do material and size details alone provide any reliable evidence of clothing or footwear condition?"
+ },
+ "2732": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2733": {
+  "p": 0.5,
+  "duda": "Can a generic hand tool be distinguished from new stock without condition or packaging details?"
+ },
+ "2734": {
+  "p": 0.46,
+  "duda": "Does unique-design wording typically describe newly made decorative objects or collectible resale?"
+ },
+ "2735": {
+  "p": 0.5,
+  "duda": "Without condition or installation details, can household fixtures be reliably classified as new or used?"
+ },
+ "2736": {
+  "p": 0.45,
+  "duda": "Do interactive children's books follow the slight new-stock lean for general books?"
+ },
+ "2737": {
+  "p": 0.67,
+  "duda": "Do older translated biographies usually represent used copies rather than unused back stock when the edition is unspecified?"
+ },
+ "2738": {
+  "p": 0.69,
+  "duda": "Should assembled trading-card deck cores be treated as used when individual card condition is unstated?"
+ },
+ "2739": {
+  "p": 0.62,
+  "duda": "Are discontinued action figures often sold as unused collector stock when packaging is not specified?"
+ },
+ "2740": {
+  "p": 0.64,
+  "duda": "Does offering to trade an item materially support a used classification when condition is unstated?"
+ },
+ "2741": {
+  "p": 0.5,
+  "duda": "Do size and seasonal descriptions alone provide any reliable condition evidence for baby clothing?"
+ },
+ "2742": {
+  "p": 0.5,
+  "duda": "What product-specific evidence distinguishes new baby equipment from resale when condition is unstated?"
+ },
+ "2743": {
+  "p": 0.5,
+  "duda": "Can a character-branded toy title without a model or condition description support a condition inference?"
+ },
+ "2744": {
+  "p": 0.5,
+  "duda": "Does a generic decorative-textile title provide any condition evidence without custom-making or usage details?"
+ },
+ "2745": {
+  "p": 0.65,
+  "duda": "How often do small sellers offer unused professional microphones without a manufacturer's warranty?"
+ },
+ "2746": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "2747": {
+  "p": 0.5,
+  "duda": "Do material and brand details alone provide any reliable condition evidence for fashion accessories?"
+ },
+ "2748": {
+  "p": 0.5,
+  "duda": "Do brand and material descriptions alone provide any reliable condition evidence for clothing?"
+ },
+ "2749": {
+  "p": 0.45,
+  "duda": "Should books about children's literature be treated as general essays or study material under the book rule?"
+ },
+ "2750": {
+  "p": 0.72,
+  "duda": "Are individual parts from discontinued toys usually recovered used pieces or unused replacement stock?"
+ },
+ "2751": {
+  "p": 0.68,
+  "duda": "How strongly should older publisher editions lean used when no printing date or condition is given?"
+ },
+ "2752": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "2753": {
+  "p": 0.5,
+  "duda": "Does original-imported wording provide any reliable condition signal for branded apparel?"
+ },
+ "2754": {
+  "p": 0.49,
+  "duda": "Are discontinued collectible busts often sold as unused stock when packaging is not specified?"
+ },
+ "2755": {
+  "p": 0.4,
+  "duda": "Does promotional wording on branded clothing meaningfully favor new retail stock?"
+ },
+ "2756": {
+  "p": 0.25,
+  "duda": "Does a zero-kilometer claim in a prior-year vehicle financing listing indicate an undriven vehicle despite a single-owner attribute?"
+ },
+ "2757": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2758": {
+  "p": 0.5,
+  "duda": "Do brand, fabric and waist-size details alone provide any reliable condition evidence for trousers?"
+ },
+ "2759": {
+  "p": 0.58,
+  "duda": "Does a fixed future warranty expiration imply resale of an already purchased device, or can it equally describe new stock?"
+ },
+ "2760": {
+  "p": 0.65,
+  "duda": "How should an unused claim on footwear be weighted when packaging and retail warranty are unstated?"
+ },
+ "2761": {
+  "p": 0.5,
+  "duda": "Do footwear brand, size and color details provide any reliable condition evidence without usage wording?"
+ },
+ "2762": {
+  "p": 0.5,
+  "duda": "Does a functional description of a small household accessory provide any reliable condition evidence?"
+ },
+ "2763": {
+  "p": 0.54,
+  "duda": "Does brought-from-abroad wording in clothing listings tend to describe personal resale or unused imports?"
+ },
+ "2764": {
+  "p": 0.78,
+  "duda": "Should older promotional toys originally distributed with food be treated as used collectibles when packaging is unstated?"
+ },
+ "2765": {
+  "p": 0.5,
+  "duda": "Is a fitness model code without a product type or condition description sufficient evidence for a condition inference?"
+ },
+ "2766": {
+  "p": 0.6,
+  "duda": "Are discontinued action figures often sold as unused collector stock when packaging is not specified?"
+ },
+ "2767": {
+  "p": 0.5,
+  "duda": "Without condition or installation details, can household heaters be reliably classified as new or used?"
+ },
+ "2768": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "2769": {
+  "p": 0.83,
+  "duda": "How strongly should discontinued car-audio models lean used when no unused-old-stock claim is made?"
+ },
+ "2770": {
+  "p": 0.21,
+  "duda": ""
+ },
+ "2771": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "2772": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "2773": {
+  "p": 0.56,
+  "duda": "Does vintage wording indicate an older previously owned object or merely a newly made vintage style?"
+ },
+ "2774": {
+  "p": 0.72,
+  "duda": "Do large mixed toy collections generally represent previously owned pieces when condition is unstated?"
+ },
+ "2775": {
+  "p": 0.34,
+  "duda": "Does a named keyboard, mouse and speaker kit indicate new packaged stock without an explicit condition claim?"
+ },
+ "2776": {
+  "p": 0.5,
+  "duda": "Does a generic handbag title provide any reliable condition evidence without brand, manufacture or usage details?"
+ },
+ "2777": {
+  "p": 0.5,
+  "duda": "Do material and brand details alone provide any reliable condition evidence for fashion accessories?"
+ },
+ "2778": {
+  "p": 0.57,
+  "duda": "Does brought-from-abroad wording in baby clothing listings tend to describe personal resale or unused imports?"
+ },
+ "2779": {
+  "p": 0.5,
+  "duda": "Does a clothing brand alone provide any reliable condition evidence without model or usage details?"
+ },
+ "2780": {
+  "p": 0.86,
+  "duda": "Are obsolete-model computers advertised as outlet generally used or refurbished rather than unused clearance stock?"
+ },
+ "2781": {
+  "p": 0.5,
+  "duda": "Does limited-edition wording on footwear provide any condition evidence when neither packaging nor usage is described?"
+ },
+ "2782": {
+  "p": 0.48,
+  "duda": "For collectible stamps, does used condition primarily mean postmarked, or can previously owned mint stamps also count as used?"
+ },
+ "2783": {
+  "p": 0.63,
+  "duda": "Are original accessories for discontinued consoles more often used or unused remaining stock?"
+ },
+ "2784": {
+  "p": 0.65,
+  "duda": "How should an as-new claim on sports equipment be weighted when wear and usage are not described?"
+ },
+ "2785": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2786": {
+  "p": 0.5,
+  "duda": "Without salvage, manufacture or condition wording, do wooden doors provide any reliable evidence of prior use?"
+ },
+ "2787": {
+  "p": 0.76,
+  "duda": "How often were discontinued printer models sold as unused stock rather than used units in 2015?"
+ },
+ "2788": {
+  "p": 0.64,
+  "duda": "Do older political pamphlets and Soviet-era titles generally come from used collections or unused publisher stock?"
+ },
+ "2789": {
+  "p": 0.5,
+  "duda": "Do fashion-brand keywords and color details alone provide any reliable condition evidence for handbags?"
+ },
+ "2790": {
+  "p": 0.71,
+  "duda": "How common is unused back stock for decades-old magazines and comics without a sealed or unread claim?"
+ },
+ "2791": {
+  "p": 0.29,
+  "duda": ""
+ },
+ "2792": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2793": {
+  "p": 0.34,
+  "duda": "Are adhesive-mount action-camera accessory kits usually new unless prior installation is stated?"
+ },
+ "2794": {
+  "p": 0.5,
+  "duda": "Do collectible-figure series names such as Reseller imply original packaged stock, or is packaging status still needed?"
+ },
+ "2795": {
+  "p": 0.77,
+  "duda": "How often were discontinued DVD home-theater models still sold as unused stock in 2015?"
+ },
+ "2796": {
+  "p": 0.5,
+  "duda": "Does a brand-only car stereo title support any condition inference without a model, packaging or usage details?"
+ },
+ "2797": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "2798": {
+  "p": 0.56,
+  "duda": "Does a bookseller's short return policy covering missing pages meaningfully favor used books?"
+ },
+ "2799": {
+  "p": 0.48,
+  "duda": "Do generic fragrance listings without packaging details usually describe new retail products, decants or partially used bottles?"
+ },
+ "2800": {
+  "p": 0.47,
+  "duda": "How can a signed original painting be distinguished as a first sale by the artist versus resale when provenance is unstated?"
+ }
+}

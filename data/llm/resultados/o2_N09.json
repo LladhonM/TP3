@@ -1,0 +1,402 @@
+{
+ "3101": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3102": {
+  "p": 0.45,
+  "duda": "Are imported ethnic/folk-style garments ('importado', 'estilo hindú') usually new stock from small resellers or used clothing?"
+ },
+ "3103": {
+  "p": 0.5,
+  "duda": "Are old commemorative collectibles (bottles, cans) from past years labeled used, or new when never opened?"
+ },
+ "3104": {
+  "p": 0.7,
+  "duda": "Are replacement parts for laptops/netbooks/TVs (panels, main boards) usually salvaged from broken units (used) rather than new spares?"
+ },
+ "3105": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3106": {
+  "p": 0.6,
+  "duda": "Are cheap 'antiguo' decorative items usually genuine old pieces (used) or new reproductions?"
+ },
+ "3107": {
+  "p": 0.4,
+  "duda": "Are paintings/framed artwork ('cuadro sobre bastidor') usually listed as new (artist selling own work) or used?"
+ },
+ "3108": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3109": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3110": {
+  "p": 0.6,
+  "duda": "Are very cheap clothing bundles ('2 por X') from small sellers usually used garments?"
+ },
+ "3111": {
+  "p": 0.55,
+  "duda": "Are large children's toys (play kitchens, playsets) with no condition words usually resold used?"
+ },
+ "3112": {
+  "p": 0.4,
+  "duda": "For old comic/magazine back issues marked '(Nuevo)', is the listing labeled new (unread) or used?"
+ },
+ "3113": {
+  "p": 0.45,
+  "duda": "Are old banknotes, coins and stamps sold by collectors labeled new (uncirculated/mint) or used?"
+ },
+ "3114": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3115": {
+  "p": 0.45,
+  "duda": "Do keyword-stuffed titles listing several competitor brands (e.g. 'North Face Columbia Salomon') indicate a shop selling new stock?"
+ },
+ "3116": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3117": {
+  "p": 0.55,
+  "duda": "Is a book priced well below its 2015 retail price (e.g. under ~100 ARS) a reliable sign of a used copy?"
+ },
+ "3118": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "3119": {
+  "p": 0.45,
+  "duda": "Does a short explicit warranty (e.g. three months) on electronics indicate a shop with new stock, or a reseller of used items?"
+ },
+ "3120": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3121": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3122": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3123": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3124": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3125": {
+  "p": 0.45,
+  "duda": "Are old banknotes, coins and stamps sold by collectors labeled new (uncirculated/mint) or used?"
+ },
+ "3126": {
+  "p": 0.45,
+  "duda": "When the title is a bare generic noun with no brand, model or condition words, should the default stay at ~0.5?"
+ },
+ "3127": {
+  "p": 0.45,
+  "duda": "Are branded accessories (sunglasses, jewelry) with no condition words usually new?"
+ },
+ "3128": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3129": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3130": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3131": {
+  "p": 0.6,
+  "duda": "Are accessories that normally come bundled with a product (racket covers, chargers, cases) sold separately usually used leftovers?"
+ },
+ "3132": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3133": {
+  "p": 0.6,
+  "duda": "Are auto/moto parts (instrument clusters, gearboxes, original exhausts, hubcaps) usually salvaged or swapped-out (used) rather than new spare parts?"
+ },
+ "3134": {
+  "p": 0.55,
+  "duda": "Do sellers of older or obscure book editions (out-of-print publishers) usually label them used?"
+ },
+ "3135": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3136": {
+  "p": 0.4,
+  "duda": "Is shop-style colour naming (e.g. 'Azul/suela', 'T.1') on clothing a sign of new store stock?"
+ },
+ "3137": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3138": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3139": {
+  "p": 0.45,
+  "duda": "Are women's clothing items with a detailed colour/size description but no brand usually new shop stock or used?"
+ },
+ "3140": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3141": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "3142": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3143": {
+  "p": 0.45,
+  "duda": "Are arcade/prize machines ('máquina premio') usually sold new by manufacturers or used by operators?"
+ },
+ "3144": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "3145": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3146": {
+  "p": 0.45,
+  "duda": "Are large furniture items (placards, wardrobes) with a bare title usually new (made by carpenters) or used?"
+ },
+ "3147": {
+  "p": 0.45,
+  "duda": "When the title is a bare generic noun with no brand, model or condition words, should the default stay at ~0.5?"
+ },
+ "3148": {
+  "p": 0.55,
+  "duda": "Is branded baby clothing sold well below retail price usually used?"
+ },
+ "3149": {
+  "p": 0.55,
+  "duda": "Are CDs/DVDs of past tours sold at low prices usually used copies?"
+ },
+ "3150": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "3151": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3152": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3153": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3154": {
+  "p": 0.4,
+  "duda": "Do sellers with hundreds of book listings and inventory codes (#NNNN) sell new books or used books?"
+ },
+ "3155": {
+  "p": 0.72,
+  "duda": "Are auto/moto parts (instrument clusters, gearboxes, original exhausts, hubcaps) usually salvaged or swapped-out (used) rather than new spare parts?"
+ },
+ "3156": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "3157": {
+  "p": 0.4,
+  "duda": "Are guitar songbooks (cancioneros) usually new prints or used magazines?"
+ },
+ "3158": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3159": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3160": {
+  "p": 0.55,
+  "duda": "How are empty packaging items (blisters, boxes) labeled: new or used?"
+ },
+ "3161": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3162": {
+  "p": 0.6,
+  "duda": "How are real estate listings (apartments/houses for sale) labeled in this dataset: new or used?"
+ },
+ "3163": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3164": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3165": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3166": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3167": {
+  "p": 0.68,
+  "duda": "Does 'vendo o permuto' on a recent phone reliably indicate a used phone, overriding the named-phone rule?"
+ },
+ "3168": {
+  "p": 0.55,
+  "duda": "Are small figurine collections sold as a set usually used?"
+ },
+ "3169": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3170": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3171": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3172": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "3173": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3174": {
+  "p": 0.6,
+  "duda": "Is professional medical equipment sold well below new price with a dealer warranty usually refurbished/used?"
+ },
+ "3175": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "3176": {
+  "p": 0.5,
+  "duda": "When the title is a bare generic noun with no brand, model or condition words, should the default stay at ~0.5?"
+ },
+ "3177": {
+  "p": 0.5,
+  "duda": "Are literature books with no edition details at a mid price usually new?"
+ },
+ "3178": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3179": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "3180": {
+  "p": 0.45,
+  "duda": "When the title is a bare generic noun with no brand, model or condition words, should the default stay at ~0.5?"
+ },
+ "3181": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3182": {
+  "p": 0.5,
+  "duda": "Are branded women's jackets (Argentine brands like Complot) with no condition words usually used resale or new?"
+ },
+ "3183": {
+  "p": 0.35,
+  "duda": "Is a new book with a damaged cover sold at a discount ('liquidación por tapa rota') labeled new or used?"
+ },
+ "3184": {
+  "p": 0.5,
+  "duda": "Do 'super original' claims on imported-brand clothing indicate used resale or new stock?"
+ },
+ "3185": {
+  "p": 0.4,
+  "duda": "Are old banknotes, coins and stamps sold by collectors labeled new (uncirculated/mint) or used?"
+ },
+ "3186": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3187": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3188": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3189": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3190": {
+  "p": 0.5,
+  "duda": "Are very cheap single clothing items (under ~50 ARS) usually used?"
+ },
+ "3191": {
+  "p": 0.5,
+  "duda": "When the title is a bare generic noun with no brand, model or condition words, should the default stay at ~0.5?"
+ },
+ "3192": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "3193": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "3194": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3195": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3196": {
+  "p": 0.6,
+  "duda": "Are collectible toy figures (Kinder Sorpresa, promotional figures) usually labeled used?"
+ },
+ "3197": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3198": {
+  "p": 0.5,
+  "duda": "When the title is a bare generic noun with no brand, model or condition words, should the default stay at ~0.5?"
+ },
+ "3199": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3200": {
+  "p": 0.82,
+  "duda": ""
+ }
+}

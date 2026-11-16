@@ -1,0 +1,402 @@
+{
+ "901": {
+  "p": 0.65,
+  "duda": "Does 'unused' in a garment listing generally describe personal resale rather than shop stock?"
+ },
+ "902": {
+  "p": 0.47,
+  "duda": "What title details distinguish shop-stock football jerseys from personal resale?"
+ },
+ "903": {
+  "p": 0.45,
+  "duda": "Are newspaper art-book collections commonly sold as unused back stock or secondhand copies?"
+ },
+ "904": {
+  "p": 0.55,
+  "duda": "Are discontinued collectible figures commonly available as unopened shop stock?"
+ },
+ "905": {
+  "p": 0.47,
+  "duda": "What wording distinguishes unused retail wallets from personal resale when condition is omitted?"
+ },
+ "906": {
+  "p": 0.62,
+  "duda": "Are vehicle-specific factory stereos usually removed units or unused replacement stock?"
+ },
+ "907": {
+  "p": 0.45,
+  "duda": "Are ordinary literary editions without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "908": {
+  "p": 0.75,
+  "duda": "How should historical coins without a circulation grade be classified as new or used?"
+ },
+ "909": {
+  "p": 0.6,
+  "duda": "Does 'a estrenar' in branded clothing listings generally describe personal resale or retail stock?"
+ },
+ "910": {
+  "p": 0.65,
+  "duda": "Does 'sin uso' on a gaming accessory usually describe an owned item being resold?"
+ },
+ "911": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "912": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new garments from personal resale when condition is omitted?"
+ },
+ "913": {
+  "p": 0.5,
+  "duda": "Does an inspection-at-pickup warranty suggest secondhand media, or is it also common for new stock?"
+ },
+ "914": {
+  "p": 0.62,
+  "duda": "Are original mechanical parts specified for older car models usually dismantled parts or unused replacements?"
+ },
+ "915": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "916": {
+  "p": 0.4,
+  "duda": "How reliably does 'nuevo' alone identify unused copies in book listings?"
+ },
+ "917": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new branded footwear from personal resale when condition is omitted?"
+ },
+ "918": {
+  "p": 0.4,
+  "duda": "Are generic automotive electrical switches usually new retail parts when condition is omitted?"
+ },
+ "919": {
+  "p": 0.55,
+  "duda": "Do broad injector-and-pump listings with nominal prices usually offer repairs, rebuilt parts, or new parts?"
+ },
+ "920": {
+  "p": 0.4,
+  "duda": "Does a current-season football jersey title usually indicate retail stock or personal resale?"
+ },
+ "921": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "922": {
+  "p": 0.45,
+  "duda": "Are general history books without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "923": {
+  "p": 0.4,
+  "duda": "How reliably does 'nvo' alone identify unused CDs without a sealing description?"
+ },
+ "924": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "925": {
+  "p": 0.56,
+  "duda": "Are hand-embroidered special-occasion dresses commonly offered as newly made garments or personal resale?"
+ },
+ "926": {
+  "p": 0.4,
+  "duda": "What wording distinguishes newly produced decorative paintings from previously owned artwork?"
+ },
+ "927": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "928": {
+  "p": 0.65,
+  "duda": "How are furnished short-term property rentals assigned new versus used condition labels?"
+ },
+ "929": {
+  "p": 0.65,
+  "duda": "How are furnished short-term property rentals assigned new versus used condition labels?"
+ },
+ "930": {
+  "p": 0.45,
+  "duda": "Are art monographs without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "931": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new caps from personal resale when condition is omitted?"
+ },
+ "932": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "933": {
+  "p": 0.45,
+  "duda": "Are comics-festival publications commonly available as unused stock after the event?"
+ },
+ "934": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "935": {
+  "p": 0.58,
+  "duda": "Are older CD singles commonly available as unused stock, or mainly as secondhand copies?"
+ },
+ "936": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "937": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new garments from personal resale when condition is omitted?"
+ },
+ "938": {
+  "p": 0.4,
+  "duda": "Are branded ignition points for older vehicles commonly sold as unused old stock?"
+ },
+ "939": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "940": {
+  "p": 0.65,
+  "duda": "Does 'sin utilizar' on utility containers generally describe owned goods being resold?"
+ },
+ "941": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "942": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new children's pedal cars from personal resale when condition is omitted?"
+ },
+ "943": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new interior doors from recovered doors when condition is omitted?"
+ },
+ "944": {
+  "p": 0.6,
+  "duda": "Do lots naming several clothing brands generally indicate personal wardrobe resale or retail bundles?"
+ },
+ "945": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "946": {
+  "p": 0.39,
+  "duda": "Does 'libre' on a recent phone model add evidence of new retail stock or only describe network compatibility?"
+ },
+ "947": {
+  "p": 0.6,
+  "duda": "Does 'collection' in watch titles denote a discontinued collectible or a current retail model?"
+ },
+ "948": {
+  "p": 0.45,
+  "duda": "Are older literary editions from specialist publishers commonly available as unused back stock?"
+ },
+ "949": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "950": {
+  "p": 0.6,
+  "duda": "Does an explicitly older publication year suggest secondhand copies, or is unused back stock common?"
+ },
+ "951": {
+  "p": 0.85,
+  "duda": "Do perfume listings phrased as 'bottles' rather than fragrances usually mean empty collector containers?"
+ },
+ "952": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "953": {
+  "p": 0.65,
+  "duda": "Are display cables for discontinued laptops commonly unused replacements or salvaged parts?"
+ },
+ "954": {
+  "p": 0.58,
+  "duda": "What wording distinguishes removed original laptop batteries from unused replacement stock?"
+ },
+ "955": {
+  "p": 0.75,
+  "duda": "How should historical emergency banknotes without a circulation grade be classified as new or used?"
+ },
+ "956": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "957": {
+  "p": 0.35,
+  "duda": "Do plural listings of imported branded wallets usually indicate unused retail stock?"
+ },
+ "958": {
+  "p": 0.45,
+  "duda": "Are ordinary literary editions without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "959": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "960": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new diving fins from personal resale when condition is omitted?"
+ },
+ "961": {
+  "p": 0.4,
+  "duda": "Does plural wording with an authenticity claim on branded toys usually indicate unused retail stock?"
+ },
+ "962": {
+  "p": 0.47,
+  "duda": "Are original branded vehicle wiring harnesses commonly new accessories or removed parts?"
+ },
+ "963": {
+  "p": 0.47,
+  "duda": "What wording distinguishes newly made resin accessories from previously owned pieces?"
+ },
+ "964": {
+  "p": 0.4,
+  "duda": "Does 'without power supply' in a computer-case listing describe a normal retail configuration or a stripped used case?"
+ },
+ "965": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "966": {
+  "p": 0.5,
+  "duda": "What distinguishes newly built property from previously occupied property in listings without descriptive condition text?"
+ },
+ "967": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "968": {
+  "p": 0.4,
+  "duda": "What wording distinguishes newly made decorative bed textiles from personal resale?"
+ },
+ "969": {
+  "p": 0.2,
+  "duda": "Do inexpensive television-season listings without a media format usually offer newly produced discs or resale of commercial editions?"
+ },
+ "970": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "971": {
+  "p": 0.47,
+  "duda": "Are hat boxes offered without age or condition descriptions usually new packaging or reused collectible boxes?"
+ },
+ "972": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new gold pendants from previously owned jewelry when condition is omitted?"
+ },
+ "973": {
+  "p": 0.45,
+  "duda": "Are general nonfiction books without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "974": {
+  "p": 0.3,
+  "duda": "Do long-established automotive parts shops commonly sell unused old stock or recovered parts for discontinued cars?"
+ },
+ "975": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "976": {
+  "p": 0.47,
+  "duda": "Does a guarantee that photos match the delivered item distinguish personal resale from new antenna stock?"
+ },
+ "977": {
+  "p": 0.45,
+  "duda": "Are general nonfiction books without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "978": {
+  "p": 0.7,
+  "duda": "Are historical postcards without condition descriptions commonly unused vintage stock or previously used cards?"
+ },
+ "979": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "980": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "981": {
+  "p": 0.45,
+  "duda": "Should specialist sports publications without condition details follow the general nonfiction-book prior?"
+ },
+ "982": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new branded children's clothing from personal resale when condition is omitted?"
+ },
+ "983": {
+  "p": 0.65,
+  "duda": "Does 'casi nuevo' consistently describe a previously owned game even when wear is minimal?"
+ },
+ "984": {
+  "p": 0.55,
+  "duda": "When vintage record titles contain 'nuevo' beside a genre or label, does it describe condition or the release's name?"
+ },
+ "985": {
+  "p": 0.45,
+  "duda": "Are ordinary essay editions without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "986": {
+  "p": 0.45,
+  "duda": "Are specialist humanities books without condition descriptions commonly new back stock or secondhand copies?"
+ },
+ "987": {
+  "p": 0.47,
+  "duda": "Are branded network transceivers without condition descriptions commonly unused retail units or recovered enterprise equipment?"
+ },
+ "988": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new leather footwear from personal resale when condition is omitted?"
+ },
+ "989": {
+  "p": 0.5,
+  "duda": "Do limited-edition CDs with slipcases commonly represent unused retail stock or previously owned collectibles?"
+ },
+ "990": {
+  "p": 0.47,
+  "duda": "Does 'cuaderno' in a short title refer to unused stationery or to a published volume?"
+ },
+ "991": {
+  "p": 0.47,
+  "duda": "What wording distinguishes newly made decorative clay vessels from previously owned pieces?"
+ },
+ "992": {
+  "p": 0.55,
+  "duda": "What wording distinguishes newly made advertising sculptures from older commercial display collectibles?"
+ },
+ "993": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "994": {
+  "p": 0.3,
+  "duda": "Are unopened antique bottles classified as new despite being sold as collectibles?"
+ },
+ "995": {
+  "p": 0.35,
+  "duda": "Does timber-grade quality wording in furniture titles generally indicate newly manufactured pieces?"
+ },
+ "996": {
+  "p": 0.4,
+  "duda": "How should collectible stamp sets without mention of postmarks or gum be classified as new or used?"
+ },
+ "997": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new branded garments from personal resale when condition is omitted?"
+ },
+ "998": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "999": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new garments from personal resale when condition is omitted?"
+ },
+ "1000": {
+  "p": 0.7,
+  "duda": "Does 'vintage' in eyeglass-frame listings usually mean previously worn frames or unused old stock?"
+ }
+}

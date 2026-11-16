@@ -1,0 +1,402 @@
+{
+ "10801": {
+  "p": 0.4,
+  "duda": "Are generic home-safety/electrical items (smoke sensors, alarms) listed by one-off sellers usually new surplus stock or used?"
+ },
+ "10802": {
+  "p": 0.45,
+  "duda": "Are single branded caps or accessories (e.g., Vans) from one-time free-tier sellers mostly new (unwanted gifts) or used?"
+ },
+ "10803": {
+  "p": 0.57,
+  "duda": "Are academic social-science books (e.g., Bourdieu) priced well below retail by small book sellers usually used copies?"
+ },
+ "10804": {
+  "p": 0.55,
+  "duda": "Are 1/43 die-cast collectible model cars listed without any box or condition info usually used (sold from a collection)?"
+ },
+ "10805": {
+  "p": 0.38,
+  "duda": "Are decor items (frames, mirrors) with stock above 1 and 'Sin garantía' usually new shop stock?"
+ },
+ "10806": {
+  "p": 0.58,
+  "duda": "Are pumps or machinery listed only by brand name, with no model, usually used?"
+ },
+ "10807": {
+  "p": 0.62,
+  "duda": "When a tire listing gives only brand and size at a price above one new tire, is it usually a used set?"
+ },
+ "10808": {
+  "p": 0.4,
+  "duda": "Are ceiling lamps/chandeliers with generic descriptive titles mostly new shop stock?"
+ },
+ "10809": {
+  "p": 0.38,
+  "duda": "Are cheap baby textiles (towels, bath robes) usually new handmade products?"
+ },
+ "10810": {
+  "p": 0.5,
+  "duda": "Are single cheap branded t-shirts from one-listing sellers mostly used?"
+ },
+ "10811": {
+  "p": 0.62,
+  "duda": "Are back issues of magazines usually listed as used?"
+ },
+ "10812": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10813": {
+  "p": 0.45,
+  "duda": "Do book sellers with many listings selling popular novels below retail price mostly sell used copies?"
+ },
+ "10814": {
+  "p": 0.35,
+  "duda": "Are collectible stationery sets ('papel de carta', unused sheets) usually listed as new?"
+ },
+ "10815": {
+  "p": 0.62,
+  "duda": "Do physical record shops selling out-of-print CDs or soundtracks usually list them as used?"
+ },
+ "10816": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "10817": {
+  "p": 0.55,
+  "duda": "Are collectible miniature liquor bottles usually listed as new or used?"
+ },
+ "10818": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10819": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "10820": {
+  "p": 0.3,
+  "duda": "Are uncirculated ('UNC' / 'sin circular') banknotes usually listed as new?"
+ },
+ "10821": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10822": {
+  "p": 0.65,
+  "duda": "Are CDs priced well below new retail by multi-listing sellers mostly used?"
+ },
+ "10823": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10824": {
+  "p": 0.48,
+  "duda": "Do multi-listing book sellers selling classic literature cheaply sell mostly used copies?"
+ },
+ "10825": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10826": {
+  "p": 0.3,
+  "duda": "Are uncirculated ('UNC' / 'sin circular') banknotes usually listed as new?"
+ },
+ "10827": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10828": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10829": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10830": {
+  "p": 0.33,
+  "duda": "When a multi-listing music seller writes '(Nuevo)' or '(Nvo)' in the title to distinguish items, is the item usually new?"
+ },
+ "10831": {
+  "p": 0.35,
+  "duda": "Does an explicit long warranty (e.g., 1 year) indicate a new item even when the title is ambiguous?"
+ },
+ "10832": {
+  "p": 0.55,
+  "duda": "Are unbranded leather or exotic-skin accessories (agendas, wallets) usually vintage used items?"
+ },
+ "10833": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10834": {
+  "p": 0.35,
+  "duda": "Do odd, non-round prices (e.g., 212.24) indicate import-on-demand new items?"
+ },
+ "10835": {
+  "p": 0.58,
+  "duda": "Are children's school shoes sold by one-time sellers usually used?"
+ },
+ "10836": {
+  "p": 0.5,
+  "duda": "Are high-priced recreational inflatables or water toys from one-time sellers mostly used?"
+ },
+ "10837": {
+  "p": 0.5,
+  "duda": "Are beds or furniture with minimal titles from one-time sellers usually used, or new carpenter-made?"
+ },
+ "10838": {
+  "p": 0.25,
+  "duda": "Are sports memorabilia items offered in large stock (sticker albums, figuritas) usually new?"
+ },
+ "10839": {
+  "p": 0.62,
+  "duda": "Are complete pet setups ('reptilera/pecera completa') usually used?"
+ },
+ "10840": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10841": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10842": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "10843": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10844": {
+  "p": 0.45,
+  "duda": "Are kids' branded clothes listed with US-to-local size conversions usually new imports?"
+ },
+ "10845": {
+  "p": 0.65,
+  "duda": "Are spare parts for discontinued electronics usually used (salvaged)?"
+ },
+ "10846": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10847": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10848": {
+  "p": 0.52,
+  "duda": "Are political/historical books from small left-wing publishers sold by large book sellers mostly used?"
+ },
+ "10849": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10850": {
+  "p": 0.58,
+  "duda": "Are party/cocktail dresses from one-time sellers usually used?"
+ },
+ "10851": {
+  "p": 0.55,
+  "duda": "Are stamp packets ('100 diferentes') usually listed as new or used?"
+ },
+ "10852": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10853": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10854": {
+  "p": 0.62,
+  "duda": "Are old postcards and collectible paper items usually listed as used?"
+ },
+ "10855": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10856": {
+  "p": 0.3,
+  "duda": "Are event/concert tickets usually listed as new?"
+ },
+ "10857": {
+  "p": 0.4,
+  "duda": "Are board/card games with 'Oferta' in the title from one-time sellers usually new?"
+ },
+ "10858": {
+  "p": 0.33,
+  "duda": "When a multi-listing music seller writes '(Nuevo)' or '(Nvo)' in the title to distinguish items, is the item usually new?"
+ },
+ "10859": {
+  "p": 0.6,
+  "duda": "Are telescopes and astronomy gear from one-time sellers usually used, like pro audio/video gear?"
+ },
+ "10860": {
+  "p": 0.35,
+  "duda": "Do clothing prices ending in 99 indicate new shop stock?"
+ },
+ "10861": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10862": {
+  "p": 0.62,
+  "duda": "Are parts for classic cars usually used, or new old stock?"
+ },
+ "10863": {
+  "p": 0.58,
+  "duda": "Are old academic journal issues (e.g., psychoanalysis journals) from large book sellers usually used?"
+ },
+ "10864": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10865": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10866": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10867": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10868": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10869": {
+  "p": 0.55,
+  "duda": "Are older non-fiction bestsellers (1990s essays) sold cheaply by book sellers mostly used?"
+ },
+ "10870": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10871": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10872": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10873": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10874": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10875": {
+  "p": 0.4,
+  "duda": "Are small appliances with a specific model from one-time sellers mostly new (unwanted gifts)?"
+ },
+ "10876": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10877": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "10878": {
+  "p": 0.5,
+  "duda": "Are single fast-fashion items (e.g., Forever 21) from one-time sellers mostly used, or new with tags brought from abroad?"
+ },
+ "10879": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10880": {
+  "p": 0.58,
+  "duda": "Does 'antiguo'/'retro' in a bike-part title usually mean a genuinely old used part or a new retro-style one?"
+ },
+ "10881": {
+  "p": 0.35,
+  "duda": "Do odd, non-round prices (e.g., 327.36) indicate import-on-demand new items?"
+ },
+ "10882": {
+  "p": 0.55,
+  "duda": "Is heavy professional machinery from one-time sellers usually used?"
+ },
+ "10883": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10884": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10885": {
+  "p": 0.55,
+  "duda": "Are classical music CDs from one-time sellers usually used?"
+ },
+ "10886": {
+  "p": 0.55,
+  "duda": "Are replacement parts for household appliances (e.g., heater doors) usually used?"
+ },
+ "10887": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10888": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10889": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "10890": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10891": {
+  "p": 0.5,
+  "duda": "Are audiophile formats (SACD) from one-time sellers usually used?"
+ },
+ "10892": {
+  "p": 0.3,
+  "duda": "In philately, are mint/unused stamps usually listed as new?"
+ },
+ "10893": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10894": {
+  "p": 0.48,
+  "duda": "Are cheap classic philosophy editions (e.g., Gradifco) from book sellers usually used?"
+ },
+ "10895": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10896": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10897": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10898": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10899": {
+  "p": 0.62,
+  "duda": "Are glass jars/bottles sold in small quantities at above-retail prices usually vintage used?"
+ },
+ "10900": {
+  "p": 0.5,
+  "duda": "Are cheap kids' clothes from multi-listing sellers mostly used?"
+ }
+}

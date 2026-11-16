@@ -1,0 +1,402 @@
+{
+ "10901": {
+  "p": 0.55,
+  "duda": "For sports gear (wakeboard, ski, surf equipment) from a one-off seller with no condition words, is it usually used?"
+ },
+ "10902": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10903": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10904": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10905": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10906": {
+  "p": 0.62,
+  "duda": "For branded clothing from single or closet-style sellers, priced below retail with no condition words, should we lean used?"
+ },
+ "10907": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10908": {
+  "p": 0.45,
+  "duda": "For postage stamps, does 'nuevo' mean mint/unused and 'usado' mean cancelled, and which is more common for series and bulk lots?"
+ },
+ "10909": {
+  "p": 0.5,
+  "duda": "Are out-of-print or imported CDs (old singles, foreign pressings) sold by multi-listing music sellers usually new old stock or used?"
+ },
+ "10910": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10911": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10912": {
+  "p": 0.45,
+  "duda": "Are comic volumes sold in multi-volume 'oferta' bundles by sellers with many listings usually new stock or used?"
+ },
+ "10913": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10914": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10915": {
+  "p": 0.55,
+  "duda": "Are vintage-style household items (ceramic dishes, wicker holders) with no condition words usually second-hand?"
+ },
+ "10916": {
+  "p": 0.5,
+  "duda": "When a seller offers a lot of handmade items (e.g. 10 costumes), is it new production or a used rental stock being liquidated?"
+ },
+ "10917": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10918": {
+  "p": 0.62,
+  "duda": "For computer components (hard drives, etc.) priced below retail with no condition words, should we lean used?"
+ },
+ "10919": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10920": {
+  "p": 0.5,
+  "duda": "For big-ticket machines (generators, compressors) from one-off sellers with no condition words, used or new?"
+ },
+ "10921": {
+  "p": 0.65,
+  "duda": "Are foreign-language (English) paperback novels sold in Argentina usually used?"
+ },
+ "10922": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10923": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10924": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10925": {
+  "p": 0.6,
+  "duda": "Are out-of-print or imported CDs (old singles, foreign pressings) sold by multi-listing music sellers usually new old stock or used?"
+ },
+ "10926": {
+  "p": 0.25,
+  "duda": "Are decades-old items still in original box or sealed blister (vintage toys, NOS parts) labeled new or used?"
+ },
+ "10927": {
+  "p": 0.55,
+  "duda": "For collectible cigarette packs (marquillas), do sellers label them new or used?"
+ },
+ "10928": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10929": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10930": {
+  "p": 0.55,
+  "duda": "For cheap unbranded handbags/purses with no condition words, lean used or new?"
+ },
+ "10931": {
+  "p": 0.5,
+  "duda": "Do school-reading literature collections (Cántaro, Azulejos, Del Mirador, etc.) count as study material that leans used?"
+ },
+ "10932": {
+  "p": 0.6,
+  "duda": "Are classic Argentine history texts in old editions, sold by multi-listing book sellers, usually used?"
+ },
+ "10933": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10934": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "10935": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10936": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "10937": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10938": {
+  "p": 0.5,
+  "duda": "Does 'Vendo lote de...' for hardware or supplies usually mean leftover new stock or used items?"
+ },
+ "10939": {
+  "p": 0.35,
+  "duda": "Are spare electronic parts (DVD lenses, modules) sold in quantity usually new or pulled from used devices?"
+ },
+ "10940": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10941": {
+  "p": 0.5,
+  "duda": "For branded clothing from single or closet-style sellers, priced below retail with no condition words, should we lean used?"
+ },
+ "10942": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10943": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10944": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10945": {
+  "p": 0.45,
+  "duda": "Are medical devices (oximeters, monitors) from one-off sellers usually new or used?"
+ },
+ "10946": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10947": {
+  "p": 0.35,
+  "duda": "Are headphones listed as 'original importado' far below official price usually new replicas or used originals?"
+ },
+ "10948": {
+  "p": 0.4,
+  "duda": "Do generic decor items (frames, portarretratos) with stock above 1 lean new?"
+ },
+ "10949": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10950": {
+  "p": 0.62,
+  "duda": "Are baby items (play mats, baby toys) from single sellers usually resold used?"
+ },
+ "10951": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "10952": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10953": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10954": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10955": {
+  "p": 0.6,
+  "duda": "Do dictionaries count as study material that leans used?"
+ },
+ "10956": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10957": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10958": {
+  "p": 0.55,
+  "duda": "For branded clothing from single or closet-style sellers, priced below retail with no condition words, should we lean used?"
+ },
+ "10959": {
+  "p": 0.4,
+  "duda": "How are service listings (towing, transport, repairs) labeled: new or used?"
+ },
+ "10960": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10961": {
+  "p": 0.3,
+  "duda": "Are decades-old items still in original box or sealed blister (vintage toys, NOS parts) labeled new or used?"
+ },
+ "10962": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10963": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10964": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10965": {
+  "p": 0.5,
+  "duda": "Are shop fixtures (display stands, exhibidores) usually sold used by shops closing down?"
+ },
+ "10966": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10967": {
+  "p": 0.55,
+  "duda": "For appliances (air conditioners, fridges) priced near retail from one-off sellers with no condition words, lean new or used?"
+ },
+ "10968": {
+  "p": 0.55,
+  "duda": "For branded clothing from single or closet-style sellers, priced below retail with no condition words, should we lean used?"
+ },
+ "10969": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10970": {
+  "p": 0.5,
+  "duda": "Do non-fiction books photographed with a phone by small sellers lean used?"
+ },
+ "10971": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10972": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10973": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10974": {
+  "p": 0.72,
+  "duda": "Are circulated coin lots labeled used rather than new?"
+ },
+ "10975": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10976": {
+  "p": 0.55,
+  "duda": "For large farm or industrial equipment (tanks, batanes) without condition words, used or new?"
+ },
+ "10977": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10978": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "10979": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10980": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10981": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10982": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10983": {
+  "p": 0.45,
+  "duda": "Do multi-listing booksellers offering cheap contemporary novels sell new or used copies?"
+ },
+ "10984": {
+  "p": 0.5,
+  "duda": "How are 'de exposición' (display model) items labeled: new or used?"
+ },
+ "10985": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10986": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10987": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10988": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10989": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10990": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10991": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10992": {
+  "p": 0.5,
+  "duda": "For single unbranded sportswear items from one-off sellers with no condition words, used or new?"
+ },
+ "10993": {
+  "p": 0.62,
+  "duda": "Do school-reading literature collections (Cántaro, Azulejos, Del Mirador, etc.) count as study material that leans used?"
+ },
+ "10994": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "10995": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10996": {
+  "p": 0.72,
+  "duda": "For postage stamps, does 'nuevo' mean mint/unused and 'usado' mean cancelled, and which is more common for series and bulk lots?"
+ },
+ "10997": {
+  "p": 0.4,
+  "duda": "Is home exercise equipment (steppers, bikes) from one-off sellers usually used?"
+ },
+ "10998": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10999": {
+  "p": 0.65,
+  "duda": "Are decades-old items still in original box or sealed blister (vintage toys, NOS parts) labeled new or used?"
+ },
+ "11000": {
+  "p": 0.7,
+  "duda": ""
+ }
+}

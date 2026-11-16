@@ -1,0 +1,402 @@
+{
+ "1301": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1302": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "1303": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1304": {
+  "p": 0.67,
+  "duda": "When a wedding dress is offered for both sale and rental, does the sale usually concern a previously rented dress?"
+ },
+ "1305": {
+  "p": 0.6,
+  "duda": "Are trading cards sold as playsets usually previously played cards or unused dealer stock?"
+ },
+ "1306": {
+  "p": 0.65,
+  "duda": "For device accessories described as impeccable, what clues distinguish unused personal resale from previously used accessories?"
+ },
+ "1307": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1308": {
+  "p": 0.5,
+  "duda": "When a stamp listing names a historical issue but omits condition, how can mint stamps be distinguished from canceled stamps?"
+ },
+ "1309": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "1310": {
+  "p": 0.38,
+  "duda": "Are motif-specific costume accessories usually newly made retail products or personal secondhand items?"
+ },
+ "1311": {
+  "p": 0.45,
+  "duda": "For consumer action cameras listed only by model and features, what wording distinguishes retail stock from personal resale?"
+ },
+ "1312": {
+  "p": 0.57,
+  "duda": "Does excellent without an explicit reference to condition describe prior ownership or merely praise a product?"
+ },
+ "1313": {
+  "p": 0.62,
+  "duda": "For collectible railway photographs, what clues distinguish old original prints from newly produced prints?"
+ },
+ "1314": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1315": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "1316": {
+  "p": 0.5,
+  "duda": "When a stamp listing names a historical issue but omits condition, how can mint stamps be distinguished from canceled stamps?"
+ },
+ "1317": {
+  "p": 0.35,
+  "duda": "For cosmetics listed only by brand and shade, is an unopened product normally implied?"
+ },
+ "1318": {
+  "p": 0.45,
+  "duda": "For books without condition details, which title, edition, or publisher clues distinguish current retail stock from secondhand copies?"
+ },
+ "1319": {
+  "p": 0.5,
+  "duda": "For cycling shoes listed by model and precise size conversions, what clues distinguish new stock from previously worn shoes?"
+ },
+ "1320": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1321": {
+  "p": 0.65,
+  "duda": "Does specifying where a souvenir garment was purchased usually indicate personal resale after use?"
+ },
+ "1322": {
+  "p": 0.74,
+  "duda": ""
+ },
+ "1323": {
+  "p": 0.55,
+  "duda": "For older photographic filters without condition details, what clues distinguish unused old stock from used equipment?"
+ },
+ "1324": {
+  "p": 0.4,
+  "duda": "Does a footwear title focused on materials and sole construction usually describe new retail stock?"
+ },
+ "1325": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1326": {
+  "p": 0.25,
+  "duda": "Are uncirculated collectible banknotes typically classified as new even when old and previously collected?"
+ },
+ "1327": {
+  "p": 0.5,
+  "duda": "When a stamp listing names a historical issue but omits condition, how can mint stamps be distinguished from canceled stamps?"
+ },
+ "1328": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1329": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1330": {
+  "p": 0.45,
+  "duda": "Which edition or publisher clues distinguish newly stocked classic comics from vintage secondhand copies?"
+ },
+ "1331": {
+  "p": 0.5,
+  "duda": "For work trousers listed by brand and size without condition details, what distinguishes unused surplus stock from used workwear?"
+ },
+ "1332": {
+  "p": 0.5,
+  "duda": "For specialist kitchen appliances listed only by model and features, what clues distinguish new stock from personal resale?"
+ },
+ "1333": {
+  "p": 0.35,
+  "duda": "Do named artisan carnival masks usually represent newly made products or previously owned costume pieces?"
+ },
+ "1334": {
+  "p": 0.62,
+  "duda": "Does describing a radio-controlled vehicle as a competition model usually imply previous hobby use?"
+ },
+ "1335": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1336": {
+  "p": 0.5,
+  "duda": "For antique packaged consumables, does age usually imply prior use, or are intact unused products commonly sold?"
+ },
+ "1337": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1338": {
+  "p": 0.35,
+  "duda": "Does an artisan brand name on decorative ornaments usually indicate newly made stock or previously owned decor?"
+ },
+ "1339": {
+  "p": 0.7,
+  "duda": "Are product-specific industrial molds usually sold as used production equipment or as newly manufactured tooling?"
+ },
+ "1340": {
+  "p": 0.55,
+  "duda": "Does retro in a garment title usually mean an older original garment or a newly made vintage-style garment?"
+ },
+ "1341": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1342": {
+  "p": 0.45,
+  "duda": "For contemporary branded toys listed only by model, what clues distinguish new stock from previously played toys?"
+ },
+ "1343": {
+  "p": 0.4,
+  "duda": "For apparel described only as new, what additional evidence distinguishes unworn personal resale from new retail stock?"
+ },
+ "1344": {
+  "p": 0.62,
+  "duda": "Does offering electronic hardware for swap or sale usually indicate prior use rather than unused surplus?"
+ },
+ "1345": {
+  "p": 0.45,
+  "duda": "For books without condition details, which title, edition, or publisher clues distinguish current retail stock from secondhand copies?"
+ },
+ "1346": {
+  "p": 0.55,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1347": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1348": {
+  "p": 0.38,
+  "duda": "Does a blanket product guarantee on music recordings indicate new retail stock or also commonly cover used discs?"
+ },
+ "1349": {
+  "p": 0.5,
+  "duda": "For paintings identified by a famous artist and work title, what clues distinguish newly made reproductions from previously displayed decor?"
+ },
+ "1350": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1351": {
+  "p": 0.38,
+  "duda": "Does a functionality-only return guarantee distinguish new electronics stock from tested used items?"
+ },
+ "1352": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1353": {
+  "p": 0.5,
+  "duda": "For mechanical replacement parts without condition details, what clues distinguish new spare parts from salvaged components?"
+ },
+ "1354": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1355": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1356": {
+  "p": 0.6,
+  "duda": "Does a bookseller's assurance that a book will meet desired condition usually suggest secondhand stock?"
+ },
+ "1357": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "1358": {
+  "p": 0.72,
+  "duda": "When motorcycle wheels and tires are sold together without condition details, are they usually removed used parts or new assemblies?"
+ },
+ "1359": {
+  "p": 0.73,
+  "duda": ""
+ },
+ "1360": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1361": {
+  "p": 0.5,
+  "duda": "For costume jewelry without condition details, what title clues distinguish new merchandise from personal resale?"
+ },
+ "1362": {
+  "p": 0.5,
+  "duda": "Do family attributions on indigenous textiles identify current makers or the provenance of older collected pieces?"
+ },
+ "1363": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "1364": {
+  "p": 0.5,
+  "duda": "For music recordings listed only by release and performers, what clues distinguish unused old stock from used copies?"
+ },
+ "1365": {
+  "p": 0.4,
+  "duda": "For electronics described only as new, what additional evidence distinguishes factory-new stock from a previously owned item?"
+ },
+ "1366": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1367": {
+  "p": 0.57,
+  "duda": "For older school manuals described as new, how should the new wording be weighed against the usual resale pattern for study material?"
+ },
+ "1368": {
+  "p": 0.3,
+  "duda": "Does mint in an unspecified collectible lot mean unused items or merely excellent condition after ownership?"
+ },
+ "1369": {
+  "p": 0.45,
+  "duda": "For books without condition details, which title, edition, or publisher clues distinguish current retail stock from secondhand copies?"
+ },
+ "1370": {
+  "p": 0.5,
+  "duda": "For branded or specialist clothing without condition details, what title clues distinguish new retail stock from personal resale?"
+ },
+ "1371": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1372": {
+  "p": 0.4,
+  "duda": "For costume jewelry without condition details, what title clues distinguish new merchandise from personal resale?"
+ },
+ "1373": {
+  "p": 0.55,
+  "duda": "For refillable industrial gas cylinders without condition details, what clues distinguish newly manufactured cylinders from reused ones?"
+ },
+ "1374": {
+  "p": 0.5,
+  "duda": "For gas grills listed only by design and fuel type, what clues distinguish new stock from previously used appliances?"
+ },
+ "1375": {
+  "p": 0.25,
+  "duda": "Are uncirculated collectible banknotes typically classified as new even when old and previously collected?"
+ },
+ "1376": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1377": {
+  "p": 0.65,
+  "duda": "For collectible legal-tender coins without a condition grade, should prior circulation normally be assumed?"
+ },
+ "1378": {
+  "p": 0.4,
+  "duda": "For apparel described only as new, what additional evidence distinguishes unworn personal resale from new retail stock?"
+ },
+ "1379": {
+  "p": 0.5,
+  "duda": "For mechanical replacement parts without condition details, what clues distinguish new spare parts from salvaged components?"
+ },
+ "1380": {
+  "p": 0.38,
+  "duda": "Does decorative replica usually identify a newly manufactured reproduction or can it equally describe previously owned decor?"
+ },
+ "1381": {
+  "p": 0.4,
+  "duda": "For branded sports eyewear listed by activities and UV protection, what clues distinguish retail stock from personal resale?"
+ },
+ "1382": {
+  "p": 0.45,
+  "duda": "For books without condition details, which title, edition, or publisher clues distinguish current retail stock from secondhand copies?"
+ },
+ "1383": {
+  "p": 0.3,
+  "duda": "Does a door title focused on construction and glazing specifications usually indicate new made-to-order stock?"
+ },
+ "1384": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1385": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1386": {
+  "p": 0.62,
+  "duda": "Does a carburetor kit advertised as missing a component usually consist of leftover used parts or incomplete new stock?"
+ },
+ "1387": {
+  "p": 0.5,
+  "duda": "For branded bicycle components without condition details, what clues distinguish new spares from parts removed from a bicycle?"
+ },
+ "1388": {
+  "p": 0.5,
+  "duda": "Does a mixed set of different phone cases usually represent a personal collection or a new retail bundle?"
+ },
+ "1389": {
+  "p": 0.72,
+  "duda": "For accessories named after older toy franchises, what clues distinguish vintage originals from newly produced merchandise?"
+ },
+ "1390": {
+  "p": 0.65,
+  "duda": "Do professional stage lights follow the same used-equipment resale pattern as professional audio and video gear?"
+ },
+ "1391": {
+  "p": 0.5,
+  "duda": "For promotional drinking glasses offered as collectible sets, what clues distinguish unused giveaways from previously used glasses?"
+ },
+ "1392": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "1393": {
+  "p": 0.5,
+  "duda": "For garden gazebos without condition details, what wording distinguishes new retail kits from previously installed structures?"
+ },
+ "1394": {
+  "p": 0.5,
+  "duda": "For branded clothing or bags without condition details, which title clues distinguish new retail stock from personal resale?"
+ },
+ "1395": {
+  "p": 0.75,
+  "duda": "Does selling a bicycle with a speedometer and pump usually indicate a previously used personal setup?"
+ },
+ "1396": {
+  "p": 0.5,
+  "duda": "For postpartum compression garments without condition details, is unopened retail stock normally implied or is used resale common?"
+ },
+ "1397": {
+  "p": 0.7,
+  "duda": "For sports jerseys identified by a historical season, what clues distinguish period originals from new retro reissues?"
+ },
+ "1398": {
+  "p": 0.45,
+  "duda": "Does a cut-to-shape frameless mirror listing usually describe new glasswork or salvaged mirrors?"
+ },
+ "1399": {
+  "p": 0.5,
+  "duda": "When hoja and a length are the only knife-related descriptors, does the listing usually concern a new blade blank or an older collectible blade?"
+ },
+ "1400": {
+  "p": 0.4,
+  "duda": "For electronics described only as new, what additional evidence distinguishes factory-new stock from a previously owned item?"
+ }
+}

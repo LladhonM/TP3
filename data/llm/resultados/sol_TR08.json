@@ -1,0 +1,402 @@
+{
+ "12701": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12702": {
+  "p": 0.47,
+  "duda": "When clothing titles describe only style and give no condition, is there any reliable reason to depart from the baseline?"
+ },
+ "12703": {
+  "p": 0.63,
+  "duda": "Do numbered Aguilar Crisolin editions usually come from previously owned collections or unsold publisher stock?"
+ },
+ "12704": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "12705": {
+  "p": 0.52,
+  "duda": "Does 'unica' in sports-shirt listings usually indicate a previously owned collectible or simply advertise new merchandise?"
+ },
+ "12706": {
+  "p": 0.78,
+  "duda": "For obsolete banknotes without a condition grade, how common is uncirculated collector stock compared with circulated notes?"
+ },
+ "12707": {
+  "p": 0.74,
+  "duda": ""
+ },
+ "12708": {
+  "p": 0.38,
+  "duda": "Does 'entrega inmediata' with a car trim name usually indicate a zero-kilometre dealer vehicle when mileage is absent?"
+ },
+ "12709": {
+  "p": 0.44,
+  "duda": "Does an unspecified 'Si' warranty meaningfully favor new merchandise, or is it common for used goods too?"
+ },
+ "12710": {
+  "p": 0.45,
+  "duda": "When 'antiguas' doors carry a written multi-year warranty, are they typically newly made reproductions or restored original doors?"
+ },
+ "12711": {
+  "p": 0.5,
+  "duda": "Without packaging or condition words, do older Holiday Barbie editions usually represent unopened collector stock or previously handled dolls?"
+ },
+ "12712": {
+  "p": 0.62,
+  "duda": "How much can a low asking price for premium Argentine clothing distinguish resale from clearance stock in 2015?"
+ },
+ "12713": {
+  "p": 0.51,
+  "duda": "Do bundled hardcover comic volumes without condition information tend to be retail sets or resold personal collections?"
+ },
+ "12714": {
+  "p": 0.47,
+  "duda": "When clothing titles describe only style and give no condition, is there any reliable reason to depart from the baseline?"
+ },
+ "12715": {
+  "p": 0.5,
+  "duda": "For matching furniture sets without condition or manufacturing details, what reliably distinguishes workshop stock from household resale?"
+ },
+ "12716": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12717": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "12718": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12719": {
+  "p": 0.63,
+  "duda": "Were older Washburn Shadow guitars still commonly sold as new stock in Argentina in 2015?"
+ },
+ "12720": {
+  "p": 0.47,
+  "duda": "When a title names only the product and gives no condition, what evidence justifies moving away from the baseline?"
+ },
+ "12721": {
+  "p": 0.43,
+  "duda": "Do recent Spanish-language hardcover comic editions without condition wording tend to be retail copies or personal resales?"
+ },
+ "12722": {
+  "p": 0.47,
+  "duda": "When clothing titles describe only brand and style and give no condition, is there any reliable reason to depart from the baseline?"
+ },
+ "12723": {
+  "p": 0.43,
+  "duda": "Does a six-month warranty on a wheel-and-tyre set usually cover new products, or refurbished and used sets too?"
+ },
+ "12724": {
+  "p": 0.49,
+  "duda": "For wooden tables without condition or manufacturing details, what reliably distinguishes new workshop stock from household resale?"
+ },
+ "12725": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "12726": {
+  "p": 0.47,
+  "duda": "Does 'original' in modular-shelving listings identify new replacement parts or also second-hand components?"
+ },
+ "12727": {
+  "p": 0.4,
+  "duda": "Does 'nuevos' on mixed lots of fasteners usually mean unused surplus, and how is that surplus labeled for condition?"
+ },
+ "12728": {
+  "p": 0.4,
+  "duda": "When a bookseller labels a copy 'nuevo' but says it has been individually checked, does that usually mean new old stock or a previously owned copy?"
+ },
+ "12729": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12730": {
+  "p": 0.6,
+  "duda": "How much can a low asking price for premium imported silk ties distinguish resale from clearance stock in 2015?"
+ },
+ "12731": {
+  "p": 0.45,
+  "duda": "Should children's literature commonly assigned at school follow the literature prior or the study-material prior when no condition is given?"
+ },
+ "12732": {
+  "p": 0.37,
+  "duda": "Do descriptive slipper model names usually indicate current retail products, or are they equally common in personal resales?"
+ },
+ "12733": {
+  "p": 0.61,
+  "duda": "For generic Barbie dolls described by their outfit, does the absence of packaging information reliably indicate prior use?"
+ },
+ "12734": {
+  "p": 0.4,
+  "duda": "Are branded phone cases without condition or packaging information usually new accessories or resold personal items?"
+ },
+ "12735": {
+  "p": 0.46,
+  "duda": "Does 'hecho a mano' in framed decorative items usually describe newly made work for sale or previously owned decor?"
+ },
+ "12736": {
+  "p": 0.62,
+  "duda": "Are older imported niche-music CDs commonly sold as sealed old stock, or mainly as used collector copies?"
+ },
+ "12737": {
+  "p": 0.45,
+  "duda": "For literature titles without an edition date or condition wording, what reliably distinguishes retail copies from resales?"
+ },
+ "12738": {
+  "p": 0.52,
+  "duda": "Are paired artworks attributed to a named artist usually sold by their maker or resold by an owner when no provenance is provided?"
+ },
+ "12739": {
+  "p": 0.58,
+  "duda": "For older specialist sports-shoe models, how common was unused old stock relative to resale in 2015?"
+ },
+ "12740": {
+  "p": 0.52,
+  "duda": "Does first-person 'vendo' in an otherwise generic title meaningfully indicate personal resale?"
+ },
+ "12741": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "12742": {
+  "p": 0.43,
+  "duda": "Do baby-product titles containing an article number usually identify new retail stock, or is that formatting also common in resales?"
+ },
+ "12743": {
+  "p": 0.48,
+  "duda": "Does 'liquido' without a condition statement distinguish retail clearance from personal resale?"
+ },
+ "12744": {
+  "p": 0.47,
+  "duda": "For simple upholstered furniture without condition or manufacturing details, what reliably distinguishes new stock from household resale?"
+ },
+ "12745": {
+  "p": 0.47,
+  "duda": "Does an English retail-style board-game title provide any condition information when packaging and use are not mentioned?"
+ },
+ "12746": {
+  "p": 0.43,
+  "duda": "Are carousel horses and figures advertised without age or condition usually newly manufactured replacements or salvaged pieces?"
+ },
+ "12747": {
+  "p": 0.61,
+  "duda": "For Marklin model-railway control parts without a model year or condition, how often are listings new old stock rather than used components?"
+ },
+ "12748": {
+  "p": 0.58,
+  "duda": "Are older niche-music CDs commonly sold as sealed old stock, or mainly as used collector copies?"
+ },
+ "12749": {
+  "p": 0.38,
+  "duda": "Does 'excelente calidad' plus 'precio oferta' signal new retail merchandise, or is it equally common in used-item advertising?"
+ },
+ "12750": {
+  "p": 0.44,
+  "duda": "For a named electric-shaver model without packaging or condition wording, what reliably distinguishes retail stock from personal resale?"
+ },
+ "12751": {
+  "p": 0.56,
+  "duda": "Are first-day-of-issue philatelic items labeled used because of cancellation, or new when prepared and sold as collectibles?"
+ },
+ "12752": {
+  "p": 0.55,
+  "duda": "Should scholarly monographs and classic academic essays follow the general nonfiction prior or the textbook prior when no course or manual is mentioned?"
+ },
+ "12753": {
+  "p": 0.6,
+  "duda": "Were older gaming-PC case models still common as unsold new stock in 2015, or mainly found in resale?"
+ },
+ "12754": {
+  "p": 0.47,
+  "duda": "When clothing titles describe only style and give no condition, is there any reliable reason to depart from the baseline?"
+ },
+ "12755": {
+  "p": 0.49,
+  "duda": "When footwear titles describe only brand and style and give no condition, is there any reliable reason to depart from the baseline?"
+ },
+ "12756": {
+  "p": 0.77,
+  "duda": ""
+ },
+ "12757": {
+  "p": 0.65,
+  "duda": "Does 'en caja original' on musical equipment materially favor new condition, or is retaining the box common for used gear?"
+ },
+ "12758": {
+  "p": 0.61,
+  "duda": "For older licensed blueprint or reference sets, how often are listings unopened old stock rather than previously owned collector copies?"
+ },
+ "12759": {
+  "p": 0.65,
+  "duda": "Were Mesa/Boogie Express amplifiers commonly sold new by private importers in Argentina in 2015?"
+ },
+ "12760": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "12761": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12762": {
+  "p": 0.49,
+  "duda": "When a bag title gives only its material and no condition, what reliably distinguishes new retail stock from personal resale?"
+ },
+ "12763": {
+  "p": 0.36,
+  "duda": "Do named cookware product lines without condition language usually indicate new retail stock or second-hand kitchenware?"
+ },
+ "12764": {
+  "p": 0.47,
+  "duda": "Do artist-name-only listing titles typically refer to art books, newly made reproductions, or previously owned artworks?"
+ },
+ "12765": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "12766": {
+  "p": 0.52,
+  "duda": "For older literary interview collections without an edition date or condition wording, how common is unsold new stock compared with resale?"
+ },
+ "12767": {
+  "p": 0.24,
+  "duda": ""
+ },
+ "12768": {
+  "p": 0.78,
+  "duda": "Can very low 2015 asking prices for complete named phones reliably indicate used or faulty devices when the title omits condition?"
+ },
+ "12769": {
+  "p": 0.87,
+  "duda": ""
+ },
+ "12770": {
+  "p": 0.48,
+  "duda": "Do caricature sculptures credited to a named sculptor usually come directly from the maker or from owners reselling existing pieces?"
+ },
+ "12771": {
+  "p": 0.72,
+  "duda": "Were older VHF radios with autopatch typically sold as new inventory in Argentina in 2015, or mostly as used equipment?"
+ },
+ "12772": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "12773": {
+  "p": 0.61,
+  "duda": "For cigarette listings naming 'soft pack' and a quantity, are the products usually full unopened packs or empty collectible packaging?"
+ },
+ "12774": {
+  "p": 0.53,
+  "duda": "Were professional three-phase pressure washers priced around ARS 9,000 in 2015 generally new machines or used ones?"
+ },
+ "12775": {
+  "p": 0.56,
+  "duda": "For TV-series DVD seasons without sealing or condition wording, how informative are low 2015 prices about prior use?"
+ },
+ "12776": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12777": {
+  "p": 0.36,
+  "duda": "Does a generic plural garment title usually indicate retail stock, or is that phrasing also common in used-clothing listings?"
+ },
+ "12778": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "12779": {
+  "p": 0.45,
+  "duda": "Should scholarly monographs and professional essays follow the general nonfiction prior or the textbook prior when no course or manual is mentioned?"
+ },
+ "12780": {
+  "p": 0.5,
+  "duda": "For furniture with only a brief structural description and no condition information, what reliably distinguishes new stock from resale?"
+ },
+ "12781": {
+  "p": 0.73,
+  "duda": "Are low-priced model-specific interior door panels usually dismantled used parts, or can they be new aftermarket replacements at those prices?"
+ },
+ "12782": {
+  "p": 0.51,
+  "duda": "Does 'original' on a music DVD imply only authenticity, with no reliable information about prior use?"
+ },
+ "12783": {
+  "p": 0.64,
+  "duda": "Does 'retro vintage' usually identify an older second-hand lamp, or is it often used for newly made reproductions?"
+ },
+ "12784": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12785": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "12786": {
+  "p": 0.44,
+  "duda": "For literature titles without an edition date or condition wording, what reliably distinguishes retail copies from resales?"
+ },
+ "12787": {
+  "p": 0.47,
+  "duda": "Are abbreviated literary titles followed by location names primarily bookseller advertising or personal resale, absent condition wording?"
+ },
+ "12788": {
+  "p": 0.52,
+  "duda": "Does 'sacapunta metalico' at a premium price generally refer to a vintage collectible or a new novelty sharpener?"
+ },
+ "12789": {
+  "p": 0.31,
+  "duda": "Do branded anime-figure listings with a shop-name suffix generally represent unopened imports, or are used collector figures common too?"
+ },
+ "12790": {
+  "p": 0.27,
+  "duda": "Does 'original' on appliance hoses and seals usually mean a new OEM spare, or are dismantled used parts commonly described the same way?"
+ },
+ "12791": {
+  "p": 0.47,
+  "duda": "For an unattributed oil painting without age, provenance, or condition wording, is there any reliable basis for favoring new work over resale?"
+ },
+ "12792": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "12793": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12794": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "12795": {
+  "p": 0.53,
+  "duda": "Do mixed bundles of a wrist support and several wraps usually represent new sporting-goods sets or previously owned personal equipment?"
+ },
+ "12796": {
+  "p": 0.61,
+  "duda": "Are pairs of named music albums commonly sold as new retail bundles, or mainly as resold personal collections?"
+ },
+ "12797": {
+  "p": 0.47,
+  "duda": "Does a generic character-themed 'house' title usually refer to a retail toy, a custom-made playhouse, or a resold playset?"
+ },
+ "12798": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "12799": {
+  "p": 0.59,
+  "duda": "How much can a low asking price for branded clothing distinguish resale from clearance stock in 2015?"
+ },
+ "12800": {
+  "p": 0.98,
+  "duda": ""
+ }
+}

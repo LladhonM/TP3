@@ -1,0 +1,402 @@
+{
+ "4701": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4702": {
+  "p": 0.45,
+  "duda": "How can undated literary book listings distinguish unused bookstore stock from secondhand copies?"
+ },
+ "4703": {
+  "p": 0.45,
+  "duda": "How can undated essay collections distinguish unused bookstore stock from secondhand copies?"
+ },
+ "4704": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4705": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4706": {
+  "p": 0.67,
+  "duda": "Are circuit boards for older arcade games usually salvaged parts or unused replacement stock?"
+ },
+ "4707": {
+  "p": 0.55,
+  "duda": "Do unspecified lots of decorative objects usually represent household resale or new retail bundles?"
+ },
+ "4708": {
+  "p": 0.7,
+  "duda": "How common was unopened old stock of Argentine music cassettes in 2015?"
+ },
+ "4709": {
+  "p": 0.5,
+  "duda": "What was the typical new retail price range for branded snowboard boots in Argentina in 2015?"
+ },
+ "4710": {
+  "p": 0.73,
+  "duda": "Are replacement instrument clusters for discontinued car models typically salvaged or sold as unused stock?"
+ },
+ "4711": {
+  "p": 0.47,
+  "duda": "Does an imported toy description without condition details distinguish new retail stock from resale?"
+ },
+ "4712": {
+  "p": 0.78,
+  "duda": "Do Latin school editions credited to nineteenth-century editors generally indicate antiquarian copies or modern reprints?"
+ },
+ "4713": {
+  "p": 0.42,
+  "duda": "Does naming a publisher without an edition date help distinguish new stock from secondhand books?"
+ },
+ "4714": {
+  "p": 0.47,
+  "duda": "Can a garment description without condition or packaging details distinguish retail stock from resale?"
+ },
+ "4715": {
+  "p": 0.66,
+  "duda": "Are multivolume mid-century reference works usually secondhand, or is unused old stock common?"
+ },
+ "4716": {
+  "p": 0.55,
+  "duda": "Are original paintings by named artists generally offered by their creators or through secondary resale?"
+ },
+ "4717": {
+  "p": 0.47,
+  "duda": "Do detailed decorative-lighting descriptions without condition statements distinguish new fixtures from previously installed ones?"
+ },
+ "4718": {
+  "p": 0.45,
+  "duda": "How can undated literary book listings distinguish unused bookstore stock from secondhand copies?"
+ },
+ "4719": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "4720": {
+  "p": 0.59,
+  "duda": "Do vague quality phrases such as very good describe prior use or merely promote an item?"
+ },
+ "4721": {
+  "p": 0.47,
+  "duda": "Do detailed decorative-lighting descriptions without condition statements distinguish new fixtures from previously installed ones?"
+ },
+ "4722": {
+  "p": 0.5,
+  "duda": "Can a branded garment title without condition or packaging details distinguish retail stock from resale?"
+ },
+ "4723": {
+  "p": 0.42,
+  "duda": "Do brand-comparison keywords in accessory titles usually indicate new retail goods?"
+ },
+ "4724": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "4725": {
+  "p": 0.5,
+  "duda": "How should new versus used be interpreted for vacation-rental property listings?"
+ },
+ "4726": {
+  "p": 0.65,
+  "duda": "How often do booksellers use like-new condition descriptions for unsold stock?"
+ },
+ "4727": {
+  "p": 0.5,
+  "duda": "How much does the electric versus microwave variant affect whether a low-priced baby sterilizer is likely used?"
+ },
+ "4728": {
+  "p": 0.68,
+  "duda": "How common is sealed clearance stock for sports games two or more seasons old?"
+ },
+ "4729": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "4730": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "4731": {
+  "p": 0.5,
+  "duda": "In radio-control listings, does caja usually mean a gearbox, a storage case, or original packaging?"
+ },
+ "4732": {
+  "p": 0.89,
+  "duda": ""
+ },
+ "4733": {
+  "p": 0.72,
+  "duda": "What was the typical 2015 new retail price range for branded motorcycle jackets in Argentina?"
+ },
+ "4734": {
+  "p": 0.72,
+  "duda": "Can very low prices for branded clothing reliably indicate prior use when authenticity and clearance sales are unknown?"
+ },
+ "4735": {
+  "p": 0.6,
+  "duda": "Should books on classroom learning and teaching methods count as study manuals or general nonfiction?"
+ },
+ "4736": {
+  "p": 0.47,
+  "duda": "Can bedding descriptions without condition, brand, or packaging details distinguish new goods from resale?"
+ },
+ "4737": {
+  "p": 0.67,
+  "duda": "Are named-designer wedding and quinceanera dresses commonly offered new, or mainly resold after one event?"
+ },
+ "4738": {
+  "p": 0.55,
+  "duda": "Are uncommon translated literary works more often secondhand or unused bookstore stock?"
+ },
+ "4739": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4740": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "4741": {
+  "p": 0.62,
+  "duda": "For obsolete banknotes, are uncirculated collector copies treated as new and circulated notes as used?"
+ },
+ "4742": {
+  "p": 0.5,
+  "duda": "Are branded collectible knives offered as unused collector stock as often as previously owned equipment?"
+ },
+ "4743": {
+  "p": 0.47,
+  "duda": "Does a generic automotive gauge kit title imply a new aftermarket kit or could it describe salvaged instruments?"
+ },
+ "4744": {
+  "p": 0.47,
+  "duda": "Are celebrity posters generally new retail prints or removed magazine inserts?"
+ },
+ "4745": {
+  "p": 0.63,
+  "duda": "Are television replacement panels advertised across multiple brands usually salvaged or newly supplied?"
+ },
+ "4746": {
+  "p": 0.4,
+  "duda": "Do material-and-dimension-only grill titles usually describe made-to-order new products?"
+ },
+ "4747": {
+  "p": 0.91,
+  "duda": ""
+ },
+ "4748": {
+  "p": 0.42,
+  "duda": "Are recently published memoirs without condition details more often new bookstore stock or secondhand copies?"
+ },
+ "4749": {
+  "p": 0.63,
+  "duda": "How common is unused import stock for older Japanese PlayStation 2 games?"
+ },
+ "4750": {
+  "p": 0.5,
+  "duda": "Does a TV-series season title without a medium usually refer to DVDs, a digital product, or a video game?"
+ },
+ "4751": {
+  "p": 0.5,
+  "duda": "Are older locally released music CDs commonly retained as new stock?"
+ },
+ "4752": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "4753": {
+  "p": 0.43,
+  "duda": "Are recently published literary biographies without condition details usually new bookstore stock or secondhand copies?"
+ },
+ "4754": {
+  "p": 0.42,
+  "duda": "Are standalone wireless-doorbell buttons generally new replacement parts or resold components?"
+ },
+ "4755": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4756": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "4757": {
+  "p": 0.5,
+  "duda": "Does hair trap generally refer to a new plumbing fitting or a reusable pool-filter component sold secondhand?"
+ },
+ "4758": {
+  "p": 0.67,
+  "duda": "For obsolete coins without a condition grade, how common are uncirculated copies compared with circulated pieces?"
+ },
+ "4759": {
+  "p": 0.45,
+  "duda": "Do undated institutional reports and policy books tend to be new publications or secondhand copies?"
+ },
+ "4760": {
+  "p": 0.25,
+  "duda": "Do very low-priced console games with immediate delivery usually refer to digital licenses rather than used discs?"
+ },
+ "4761": {
+  "p": 0.5,
+  "duda": "In an uncategorized listing, should tirantes be interpreted as timber beams or clothing suspenders?"
+ },
+ "4762": {
+  "p": 0.61,
+  "duda": "Do short warranties on television replacement boards usually cover salvaged boards or new aftermarket parts?"
+ },
+ "4763": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4764": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "4765": {
+  "p": 0.7,
+  "duda": "How common is unused old stock for discontinued wired-only home routers?"
+ },
+ "4766": {
+  "p": 0.75,
+  "duda": "Were modified PlayStation 2 bundles still commonly sold new in Argentina in 2015?"
+ },
+ "4767": {
+  "p": 0.47,
+  "duda": "Can detailed shoe descriptions without condition or packaging statements distinguish new retail stock from resale?"
+ },
+ "4768": {
+  "p": 0.47,
+  "duda": "Are generic bicycle saddle listings usually new replacement parts or components removed from bicycles?"
+ },
+ "4769": {
+  "p": 0.5,
+  "duda": "Can an appliance brand and vent type without an exact model distinguish new stock from resale?"
+ },
+ "4770": {
+  "p": 0.45,
+  "duda": "How can undated literary book listings distinguish unused bookstore stock from secondhand copies?"
+ },
+ "4771": {
+  "p": 0.45,
+  "duda": "Can licensed character footwear titles without condition statements distinguish new retail goods from resale?"
+ },
+ "4772": {
+  "p": 0.7,
+  "duda": "How common was unopened old stock of Argentine music cassettes in 2015?"
+ },
+ "4773": {
+  "p": 0.53,
+  "duda": "Are copper souvenir ornaments more often unused gift stock or previously displayed objects?"
+ },
+ "4774": {
+  "p": 0.48,
+  "duda": "Should analytical geography and national-development books count as academic study material or general nonfiction?"
+ },
+ "4775": {
+  "p": 0.5,
+  "duda": "Do large water-storage pool listings usually offer construction services or an existing structure for resale?"
+ },
+ "4776": {
+  "p": 0.47,
+  "duda": "Can generic cable listings without condition or packaging details distinguish new accessories from reused ones?"
+ },
+ "4777": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4778": {
+  "p": 0.45,
+  "duda": "Are gift and inspirational books without condition statements generally unused stock or previously owned copies?"
+ },
+ "4779": {
+  "p": 0.5,
+  "duda": "Does a generic beverage-thermos listing provide any reliable clue about prior use without capacity or condition?"
+ },
+ "4780": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4781": {
+  "p": 0.5,
+  "duda": "Are generic pedal-kart listings commonly factory-new toys or resold children's equipment?"
+ },
+ "4782": {
+  "p": 0.47,
+  "duda": "Can a leather belt description without condition or packaging details distinguish retail stock from resale?"
+ },
+ "4783": {
+  "p": 0.45,
+  "duda": "Should practical entrepreneurship advice books be treated as general nonfiction or formal study material?"
+ },
+ "4784": {
+  "p": 0.55,
+  "duda": "For mixed coin lots without condition grades, how should circulated and uncirculated pieces affect the used label?"
+ },
+ "4785": {
+  "p": 0.69,
+  "duda": "Are collectible telephone-card lots usually exhausted used cards or unused cards retained for collecting?"
+ },
+ "4786": {
+  "p": 0.45,
+  "duda": "Can a generic classroom-supply title without condition details distinguish new supplies from reused ones?"
+ },
+ "4787": {
+  "p": 0.55,
+  "duda": "Does a country-of-origin description on porcelain suggest an antique piece or contemporary retail stock?"
+ },
+ "4788": {
+  "p": 0.25,
+  "duda": "Does S/C in coin listings mean uncirculated, and are such blister packs labeled new even if previously owned?"
+ },
+ "4789": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "4790": {
+  "p": 0.47,
+  "duda": "Can a wooden frame's shape alone distinguish vintage resale from newly made stock?"
+ },
+ "4791": {
+  "p": 0.4,
+  "duda": "How should new claims on dated book editions be distinguished from like-new secondhand copies?"
+ },
+ "4792": {
+  "p": 0.47,
+  "duda": "Are standalone bird-cage feeders generally new supplies or reused cage accessories?"
+ },
+ "4793": {
+  "p": 0.8,
+  "duda": "Does original-box packaging on vintage die-cast toys often indicate unused old stock?"
+ },
+ "4794": {
+  "p": 0.55,
+  "duda": "Are older licensed collectible figures commonly sold unopened, or are they mainly resold after display?"
+ },
+ "4795": {
+  "p": 0.5,
+  "duda": "When a seller calls a book both new and in excellent condition, which wording better reflects prior ownership?"
+ },
+ "4796": {
+  "p": 0.63,
+  "duda": "Do rare 1990s remix and promotional music releases usually come from used collections or unsold stock?"
+ },
+ "4797": {
+  "p": 0.5,
+  "duda": "Are older locally released music CDs commonly retained as new stock?"
+ },
+ "4798": {
+  "p": 0.4,
+  "duda": "Do first-edition music releases described as new commonly mean unopened old stock or merely like-new copies?"
+ },
+ "4799": {
+  "p": 0.94,
+  "duda": ""
+ },
+ "4800": {
+  "p": 0.8,
+  "duda": ""
+ }
+}

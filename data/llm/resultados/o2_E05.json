@@ -1,0 +1,402 @@
+{
+ "1101": {
+  "p": 0.5,
+  "duda": "How are real estate listings (apartment rentals or sales) labeled in this dataset: new or used?"
+ },
+ "1102": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1103": {
+  "p": 0.45,
+  "duda": "Are carded/boxed collectible action figures (e.g., Hasbro Star Wars lines) sold by individual collectors usually labeled new or used?"
+ },
+ "1104": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1105": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1106": {
+  "p": 0.5,
+  "duda": "Are CDs/EPs of small independent Argentine bands usually sold as new copies or as second-hand resales?"
+ },
+ "1107": {
+  "p": 0.55,
+  "duda": "Is server-grade RAM/hardware offered in small quantities usually pulled from decommissioned servers (used) or new stock?"
+ },
+ "1108": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1109": {
+  "p": 0.5,
+  "duda": "For clothing with no condition words, no price hint and no clear brand signal, which way should we lean?"
+ },
+ "1110": {
+  "p": 0.62,
+  "duda": "Are decorative or oriental/antique-looking objects (plates, figurines) without the word 'antiguo' mostly personal resales (used)?"
+ },
+ "1111": {
+  "p": 0.6,
+  "duda": "Are single vehicle parts like a complete wheel (rim + tire) sold by individuals usually used?"
+ },
+ "1112": {
+  "p": 0.5,
+  "duda": "For shoes listed in a single size with no brand and no condition words, does the single size suggest a personal resale (used)?"
+ },
+ "1113": {
+  "p": 0.65,
+  "duda": "Does a warranty note like 'the case and disc will be checked at delivery' indicate a used item?"
+ },
+ "1114": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1115": {
+  "p": 0.55,
+  "duda": "Is commercial kitchen/shop equipment (counters, scales) sold by one-off sellers mostly used?"
+ },
+ "1116": {
+  "p": 0.65,
+  "duda": "Are industrial tooling items (injection molds, production machinery) usually used?"
+ },
+ "1117": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1118": {
+  "p": 0.55,
+  "duda": "When the price is clearly below the typical new retail price for a named branded product, is that a reliable used signal?"
+ },
+ "1119": {
+  "p": 0.45,
+  "duda": "Do school-reading children's books (e.g., Pescetti, pocket editions) count as study material (lean used) or literature (lean new)?"
+ },
+ "1120": {
+  "p": 0.65,
+  "duda": "When the price is clearly below the typical new retail price for a named branded product, is that a reliable used signal?"
+ },
+ "1121": {
+  "p": 0.4,
+  "duda": "Are niche non-fiction books (martial arts, esoterics) from multi-listing sellers usually new?"
+ },
+ "1122": {
+  "p": 0.6,
+  "duda": "Are decorative or oriental/antique-looking objects (plates, figurines) without the word 'antiguo' mostly personal resales (used)?"
+ },
+ "1123": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1124": {
+  "p": 0.55,
+  "duda": "Is commercial kitchen/shop equipment (counters, scales) sold by one-off sellers mostly used?"
+ },
+ "1125": {
+  "p": 0.6,
+  "duda": "Does an enthusiastic single-item tone ('Espectacular!!') for a fast-fashion garment (e.g., Zara) indicate a personal resale?"
+ },
+ "1126": {
+  "p": 0.55,
+  "duda": "Is branded sports gear mentioned with its foreign origin (e.g., 'alemanes') usually a personal resale?"
+ },
+ "1127": {
+  "p": 0.65,
+  "duda": "Are novels by older, out-of-print authors (mid-20th-century editions) usually used copies?"
+ },
+ "1128": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1129": {
+  "p": 0.45,
+  "duda": "Are 1:43 die-cast scale models usually sold new (boxed collection pieces) or used?"
+ },
+ "1130": {
+  "p": 0.55,
+  "duda": "Is car audio (woofers, car amplifiers) sold by 1-listing sellers treated like pro audio, i.e. leaning used?"
+ },
+ "1131": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1132": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1133": {
+  "p": 0.38,
+  "duda": "Does 'nuevas' in a shoe title with a single size and sale wording usually mean a genuinely new item?"
+ },
+ "1134": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1135": {
+  "p": 0.4,
+  "duda": "Are baby gear items (car seats, strollers) at a precise retail-like price usually new?"
+ },
+ "1136": {
+  "p": 0.45,
+  "duda": "Does a book title listing year, page count and 'Nuevo' at a low price indicate a personal resale of a used copy?"
+ },
+ "1137": {
+  "p": 0.6,
+  "duda": "Is 'retro/original' clothing offered for display use ('para vidrieristas') new-old-stock (new) or used?"
+ },
+ "1138": {
+  "p": 0.55,
+  "duda": "Does 'líquido' (liquidating) in a one-off clothing listing indicate a personal used item or shop clearance?"
+ },
+ "1139": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1140": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1141": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1142": {
+  "p": 0.55,
+  "duda": "For books, is a price far below new retail a reliable used signal even for self-help/general titles?"
+ },
+ "1143": {
+  "p": 0.55,
+  "duda": "Are hi-fi/DJ audio parts (turntable cartridges, styli) covered by the pro-audio rule (lean used for 1-2 listing sellers)?"
+ },
+ "1144": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1145": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1146": {
+  "p": 0.6,
+  "duda": "Are generic household items (glasses, dishes) in small lots usually personal resales (used)?"
+ },
+ "1147": {
+  "p": 0.4,
+  "duda": "Are construction openings (windows, doors) usually new from a shop or used/removed from a building?"
+ },
+ "1148": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1149": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1150": {
+  "p": 0.6,
+  "duda": "Is a toner/cartridge priced far below new retail usually an empty or used one?"
+ },
+ "1151": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1152": {
+  "p": 0.55,
+  "duda": "For listings that give only a book title (no author or publisher), how should we lean?"
+ },
+ "1153": {
+  "p": 0.45,
+  "duda": "How are service listings (stud services, repairs, installations) labeled: new or used?"
+ },
+ "1154": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1155": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1156": {
+  "p": 0.55,
+  "duda": "For listings that give only a book title (no author or publisher), how should we lean?"
+ },
+ "1157": {
+  "p": 0.65,
+  "duda": "Does 'solo tiene 6 meses de garantía' on gear mean the remaining warranty of a used item?"
+ },
+ "1158": {
+  "p": 0.5,
+  "duda": "For clothing with no condition words, no price hint and no clear brand signal, which way should we lean?"
+ },
+ "1159": {
+  "p": 0.35,
+  "duda": "Does 'liquidación' in a clothing/shoe title indicate shop clearance (new)?"
+ },
+ "1160": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1161": {
+  "p": 0.4,
+  "duda": "Are licensed plush toys marked 'importado' usually new?"
+ },
+ "1162": {
+  "p": 0.65,
+  "duda": "Is electronics described as 'sin usar' (never-used gift) labeled used in this dataset as the condition-word rule suggests?"
+ },
+ "1163": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1164": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1165": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1166": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1167": {
+  "p": 0.5,
+  "duda": "How are real estate listings (apartment rentals or sales) labeled in this dataset: new or used?"
+ },
+ "1168": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1169": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1170": {
+  "p": 0.55,
+  "duda": "Are construction openings (windows, doors) usually new from a shop or used/removed from a building?"
+ },
+ "1171": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1172": {
+  "p": 0.65,
+  "duda": "Are English-language ELT course books (e.g., Mode, Pearson/Oxford courses) treated as study material (lean used)?"
+ },
+ "1173": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1174": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "1175": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1176": {
+  "p": 0.55,
+  "duda": "For clothing with no condition words, no price hint and no clear brand signal, which way should we lean?"
+ },
+ "1177": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1178": {
+  "p": 0.6,
+  "duda": "Are football shirts priced above normal retail usually collectible/match-worn used items?"
+ },
+ "1179": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1180": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1181": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1182": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1183": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1184": {
+  "p": 0.55,
+  "duda": "Are discontinued industrial electrical components (timers, contactors) usually new-old-stock (new) or used?"
+ },
+ "1185": {
+  "p": 0.5,
+  "duda": "Are lighting fixtures priced well below retail usually used/removed units?"
+ },
+ "1186": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1187": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1188": {
+  "p": 0.55,
+  "duda": "Does the phone rule (named model leans new) apply to models already 2-3 years old in 2015 (e.g., LG L9, Galaxy S3)?"
+ },
+ "1189": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1190": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1191": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1192": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1193": {
+  "p": 0.55,
+  "duda": "For shoes listed in a single size with no brand and no condition words, does the single size suggest a personal resale (used)?"
+ },
+ "1194": {
+  "p": 0.5,
+  "duda": "When the price is clearly below the typical new retail price for a named branded product, is that a reliable used signal?"
+ },
+ "1195": {
+  "p": 0.6,
+  "duda": "Does a warranty text asking the buyer to check the item against 'own photos' at delivery indicate a used item?"
+ },
+ "1196": {
+  "p": 0.6,
+  "duda": "Are designer-brand clothing items priced well below retail usually personal resales?"
+ },
+ "1197": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1198": {
+  "p": 0.65,
+  "duda": "Are individual fascicles/issues from old partwork collections labeled used?"
+ },
+ "1199": {
+  "p": 0.45,
+  "duda": "Do contemporary literature books from multi-listing sellers at roughly new price lean new?"
+ },
+ "1200": {
+  "p": 0.5,
+  "duda": "Are old vehicle manuals sold in multiple units (likely photocopies/reprints) labeled new or used?"
+ }
+}

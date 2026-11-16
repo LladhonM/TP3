@@ -1,0 +1,402 @@
+{
+ "16101": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16102": {
+  "p": 0.35,
+  "duda": "Are small auto replacement parts (sensors, bulbs) for common car brands usually sold new by parts shops or used by individuals?"
+ },
+ "16103": {
+  "p": 0.55,
+  "duda": "Do 'retro/vintage' descriptors on clothing indicate a genuinely old secondhand garment or a new retro-styled print?"
+ },
+ "16104": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16105": {
+  "p": 0.4,
+  "duda": "Is a recent phone listed with only its model name and a below-retail price more often a used unit?"
+ },
+ "16106": {
+  "p": 0.42,
+  "duda": "Is a premium-brand garment marked 'Nuevo!' by a small seller usually an owner's unused item (labeled used) or new stock?"
+ },
+ "16107": {
+  "p": 0.38,
+  "duda": "Are literature/essay titles at near-list price from multi-listing book sellers usually new copies?"
+ },
+ "16108": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "16109": {
+  "p": 0.35,
+  "duda": "Are parts for old car models from named makers (Penin, Caresa) usually new-old-stock labeled new?"
+ },
+ "16110": {
+  "p": 0.5,
+  "duda": "Are original artworks (paintings, watercolors, drawings) sold by artists, galleries or individuals usually labeled new or used?"
+ },
+ "16111": {
+  "p": 0.45,
+  "duda": "Are generic unbranded toys/dolls usually handmade new items or used toys?"
+ },
+ "16112": {
+  "p": 0.52,
+  "duda": "Are car badges/emblems usually sold as new replacements or as used pieces removed from cars?"
+ },
+ "16113": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16114": {
+  "p": 0.35,
+  "duda": "Does a seller's claim of brand warranty on a single clothing item reliably indicate a new item?"
+ },
+ "16115": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16116": {
+  "p": 0.6,
+  "duda": "Are cheap older editions of non-fiction books (Galerna, Corregidor, etc.) priced well below list sold by multi-listing book dealers usually used?"
+ },
+ "16117": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16118": {
+  "p": 0.35,
+  "duda": "Are licensed die-cast scale models (Kinsmart, Maisto) sold by small sellers usually new?"
+ },
+ "16119": {
+  "p": 0.55,
+  "duda": "Are small home appliances described in loose wording by one-off sellers usually used?"
+ },
+ "16120": {
+  "p": 0.52,
+  "duda": "Does a single specific size in a footwear/clothing title (e.g. 'talle 37') indicate a person reselling their own item?"
+ },
+ "16121": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16122": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16123": {
+  "p": 0.4,
+  "duda": "Are literature/essay titles at near-list price from multi-listing book sellers usually new copies?"
+ },
+ "16124": {
+  "p": 0.58,
+  "duda": "Are classic-literature paperbacks priced well below a new edition (~50 ARS) usually used copies?"
+ },
+ "16125": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16126": {
+  "p": 0.58,
+  "duda": "Are cheap older editions of non-fiction books (Galerna, Corregidor, etc.) priced well below list sold by multi-listing book dealers usually used?"
+ },
+ "16127": {
+  "p": 0.45,
+  "duda": "Does mentioning pickup places (e.g. 'Adrogué Microcentro') in a book title indicate an individual reselling a used copy?"
+ },
+ "16128": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16129": {
+  "p": 0.48,
+  "duda": "Are unbranded women's garments described only by fabric and cut usually new boutique stock or used items?"
+ },
+ "16130": {
+  "p": 0.35,
+  "duda": "Are framed decorative prints/pictures sold in multiples usually new?"
+ },
+ "16131": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16132": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16133": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16134": {
+  "p": 0.65,
+  "duda": "Is a cheap 'frasco' of a branded perfume an empty used bottle or a new imitation fragrance?"
+ },
+ "16135": {
+  "p": 0.55,
+  "duda": "Are branded items (shoes, wallets) priced far below retail usually used?"
+ },
+ "16136": {
+  "p": 0.6,
+  "duda": "Are mass-market novels priced well below new retail usually used copies?"
+ },
+ "16137": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "16138": {
+  "p": 0.65,
+  "duda": "Are branded items (shoes, wallets) priced far below retail usually used?"
+ },
+ "16139": {
+  "p": 0.65,
+  "duda": "Are old radio/dance compilation CDs usually used?"
+ },
+ "16140": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "16141": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16142": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16143": {
+  "p": 0.7,
+  "duda": "How are real-estate listings (apartments, houses, cabins for sale or rent) usually labeled: new or used?"
+ },
+ "16144": {
+  "p": 0.48,
+  "duda": "Are unbranded women's garments described only by fabric and cut usually new boutique stock or used items?"
+ },
+ "16145": {
+  "p": 0.45,
+  "duda": "Are women's shoes listed by a little-known brand name only usually new shop stock?"
+ },
+ "16146": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16147": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16148": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16149": {
+  "p": 0.25,
+  "duda": "Are car savings-plan ('plan de ahorro', 0km) listings labeled new?"
+ },
+ "16150": {
+  "p": 0.72,
+  "duda": "How are collectible coins labeled: circulated grades (XF, VF) as used and proof/UNC in capsule as new?"
+ },
+ "16151": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16152": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "16153": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16154": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16155": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16156": {
+  "p": 0.65,
+  "duda": "Are fast-food promotional toys (McDonald's) from past years usually labeled used?"
+ },
+ "16157": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16158": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16159": {
+  "p": 0.3,
+  "duda": "How are collectible coins labeled: circulated grades (XF, VF) as used and proof/UNC in capsule as new?"
+ },
+ "16160": {
+  "p": 0.35,
+  "duda": "Are original artworks (paintings, watercolors, drawings) sold by artists, galleries or individuals usually labeled new or used?"
+ },
+ "16161": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16162": {
+  "p": 0.65,
+  "duda": "How are real-estate listings (apartments, houses, cabins for sale or rent) usually labeled: new or used?"
+ },
+ "16163": {
+  "p": 0.58,
+  "duda": "When a title has both 'nuevo' and 'sin uso', is it usually an owner's unused item labeled used?"
+ },
+ "16164": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16165": {
+  "p": 0.55,
+  "duda": "Are original artworks (paintings, watercolors, drawings) sold by artists, galleries or individuals usually labeled new or used?"
+ },
+ "16166": {
+  "p": 0.5,
+  "duda": "Are expensive engine parts (turbos) from one-off sellers usually used parts removed from cars?"
+ },
+ "16167": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16168": {
+  "p": 0.52,
+  "duda": "Are toy accessories (doll strollers) without brand from one-off sellers usually used?"
+ },
+ "16169": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16170": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16171": {
+  "p": 0.4,
+  "duda": "Are branded leather goods (Los Robles) at near-retail price from one-off sellers usually new?"
+ },
+ "16172": {
+  "p": 0.65,
+  "duda": "Are football shirts from a past kit-supplier era usually used?"
+ },
+ "16173": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "16174": {
+  "p": 0.45,
+  "duda": "Are unbranded women's garments described only by fabric and cut usually new boutique stock or used items?"
+ },
+ "16175": {
+  "p": 0.6,
+  "duda": "Are small 'de colección' miniature toys (sharpeners, figures) usually used?"
+ },
+ "16176": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16177": {
+  "p": 0.55,
+  "duda": "Are branded garments (Dean & Delucca, etc.) from sellers with ~10 listings usually used resale?"
+ },
+ "16178": {
+  "p": 0.6,
+  "duda": "For postage stamps, does the label follow philatelic usage (mint = new, cancelled = used)?"
+ },
+ "16179": {
+  "p": 0.35,
+  "duda": "How are service listings (stud services, repairs) labeled: new or used?"
+ },
+ "16180": {
+  "p": 0.62,
+  "duda": "Is a personal item described as 'sin uso' (never used) by a one-off seller labeled used in this data even when it was never used?"
+ },
+ "16181": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16182": {
+  "p": 0.4,
+  "duda": "Are literature/essay titles at near-list price from multi-listing book sellers usually new copies?"
+ },
+ "16183": {
+  "p": 0.5,
+  "duda": "When a title is only a book name with no author or publisher, which class is more common?"
+ },
+ "16184": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16185": {
+  "p": 0.65,
+  "duda": "Does a title giving garment measurements (axila a axila, largo) indicate a used-clothing reseller?"
+ },
+ "16186": {
+  "p": 0.62,
+  "duda": "Are architectural iron pieces (celosías, rejas) with specific dimensions usually salvaged/used?"
+ },
+ "16187": {
+  "p": 0.42,
+  "duda": "Is a garment set marked 'Nuevos!!' by a small seller usually an owner's unused item (labeled used) or new stock?"
+ },
+ "16188": {
+  "p": 0.38,
+  "duda": "Are literature/essay titles at near-list price from multi-listing book sellers usually new copies?"
+ },
+ "16189": {
+  "p": 0.45,
+  "duda": "Are small low-priced silver jewelry pieces usually new?"
+ },
+ "16190": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16191": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "16192": {
+  "p": 0.6,
+  "duda": "How are real-estate listings (apartments, houses, cabins for sale or rent) usually labeled: new or used?"
+ },
+ "16193": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "16194": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16195": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16196": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16197": {
+  "p": 0.63,
+  "duda": "Is a personal item described as 'sin uso' (never used) by a one-off seller labeled used in this data even when it was never used?"
+ },
+ "16198": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "16199": {
+  "p": 0.45,
+  "duda": "Are unbranded women's garments described only by fabric and cut usually new boutique stock or used items?"
+ },
+ "16200": {
+  "p": 0.42,
+  "duda": "Do reference works like the RAE Ortografía count as study material (lean used)?"
+ }
+}

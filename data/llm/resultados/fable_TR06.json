@@ -1,0 +1,402 @@
+{
+ "12501": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12502": {
+  "p": 0.5,
+  "duda": "Are generic instrument accessories (stands, cases, straps) from a one-listing seller with no condition words more often used or new?"
+ },
+ "12503": {
+  "p": 0.45,
+  "duda": "For lamps and decor described only by materials (wood, iron, parchment shade), with no brand and no condition words, is it usually a craftsman selling new or a person reselling?"
+ },
+ "12504": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12505": {
+  "p": 0.4,
+  "duda": "For a named camcorder/camera model a couple of years old with a bare 'Si' warranty and no condition words, is it usually new or used?"
+ },
+ "12506": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12507": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12508": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12509": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (rentals, apartments, land) labelled in this dataset: does the new/used label follow a default, or the actual state of the property?"
+ },
+ "12510": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12511": {
+  "p": 0.97,
+  "duda": ""
+ },
+ "12512": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12513": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12514": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12515": {
+  "p": 0.38,
+  "duda": "Are cheap generic accessories (wallets, belts) titled with praise words like 'hermosa' and no brand usually new stock or personal resale?"
+ },
+ "12516": {
+  "p": 0.45,
+  "duda": "Does 'importado' on a clothing item with no brand or condition words indicate new stock from a small reseller, or a personal item bought abroad?"
+ },
+ "12517": {
+  "p": 0.5,
+  "duda": "For brand wristwatches (Orient, Citizen, Seiko) with no model number and no condition words, is the listing more often used or new?"
+ },
+ "12518": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12519": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12520": {
+  "p": 0.55,
+  "duda": "Are brand flashlights and similar durable gadgets from a one-listing seller with no condition words usually resold used?"
+ },
+ "12521": {
+  "p": 0.45,
+  "duda": "How are real-estate listings (rentals, apartments, land) labelled in this dataset: does the new/used label follow a default, or the actual state of the property?"
+ },
+ "12522": {
+  "p": 0.55,
+  "duda": "For literature titles listing author and publisher with no condition words and a one-listing seller, is it more often a used copy?"
+ },
+ "12523": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12524": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12525": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (rentals, apartments, land) labelled in this dataset: does the new/used label follow a default, or the actual state of the property?"
+ },
+ "12526": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12527": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12528": {
+  "p": 0.48,
+  "duda": "Does a bare 'Sí' warranty on a book from a mid-size seller (10-30 listings) point to a used-book dealer or a new-book shop?"
+ },
+ "12529": {
+  "p": 0.6,
+  "duda": "Do body parts labelled 'original' with an internal stock code and a low price usually come from breakers (used) or from parts shops (new)?"
+ },
+ "12530": {
+  "p": 0.45,
+  "duda": "Is crochet/handmade clothing with no condition words usually sold new by the maker or resold used?"
+ },
+ "12531": {
+  "p": 0.45,
+  "duda": "Is handcrafted-looking furniture (mosaic tables, artisan pieces) from one-listing sellers usually sold new by the maker?"
+ },
+ "12532": {
+  "p": 0.4,
+  "duda": "Are replica ('simil') watches usually new stock from a small reseller?"
+ },
+ "12533": {
+  "p": 0.55,
+  "duda": "For literature titles listing author only, with no publisher or condition words and a one-listing seller, is it more often a used copy?"
+ },
+ "12534": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "12535": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12536": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12537": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12538": {
+  "p": 0.5,
+  "duda": "Are car accessories for a specific model (front-end covers, bras, mats) from a one-listing seller with no condition words usually new or used?"
+ },
+ "12539": {
+  "p": 0.6,
+  "duda": "Are industrial electrical components (contactors, breakers) from a one-listing seller usually surplus new stock or pulled used parts?"
+ },
+ "12540": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12541": {
+  "p": 0.6,
+  "duda": "Does a warranty text stressing 'fotos reales del producto' and seller reputation indicate a used-book dealer?"
+ },
+ "12542": {
+  "p": 0.55,
+  "duda": "For cheap branded clothing with no condition words and camera photos, is it usually a personal resale (used)?"
+ },
+ "12543": {
+  "p": 0.45,
+  "duda": "Are major mechanical car parts (alternators, starters) labelled 'original' with no condition words usually new OEM or pulled from a vehicle?"
+ },
+ "12544": {
+  "p": 0.4,
+  "duda": "Are licensed character plush/dolls from a one-listing seller with no condition words usually new?"
+ },
+ "12545": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12546": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12547": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12548": {
+  "p": 0.5,
+  "duda": "For music CDs/tribute albums with no condition words or 'sellado', is the item usually used or new?"
+ },
+ "12549": {
+  "p": 0.6,
+  "duda": "Are imported Region 1 DVDs from one-listing sellers usually second-hand?"
+ },
+ "12550": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12551": {
+  "p": 0.5,
+  "duda": "Is event/party furniture sold as a set by a one-listing seller usually new from a maker or used from a rental business?"
+ },
+ "12552": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12553": {
+  "p": 0.5,
+  "duda": "For short titles giving only work and author/band with no other information, is there a default tendency toward used or new?"
+ },
+ "12554": {
+  "p": 0.45,
+  "duda": "Are artworks and paintings sold by the artist or a small seller normally labelled new?"
+ },
+ "12555": {
+  "p": 0.4,
+  "duda": "Is bedding (quilts, bedspreads) praised for quality with no brand usually new stock?"
+ },
+ "12556": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12557": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12558": {
+  "p": 0.4,
+  "duda": "When a private seller writes 'nuevos, liquido' on branded shoes, is the item normally labelled new or used?"
+ },
+ "12559": {
+  "p": 0.4,
+  "duda": "Are lots of hardware being liquidated ('liquido') usually leftover new stock?"
+ },
+ "12560": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12561": {
+  "p": 0.45,
+  "duda": "Are locks and door hardware from small sellers with camera photos and no condition words usually new?"
+ },
+ "12562": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12563": {
+  "p": 0.55,
+  "duda": "For contemporary novels listed by title only, cheap and from a small seller, is the copy more often used?"
+ },
+ "12564": {
+  "p": 0.35,
+  "duda": "Does the phone rule (recent named model, no defects mentioned, leans new) also apply to other current-year electronics such as drones?"
+ },
+ "12565": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12566": {
+  "p": 0.6,
+  "duda": "Does a very low price (under 40 ARS) on a literature book indicate a used copy?"
+ },
+ "12567": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "12568": {
+  "p": 0.55,
+  "duda": "Is 'reciclada/reciclado' furniture (restored or made from reclaimed wood) usually labelled new or used?"
+ },
+ "12569": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12570": {
+  "p": 0.45,
+  "duda": "Does a warranty text like 'Librería a la calle' from a large book seller indicate new books or a second-hand bookshop?"
+ },
+ "12571": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12572": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12573": {
+  "p": 0.4,
+  "duda": "Are artworks and paintings sold by the artist or a small seller normally labelled new?"
+ },
+ "12574": {
+  "p": 0.6,
+  "duda": "Are multi-volume encyclopedias and business reference sets usually resold used?"
+ },
+ "12575": {
+  "p": 0.55,
+  "duda": "For generic clothing titles with no brand and no condition words, is there any tendency toward used?"
+ },
+ "12576": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "12577": {
+  "p": 0.6,
+  "duda": "Is cut-crystal glassware sold per piece with stock above 1 usually antique/used or new?"
+ },
+ "12578": {
+  "p": 0.5,
+  "duda": "Are specialised machining tools (reamers, cutters) from small sellers usually used workshop tools or new old stock?"
+ },
+ "12579": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12580": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12581": {
+  "p": 0.62,
+  "duda": "Does a bare 'Sí' warranty on professional audio gear from a one-listing seller weaken the lean toward used?"
+ },
+ "12582": {
+  "p": 0.4,
+  "duda": "Are car batteries from one-listing sellers on the free tier usually new?"
+ },
+ "12583": {
+  "p": 0.5,
+  "duda": "Is expensive designer-style furniture (steel and glass tables) from small sellers with no condition words usually used?"
+ },
+ "12584": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12585": {
+  "p": 0.55,
+  "duda": "Are collectible plastic toy soldiers sold in small groups usually vintage/used or new reissues?"
+ },
+ "12586": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12587": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12588": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12589": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12590": {
+  "p": 0.45,
+  "duda": "When a title says both 'nuevo' and 'sin uso' (e.g. a stock part never installed), which rule dominates: the 'nuevo' lean to new or the 'sin uso' lean to used?"
+ },
+ "12591": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12592": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (rentals, apartments, land) labelled in this dataset: does the new/used label follow a default, or the actual state of the property?"
+ },
+ "12593": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12594": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12595": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12596": {
+  "p": 0.5,
+  "duda": "Is branded sports protective gear (helmets) from a one-listing seller with no condition words usually used?"
+ },
+ "12597": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12598": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12599": {
+  "p": 0.45,
+  "duda": "Are cheap branded sports training accessories from one-listing sellers with stock-style photos usually new?"
+ },
+ "12600": {
+  "p": 0.15,
+  "duda": ""
+ }
+}

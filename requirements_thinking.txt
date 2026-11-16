@@ -1,0 +1,5 @@
+# Entorno aparte, solo para volver a correr la banda con TabPFN-3.5-Thinking por la API de Prior Labs (src/banda_thinking.py).
+# Versiones con las que se ajustó la banda de la submission (Python 3.13). tabpfn-client 0.7.1 pide pandas<=2.3.3.
+tabpfn-client==0.7.1
+numpy==2.5.4
+pandas==2.3.3

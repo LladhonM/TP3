@@ -1,0 +1,402 @@
+{
+ "2101": {
+  "p": 0.5,
+  "duda": "Are watches described as 'clasico' with no brand and a single unit usually vintage/used pieces or new generic stock?"
+ },
+ "2102": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2103": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2104": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "2105": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2106": {
+  "p": 0.45,
+  "duda": "Is cheap baby clothing with a generic title and no condition words more often new stock from small sellers or outgrown used clothing?"
+ },
+ "2107": {
+  "p": 0.5,
+  "duda": "Are garden/power tools listed singly by one-off sellers with no condition words usually used or new?"
+ },
+ "2108": {
+  "p": 0.4,
+  "duda": "Is bed linen listed by individuals with no condition words almost always new, or is used bedding commonly resold?"
+ },
+ "2109": {
+  "p": 0.5,
+  "duda": "When a book seller's warranty mentions missing pages or 'error de edición', does that indicate a used-book dealer or a seller of new copies?"
+ },
+ "2110": {
+  "p": 0.45,
+  "duda": "Does a title starting with 'Vendo' (personal-seller phrasing) on a cheap accessory indicate a used item?"
+ },
+ "2111": {
+  "p": 0.35,
+  "duda": "When a private seller lists a lot of CDs as 'nuevos', are they usually labeled new or used in the listing?"
+ },
+ "2112": {
+  "p": 0.4,
+  "duda": "Does a bare 'Sí' warranty on a recent non-fiction book suggest a bookshop selling new copies?"
+ },
+ "2113": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2114": {
+  "p": 0.65,
+  "duda": "Do children's shoes listed with brand, size and a pickup neighbourhood in the title usually come from parents reselling used items?"
+ },
+ "2115": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (houses, unfinished houses, lots) usually labeled: new or used?"
+ },
+ "2116": {
+  "p": 0.65,
+  "duda": "Are short-use pregnancy/baby devices (fetal dopplers, monitors) listed by one-off sellers usually used?"
+ },
+ "2117": {
+  "p": 0.65,
+  "duda": "Are brewery/advertising collectibles such as coasters usually labeled used even when never used for their purpose?"
+ },
+ "2118": {
+  "p": 0.35,
+  "duda": "Are small cheap gadgets from a one-listing seller with 'stock 1 but one sold' usually new imports?"
+ },
+ "2119": {
+  "p": 0.45,
+  "duda": "For classic poetry/literature titles with no edition year or condition words, is the listing more often a new copy or a second-hand one?"
+ },
+ "2120": {
+  "p": 0.3,
+  "duda": "Are 'serie completa en DVD' listings with 'discos probados' home-burned copies that sellers label as new?"
+ },
+ "2121": {
+  "p": 0.62,
+  "duda": "Do high-volume book sellers who append an internal code (e.g. #8015) to titles deal mainly in used books?"
+ },
+ "2122": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2123": {
+  "p": 0.55,
+  "duda": "When a bookseller writes 'estado nuevo, ejemplar completo' in the warranty, is the listing itself labeled new or used?"
+ },
+ "2124": {
+  "p": 0.6,
+  "duda": "Is branded children's clothing listed with just brand and size by a one-off seller usually second-hand?"
+ },
+ "2125": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2126": {
+  "p": 0.35,
+  "duda": "Is basic thermal/underwear-type clothing with a generic title almost always new?"
+ },
+ "2127": {
+  "p": 0.4,
+  "duda": "Is branded kitchen cookware listed with a full descriptive title by a one-off seller usually new?"
+ },
+ "2128": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2129": {
+  "p": 0.6,
+  "duda": "How do philatelic sellers label stamps and first-day covers: as used (collectible) or new (mint)?"
+ },
+ "2130": {
+  "p": 0.65,
+  "duda": "Does an explicit 'Sin garantía' on a single-unit item signal a used item?"
+ },
+ "2131": {
+  "p": 0.65,
+  "duda": "Is single-piece Verbano (or other discontinued Argentine brand) porcelain tableware usually sold second-hand?"
+ },
+ "2132": {
+  "p": 0.45,
+  "duda": "Are 1/43 newsstand-collection diecast cars (Ixo, Gazzetta, Altaya) usually labeled new by collectors even when resold?"
+ },
+ "2133": {
+  "p": 0.35,
+  "duda": "Do handbags described by material (brin, eco cuero) rather than brand usually come from small makers selling new?"
+ },
+ "2134": {
+  "p": 0.35,
+  "duda": "Are consumable tool spares such as chainsaw chains almost always new?"
+ },
+ "2135": {
+  "p": 0.6,
+  "duda": "Are TV table stands/bases for specific TV models usually salvaged used parts?"
+ },
+ "2136": {
+  "p": 0.5,
+  "duda": "Are costumes advertised with 'muy buena calidad, excelente oferta' but a single unit usually new or worn once?"
+ },
+ "2137": {
+  "p": 0.55,
+  "duda": "Are academic history/economics monographs from older editions mostly sold second-hand?"
+ },
+ "2138": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2139": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2140": {
+  "p": 0.5,
+  "duda": "Are 1/43 diecast models from collector brands (Top Model, Ixo) usually labeled new or used by small collector-sellers?"
+ },
+ "2141": {
+  "p": 0.5,
+  "duda": "Are building/garage fixtures (columns, gates) listed with stock 2 by a one-off seller usually leftovers that are new, or removed used pieces?"
+ },
+ "2142": {
+  "p": 0.6,
+  "duda": "Do booksellers who write '(s/uso)' in a book title label the listing used or new?"
+ },
+ "2143": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "2144": {
+  "p": 0.55,
+  "duda": "Is branded fashion jewellery (Swatch Bijoux, Swarovski) from a one-off seller usually a personal resale?"
+ },
+ "2145": {
+  "p": 0.65,
+  "duda": "Does a warranty text saying books are 'revisados' and 'en el estado que dice la publicación' indicate a used-book dealer?"
+ },
+ "2146": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "2147": {
+  "p": 0.4,
+  "duda": "Are imported special-edition CDs (Japan editions) from small sellers usually new sealed copies?"
+ },
+ "2148": {
+  "p": 0.65,
+  "duda": "Are branded women's shoes listed in one specific size by a one-off seller usually worn/used?"
+ },
+ "2149": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2150": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "2151": {
+  "p": 0.65,
+  "duda": "How are old banknotes and coins usually labeled: used (collectible) or new (uncirculated)?"
+ },
+ "2152": {
+  "p": 0.55,
+  "duda": "For catalogue rock albums listed as just 'Artist - Album' with no format or condition words, is the item more often a second-hand copy?"
+ },
+ "2153": {
+  "p": 0.55,
+  "duda": "How do philatelic sellers label stamps and first-day covers: as used (collectible) or new (mint)?"
+ },
+ "2154": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2155": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2156": {
+  "p": 0.5,
+  "duda": "Are silk scarves with a generic plural title and no brand usually new stock or second-hand pieces?"
+ },
+ "2157": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "2158": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "2159": {
+  "p": 0.55,
+  "duda": "Are workshop machines (band saws, lathes) listed on the free tier by one-off sellers usually used?"
+ },
+ "2160": {
+  "p": 0.6,
+  "duda": "Are party dresses listed by one-off sellers with no brand or condition words usually worn once and resold?"
+ },
+ "2161": {
+  "p": 0.55,
+  "duda": "Does a warranty phrase like 'de perfecto funcionamiento' indicate a used/refurbished item?"
+ },
+ "2162": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2163": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "2164": {
+  "p": 0.55,
+  "duda": "Are professional tools (hairdressing scissors) from one-off free-tier sellers usually used?"
+ },
+ "2165": {
+  "p": 0.55,
+  "duda": "Are small appliances (minibar fridges) with full model details from one-off sellers more often used?"
+ },
+ "2166": {
+  "p": 0.35,
+  "duda": "Are expensive, recent military-history translations usually new copies?"
+ },
+ "2167": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2168": {
+  "p": 0.55,
+  "duda": "Are printer printheads listed as compatible with many models usually salvaged from used printers?"
+ },
+ "2169": {
+  "p": 0.25,
+  "duda": "Are PS3 game 'combo' listings from a named store digital downloads labeled as new?"
+ },
+ "2170": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2171": {
+  "p": 0.5,
+  "duda": "Are nightgowns/slips listed with size and fabric by mid-size sellers typically vintage/used or new old stock?"
+ },
+ "2172": {
+  "p": 0.42,
+  "duda": "For classic poetry/literature titles with no edition year or condition words, is the listing more often a new copy or a second-hand one?"
+ },
+ "2173": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2174": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2175": {
+  "p": 0.5,
+  "duda": "Is a current-generation console listed with a bare title, no photos and a price near retail usually new or used?"
+ },
+ "2176": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "2177": {
+  "p": 0.58,
+  "duda": "Is 'estilo Luis XV / estilo francés' furniture usually antique/used or newly made reproduction?"
+ },
+ "2178": {
+  "p": 0.35,
+  "duda": "Is door hardware (locks) listed singly by a one-off seller usually new?"
+ },
+ "2179": {
+  "p": 0.6,
+  "duda": "Are car body/trim parts for a specific model sold as a pair by small sellers usually removed from scrapped cars (used)?"
+ },
+ "2180": {
+  "p": 0.45,
+  "duda": "Are decks of playing cards from small sellers usually new sealed or collectible used sets?"
+ },
+ "2181": {
+  "p": 0.35,
+  "duda": "Does stock of 2 on unbranded/low-brand clothing indicate new stock?"
+ },
+ "2182": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2183": {
+  "p": 0.6,
+  "duda": "Do booksellers who append an internal shelf code (e.g. (en14)) to titles deal mainly in used books?"
+ },
+ "2184": {
+  "p": 0.45,
+  "duda": "Are 'panchas' (slip-on shoes) with a bare title and near-retail price usually new?"
+ },
+ "2185": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2186": {
+  "p": 0.5,
+  "duda": "Is a single film DVD listed as 'Title - Dvd' at a low price more often an original second-hand copy or a new copy?"
+ },
+ "2187": {
+  "p": 0.45,
+  "duda": "How are original artworks (paintings by named artists) usually labeled: new or used?"
+ },
+ "2188": {
+  "p": 0.6,
+  "duda": "Are old dictionaries and reference books from high-volume book sellers mostly second-hand?"
+ },
+ "2189": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2190": {
+  "p": 0.35,
+  "duda": "Is ethnic/handcraft jewellery advertised with 'oferta, única' usually new?"
+ },
+ "2191": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2192": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "2193": {
+  "p": 0.6,
+  "duda": "Is a single tyre sold mounted on a steel rim usually a used spare wheel?"
+ },
+ "2194": {
+  "p": 0.4,
+  "duda": "Are boutique/luthier-built effect pedals with stock above 1 sold new by the builder rather than resold used?"
+ },
+ "2195": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "2196": {
+  "p": 0.55,
+  "duda": "Are odd lots of hardware (rods, nuts, washers) from one-off sellers leftovers labeled new or used?"
+ },
+ "2197": {
+  "p": 0.5,
+  "duda": "Are Nespresso machines bundled with Aeroccino from one-off free-tier sellers usually unwanted new gifts or used machines?"
+ },
+ "2198": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "2199": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "2200": {
+  "p": 0.2,
+  "duda": ""
+ }
+}

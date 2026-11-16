@@ -1,0 +1,402 @@
+{
+ "12901": {
+  "p": 0.5,
+  "duda": "Does 'Usa' at the end of a clothing/shoe title usually mean 'imported from the USA' (lean new) or is it ever shorthand for 'usado'?"
+ },
+ "12902": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12903": {
+  "p": 0.6,
+  "duda": "When a baby item (bottles, cups) is listed at an absurdly low price (e.g. 5 ARS), is that typically a used item from a private seller?"
+ },
+ "12904": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "12905": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12906": {
+  "p": 0.6,
+  "duda": "Are commercial/gastronomy equipment items (beer dispensers, display fridges) sold by one-off sellers usually used?"
+ },
+ "12907": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12908": {
+  "p": 0.5,
+  "duda": "Are airline amenity kits and other promotional freebies resold by individuals usually listed as new (unused) or used?"
+ },
+ "12909": {
+  "p": 0.62,
+  "duda": "For game shops that sell both new and used titles, does a price well below retail (e.g. ~270 ARS for an Xbox 360 game in 2015) indicate a used copy?"
+ },
+ "12910": {
+  "p": 0.62,
+  "duda": "Are books from newspaper/kiosk collections (e.g. 'Líderes del Management') usually resold as used?"
+ },
+ "12911": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "12912": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12913": {
+  "p": 0.6,
+  "duda": "Are original parts for discontinued classic cars (Citroën 2CV, Ford Falcon, etc.) usually listed as used, or as new old stock?"
+ },
+ "12914": {
+  "p": 0.52,
+  "duda": "When the title is a single generic word (e.g. 'Cartera') with no brand or details, should the estimate stay at the base rate?"
+ },
+ "12915": {
+  "p": 0.55,
+  "duda": "Are lots of medical/hospital equipment (surgical boxes, instruments) from one-listing sellers typically used surplus?"
+ },
+ "12916": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12917": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12918": {
+  "p": 0.55,
+  "duda": "Are football jerseys sold by one-off sellers near retail price usually new, or are they collector/used shirts?"
+ },
+ "12919": {
+  "p": 0.58,
+  "duda": "For branded sneakers/clothing, is a price clearly below 2015 retail (e.g. 750 ARS for Adidas shoes) a reliable sign of used?"
+ },
+ "12920": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12921": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "12922": {
+  "p": 0.5,
+  "duda": "Do psychoanalysis books (Lacan, Miller, Freud, Bleichmar) count as study material (lean used) or as general non-fiction (lean new)?"
+ },
+ "12923": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12924": {
+  "p": 0.58,
+  "duda": "For branded clothing, is a price clearly below 2015 retail (e.g. 350 ARS for brand jeans) a reliable sign of used?"
+ },
+ "12925": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12926": {
+  "p": 0.55,
+  "duda": "Are foreign-language (English) books sold in Argentina by small sellers usually used personal copies?"
+ },
+ "12927": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12928": {
+  "p": 0.55,
+  "duda": "For generic household appliances with no brand or model (e.g. 'Purificador de agua'), should the estimate stay at the base rate?"
+ },
+ "12929": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12930": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "12931": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12932": {
+  "p": 0.6,
+  "duda": "Are diecast/scale-model collector resellers (titles with inventory codes like 'avv 44') usually selling used/loose items?"
+ },
+ "12933": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12934": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12935": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12936": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12937": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12938": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12939": {
+  "p": 0.4,
+  "duda": "For stamps, are 'nuevas' (mint) stamps listed as new and cancelled stamps as used, or are all philately items usually listed as used?"
+ },
+ "12940": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12941": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "12942": {
+  "p": 0.4,
+  "duda": "Is lingerie/underwear sold by one-off sellers almost always new (unused)?"
+ },
+ "12943": {
+  "p": 0.5,
+  "duda": "Are building fixtures (sinks, tiles, taps) sold by one-off sellers usually leftover new items or used removals?"
+ },
+ "12944": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12945": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12946": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12947": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12948": {
+  "p": 0.5,
+  "duda": "For generic women's clothing from small sellers with enthusiastic descriptors ('divina', 'hermosa'), is there any lean toward used or new?"
+ },
+ "12949": {
+  "p": 0.5,
+  "duda": "Are handicraft/decor pieces from travel (e.g. Cusco carvings) sold by individuals usually listed as used?"
+ },
+ "12950": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12951": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12952": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12953": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12954": {
+  "p": 0.5,
+  "duda": "Are knitted garments (sacos, colchas) from small sellers usually handmade new items or used clothing?"
+ },
+ "12955": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12956": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12957": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "12958": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12959": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12960": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12961": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12962": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12963": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12964": {
+  "p": 0.45,
+  "duda": "For coins, do 'SC' (sin circular / uncirculated) or mint sets count as new, or are numismatic items usually listed as used?"
+ },
+ "12965": {
+  "p": 0.65,
+  "duda": "Does a warranty text like 'se revisa al retirar' (inspect at pickup) indicate a used item?"
+ },
+ "12966": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12967": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12968": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12969": {
+  "p": 0.6,
+  "duda": "Are children's furniture/toys (puffs, strollers, car seats) from one-off sellers usually used?"
+ },
+ "12970": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12971": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12972": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12973": {
+  "p": 0.45,
+  "duda": "For stamps and souvenir sheets (hojitas block), are mint items listed as new, or are philately items usually listed as used?"
+ },
+ "12974": {
+  "p": 0.58,
+  "duda": "For popular novels, is a price well below 2015 bookstore price (e.g. 80 ARS) a reliable sign of a used copy?"
+ },
+ "12975": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "12976": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12977": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12978": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12979": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "12980": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12981": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12982": {
+  "p": 0.55,
+  "duda": "For generic sporting goods with no brand (e.g. 'Patines'), should the estimate stay at the base rate?"
+ },
+ "12983": {
+  "p": 0.5,
+  "duda": "Are tablets that were already ~3 years old in 2015 (e.g. Galaxy Tab 2) at near-new prices more likely new old stock or used?"
+ },
+ "12984": {
+  "p": 0.65,
+  "duda": "Do high-end musical instruments (drum kits, guitars) sold by 1-2 listing sellers lean used, like pro audio gear in rule 3?"
+ },
+ "12985": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12986": {
+  "p": 0.5,
+  "duda": "Are expensive original OEM engine parts (cylinders, pistons) from one-off sellers usually new spares or used take-offs?"
+ },
+ "12987": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12988": {
+  "p": 0.6,
+  "duda": "Are appliance spare parts (washing machine gearboxes, motors) from one-off sellers usually salvaged used parts?"
+ },
+ "12989": {
+  "p": 0.6,
+  "duda": "Are old classic stamps (pre-1950, Edifil/Scott catalog numbers) usually listed as used regardless of mint/cancelled?"
+ },
+ "12990": {
+  "p": 0.5,
+  "duda": "Are toys from chocolate eggs (Huevo Jack, Kinder) resold by collectors usually listed as new or used?"
+ },
+ "12991": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12992": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12993": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12994": {
+  "p": 0.5,
+  "duda": "Are imported-brand handbags (Victoria's Secret, Michael Kors) sold by one-off sellers usually new (brought from abroad) or used?"
+ },
+ "12995": {
+  "p": 0.5,
+  "duda": "Are imported tool sets from foreign retail brands (e.g. Power Fist) sold by one-off sellers usually new (brought from abroad) or used?"
+ },
+ "12996": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "12997": {
+  "p": 0.5,
+  "duda": "Is solid/turned wood furniture (taburetes, sillas) from one-off sellers usually handmade new or used?"
+ },
+ "12998": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "12999": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "13000": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

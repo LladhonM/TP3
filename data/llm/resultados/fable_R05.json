@@ -1,0 +1,402 @@
+{
+ "1901": {
+  "p": 0.42,
+  "duda": "Are hand-painted decorative household objects (buckets, bottles, plates) with no condition words usually newly made crafts or old/antique pieces being resold?"
+ },
+ "1902": {
+  "p": 0.55,
+  "duda": "How do stamp dealers usually label collectible stamps (old series, mint or postmarked): as new or as used?"
+ },
+ "1903": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1904": {
+  "p": 0.5,
+  "duda": "For real-estate listings (apartments, houses), which condition label is the default: new or used, when the property is not explicitly brand new?"
+ },
+ "1905": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1906": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1907": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1908": {
+  "p": 0.5,
+  "duda": "When a title only lists topics or names (e.g. military vehicles) and the stock is above 1, is it more likely a lot of used magazines/books or new stock?"
+ },
+ "1909": {
+  "p": 0.6,
+  "duda": "Are complete manga/comic series sold as a bundle by a one-listing seller usually used copies from a personal collection?"
+ },
+ "1910": {
+  "p": 0.45,
+  "duda": "For large appliances (freezers, fridges) sold by a one-listing seller at a price close to retail and with no condition words, is the item usually new or used?"
+ },
+ "1911": {
+  "p": 0.65,
+  "duda": "Is branded clothing from local fashion labels (Uma, Zara, Kickers) sold as a single unit by a one-listing seller usually second-hand?"
+ },
+ "1912": {
+  "p": 0.5,
+  "duda": "For real-estate listings (apartments, houses), which condition label is the default: new or used, when the property is not explicitly brand new?"
+ },
+ "1913": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1914": {
+  "p": 0.62,
+  "duda": "Is a single generic clothing item with size and colour but no brand, sold cheaply by a one-listing seller, usually second-hand?"
+ },
+ "1915": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1916": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1917": {
+  "p": 0.55,
+  "duda": "Do sellers that brand themselves as an 'objects store' (vintage/decor shops) label their glassware and decor pieces as used or as new?"
+ },
+ "1918": {
+  "p": 0.62,
+  "duda": "Does a stock of 2 or more on a school textbook indicate a bookshop selling new copies rather than a family reselling used ones?"
+ },
+ "1919": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1920": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1921": {
+  "p": 0.5,
+  "duda": "For classic literature titles with no edition or publisher given, sold by a mid-size seller, are copies usually used editions or new reprints?"
+ },
+ "1922": {
+  "p": 0.65,
+  "duda": "Are very cheap, generically titled furniture items (one-word titles like 'Silla') almost always used?"
+ },
+ "1923": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1924": {
+  "p": 0.45,
+  "duda": "When a private seller writes 'Nueva!!' on a children's bike or similar item with their own photos, does it usually mean truly new or barely used?"
+ },
+ "1925": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1926": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1927": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1928": {
+  "p": 0.35,
+  "duda": "Are shoes described as 'brought from the USA, original' by a private seller usually new unworn pairs?"
+ },
+ "1929": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1930": {
+  "p": 0.5,
+  "duda": "Are single collectible toy cars (Hot Wheels and similar) sold cheaply by private sellers usually new in blister or loose used ones?"
+ },
+ "1931": {
+  "p": 0.65,
+  "duda": "Are imported-edition catalogue CDs sold as single units by one-listing sellers usually second-hand?"
+ },
+ "1932": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1933": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1934": {
+  "p": 0.55,
+  "duda": "How do stamp dealers usually label collectible stamps (old series, mint or postmarked): as new or as used?"
+ },
+ "1935": {
+  "p": 0.65,
+  "duda": "Are vintage trading cards and collectible card sets generally labelled used?"
+ },
+ "1936": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1937": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1938": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1939": {
+  "p": 0.6,
+  "duda": "Is branded clothing from local fashion labels (Uma, Zara, Kickers) sold as a single unit by a one-listing seller usually second-hand?"
+ },
+ "1940": {
+  "p": 0.6,
+  "duda": "Does the diminutive 'nuevito' behave like a condition phrase ('como nuevo', i.e. used) rather than like 'nuevo'?"
+ },
+ "1941": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1942": {
+  "p": 0.55,
+  "duda": "When a bag or accessory title is only an adjective plus the item ('Hermosa bolsa') with phone photos, is it usually second-hand?"
+ },
+ "1943": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1944": {
+  "p": 0.45,
+  "duda": "Are cast-metal hardware pieces (covers, grilles, fittings) sold by one-listing sellers usually newly manufactured or salvaged?"
+ },
+ "1945": {
+  "p": 0.6,
+  "duda": "Are luxury-brand handbags sold at low prices by one-listing sellers usually second-hand (or labelled used)?"
+ },
+ "1946": {
+  "p": 0.55,
+  "duda": "How are collectible coins usually labelled, and does a grade word like 'Excelente' count as a used-condition word for them?"
+ },
+ "1947": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1948": {
+  "p": 0.63,
+  "duda": "Are imported baby-gear items (swings, strollers) sold by private sellers with their own photos and no 'nuevo' wording usually used?"
+ },
+ "1949": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1950": {
+  "p": 0.55,
+  "duda": "Is a single generic clothing item with size and colour but no brand, sold cheaply by a one-listing seller, usually second-hand?"
+ },
+ "1951": {
+  "p": 0.6,
+  "duda": "Do large-volume book sellers with one-word warranties ('si') and low prices tend to be used-book dealers?"
+ },
+ "1952": {
+  "p": 0.4,
+  "duda": "Are limited-edition collectible sneakers sold at high prices by private sellers usually new/unworn?"
+ },
+ "1953": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1954": {
+  "p": 0.45,
+  "duda": "Are off-brand building-block or remote-control toys sold as a single unit by one-listing sellers usually new in box or used?"
+ },
+ "1955": {
+  "p": 0.4,
+  "duda": "Is simple pine furniture (folding tables, shelves) with stock photos usually made new by small workshops rather than resold used?"
+ },
+ "1956": {
+  "p": 0.4,
+  "duda": "Is plus-size branded clothing listed with exact sizes by small sellers usually new shop stock?"
+ },
+ "1957": {
+  "p": 0.55,
+  "duda": "Are spare parts for discontinued classic cars (Falcon, Taunus, Rastrojero) usually used pieces or new old stock/aftermarket?"
+ },
+ "1958": {
+  "p": 0.45,
+  "duda": "Is branded costume jewellery (Guess, etc.) sold by one-listing sellers with their own photos usually new or pre-owned?"
+ },
+ "1959": {
+  "p": 0.6,
+  "duda": "Are quinceañera and wedding dresses sold as a single unit by private sellers usually worn once (used) or made to order (new)?"
+ },
+ "1960": {
+  "p": 0.55,
+  "duda": "Are single collectible figurines (Smurfs, Kinder, etc.) from small sellers usually vintage used pieces?"
+ },
+ "1961": {
+  "p": 0.6,
+  "duda": "Are building fixtures (shutter box covers, doors, windows) from one-listing sellers usually salvaged/used?"
+ },
+ "1962": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1963": {
+  "p": 0.45,
+  "duda": "Are TV stands and similar mid-priced furniture with phone photos and no condition words usually new from a workshop or used?"
+ },
+ "1964": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1965": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1966": {
+  "p": 0.6,
+  "duda": "Is specialised sports equipment (skydiving, diving, climbing) sold by one-listing sellers usually used?"
+ },
+ "1967": {
+  "p": 0.55,
+  "duda": "Does a title written as 'Author-Title-keywords' with hyphens point to a used-book dealer rather than a shop selling new copies?"
+ },
+ "1968": {
+  "p": 0.65,
+  "duda": "Are decorative ceramic plates identified by country of origin usually vintage/used pieces?"
+ },
+ "1969": {
+  "p": 0.6,
+  "duda": "Is workshop or industrial tooling (presses, jigs, stands) with no photos from a one-listing seller usually used?"
+ },
+ "1970": {
+  "p": 0.45,
+  "duda": "Are building materials sold per unit with large stock (bricks, tiles) usually new, or leftover/salvaged material labelled used?"
+ },
+ "1971": {
+  "p": 0.5,
+  "duda": "Are small body parts (handles, trims) for older car models usually new aftermarket parts or used salvage?"
+ },
+ "1972": {
+  "p": 0.5,
+  "duda": "For recent-release CDs with no condition words from mid-size sellers, are they usually new sealed copies or second-hand?"
+ },
+ "1973": {
+  "p": 0.55,
+  "duda": "Does a non-round price on pro audio gear indicate a shop selling new stock even when the seller has only one listing?"
+ },
+ "1974": {
+  "p": 0.65,
+  "duda": "Does 'permuto' (offering a swap) in the title reliably indicate a private seller with a used item?"
+ },
+ "1975": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1976": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1977": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1978": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1979": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1980": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1981": {
+  "p": 0.55,
+  "duda": "Are decorative 'ethnic' or rustic ceramic pieces from small sellers with 'no warranty' usually used/vintage or new crafts?"
+ },
+ "1982": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1983": {
+  "p": 0.5,
+  "duda": "How do stamp dealers usually label collectible stamps (old series, mint or postmarked): as new or as used?"
+ },
+ "1984": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1985": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1986": {
+  "p": 0.65,
+  "duda": "Are very cheap booklets or magazines from mid-size sellers with 'no warranty' usually used?"
+ },
+ "1987": {
+  "p": 0.5,
+  "duda": "For contemporary literary fiction with no edition details from a mid-size seller with a one-word warranty, are copies usually used?"
+ },
+ "1988": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "1989": {
+  "p": 0.35,
+  "duda": "Are RAM kits listed with the manufacturer's name as warranty usually new, or pulled from an upgraded machine?"
+ },
+ "1990": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1991": {
+  "p": 0.65,
+  "duda": "Do 'oportunidad imperdible' style titles on single party dresses at low prices indicate a second-hand item?"
+ },
+ "1992": {
+  "p": 0.5,
+  "duda": "Are spare parts for discontinued classic cars (Falcon, Taunus, Rastrojero) usually used pieces or new old stock/aftermarket?"
+ },
+ "1993": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1994": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1995": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1996": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1997": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1998": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1999": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "2000": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

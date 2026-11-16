@@ -1,0 +1,402 @@
+{
+ "17101": {
+  "p": 0.6,
+  "duda": "Is a general non-fiction book priced very low (around 50 ARS or less) from a one-listing seller usually used?"
+ },
+ "17102": {
+  "p": 0.62,
+  "duda": "Are back issues of magazines sold by mid-size sellers usually labelled used, or do collectors' sellers mark them new?"
+ },
+ "17103": {
+  "p": 0.55,
+  "duda": "Are cheap compilation CDs (about 50 ARS) from small sellers with no condition words mostly used?"
+ },
+ "17104": {
+  "p": 0.45,
+  "duda": "Do stamp dealers who describe stamps as MINT (unused, original gum) label the listing as new or as used?"
+ },
+ "17105": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17106": {
+  "p": 0.45,
+  "duda": "When a private seller writes 'nueva' on a handbag and mentions other brand items they also sell, is it usually labelled new?"
+ },
+ "17107": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "17108": {
+  "p": 0.42,
+  "duda": "For single clothing items with 'nuevo' in the title sold by a one-listing seller, how often is the listing actually new?"
+ },
+ "17109": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17110": {
+  "p": 0.55,
+  "duda": "Is old unused stock (e.g. parts from old signs, 'viejos') with several units usually listed as new or used?"
+ },
+ "17111": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17112": {
+  "p": 0.55,
+  "duda": "Are football jerseys from past seasons sold by small sellers at about half the retail price mostly used?"
+ },
+ "17113": {
+  "p": 0.6,
+  "duda": "Is a single branded women's garment at a low price from a one-listing seller, with no condition words, usually used?"
+ },
+ "17114": {
+  "p": 0.55,
+  "duda": "Is camping equipment (tents) sold as a single unit by a one-listing seller with camera photos usually used?"
+ },
+ "17115": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17116": {
+  "p": 0.66,
+  "duda": "Do sellers of vintage collectible model cars (1960s, 'de colección') label them used, or new when they are in mint condition?"
+ },
+ "17117": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17118": {
+  "p": 0.4,
+  "duda": "For single clothing items with 'nuevo' in the title sold by a small seller, how often is the listing actually new?"
+ },
+ "17119": {
+  "p": 0.55,
+  "duda": "Are paintings or decorative artworks with 'Sin garantía' from small sellers usually labelled used?"
+ },
+ "17120": {
+  "p": 0.65,
+  "duda": "Are single pairs of branded women's shoes in one size at a very low price usually used?"
+ },
+ "17121": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17122": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17123": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17124": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17125": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17126": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17127": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17128": {
+  "p": 0.4,
+  "duda": "Are generic toys with stock of 2 and no condition words from a small seller usually new?"
+ },
+ "17129": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17130": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17131": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17132": {
+  "p": 0.35,
+  "duda": "How are non-physical items (financial shares, services, rentals) labelled in the new/used field by default?"
+ },
+ "17133": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17134": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17135": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17136": {
+  "p": 0.5,
+  "duda": "Are toy castles/forts with given dimensions and camera photos typically handmade new items or second-hand toys?"
+ },
+ "17137": {
+  "p": 0.62,
+  "duda": "Are PC components (power supplies, etc.) from a one-listing seller with camera photos and no warranty mostly used?"
+ },
+ "17138": {
+  "p": 0.55,
+  "duda": "Are generic car parts with no vehicle model named, sold as a single unit by a one-listing seller, mostly used?"
+ },
+ "17139": {
+  "p": 0.45,
+  "duda": "Are leftover lots of electrical components (ballasts, ICs) sold by small sellers usually labelled new (unused surplus)?"
+ },
+ "17140": {
+  "p": 0.62,
+  "duda": "Does the pro-audio rule (1–2 listing sellers lean used) still hold when all photos are non-camera (stock-style) images?"
+ },
+ "17141": {
+  "p": 0.42,
+  "duda": "When an old vinyl record (1970s) says 'Nuevo' in the title, is it typically labelled new (unplayed old stock)?"
+ },
+ "17142": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17143": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17144": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17145": {
+  "p": 0.4,
+  "duda": "Are recent comic trade paperbacks at near-retail price from small sellers usually new?"
+ },
+ "17146": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "17147": {
+  "p": 0.55,
+  "duda": "Are architecture/design coffee-table books at low price with camera photos from small sellers mostly used?"
+ },
+ "17148": {
+  "p": 0.4,
+  "duda": "Is wooden flooring (parquet) sold as one lot by a one-listing seller typically new material or reclaimed?"
+ },
+ "17149": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17150": {
+  "p": 0.35,
+  "duda": "Are cheap generic children's accessories from small sellers with non-camera photos usually new?"
+ },
+ "17151": {
+  "p": 0.45,
+  "duda": "Is a high price for a single CD (300+ ARS in 2015) a sign of a new imported copy or a used collectible?"
+ },
+ "17152": {
+  "p": 0.4,
+  "duda": "Is a literature book priced near retail (150+ ARS) with a single stock photo usually new?"
+ },
+ "17153": {
+  "p": 0.4,
+  "duda": "Are sealed collectible miniature liquor bottles labelled new or used by collectors?"
+ },
+ "17154": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17155": {
+  "p": 0.5,
+  "duda": "Are children's character backpacks sold as single units by one-listing sellers with camera photos new or used?"
+ },
+ "17156": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17157": {
+  "p": 0.6,
+  "duda": "Do titles giving body measurements and 'miralo' for a single dress indicate a person reselling a used garment?"
+ },
+ "17158": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17159": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17160": {
+  "p": 0.55,
+  "duda": "Is a cheap unbranded single garment with no condition words from a one-listing seller more often used?"
+ },
+ "17161": {
+  "p": 0.6,
+  "duda": "Do mid-size book sellers with warranty 'Sí' and one photo mostly sell used books?"
+ },
+ "17162": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17163": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17164": {
+  "p": 0.35,
+  "duda": "Are boxed collectible die-cast sets with stock above 1 labelled new even when they are old editions?"
+ },
+ "17165": {
+  "p": 0.55,
+  "duda": "Are school reading-plan children's books (Ala Delta, Barco de Vapor) at low prices mostly used?"
+ },
+ "17166": {
+  "p": 0.6,
+  "duda": "Is a cheap unbranded single garment with no condition words from a one-listing seller more often used?"
+ },
+ "17167": {
+  "p": 0.5,
+  "duda": "Are TV replacement boards (T-Con, main, power) sold by small sellers usually pulled from broken sets (used) or new spares?"
+ },
+ "17168": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17169": {
+  "p": 0.5,
+  "duda": "Do large book sellers (100+ listings) with warranty 'Sí' sell mostly remaindered new books or used ones?"
+ },
+ "17170": {
+  "p": 0.5,
+  "duda": "Do mid-size book sellers with warranty 'Sí' and one photo mostly sell used books?"
+ },
+ "17171": {
+  "p": 0.45,
+  "duda": "Are leftover lots of electrical components (ballasts, ICs) sold by small sellers usually labelled new (unused surplus)?"
+ },
+ "17172": {
+  "p": 0.65,
+  "duda": "Is a single branded men's coat at a low price from a one-listing seller, with no condition words, usually used?"
+ },
+ "17173": {
+  "p": 0.55,
+  "duda": "Does 'suelto' (loose, without blister) on a die-cast model imply the item is labelled used?"
+ },
+ "17174": {
+  "p": 0.45,
+  "duda": "Are 'original' notebook spare parts (keyboards, fans) with stock 1–2 from small sellers new spares or pulled from used machines?"
+ },
+ "17175": {
+  "p": 0.4,
+  "duda": "How are natural mineral/rock specimens labelled by collectors' sellers — new or used?"
+ },
+ "17176": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17177": {
+  "p": 0.55,
+  "duda": "Are 'original' notebook spare parts (keyboards, fans) with stock 1–2 from small sellers new spares or pulled from used machines?"
+ },
+ "17178": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17179": {
+  "p": 0.5,
+  "duda": "Are premium-brand children's clothes sold as single items by one-listing sellers mostly used or new imports?"
+ },
+ "17180": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17181": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17182": {
+  "p": 0.45,
+  "duda": "Are instructional/hobby books priced at x99.9 with camera photos from small sellers new or used?"
+ },
+ "17183": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17184": {
+  "p": 0.6,
+  "duda": "Does a warranty like 'producto en perfectas condiciones, no se aceptan cambios por talle' indicate a second-hand clothing reseller?"
+ },
+ "17185": {
+  "p": 0.5,
+  "duda": "Does 'retapizadas' on furniture with more units sold than stock indicate a workshop selling new or refurbished (used) pieces?"
+ },
+ "17186": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17187": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17188": {
+  "p": 0.35,
+  "duda": "How are non-physical items (financial shares, services, rentals) labelled in the new/used field by default?"
+ },
+ "17189": {
+  "p": 0.5,
+  "duda": "Is a cheap unbranded single garment with no condition words from a small seller more often used?"
+ },
+ "17190": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17191": {
+  "p": 0.55,
+  "duda": "Are mainstream catalog CDs at low prices (under 100 ARS) from small sellers mostly used?"
+ },
+ "17192": {
+  "p": 0.65,
+  "duda": "Are car accessories for a specific make, sold as one unit with many camera photos by a one-listing seller, mostly used?"
+ },
+ "17193": {
+  "p": 0.35,
+  "duda": "Is a recent-edition book at retail price from a mid-size seller without warranty text usually new?"
+ },
+ "17194": {
+  "p": 0.6,
+  "duda": "Are building materials sold per unit by small sellers (roof tiles, bricks) usually reclaimed/used?"
+ },
+ "17195": {
+  "p": 0.45,
+  "duda": "Do stamp dealers who describe stamps as MINT (unused, original gum) label the listing as new or as used?"
+ },
+ "17196": {
+  "p": 0.4,
+  "duda": "Are decor items (lanterns, candle holders) at high prices with a single non-camera photo usually new?"
+ },
+ "17197": {
+  "p": 0.45,
+  "duda": "Does a price ending in .9/.95 under 30 ARS on a book title signal a digital copy (labelled new) rather than a used paperback?"
+ },
+ "17198": {
+  "p": 0.45,
+  "duda": "Are branded dolls at near-retail price from one-listing sellers with camera photos new or used?"
+ },
+ "17199": {
+  "p": 0.62,
+  "duda": "Are body parts for cars discontinued decades ago usually used, or new old stock labelled new?"
+ },
+ "17200": {
+  "p": 0.45,
+  "duda": "Are imported-brand children's clothes (Gymboree, Carter's) with a shop name in the title usually new?"
+ }
+}

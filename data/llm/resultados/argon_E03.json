@@ -1,0 +1,402 @@
+{
+ "901": {
+  "p": 0.65,
+  "duda": "Do branded clothing listings with 'sin usar' in the title consistently follow the used-condition-word rule (~65% used)?"
+ },
+ "902": {
+  "p": 0.5,
+  "duda": "Do football club jerseys without condition or season year mentions lean used or new?"
+ },
+ "903": {
+  "p": 0.5,
+  "duda": "Are newspaper kiosk book/fascicle collections (like La Nación 'Pintores Argentinos') typically listed as used or new?"
+ },
+ "904": {
+  "p": 0.5,
+  "duda": "Do collectible imported action figures (like Bandai Myth Cloth) without box or sealed mentions lean used or new?"
+ },
+ "905": {
+  "p": 0.48,
+  "duda": "Do brief brand-only accessory titles (e.g., 'Billetera Puma') with no condition words lean new or used?"
+ },
+ "906": {
+  "p": 0.58,
+  "duda": "Do car stereos named after a vehicle model (e.g., 'Estéreo Vento') without condition words lean used (pulled from vehicle) or new?"
+ },
+ "907": {
+  "p": 0.45,
+  "duda": "Do classic Argentine literature/theater plays that are frequently assigned in schools lean new like general literature or used like study material?"
+ },
+ "908": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "909": {
+  "p": 0.6,
+  "duda": "Does 'a estrenar' in children's clothing titles lean used like 'sin uso' and 'como nuevo', or do sellers label it as new?"
+ },
+ "910": {
+  "p": 0.65,
+  "duda": "When 'sin uso' appears on a video game accessory, does it follow the ~65% used rule?"
+ },
+ "911": {
+  "p": 0.45,
+  "duda": "Do low-price decorative prints/posters ('lámina 3D') with 'Sin garantía' and multiple stock lean new or used?"
+ },
+ "912": {
+  "p": 0.55,
+  "duda": "Do unbranded single-size women's tops described by fabric and cut at very low prices lean used?"
+ },
+ "913": {
+  "p": 0.65,
+  "duda": "Does a warranty like 'se revisa al retirar' on a book strongly indicate a used listing?"
+ },
+ "914": {
+  "p": 0.62,
+  "duda": "Do OEM mechanical auto parts labeled 'Original' with a specific model year and no warranty lean used (salvage/pull) or new?"
+ },
+ "915": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "916": {
+  "p": 0.38,
+  "duda": "When a history book has 'Nuevo!!!' in the title without further warranty details, should it stay around 0.38 used?"
+ },
+ "917": {
+  "p": 0.58,
+  "duda": "Do branded sneakers described informally by pattern (e.g., 'con flores') at roughly half retail price lean used?"
+ },
+ "918": {
+  "p": 0.48,
+  "duda": "Do generic automotive electrical switches with minimal titles lean new or used?"
+ },
+ "919": {
+  "p": 0.45,
+  "duda": "How are 1-peso automotive part/service inquiry listings (e.g., 'Inyectores Y Bombas Common Rail' at $1) typically labeled between new and used?"
+ },
+ "920": {
+  "p": 0.35,
+  "duda": "Do sports jerseys bearing the current listing year (2015) lean strongly new?"
+ },
+ "921": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "922": {
+  "p": 0.58,
+  "duda": "Do low-priced history/biography books with 'Sin garantía' from multi-listing booksellers lean used?"
+ },
+ "923": {
+  "p": 0.38,
+  "duda": "Does the abbreviation 'Nvo' in CD/music titles carry the same ~60% new rate as 'Nuevo'?"
+ },
+ "924": {
+  "p": 0.78,
+  "duda": "Are baby or furniture items described as 'reciclada a nuevo' consistently labeled as used?"
+ },
+ "925": {
+  "p": 0.6,
+  "duda": "Do quinceañera or party dresses specifying a single color without custom-sizing mentions lean used?"
+ },
+ "926": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "927": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "928": {
+  "p": 0.5,
+  "duda": "How are real estate temporary rental listings ('alquiler temporario' with check-in/check-out attributes) labeled between new and used?"
+ },
+ "929": {
+  "p": 0.5,
+  "duda": "How are real estate temporary rental listings ('alquiler temporario' with check-in/check-out attributes) labeled between new and used?"
+ },
+ "930": {
+  "p": 0.58,
+  "duda": "Do older foreign-language art monographs without edition year in the title lean used despite the general non-fiction rule?"
+ },
+ "931": {
+  "p": 0.4,
+  "duda": "Do unbranded apparel/hat listings with catalog-style technical terms ('Con Backstrap Y Mesh') lean new?"
+ },
+ "932": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "933": {
+  "p": 0.48,
+  "duda": "Do comic festival publications/merchandise (like Comicópolis) lean new or used?"
+ },
+ "934": {
+  "p": 0.62,
+  "duda": "When a vintage vinyl has 'Nuevo !' in the title but the warranty says 'de colección particular estado igual a nuevo 10/10', do sellers label it used or new?"
+ },
+ "935": {
+  "p": 0.58,
+  "duda": "Do older music CDs (e.g., 1990s releases) without 'nuevo' or 'sellado' in the title lean used?"
+ },
+ "936": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "937": {
+  "p": 0.5,
+  "duda": "Do women's outerwear listings described as 'de diseño' without a brand name or size list lean new or used?"
+ },
+ "938": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "939": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "940": {
+  "p": 0.58,
+  "duda": "Does 'vacíos sin utilizar' in the warranty field lean used like 'sin uso' in the title?"
+ },
+ "941": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "942": {
+  "p": 0.58,
+  "duda": "Do children's ride-on/pedal toys without condition or box mentions lean used?"
+ },
+ "943": {
+  "p": 0.45,
+  "duda": "Do construction materials like 'Puerta Placa' with multiple units in stock lean new or used?"
+ },
+ "944": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "945": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "946": {
+  "p": 0.38,
+  "duda": "Does a recent unlocked smartphone model ('Galaxy A3 Libre, 4g') with no condition words follow the ~39% used phone rule?"
+ },
+ "947": {
+  "p": 0.62,
+  "duda": "Do watches with 'Colección' in the title lean used?"
+ },
+ "948": {
+  "p": 0.5,
+  "duda": "Do literature books that specify an older Spanish publisher edition (e.g., 'Montesinos Ed.') lean used or follow the 45% used literature rule?"
+ },
+ "949": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "950": {
+  "p": 0.58,
+  "duda": "Do fiction novels that explicitly state an older publication year in the title (e.g., 'Año 2000') lean used despite the general fiction rule?"
+ },
+ "951": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "952": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "953": {
+  "p": 0.5,
+  "duda": "Are internal laptop replacement parts (like display flex cables) for older models with multiple stock typically labeled new or used?"
+ },
+ "954": {
+  "p": 0.48,
+  "duda": "Do laptop batteries titled 'Original ... leer aviso' at a low price with multiple units sold lean new or used?"
+ },
+ "955": {
+  "p": 0.72,
+  "duda": "Are historical collectibles like 1920s German Notgeld banknotes consistently labeled used, or do sellers mark uncirculated ones as new?"
+ },
+ "956": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "957": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "958": {
+  "p": 0.38,
+  "duda": "Do literature books from premium Spanish publishers (like Anagrama) priced at full new retail price (~250 ARS in 2015) lean strongly new?"
+ },
+ "959": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "960": {
+  "p": 0.62,
+  "duda": "Do branded sporting goods (like diving fins) specifying a single personal shoe size without condition words lean used?"
+ },
+ "961": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "962": {
+  "p": 0.38,
+  "duda": "Do OEM automotive accessory kits (like a Mopar trailer wiring harness) that have already sold units lean new?"
+ },
+ "963": {
+  "p": 0.5,
+  "duda": "Does the warranty phrase 'mis calificaciones son mi garantía' indicate a secondhand seller or is it neutral?"
+ },
+ "964": {
+  "p": 0.58,
+  "duda": "When a PC case model that normally ships with a power supply is listed 'Sin Fuente', does it lean used?"
+ },
+ "965": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "966": {
+  "p": 0.5,
+  "duda": "How are real estate house-for-sale listings ('Venta - Casas') labeled between new and used in this dataset?"
+ },
+ "967": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "968": {
+  "p": 0.38,
+  "duda": "Do home textile items (like faux-fur bed runners) with 'vea las calificaciones de los productos vendidos' lean new?"
+ },
+ "969": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "970": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "971": {
+  "p": 0.55,
+  "duda": "Do sellers using the boilerplate warranty 'GARANTÍA 100% DE DESCRIPCIÓN' primarily list their items as used or new?"
+ },
+ "972": {
+  "p": 0.58,
+  "duda": "Do 18k gold jewelry pieces with conversational descriptions like 'Muy Lindo!' and no weight/shop specs lean used?"
+ },
+ "973": {
+  "p": 0.42,
+  "duda": "Does a single-word warranty like 'TOTAL' from a large bookseller indicate new stock or used books?"
+ },
+ "974": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "975": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "976": {
+  "p": 0.42,
+  "duda": "When a consumer electronics accessory has multiple units sold ('vendidos' > 0) on the free tier with a strict pickup-deadline warranty, does it lean new or used?"
+ },
+ "977": {
+  "p": 0.58,
+  "duda": "Do book titles ending in a 4-digit inventory code (e.g., '1278', '1605') from the same seller indicate used bookstore stock?"
+ },
+ "978": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "979": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "980": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "981": {
+  "p": 0.58,
+  "duda": "Do older sports journalism books at very low prices with 'Sin garantía' lean used?"
+ },
+ "982": {
+  "p": 0.55,
+  "duda": "Do branded toddler clothes (like Gap for a specific age) without 'nuevo' or tag mentions lean used or new?"
+ },
+ "983": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "984": {
+  "p": 0.5,
+  "duda": "When a vintage Argentine vinyl LP has 'Lp Nuevo' in the title and a 100% satisfaction guarantee from a large record seller, is it usually labeled new or used?"
+ },
+ "985": {
+  "p": 0.48,
+  "duda": "Do academic/cultural essay books (like Roland Barthes) that are used in university courses behave like general essays (~45% used) or study material (~70% used)?"
+ },
+ "986": {
+  "p": 0.62,
+  "duda": "Do book titles ending in a 4-digit inventory code (e.g., '1278', '1605') from the same seller indicate used bookstore stock?"
+ },
+ "987": {
+  "p": 0.5,
+  "duda": "Do enterprise networking components (like HP SFP transceivers) without box/condition details lean new or used?"
+ },
+ "988": {
+  "p": 0.58,
+  "duda": "Do unbranded footwear listings described only by color and material ('Mocasines Marrones De Cuero') lean used?"
+ },
+ "989": {
+  "p": 0.55,
+  "duda": "Do limited-edition music CDs ('Con Slipcase Edic. Limitada') without 'nuevo' or 'sellado' lean used?"
+ },
+ "990": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "991": {
+  "p": 0.48,
+  "duda": "Do small ceramic/clay home decor items described colloquially ('Cacharro Vasija De Barro') lean new like the decor category average or used?"
+ },
+ "992": {
+  "p": 0.52,
+  "duda": "Are large resin advertising figures (e.g., Michelin Bibendum) typically vintage used collectibles or newly fabricated fiberglass replicas?"
+ },
+ "993": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "994": {
+  "p": 0.75,
+  "duda": "When an antique collectible bottle says 'Antigua Botella Sin Abrir', do sellers label it as used (antique) or new (unopened)?"
+ },
+ "995": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "996": {
+  "p": 0.45,
+  "duda": "When a philatelic seller lists a stamp set with multiple identical units in stock (e.g., stock 7), is it usually labeled new or used?"
+ },
+ "997": {
+  "p": 0.3,
+  "duda": "Are items from direct-sales catalog clothing brands (like Martina Di Trento) with prior sales reliably new?"
+ },
+ "998": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "999": {
+  "p": 0.4,
+  "duda": "Do generic women's clothing items on silver tier that already have a completed sale ('vendidos: 1') lean new?"
+ },
+ "1000": {
+  "p": 0.58,
+  "duda": "Are eyewear or accessories described as 'Vintage' with 'GARANTÍA 100% DE DESCRIPCIÓN' mostly labeled used or new?"
+ }
+}

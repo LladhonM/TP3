@@ -1,0 +1,402 @@
+{
+ "14401": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14402": {
+  "p": 0.5,
+  "duda": "Are children's activity books/workbooks (libro de actividades, with included sheets or stickers) on MercadoLibre usually new stock or resold used copies?"
+ },
+ "14403": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14404": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14405": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14406": {
+  "p": 0.42,
+  "duda": "Are hand-made items (paintings, crafts) sold by their maker usually labeled new, even when the seller writes 'vendo'?"
+ },
+ "14407": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "14408": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "14409": {
+  "p": 0.6,
+  "duda": "How do stamp and coin sellers usually label collectibles: are 'mint'/'SC' (uncirculated) items marked new and cancelled/antique ones used, or is everything marked used?"
+ },
+ "14410": {
+  "p": 0.5,
+  "duda": "For generic clothing or footwear from one-off sellers with no brand, condition words or retail-style details, is there any reliable lean toward new or used?"
+ },
+ "14411": {
+  "p": 0.45,
+  "duda": "For listings that offer a service or a rental (stud service, weekly equipment rental) rather than selling an item, what condition do sellers usually pick?"
+ },
+ "14412": {
+  "p": 0.55,
+  "duda": "In this dataset, how are real-estate listings (sales, land plots, seasonal rentals) usually labeled: new or used?"
+ },
+ "14413": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14414": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14415": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14416": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14417": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14418": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14419": {
+  "p": 0.55,
+  "duda": "Are car body parts (spoilers, bumpers, trims) from one-off sellers usually new aftermarket parts or parts removed from a car?"
+ },
+ "14420": {
+  "p": 0.48,
+  "duda": "For booksellers who state they sell both new and used books, does a relatively high price on a translated literary classic point to a new import or a rare used copy?"
+ },
+ "14421": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14422": {
+  "p": 0.52,
+  "duda": "For large CD/DVD sellers with many single-copy listings and no condition words, are titles usually new stock or second-hand?"
+ },
+ "14423": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14424": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "14425": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14426": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14427": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14428": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14429": {
+  "p": 0.45,
+  "duda": "For listings that offer a service or a rental (stud service, weekly equipment rental) rather than selling an item, what condition do sellers usually pick?"
+ },
+ "14430": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14431": {
+  "p": 0.45,
+  "duda": "For generic clothing or footwear from one-off sellers with no brand, condition words or retail-style details, is there any reliable lean toward new or used?"
+ },
+ "14432": {
+  "p": 0.58,
+  "duda": ""
+ },
+ "14433": {
+  "p": 0.58,
+  "duda": ""
+ },
+ "14434": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14435": {
+  "p": 0.52,
+  "duda": "For branded sneakers from one-off sellers with no size or condition text, does a price below retail indicate a used pair or a new replica?"
+ },
+ "14436": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "14437": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14438": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "14439": {
+  "p": 0.58,
+  "duda": "Does 'vintage' in a title usually mean an old used item, or can it mean new old stock / retro-style new product (especially next to 'liquido')?"
+ },
+ "14440": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14441": {
+  "p": 0.58,
+  "duda": "For vintage collectibles described as sealed (MOC, mint on card, cerrado), do sellers usually mark them new or used?"
+ },
+ "14442": {
+  "p": 0.55,
+  "duda": "Do antique/decor sellers with many single-piece listings usually label their pieces new or used?"
+ },
+ "14443": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "14444": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14445": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14446": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14447": {
+  "p": 0.48,
+  "duda": "For generic clothing or footwear from one-off sellers with no brand, condition words or retail-style details, is there any reliable lean toward new or used?"
+ },
+ "14448": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14449": {
+  "p": 0.4,
+  "duda": "How do stamp and coin sellers usually label collectibles: are 'mint'/'SC' (uncirculated) items marked new and cancelled/antique ones used, or is everything marked used?"
+ },
+ "14450": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14451": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14452": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14453": {
+  "p": 0.42,
+  "duda": "How do stamp and coin sellers usually label collectibles: are 'mint'/'SC' (uncirculated) items marked new and cancelled/antique ones used, or is everything marked used?"
+ },
+ "14454": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14455": {
+  "p": 0.55,
+  "duda": "For small electronics (radios, tablets) of models already several years old in 2015, sold by one-off sellers without condition words, how often are they new old stock?"
+ },
+ "14456": {
+  "p": 0.55,
+  "duda": "For sports gear (gloves, skates, bats) from one-off sellers with no condition words, is there a lean toward new or used?"
+ },
+ "14457": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "14458": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14459": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "14460": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "14461": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "14462": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14463": {
+  "p": 0.42,
+  "duda": "Are furniture items like wardrobes (placard) from one-off sellers usually made-to-order new pieces or resold used ones?"
+ },
+ "14464": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14465": {
+  "p": 0.4,
+  "duda": "Are foreign-brand clothing items not sold in Argentina in 2015 (H&M, Carter's, Gap) usually new items brought from abroad for resale, or used?"
+ },
+ "14466": {
+  "p": 0.63,
+  "duda": ""
+ },
+ "14467": {
+  "p": 0.48,
+  "duda": "How do stamp and coin sellers usually label collectibles: are 'mint'/'SC' (uncirculated) items marked new and cancelled/antique ones used, or is everything marked used?"
+ },
+ "14468": {
+  "p": 0.45,
+  "duda": "In this dataset, how are real-estate listings (sales, land plots, seasonal rentals) usually labeled: new or used?"
+ },
+ "14469": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "14470": {
+  "p": 0.5,
+  "duda": "Are 'tipo X' (replica-style) guitar cabinets or amps usually new builds by small makers, or used gear?"
+ },
+ "14471": {
+  "p": 0.5,
+  "duda": "Are small industrial/electrical parts (switches, limit switches, relays) from one-off sellers usually new surplus or salvaged used parts?"
+ },
+ "14472": {
+  "p": 0.55,
+  "duda": ""
+ },
+ "14473": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "14474": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14475": {
+  "p": 0.47,
+  "duda": "For recent Argentine non-fiction/history books from one-off sellers at a mid price, is there a lean toward new or used?"
+ },
+ "14476": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "14477": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "14478": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "14479": {
+  "p": 0.52,
+  "duda": "For large CD/DVD sellers with many single-copy listings and no condition words, are titles usually new stock or second-hand?"
+ },
+ "14480": {
+  "p": 0.4,
+  "duda": "Are cheap editions from budget publishers (Buró Editor, Centro Editor de Cultura) at very low prices usually new stock or used copies?"
+ },
+ "14481": {
+  "p": 0.67,
+  "duda": ""
+ },
+ "14482": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "14483": {
+  "p": 0.55,
+  "duda": ""
+ },
+ "14484": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "14485": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "14486": {
+  "p": 0.55,
+  "duda": "Are natural-hair wigs sold by one-off sellers usually new or used?"
+ },
+ "14487": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "14488": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "14489": {
+  "p": 0.45,
+  "duda": "Are patinated iron / rustic decor furniture pieces usually new artisan production or vintage used pieces?"
+ },
+ "14490": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "14491": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "14492": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "14493": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "14494": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "14495": {
+  "p": 0.5,
+  "duda": "For sports gear (gloves, skates, bats) from one-off sellers with no condition words, is there a lean toward new or used?"
+ },
+ "14496": {
+  "p": 0.45,
+  "duda": "Are souvenir prints/sheets of celebrities (posters, images) usually new reprints or used collectibles?"
+ },
+ "14497": {
+  "p": 0.45,
+  "duda": "In this dataset, how are real-estate listings (sales, land plots, seasonal rentals) usually labeled: new or used?"
+ },
+ "14498": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "14499": {
+  "p": 0.45,
+  "duda": "Are paintings (cuadros) sold with no description usually new works by the artist or used/resold pieces?"
+ },
+ "14500": {
+  "p": 0.68,
+  "duda": ""
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "1701": {
+  "p": 0.65,
+  "duda": "Is baby gear (walkers, cribs, strollers) sold by one-off sellers well below retail usually used?"
+ },
+ "1702": {
+  "p": 0.72,
+  "duda": "Does 'permuto' (open to trade) in a title reliably indicate a used item?"
+ },
+ "1703": {
+  "p": 0.5,
+  "duda": "Are current best-selling books (self-help, novels) priced about 30-40% below cover price usually used copies?"
+ },
+ "1704": {
+  "p": 0.58,
+  "duda": "Are branded watches (Fossil, etc.) listed by one-off sellers with a bare title mostly used?"
+ },
+ "1705": {
+  "p": 0.5,
+  "duda": "Are sellers with many book listings and below-cover prices mostly used-book dealers?"
+ },
+ "1706": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1707": {
+  "p": 0.45,
+  "duda": "Are spare parts for commercial kitchen machines (slush/granita machines) usually sold new?"
+ },
+ "1708": {
+  "p": 0.55,
+  "duda": "Are small household appliances (bathroom scales, etc.) from single-listing sellers at near-retail prices mostly new or used?"
+ },
+ "1709": {
+  "p": 0.42,
+  "duda": "For branded clothing with 'nuevo' in the title sold by a one-off seller below retail, is it usually new?"
+ },
+ "1710": {
+  "p": 0.45,
+  "duda": "Are architectural/salvage items (portholes, old windows, doors) usually reclaimed used pieces or new?"
+ },
+ "1711": {
+  "p": 0.63,
+  "duda": "Is branded footwear (Via Uno, Sarkany, Mishka) priced at roughly half of retail or less usually used?"
+ },
+ "1712": {
+  "p": 0.55,
+  "duda": "Are imported-brand garments not sold in local shops (London Fog) usually used, or new items brought from abroad?"
+ },
+ "1713": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1714": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1715": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1716": {
+  "p": 0.6,
+  "duda": "Are home water pumps/pressurizers listed well below retail by one-off sellers mostly used?"
+ },
+ "1717": {
+  "p": 0.55,
+  "duda": "Are large construction items like spiral staircases usually new (made to order) or used (removed from a house)?"
+ },
+ "1718": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1719": {
+  "p": 0.38,
+  "duda": "Are DVDs of older films marked 'nuevo' usually genuinely new stock?"
+ },
+ "1720": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1721": {
+  "p": 0.6,
+  "duda": "Is children's clothing (coats, raincoats) at low prices from one-off sellers mostly used?"
+ },
+ "1722": {
+  "p": 0.55,
+  "duda": "When a title says 'nuevo sin uso', does the seller usually mark the item as new or as used?"
+ },
+ "1723": {
+  "p": 0.3,
+  "duda": "Are digital/PDF books ('libro digital', 'l.digital') usually listed as new?"
+ },
+ "1724": {
+  "p": 0.55,
+  "duda": "Are Argentine rock CDs from small sellers at about new price mostly new reissues or used copies?"
+ },
+ "1725": {
+  "p": 0.65,
+  "duda": "Are car/truck parts (fuel tanks, injection pumps, alternators, filter housings) listed by one-off sellers well below new price usually used parts from dismantled vehicles?"
+ },
+ "1726": {
+  "p": 0.63,
+  "duda": "Are toy accessories (doll houses, Barbie sets) from one-off sellers mostly used?"
+ },
+ "1727": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1728": {
+  "p": 0.4,
+  "duda": "Are replacement housings/cases for old phone models usually sold new?"
+ },
+ "1729": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1730": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1731": {
+  "p": 0.68,
+  "duda": "Are hobby collections (sugar packets, stickers, stamps) usually labeled used?"
+ },
+ "1732": {
+  "p": 0.55,
+  "duda": "Are educational toys/games ('juegos didácticos') sold by small sellers usually used?"
+ },
+ "1733": {
+  "p": 0.55,
+  "duda": "Are lots of loose collectible stickers (figuritas) usually labeled used?"
+ },
+ "1734": {
+  "p": 0.25,
+  "duda": "Are digital/PDF books ('libro digital', 'l.digital') usually listed as new?"
+ },
+ "1735": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1736": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1737": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1738": {
+  "p": 0.38,
+  "duda": "Are dolls/toys with stock above 1 from small sellers usually handmade new items?"
+ },
+ "1739": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "1740": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1741": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1742": {
+  "p": 0.4,
+  "duda": "Is costume jewelry (necklaces, bracelets) with a bare title usually sold new?"
+ },
+ "1743": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "1744": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1745": {
+  "p": 0.45,
+  "duda": "How are coins and banknotes usually labeled: uncirculated/mint as new and circulated or antique pieces as used?"
+ },
+ "1746": {
+  "p": 0.6,
+  "duda": "How are real-estate listings labeled: are existing (non-brand-new) properties marked used?"
+ },
+ "1747": {
+  "p": 0.45,
+  "duda": "How are stamps labeled: are mint (unused) stamps listed as new?"
+ },
+ "1748": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1749": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1750": {
+  "p": 0.4,
+  "duda": "Are children's book collections (kiosk collections like Disney) usually sold new?"
+ },
+ "1751": {
+  "p": 0.5,
+  "duda": "Are original-brand accessories (cables, chargers) from one-off sellers at high prices usually used?"
+ },
+ "1752": {
+  "p": 0.48,
+  "duda": "Are baby textile items (crib comforters) usually handmade new or used?"
+ },
+ "1753": {
+  "p": 0.55,
+  "duda": "Is branded footwear (Via Uno, Sarkany, Mishka) priced at roughly half of retail or less usually used?"
+ },
+ "1754": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1755": {
+  "p": 0.6,
+  "duda": "Are car/truck parts (fuel tanks, injection pumps, alternators, filter housings) listed by one-off sellers well below new price usually used parts from dismantled vehicles?"
+ },
+ "1756": {
+  "p": 0.4,
+  "duda": "When a school textbook title says 'nuevo', is it usually new?"
+ },
+ "1757": {
+  "p": 0.5,
+  "duda": "Are accessories for professional camcorders (bags, rain covers) priced shop-style (.99) by small sellers usually new?"
+ },
+ "1758": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1759": {
+  "p": 0.42,
+  "duda": "Are current bestseller novels (YA sagas) at near-cover price mostly new?"
+ },
+ "1760": {
+  "p": 0.62,
+  "duda": "Do titles starting with 'Vendo' indicate a person reselling their own used item?"
+ },
+ "1761": {
+  "p": 0.38,
+  "duda": "For sports gear with 'nuevo' in the title from one-off sellers, is it usually new?"
+ },
+ "1762": {
+  "p": 0.65,
+  "duda": "Is branded footwear (Via Uno, Sarkany, Mishka) priced at roughly half of retail or less usually used?"
+ },
+ "1763": {
+  "p": 0.55,
+  "duda": "When a title says 'nuevo sin uso', does the seller usually mark the item as new or as used?"
+ },
+ "1764": {
+  "p": 0.55,
+  "duda": "Are translated classic-literature books from small sellers mostly used copies?"
+ },
+ "1765": {
+  "p": 0.63,
+  "duda": "Is branded women's clothing priced far below retail usually used?"
+ },
+ "1766": {
+  "p": 0.35,
+  "duda": "Is vintage new-old-stock (sealed blisters, 'Made in Hong Kong') usually labeled new?"
+ },
+ "1767": {
+  "p": 0.45,
+  "duda": "Are eyeglass frames sold without lenses usually new?"
+ },
+ "1768": {
+  "p": 0.6,
+  "duda": "Are obscure or out-of-print books from multi-listing book sellers mostly used?"
+ },
+ "1769": {
+  "p": 0.35,
+  "duda": "Are imported classical CDs ('impo') usually new?"
+ },
+ "1770": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1771": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1772": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1773": {
+  "p": 0.55,
+  "duda": "Are branded handbags (Calvin Klein, etc.) from one-off sellers mostly used?"
+ },
+ "1774": {
+  "p": 0.35,
+  "duda": "Are mechanical replacement parts (synchronizers, gears) usually new aftermarket parts?"
+ },
+ "1775": {
+  "p": 0.4,
+  "duda": "How are live-animal (puppy) listings labeled: new or used?"
+ },
+ "1776": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1777": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1778": {
+  "p": 0.55,
+  "duda": "Are books priced far above normal cover price (rare/out-of-print) usually used?"
+ },
+ "1779": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1780": {
+  "p": 0.55,
+  "duda": "Are lots of back-issue magazines usually labeled used even when described as 'nuevas'?"
+ },
+ "1781": {
+  "p": 0.45,
+  "duda": "Is football-club apparel (jackets, shirts) at near-retail prices mostly new?"
+ },
+ "1782": {
+  "p": 0.3,
+  "duda": "How are coins and banknotes usually labeled: uncirculated/mint as new and circulated or antique pieces as used?"
+ },
+ "1783": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1784": {
+  "p": 0.55,
+  "duda": "Are anthologies or older paperbacks from small book sellers mostly used?"
+ },
+ "1785": {
+  "p": 0.6,
+  "duda": "Do warranty texts like 'podés revisar el artículo antes de abonar' indicate a used-goods seller?"
+ },
+ "1786": {
+  "p": 0.38,
+  "duda": "When a book seller writes 'nuevo' but prices far below cover, is the book usually new?"
+ },
+ "1787": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1788": {
+  "p": 0.65,
+  "duda": "How are coins and banknotes usually labeled: uncirculated/mint as new and circulated or antique pieces as used?"
+ },
+ "1789": {
+  "p": 0.5,
+  "duda": "For bare clothing titles with no brand, size detail or condition words, is there any lean toward new or used?"
+ },
+ "1790": {
+  "p": 0.48,
+  "duda": "For bare clothing titles with no brand, size detail or condition words, is there any lean toward new or used?"
+ },
+ "1791": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1792": {
+  "p": 0.35,
+  "duda": "Are books with stock above 1 from large book sellers usually new?"
+ },
+ "1793": {
+  "p": 0.5,
+  "duda": "For bare clothing titles with no brand, size detail or condition words, is there any lean toward new or used?"
+ },
+ "1794": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1795": {
+  "p": 0.35,
+  "duda": "Are luxury items (pipes) titled 'nueva' with original case usually new?"
+ },
+ "1796": {
+  "p": 0.55,
+  "duda": "Are car/truck parts (fuel tanks, injection pumps, alternators, filter housings) listed by one-off sellers well below new price usually used parts from dismantled vehicles?"
+ },
+ "1797": {
+  "p": 0.45,
+  "duda": "Is costume jewelry (necklaces, bracelets) with a bare title usually sold new?"
+ },
+ "1798": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1799": {
+  "p": 0.42,
+  "duda": "Are phone models released 2+ years earlier (e.g. BlackBerry Z10 in 2015) with no condition info usually new?"
+ },
+ "1800": {
+  "p": 0.82,
+  "duda": ""
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "3701": {
+  "p": 0.62,
+  "duda": "Are cheap music CDs (around 50 ARS) by mainstream artists from small sellers mostly second-hand?"
+ },
+ "3702": {
+  "p": 0.42,
+  "duda": "Are imported branded clothes (Zara, Ed Hardy, Carters) sold by individuals usually new items bought abroad or worn items?"
+ },
+ "3703": {
+  "p": 0.52,
+  "duda": "For generic clothing titles with no brand, condition words or size detail, is there any wording cue that separates shop stock from personal resale?"
+ },
+ "3704": {
+  "p": 0.5,
+  "duda": "Are branded sunglasses (Oakley, Ray-Ban) sold by 1-listing sellers at around retail price mostly used originals or new (possibly replica) stock?"
+ },
+ "3705": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3706": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3707": {
+  "p": 0.62,
+  "duda": "Is a book priced well below its 2015 new retail price (e.g. under 80 ARS) a reliable sign that it is a used copy, even for literature?"
+ },
+ "3708": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3709": {
+  "p": 0.35,
+  "duda": "Are old or discontinued liquor bottles sold as collectibles labelled new (sealed) or used?"
+ },
+ "3710": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition words or size detail, is there any wording cue that separates shop stock from personal resale?"
+ },
+ "3711": {
+  "p": 0.4,
+  "duda": "Are 'new' laserdiscs/VHS/obsolete media in 2015 usually labelled new (old sealed stock) or used by collectors?"
+ },
+ "3712": {
+  "p": 0.52,
+  "duda": "Does 'Lote' (a lot of mixed items) in a title indicate a person clearing used belongings?"
+ },
+ "3713": {
+  "p": 0.55,
+  "duda": "Does 'Vendo' at the start of a title indicate a private resale (used) even when the price looks like a retail price ending in .99?"
+ },
+ "3714": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3715": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3716": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3717": {
+  "p": 0.55,
+  "duda": "Are branded motorcycle jackets (Fox, Alpinestars) from 1-listing sellers mostly used resale?"
+ },
+ "3718": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3719": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3720": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition words or size detail, is there any wording cue that separates shop stock from personal resale?"
+ },
+ "3721": {
+  "p": 0.5,
+  "duda": "How are live animals given away or sold (pets, adoptions) usually labelled on MercadoLibre: new or used?"
+ },
+ "3722": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "3723": {
+  "p": 0.5,
+  "duda": "Are expensive workshop/fitness/hobby equipment listings (kilns, wall bars, plotters) by 1-listing sellers mostly personal resale or small makers selling new?"
+ },
+ "3724": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "3725": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "3726": {
+  "p": 0.55,
+  "duda": "Are party dresses sold by 1-listing sellers mostly worn-once dresses being resold?"
+ },
+ "3727": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3728": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "3729": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3730": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3731": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3732": {
+  "p": 0.45,
+  "duda": "Are single replacement car parts (handles, windshields, ring gears) from 1-listing sellers mostly aftermarket new or salvaged used?"
+ },
+ "3733": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3734": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3735": {
+  "p": 0.55,
+  "duda": "How are collectibles (stamps, banknotes, toy figures from candy eggs, promo items) usually labelled: new when unused/mint, or used because they are resold by collectors?"
+ },
+ "3736": {
+  "p": 0.45,
+  "duda": "Are single replacement car parts (handles, windshields, ring gears) from 1-listing sellers mostly aftermarket new or salvaged used?"
+ },
+ "3737": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "3738": {
+  "p": 0.6,
+  "duda": "Is a book priced well below its 2015 new retail price (e.g. under 80 ARS) a reliable sign that it is a used copy, even for literature?"
+ },
+ "3739": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3740": {
+  "p": 0.32,
+  "duda": "How are collectibles (stamps, banknotes, toy figures from candy eggs, promo items) usually labelled: new when unused/mint, or used because they are resold by collectors?"
+ },
+ "3741": {
+  "p": 0.4,
+  "duda": "Are dolls/toys from 1-listing free-tier sellers mostly new gifts or used toys?"
+ },
+ "3742": {
+  "p": 0.5,
+  "duda": "Are expensive workshop/fitness/hobby equipment listings (kilns, wall bars, plotters) by 1-listing sellers mostly personal resale or small makers selling new?"
+ },
+ "3743": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3744": {
+  "p": 0.4,
+  "duda": "Do CD/DVD listings priced with .99 endings and a delivery-check warranty usually come from shops selling new stock?"
+ },
+ "3745": {
+  "p": 0.62,
+  "duda": "How are collectibles (stamps, banknotes, toy figures from candy eggs, promo items) usually labelled: new when unused/mint, or used because they are resold by collectors?"
+ },
+ "3746": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "3747": {
+  "p": 0.5,
+  "duda": "Do clothing listings with detailed fabric composition and measurements come from shops (new) or from second-hand clothing resellers?"
+ },
+ "3748": {
+  "p": 0.5,
+  "duda": "Are electrical components like ballasts or transformers from 1-listing sellers mostly salvaged used parts?"
+ },
+ "3749": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3750": {
+  "p": 0.4,
+  "duda": "Does 'Nuevo' in the title of a big appliance listed by a free-tier, 1-listing seller usually mean an unused gift resold (marked used) or genuinely new?"
+ },
+ "3751": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3752": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3753": {
+  "p": 0.5,
+  "duda": "Are manga volumes priced near cover price by small sellers mostly new stock or resold copies?"
+ },
+ "3754": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3755": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3756": {
+  "p": 0.55,
+  "duda": "Are imported branded clothes (Zara, Ed Hardy, Carters) sold by individuals usually new items bought abroad or worn items?"
+ },
+ "3757": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3758": {
+  "p": 0.45,
+  "duda": "Are imported branded clothes (Zara, Ed Hardy, Carters) sold by individuals usually new items bought abroad or worn items?"
+ },
+ "3759": {
+  "p": 0.55,
+  "duda": "Are cheap children's books from sellers with many book listings mostly second-hand stock?"
+ },
+ "3760": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3761": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3762": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "3763": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "3764": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3765": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3766": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition words or size detail, is there any wording cue that separates shop stock from personal resale?"
+ },
+ "3767": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3768": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition words or size detail, is there any wording cue that separates shop stock from personal resale?"
+ },
+ "3769": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "3770": {
+  "p": 0.5,
+  "duda": "Are small household furniture sets (table + stools) from 1-listing sellers mostly personal resale or maker-made new?"
+ },
+ "3771": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "3772": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3773": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3774": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "3775": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "3776": {
+  "p": 0.62,
+  "duda": "Is a branded garment priced far below its new retail price (e.g. 70 ARS) a reliable sign of used clothing?"
+ },
+ "3777": {
+  "p": 0.5,
+  "duda": "How are collectibles (stamps, banknotes, toy figures from candy eggs, promo items) usually labelled: new when unused/mint, or used because they are resold by collectors?"
+ },
+ "3778": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "3779": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "3780": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3781": {
+  "p": 0.4,
+  "duda": "Does 'Nuevo' in the title of a big appliance listed by a free-tier, 1-listing seller usually mean an unused gift resold (marked used) or genuinely new?"
+ },
+ "3782": {
+  "p": 0.4,
+  "duda": "Are cheap wallets and small accessories (under 50 ARS) mostly new shop stock?"
+ },
+ "3783": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "3784": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "3785": {
+  "p": 0.6,
+  "duda": "Are specialist out-of-print publications (military history monographs, old issues) sold by small sellers mostly used copies?"
+ },
+ "3786": {
+  "p": 0.5,
+  "duda": "When a named phone model is priced far below its official new price in Argentina, should that override the 'named phone leans new' rule?"
+ },
+ "3787": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3788": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "3789": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3790": {
+  "p": 0.45,
+  "duda": "Are single replacement car parts (handles, windshields, ring gears) from 1-listing sellers mostly aftermarket new or salvaged used?"
+ },
+ "3791": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "3792": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "3793": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "3794": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "3795": {
+  "p": 0.5,
+  "duda": "For generic clothing titles with no brand, condition words or size detail, is there any wording cue that separates shop stock from personal resale?"
+ },
+ "3796": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "3797": {
+  "p": 0.55,
+  "duda": "Are souvenir pins/badges from tourist brands (Hard Rock, etc.) sold by small sellers mostly used collector items?"
+ },
+ "3798": {
+  "p": 0.55,
+  "duda": "Are signed paintings/artworks resold by individuals labelled used, or new because they are original pieces?"
+ },
+ "3799": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "3800": {
+  "p": 0.3,
+  "duda": ""
+ }
+}

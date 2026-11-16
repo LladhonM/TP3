@@ -1,0 +1,402 @@
+{
+ "17001": {
+  "p": 0.5,
+  "duda": "For fashion accessories (bags, jewelry) from one-off sellers with no condition words, do these lean new or used?"
+ },
+ "17002": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17003": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17004": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "17005": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "17006": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "17007": {
+  "p": 0.5,
+  "duda": "Are discontinued collectibles (vintage promos, figures, bottles) usually tagged new when kept in original packaging, or used?"
+ },
+ "17008": {
+  "p": 0.38,
+  "duda": "Does 'Nuevas' in the title of a branded shoe from a one-off seller mean truly unworn (new) or rarely used?"
+ },
+ "17009": {
+  "p": 0.35,
+  "duda": "Do kids' clothes labeled 'importada' from small sellers lean new?"
+ },
+ "17010": {
+  "p": 0.5,
+  "duda": "Are single volumes of currently-published manga sold near cover price mostly new stock or resold copies?"
+ },
+ "17011": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17012": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17013": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17014": {
+  "p": 0.4,
+  "duda": "For literature books from sellers with 10-40 listings and no condition words, is the seller usually a bookshop (new) or a used-book reseller?"
+ },
+ "17015": {
+  "p": 0.07,
+  "duda": ""
+ },
+ "17016": {
+  "p": 0.4,
+  "duda": "Is a phone priced somewhat below its new retail price, with no condition words, still likely new?"
+ },
+ "17017": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17018": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17019": {
+  "p": 0.42,
+  "duda": "When a branded garment is priced well below its retail price and has no condition words, is that a reliable sign it is used?"
+ },
+ "17020": {
+  "p": 0.4,
+  "duda": "Are vehicle accessories (e.g. BMW moto repair kits) sold by individuals usually unused spares tagged new?"
+ },
+ "17021": {
+  "p": 0.45,
+  "duda": "Is surplus lab glassware or industrial filtration stock from one-off sellers usually tagged new or used?"
+ },
+ "17022": {
+  "p": 0.5,
+  "duda": "For fashion accessories (bags, jewelry) from one-off sellers with no condition words, do these lean new or used?"
+ },
+ "17023": {
+  "p": 0.4,
+  "duda": "Are party garments (sequin jumpsuits) at boutique prices from small sellers mostly new stock?"
+ },
+ "17024": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17025": {
+  "p": 0.4,
+  "duda": "Are crystal/silver-plated decor pieces (ashtrays, wine buckets) from small sellers mostly vintage used or new?"
+ },
+ "17026": {
+  "p": 0.6,
+  "duda": "Are CDs of older albums from small sellers mostly resold used copies or new stock?"
+ },
+ "17027": {
+  "p": 0.62,
+  "duda": "Are cheap branded toys (Barbie, character figures) from one-off sellers mostly used?"
+ },
+ "17028": {
+  "p": 0.6,
+  "duda": "Are discontinued collectibles (vintage promos, figures, bottles) usually tagged new when kept in original packaging, or used?"
+ },
+ "17029": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17030": {
+  "p": 0.5,
+  "duda": "For stamp lots/packets, do sellers tag them used when the stamps are cancelled and new when mint, regardless of being a dealer?"
+ },
+ "17031": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17032": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17033": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17034": {
+  "p": 0.6,
+  "duda": "Are kids' ride-on vehicles from one-off sellers mostly used?"
+ },
+ "17035": {
+  "p": 0.6,
+  "duda": "Does the pro-audio rule (1-2 listing seller leans used) also apply to boutique/handmade effect pedals?"
+ },
+ "17036": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17037": {
+  "p": 0.57,
+  "duda": "Are CDs of older albums from small sellers mostly resold used copies or new stock?"
+ },
+ "17038": {
+  "p": 0.6,
+  "duda": "When a branded garment is priced well below its retail price and has no condition words, is that a reliable sign it is used?"
+ },
+ "17039": {
+  "p": 0.5,
+  "duda": "Are discontinued collectibles (vintage promos, figures, bottles) usually tagged new when kept in original packaging, or used?"
+ },
+ "17040": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17041": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17042": {
+  "p": 0.55,
+  "duda": "When disposable or consumable goods (party plates, expired flares) are leftovers never used, do sellers tag them new or used?"
+ },
+ "17043": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17044": {
+  "p": 0.4,
+  "duda": "Are high-end imported tools/knives (e.g. Misono) sold by one-off sellers usually new imports or used?"
+ },
+ "17045": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17046": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17047": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17048": {
+  "p": 0.45,
+  "duda": "Are car/vehicle parts from one-off sellers (carburetors, tow bars) mostly used/rebuilt or new?"
+ },
+ "17049": {
+  "p": 0.62,
+  "duda": "When a branded garment is priced well below its retail price and has no condition words, is that a reliable sign it is used?"
+ },
+ "17050": {
+  "p": 0.55,
+  "duda": "When disposable or consumable goods (party plates, expired flares) are leftovers never used, do sellers tag them new or used?"
+ },
+ "17051": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17052": {
+  "p": 0.5,
+  "duda": "Are discontinued collectibles (vintage promos, figures, bottles) usually tagged new when kept in original packaging, or used?"
+ },
+ "17053": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17054": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17055": {
+  "p": 0.45,
+  "duda": "Are branded kids' clothing items (Grisino, Baby Gap, Carter's) from small sellers mostly new imports or outgrown used items?"
+ },
+ "17056": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17057": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17058": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17059": {
+  "p": 0.5,
+  "duda": "For literature books from sellers with 10-40 listings and no condition words, is the seller usually a bookshop (new) or a used-book reseller?"
+ },
+ "17060": {
+  "p": 0.6,
+  "duda": "Are crystal/silver-plated decor pieces (ashtrays, wine buckets) from small sellers mostly vintage used or new?"
+ },
+ "17061": {
+  "p": 0.55,
+  "duda": "For stamp lots/packets, do sellers tag them used when the stamps are cancelled and new when mint, regardless of being a dealer?"
+ },
+ "17062": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17063": {
+  "p": 0.45,
+  "duda": "For home goods or furniture described with praise words ('muy simpatica', 'hermosa') but no condition words, do they lean used?"
+ },
+ "17064": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17065": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17066": {
+  "p": 0.62,
+  "duda": "Are multi-book bundles by the same author at high prices usually used collector copies?"
+ },
+ "17067": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17068": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17069": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17070": {
+  "p": 0.45,
+  "duda": "Is club/national-team sports merchandise (balls, pants) from one-off sellers mostly new?"
+ },
+ "17071": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "17072": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17073": {
+  "p": 0.6,
+  "duda": "Are original artworks (paintings) resold by collectors usually tagged new or used?"
+ },
+ "17074": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17075": {
+  "p": 0.4,
+  "duda": "Are niche items that a maker could produce (aluminum easels, tow bars) from one-off sellers mostly new handmade or used?"
+ },
+ "17076": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17077": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17078": {
+  "p": 0.55,
+  "duda": "Are car/vehicle parts from one-off sellers (carburetors, tow bars) mostly used/rebuilt or new?"
+ },
+ "17079": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17080": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17081": {
+  "p": 0.58,
+  "duda": "When a branded garment is priced well below its retail price and has no condition words, is that a reliable sign it is used?"
+ },
+ "17082": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17083": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17084": {
+  "p": 0.65,
+  "duda": "Are cheap clothing lots (e.g. two cardigans) from one-off sellers mostly used?"
+ },
+ "17085": {
+  "p": 0.55,
+  "duda": "Are cheap branded toys (Barbie, character figures) from one-off sellers mostly used?"
+ },
+ "17086": {
+  "p": 0.4,
+  "duda": "For literature books from sellers with 10-40 listings and no condition words, is the seller usually a bookshop (new) or a used-book reseller?"
+ },
+ "17087": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17088": {
+  "p": 0.4,
+  "duda": "Are branded kids' clothing items (Grisino, Baby Gap, Carter's) from small sellers mostly new imports or outgrown used items?"
+ },
+ "17089": {
+  "p": 0.6,
+  "duda": "Are CDs of older albums from small sellers mostly resold used copies or new stock?"
+ },
+ "17090": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17091": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17092": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17093": {
+  "p": 0.62,
+  "duda": "Are old measuring tools (thread gauges, calipers) from one-off sellers mostly used?"
+ },
+ "17094": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17095": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17096": {
+  "p": 0.35,
+  "duda": "Are roller blinds and similar made-to-measure home items from one-off sellers mostly new?"
+ },
+ "17097": {
+  "p": 0.4,
+  "duda": "Is club/national-team sports merchandise (balls, pants) from one-off sellers mostly new?"
+ },
+ "17098": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17099": {
+  "p": 0.65,
+  "duda": "Do school textbooks sold with their worksheets ('c/ficha') still lean used?"
+ },
+ "17100": {
+  "p": 0.15,
+  "duda": ""
+ }
+}

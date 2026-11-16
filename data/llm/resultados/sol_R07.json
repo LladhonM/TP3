@@ -1,0 +1,402 @@
+{
+ "2101": {
+  "p": 0.47,
+  "duda": "Do generic watch descriptions emphasizing thinness and sapphire glass usually identify retail stock or personal resale?"
+ },
+ "2102": {
+  "p": 0.65,
+  "duda": "How often are bundles of unworn branded workwear classified as used?"
+ },
+ "2103": {
+  "p": 0.7,
+  "duda": "Does 'vintage' in leather clothing listings usually indicate an older garment or a newly manufactured style?"
+ },
+ "2104": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "2105": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2106": {
+  "p": 0.5,
+  "duda": "What distinguishes new baby outfits from secondhand ones when only the garment type is stated?"
+ },
+ "2107": {
+  "p": 0.5,
+  "duda": "What distinguishes retail garden tools from resold tools when no condition or warranty is stated?"
+ },
+ "2108": {
+  "p": 0.48,
+  "duda": "How should bedding listings be judged when they give only the sheet size and no condition information?"
+ },
+ "2109": {
+  "p": 0.45,
+  "duda": "Are specialized historical monographs without edition dates more often new stock or older resale copies?"
+ },
+ "2110": {
+  "p": 0.5,
+  "duda": "Does the word 'vendo' help distinguish personal resale from new stock in phone accessory listings?"
+ },
+ "2111": {
+  "p": 0.4,
+  "duda": "For mixed-artist CD listings, does 'new' usually mean unopened stock or previously owned copies?"
+ },
+ "2112": {
+  "p": 0.45,
+  "duda": "Does a book warranty that says only 'yes' provide any useful evidence about prior ownership?"
+ },
+ "2113": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "2114": {
+  "p": 0.5,
+  "duda": "What distinguishes new branded baby footwear from resale when only size and pickup location are stated?"
+ },
+ "2115": {
+  "p": 0.4,
+  "duda": "How are unfinished houses classified when neither prior occupancy nor new construction is specified?"
+ },
+ "2116": {
+  "p": 0.6,
+  "duda": "Are home fetal heartbeat detectors commonly resold after pregnancy or offered as new retail devices?"
+ },
+ "2117": {
+  "p": 0.6,
+  "duda": "Are dated promotional beer coasters generally classified as used collectibles or unused promotional stock?"
+ },
+ "2118": {
+  "p": 0.47,
+  "duda": "What distinguishes new counterfeit-banknote detectors from used ones when the title describes only their function?"
+ },
+ "2119": {
+  "p": 0.45,
+  "duda": "What edition information would distinguish new poetry anthologies from older resale copies?"
+ },
+ "2120": {
+  "p": 0.38,
+  "duda": "Are complete older television series on Latin American Spanish DVDs usually newly produced compilations or resold official editions?"
+ },
+ "2121": {
+  "p": 0.45,
+  "duda": "Do inventory numbers in literary book titles provide evidence of secondhand stock beyond the general book baseline?"
+ },
+ "2122": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2123": {
+  "p": 0.6,
+  "duda": "Does 'new condition, complete copy' in a book warranty usually describe a previously owned book?"
+ },
+ "2124": {
+  "p": 0.5,
+  "duda": "What distinguishes new branded children's clothing from resale when only the brand and size are given?"
+ },
+ "2125": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "2126": {
+  "p": 0.47,
+  "duda": "What distinguishes new thermal leggings from used ones when only garment type and size are stated?"
+ },
+ "2127": {
+  "p": 0.4,
+  "duda": "Does a branded cookware title specifying material and shape usually indicate retail stock rather than resale?"
+ },
+ "2128": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "2129": {
+  "p": 0.7,
+  "duda": "Are historical first-day postal covers classified as used because they are cancelled, even when preserved by collectors?"
+ },
+ "2130": {
+  "p": 0.57,
+  "duda": "Are metal vehicle fuel cans without condition statements usually recovered equipment or new accessories?"
+ },
+ "2131": {
+  "p": 0.5,
+  "duda": "Are individual pieces of branded porcelain usually secondhand replacements or newly sold tableware?"
+ },
+ "2132": {
+  "p": 0.42,
+  "duda": "Are magazine-collection diecast cars without packaging details usually new dealer stock or previously owned models?"
+ },
+ "2133": {
+  "p": 0.42,
+  "duda": "Do handbag descriptions emphasizing construction materials usually indicate newly made stock or personal resale?"
+ },
+ "2134": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "2135": {
+  "p": 0.72,
+  "duda": "Are television stands for discontinued models generally salvaged parts or unused replacement stock?"
+ },
+ "2136": {
+  "p": 0.45,
+  "duda": "Do costume titles emphasizing quality and an offer provide useful evidence of new retail stock?"
+ },
+ "2137": {
+  "p": 0.45,
+  "duda": "Are specialized economic-history books without edition dates generally new stock or older resale copies?"
+ },
+ "2138": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2139": {
+  "p": 0.4,
+  "duda": "Are wooden children's maracas usually newly made craft products or resold toys when no condition is stated?"
+ },
+ "2140": {
+  "p": 0.45,
+  "duda": "How can manufacturer and racing-model details distinguish new collectible diecast stock from previously owned models?"
+ },
+ "2141": {
+  "p": 0.5,
+  "duda": "Are garage entrance columns usually newly fabricated products or reclaimed building components?"
+ },
+ "2142": {
+  "p": 0.65,
+  "duda": "Does 'unused' in book listings usually describe personally owned copies or unsold publisher stock?"
+ },
+ "2143": {
+  "p": 0.4,
+  "duda": "How often does 'new' on a branded dress shirt mean retail stock rather than resale of an unworn garment?"
+ },
+ "2144": {
+  "p": 0.5,
+  "duda": "Are matching branded jewelry sets without packaging or condition details usually retail stock or personal resale?"
+ },
+ "2145": {
+  "p": 0.62,
+  "duda": "Do book warranties describing inspection and completeness generally indicate secondhand inventory?"
+ },
+ "2146": {
+  "p": 0.65,
+  "duda": "Does 'unused' on commercial kitchen equipment usually indicate resale after ownership or new dealer stock?"
+ },
+ "2147": {
+  "p": 0.35,
+  "duda": "Are Japanese-exclusive music editions usually imported new retail stock or previously owned collector copies?"
+ },
+ "2148": {
+  "p": 0.5,
+  "duda": "What distinguishes new branded occasion shoes from resale when only color, style, and size are given?"
+ },
+ "2149": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "2150": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "2151": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "2152": {
+  "p": 0.5,
+  "duda": "What distinguishes new music albums from resale when neither format, edition, nor condition is given?"
+ },
+ "2153": {
+  "p": 0.7,
+  "duda": "Are historical first-day postal covers classified as used because they are cancelled, even when preserved by collectors?"
+ },
+ "2154": {
+  "p": 0.55,
+  "duda": "What distinguishes new branded infant activity centers from resale when no condition or packaging is described?"
+ },
+ "2155": {
+  "p": 0.5,
+  "duda": "Are numbered decorative porcelain listings usually older collectible pieces or contemporary retail stock?"
+ },
+ "2156": {
+  "p": 0.47,
+  "duda": "What distinguishes new silk scarves from resale when no brand, packaging, or condition is stated?"
+ },
+ "2157": {
+  "p": 0.62,
+  "duda": "Do 'Super Amigos' character listings usually refer to vintage action figures or contemporary products?"
+ },
+ "2158": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "2159": {
+  "p": 0.5,
+  "duda": "What distinguishes new workshop saws from used equipment when the title states only machine type and size?"
+ },
+ "2160": {
+  "p": 0.5,
+  "duda": "What distinguishes new party dresses from resale when the title gives only a general garment description?"
+ },
+ "2161": {
+  "p": 0.62,
+  "duda": "Does a guarantee of perfect operation without a stated warranty period usually indicate used electronics?"
+ },
+ "2162": {
+  "p": 0.65,
+  "duda": "Do book warranties describing inspection of the specific copy generally indicate secondhand inventory?"
+ },
+ "2163": {
+  "p": 0.25,
+  "duda": "Are branded flags advertised by exact dimensions generally newly made merchandise?"
+ },
+ "2164": {
+  "p": 0.5,
+  "duda": "What distinguishes new professional hairdressing scissors from used ones when no model or condition is given?"
+ },
+ "2165": {
+  "p": 0.5,
+  "duda": "What distinguishes new compact refrigerators from resale when only brand, model, and capacity are stated?"
+ },
+ "2166": {
+  "p": 0.45,
+  "duda": "Are specialized military-history books without edition details generally new imports or previously owned copies?"
+ },
+ "2167": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "2168": {
+  "p": 0.7,
+  "duda": "Are inexpensive printheads for older consumer printers usually salvaged parts or new replacements?"
+ },
+ "2169": {
+  "p": 0.2,
+  "duda": "Are cross-generation console game bundles with store branding generally new digital-access sales rather than used physical games?"
+ },
+ "2170": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "2171": {
+  "p": 0.38,
+  "duda": "Does a general warranty covering all merchandise indicate new clothing stock when no manufacturer warranty is mentioned?"
+ },
+ "2172": {
+  "p": 0.45,
+  "duda": "What edition information would distinguish new literary collections from older resale copies?"
+ },
+ "2173": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "2174": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "2175": {
+  "p": 0.47,
+  "duda": "What can distinguish new consoles from used ones when the title gives only the console name?"
+ },
+ "2176": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "2177": {
+  "p": 0.55,
+  "duda": "Does period-style furniture wording usually describe older furniture or newly manufactured reproductions?"
+ },
+ "2178": {
+  "p": 0.4,
+  "duda": "Are automatic door locks described only by their mechanism usually new hardware or recovered components?"
+ },
+ "2179": {
+  "p": 0.74,
+  "duda": "Are paired handles for older cars usually salvaged original parts or new replacement parts?"
+ },
+ "2180": {
+  "p": 0.47,
+  "duda": "What distinguishes new playing-card sets from previously owned ones when no packaging or condition is described?"
+ },
+ "2181": {
+  "p": 0.47,
+  "duda": "What distinguishes new branded T-shirts from resale when the title gives only the brand and garment type?"
+ },
+ "2182": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "2183": {
+  "p": 0.45,
+  "duda": "Do inventory codes in literary book titles provide evidence of secondhand stock beyond the general book baseline?"
+ },
+ "2184": {
+  "p": 0.5,
+  "duda": "What distinguishes new slip-on shoes from used ones when the title gives only the shoe type?"
+ },
+ "2185": {
+  "p": 0.62,
+  "duda": "Do very low prices for children's costumes indicate prior wear or inexpensive new stock?"
+ },
+ "2186": {
+  "p": 0.5,
+  "duda": "What distinguishes new film DVDs from used copies when neither edition nor packaging condition is given?"
+ },
+ "2187": {
+  "p": 0.5,
+  "duda": "How should original artwork be classified when the listing does not identify whether it comes from the artist or a prior owner?"
+ },
+ "2188": {
+  "p": 0.6,
+  "duda": "For dictionaries without edition dates, what indicates an older resale copy rather than a new reprint?"
+ },
+ "2189": {
+  "p": 0.4,
+  "duda": "Do detailed branded footwear descriptions naming style and material usually indicate retail stock when condition is omitted?"
+ },
+ "2190": {
+  "p": 0.48,
+  "duda": "Does 'unique' in ethnic jewelry listings generally mean newly sourced merchandise or a previously owned piece?"
+ },
+ "2191": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "2192": {
+  "p": 0.25,
+  "duda": "Does an exchange offer for painted decorative objects usually indicate newly made craft stock?"
+ },
+ "2193": {
+  "p": 0.65,
+  "duda": "Are single tire-and-steel-wheel listings usually used assemblies or unused spare wheels?"
+ },
+ "2194": {
+  "p": 0.65,
+  "duda": "Does 'modified by a luthier' usually identify a resale pedal or a newly built custom pedal?"
+ },
+ "2195": {
+  "p": 0.55,
+  "duda": "Are iridescent glass ashtrays usually vintage collectibles or contemporary decorative stock?"
+ },
+ "2196": {
+  "p": 0.5,
+  "duda": "Are mixed lots of threaded rods, nuts, and washers usually unused project surplus or recovered hardware?"
+ },
+ "2197": {
+  "p": 0.48,
+  "duda": "Does bundling a capsule coffee machine with a milk frother distinguish retail packages from personal resale?"
+ },
+ "2198": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "2199": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "2200": {
+  "p": 0.07,
+  "duda": ""
+ }
+}

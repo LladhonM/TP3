@@ -1,0 +1,402 @@
+{
+ "12501": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12502": {
+  "p": 0.5,
+  "duda": "Are generic musical accessories (stands, cables, straps) with no brand or condition words usually new stock or resold used items?"
+ },
+ "12503": {
+  "p": 0.42,
+  "duda": "Are decor/lighting pieces described by materials only (wood, iron, parchment) usually artisan-made new items or resold used ones?"
+ },
+ "12504": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12505": {
+  "p": 0.5,
+  "duda": "Are named consumer camcorders/cameras 1-2 years old, with a bare 'Si' warranty and no condition words, usually new imports or used resales?"
+ },
+ "12506": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12507": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12508": {
+  "p": 0.6,
+  "duda": "Are Kinder surprise toys and similar small collectibles labeled used (opened) or new when no condition is stated?"
+ },
+ "12509": {
+  "p": 0.55,
+  "duda": "How are real-estate listings (land, apartments for sale, vacation rentals) labeled new vs used in this dataset, given a property cannot really be new or used?"
+ },
+ "12510": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12511": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "12512": {
+  "p": 0.38,
+  "duda": "Are generic household items described by features only (e.g. 'brazo articulado, bajo consumo') usually new stock?"
+ },
+ "12513": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12514": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12515": {
+  "p": 0.42,
+  "duda": "Are cheap accessories (wallets, belts) titled with a praise adjective like 'hermosa' and no brand usually new stock or resold used items?"
+ },
+ "12516": {
+  "p": 0.38,
+  "duda": "Does 'importado' in a clothing title indicate new boutique stock?"
+ },
+ "12517": {
+  "p": 0.5,
+  "duda": "Are branded watches (Orient, Casio, Citizen) listed without condition words usually new or used?"
+ },
+ "12518": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12519": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12520": {
+  "p": 0.5,
+  "duda": "Does a misspelled brand name in the title (e.g. 'Meg Lite' for Maglite) indicate a private reseller of a used item?"
+ },
+ "12521": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (land, apartments for sale, vacation rentals) labeled new vs used in this dataset, given a property cannot really be new or used?"
+ },
+ "12522": {
+  "p": 0.6,
+  "duda": "For literature books with no condition words, does a price well below the 2015 new retail price (e.g. under ~100 ARS) reliably indicate a used copy?"
+ },
+ "12523": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12524": {
+  "p": 0.6,
+  "duda": "Are cheap licensed movie toys/figures (e.g. Kung Fu Panda) at very low prices usually used, or new promotional items?"
+ },
+ "12525": {
+  "p": 0.58,
+  "duda": "How are real-estate listings (land, apartments for sale, vacation rentals) labeled new vs used in this dataset, given a property cannot really be new or used?"
+ },
+ "12526": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12527": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12528": {
+  "p": 0.58,
+  "duda": "Are older combined editions of classic authors (e.g. Gibran, several works in one volume) sold cheaply by multi-listing sellers usually used?"
+ },
+ "12529": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12530": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12531": {
+  "p": 0.42,
+  "duda": "Are handmade/artisan furniture pieces (mosaic 'venecitas' tables, decoupage) usually labeled new?"
+ },
+ "12532": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12533": {
+  "p": 0.6,
+  "duda": "For literature books with no condition words, does a price well below the 2015 new retail price (e.g. under ~100 ARS) reliably indicate a used copy?"
+ },
+ "12534": {
+  "p": 0.38,
+  "duda": "Does rule 2 (named recent phone => new) hold when the phone is sold on the free tier at a price near the new retail price with a detailed model code?"
+ },
+ "12535": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12536": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12537": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12538": {
+  "p": 0.35,
+  "duda": "Are car-specific aftermarket accessories (covers, car bras) usually new stock?"
+ },
+ "12539": {
+  "p": 0.62,
+  "duda": "Are industrial electrical components (contactors, breakers) priced well below retail usually used surplus?"
+ },
+ "12540": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12541": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12542": {
+  "p": 0.5,
+  "duda": "For generic clothing with no brand, condition words or shop language, does a very low price (under ~100-200 ARS) indicate a used garment?"
+ },
+ "12543": {
+  "p": 0.6,
+  "duda": "Are single OEM car parts (body panels, trims, alternators, horns) without condition words usually used parts from a wrecking yard or new spare parts?"
+ },
+ "12544": {
+  "p": 0.35,
+  "duda": "Are licensed character plush toys/dolls (e.g. Candy Crush) without condition words usually new?"
+ },
+ "12545": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "12546": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12547": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12548": {
+  "p": 0.62,
+  "duda": "Are music albums (CD/vinyl) priced high for their format without condition words usually used collector items?"
+ },
+ "12549": {
+  "p": 0.6,
+  "duda": "Are imported region-1 DVDs sold individually usually used personal copies?"
+ },
+ "12550": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12551": {
+  "p": 0.42,
+  "duda": "Is commercial/event furniture (lounge sets for parties) usually sold new by manufacturers or used by event companies?"
+ },
+ "12552": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12553": {
+  "p": 0.5,
+  "duda": "When the product type cannot be identified from the title (book, CD, other), should the probability stay at the base rate?"
+ },
+ "12554": {
+  "p": 0.4,
+  "duda": "Are original artworks (paintings, drawings) sold by the artist or a small seller usually labeled new or used?"
+ },
+ "12555": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12556": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12557": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12558": {
+  "p": 0.38,
+  "duda": "Does 'liquido' (clearing out) combined with 'nuevos' in a title indicate a person selling unworn personal items (used) or shop clearance (new)?"
+ },
+ "12559": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12560": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12561": {
+  "p": 0.38,
+  "duda": "Are hardware items (locks, handles) from a named brand without condition words usually new stock?"
+ },
+ "12562": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12563": {
+  "p": 0.6,
+  "duda": "For literature books with no condition words, does a price well below the 2015 new retail price (e.g. under ~100 ARS) reliably indicate a used copy?"
+ },
+ "12564": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12565": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12566": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12567": {
+  "p": 0.65,
+  "duda": "Does rule 4 (condition words such as 'sin uso', 'poco uso' => used) still apply when the item is clothing or a component removed from a new product?"
+ },
+ "12568": {
+  "p": 0.6,
+  "duda": "Is 'reciclada/reciclado' furniture (upcycled from old pieces) labeled used or new?"
+ },
+ "12569": {
+  "p": 0.65,
+  "duda": "Are newspaper collection books/fascicles (e.g. Clarin numbered series) sold cheaply years later usually used?"
+ },
+ "12570": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12571": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12572": {
+  "p": 0.65,
+  "duda": "Do musical-instrument amplifiers (guitar/bass amps, preamps) count as professional audio gear under rule 3?"
+ },
+ "12573": {
+  "p": 0.4,
+  "duda": "Are original artworks (paintings, drawings) sold by the artist or a small seller usually labeled new or used?"
+ },
+ "12574": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "12575": {
+  "p": 0.5,
+  "duda": "For generic clothing with no brand, condition words or shop language, does a very low price (under ~100-200 ARS) indicate a used garment?"
+ },
+ "12576": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12577": {
+  "p": 0.6,
+  "duda": "Are cut-crystal glassware pieces sold by unit (stock = set size) usually vintage used sets?"
+ },
+ "12578": {
+  "p": 0.42,
+  "duda": "Are specialized machining tools (reamers, calipers) from small sellers usually new stock or used tools?"
+ },
+ "12579": {
+  "p": 0.62,
+  "duda": "Are items titled 'de colección' (collectible dolls, figures) without condition words usually used?"
+ },
+ "12580": {
+  "p": 0.55,
+  "duda": "Are single OEM car parts (body panels, trims, alternators, horns) without condition words usually used parts from a wrecking yard or new spare parts?"
+ },
+ "12581": {
+  "p": 0.6,
+  "duda": "Does a 'Si' warranty override rule 3 (pro audio gear from 1-2 listing sellers => used) for older discontinued models?"
+ },
+ "12582": {
+  "p": 0.45,
+  "duda": "Are car batteries priced well below new retail usually used?"
+ },
+ "12583": {
+  "p": 0.45,
+  "duda": "Are expensive designer furniture pieces (steel/glass tables) without condition words usually new or used?"
+ },
+ "12584": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12585": {
+  "p": 0.45,
+  "duda": "Are collectible plastic toy soldiers/miniatures (54mm) usually new production or used collector items?"
+ },
+ "12586": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12587": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12588": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12589": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "12590": {
+  "p": 0.65,
+  "duda": "Does rule 4 (condition words such as 'sin uso', 'poco uso' => used) still apply when the item is clothing or a component removed from a new product?"
+ },
+ "12591": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "12592": {
+  "p": 0.55,
+  "duda": "How are real-estate listings (land, apartments for sale, vacation rentals) labeled new vs used in this dataset, given a property cannot really be new or used?"
+ },
+ "12593": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12594": {
+  "p": 0.62,
+  "duda": "Are single OEM car parts (body panels, trims, alternators, horns) without condition words usually used parts from a wrecking yard or new spare parts?"
+ },
+ "12595": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12596": {
+  "p": 0.42,
+  "duda": "Are branded sports helmets/protective gear (Bern, Giro) without condition words usually new imports?"
+ },
+ "12597": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12598": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "12599": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12600": {
+  "p": 0.1,
+  "duda": ""
+ }
+}

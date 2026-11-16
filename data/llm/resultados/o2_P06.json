@@ -1,0 +1,402 @@
+{
+ "4501": {
+  "p": 0.55,
+  "duda": "Are generic clothing/footwear/bag titles with no brand, size or condition words (e.g. 'Zapatos de mujer', 'Cartera negra') usually a person reselling (used) or a small shop (new)?"
+ },
+ "4502": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4503": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4504": {
+  "p": 0.32,
+  "duda": ""
+ },
+ "4505": {
+  "p": 0.4,
+  "duda": "Does 'importado/importada' in a clothing or accessory title reliably indicate new shop stock?"
+ },
+ "4506": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4507": {
+  "p": 0.45,
+  "duda": "Does the phone rule (named recent model with no defects leans new) also apply to tablets such as Samsung Galaxy Tab?"
+ },
+ "4508": {
+  "p": 0.6,
+  "duda": "Are single body or interior car parts (glove box lids, door panels, fenders) usually used parts from a junkyard/desarmadero or new replacement parts?"
+ },
+ "4509": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4510": {
+  "p": 0.55,
+  "duda": "Are collectible action figures and scale model cars (e.g. magazine collections like Dream Cars) without condition words usually listed as new or used?"
+ },
+ "4511": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4512": {
+  "p": 0.6,
+  "duda": "Does 'retro' in a title mean a vintage (used) item or a new retro-styled item?"
+ },
+ "4513": {
+  "p": 0.5,
+  "duda": "Are postage stamps, stamp series and coins from philatelic/numismatic sellers usually labeled new (mint/uncirculated) or used?"
+ },
+ "4514": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "4515": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4516": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4517": {
+  "p": 0.5,
+  "duda": "When the title is too vague to identify the product (e.g. 'Back Pack 3', 'Sydney 2000'), is there any default lean?"
+ },
+ "4518": {
+  "p": 0.5,
+  "duda": "Are collectible action figures and scale model cars (e.g. magazine collections like Dream Cars) without condition words usually listed as new or used?"
+ },
+ "4519": {
+  "p": 0.65,
+  "duda": "Do very low prices for branded children's clothing or footwear (well below retail) indicate a used item?"
+ },
+ "4520": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4521": {
+  "p": 0.6,
+  "duda": "Are household glassware/tableware sets (liqueur glasses, tablecloths) from individual sellers usually used/vintage or new?"
+ },
+ "4522": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4523": {
+  "p": 0.4,
+  "duda": "Are small jewelry items like brooches and pins usually handmade/new stock or resold used items?"
+ },
+ "4524": {
+  "p": 0.6,
+  "duda": "Are fascicle/partwork book collections (numbered volumes sold with magazines) usually resold used?"
+ },
+ "4525": {
+  "p": 0.65,
+  "duda": "Does the professional audio gear rule (single seller leans used) also apply to musical instruments such as drum kits and guitars?"
+ },
+ "4526": {
+  "p": 0.5,
+  "duda": "Are generic clothing/footwear/bag titles with no brand, size or condition words (e.g. 'Zapatos de mujer', 'Cartera negra') usually a person reselling (used) or a small shop (new)?"
+ },
+ "4527": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4528": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4529": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4530": {
+  "p": 0.65,
+  "duda": "For guitar effect pedals and amplifiers from single sellers, is the 'used' lean stronger than 0.65 when the model is old or discontinued?"
+ },
+ "4531": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4532": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4533": {
+  "p": 0.5,
+  "duda": "Is sports equipment or footwear (paddle rackets, football boots, riding boots) sold by an individual with no condition words usually used?"
+ },
+ "4534": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4535": {
+  "p": 0.45,
+  "duda": "Are postage stamps, stamp series and coins from philatelic/numismatic sellers usually labeled new (mint/uncirculated) or used?"
+ },
+ "4536": {
+  "p": 0.45,
+  "duda": "Are collectible action figures and scale model cars (e.g. magazine collections like Dream Cars) without condition words usually listed as new or used?"
+ },
+ "4537": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4538": {
+  "p": 0.65,
+  "duda": "When a short title looks like an old history book but the product is not certain, should it lean used?"
+ },
+ "4539": {
+  "p": 0.45,
+  "duda": "Are model-train (HO) spare parts usually new parts or parts salvaged from used sets?"
+ },
+ "4540": {
+  "p": 0.55,
+  "duda": "Does 'está en garantía' (still under manufacturer warranty) indicate a person reselling a used item rather than a shop?"
+ },
+ "4541": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4542": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "4543": {
+  "p": 0.5,
+  "duda": "Is sports equipment or footwear (paddle rackets, football boots, riding boots) sold by an individual with no condition words usually used?"
+ },
+ "4544": {
+  "p": 0.5,
+  "duda": "Are children's school shoes with a specific size from multi-listing sellers usually new or used?"
+ },
+ "4545": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4546": {
+  "p": 0.65,
+  "duda": "For electronics described as 'sin uso', is the used lean of about 0.65 right, or are they more often labeled new?"
+ },
+ "4547": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4548": {
+  "p": 0.55,
+  "duda": "Are single trading cards (Magic, stickers from albums) usually labeled new or used?"
+ },
+ "4549": {
+  "p": 0.5,
+  "duda": "Do general non-fiction books published 10+ years earlier (likely out of print) lean used even without condition words?"
+ },
+ "4550": {
+  "p": 0.65,
+  "duda": "Does 'estilo 80' / 80s style in clothing titles indicate vintage used clothing or new retro-styled clothing?"
+ },
+ "4551": {
+  "p": 0.65,
+  "duda": "Are parts for classic vehicles (IKA, Willys, Jeep) usually original used parts or new reproductions?"
+ },
+ "4552": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4553": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "4554": {
+  "p": 0.6,
+  "duda": "Is vintage old stock that was never used (decals, labels, tins from the 60s-80s) usually labeled new or used?"
+ },
+ "4555": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4556": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4557": {
+  "p": 0.5,
+  "duda": "Are small religious or silver items (crucifixes, medals) usually new jewelry stock or resold used items?"
+ },
+ "4558": {
+  "p": 0.55,
+  "duda": "Do general non-fiction books published 10+ years earlier (likely out of print) lean used even without condition words?"
+ },
+ "4559": {
+  "p": 0.45,
+  "duda": "Are generic clothing/footwear/bag titles with no brand, size or condition words (e.g. 'Zapatos de mujer', 'Cartera negra') usually a person reselling (used) or a small shop (new)?"
+ },
+ "4560": {
+  "p": 0.6,
+  "duda": "Are household glassware/tableware sets (liqueur glasses, tablecloths) from individual sellers usually used/vintage or new?"
+ },
+ "4561": {
+  "p": 0.65,
+  "duda": "Are postage stamps, stamp series and coins from philatelic/numismatic sellers usually labeled new (mint/uncirculated) or used?"
+ },
+ "4562": {
+  "p": 0.42,
+  "duda": "Do cheap self-help/spirituality books from single sellers follow the 'literature leans new' rule or lean used?"
+ },
+ "4563": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "4564": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4565": {
+  "p": 0.55,
+  "duda": "Is home fitness equipment (vibrating platforms, machines) sold by individuals usually used?"
+ },
+ "4566": {
+  "p": 0.6,
+  "duda": "Are single stickers (figuritas) from old albums usually labeled used?"
+ },
+ "4567": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4568": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4569": {
+  "p": 0.65,
+  "duda": "Are single body or interior car parts (glove box lids, door panels, fenders) usually used parts from a junkyard/desarmadero or new replacement parts?"
+ },
+ "4570": {
+  "p": 0.5,
+  "duda": "Are lighting fixtures (wall lamps, apliques) with no brand or condition words usually new or used?"
+ },
+ "4571": {
+  "p": 0.65,
+  "duda": "Do very low prices for party dresses or branded clothing indicate a used item even when the title says 'importado'?"
+ },
+ "4572": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4573": {
+  "p": 0.55,
+  "duda": "Are power tools (bench grinders, drills) from individual sellers without condition words usually used?"
+ },
+ "4574": {
+  "p": 0.45,
+  "duda": "Are collectible action figures and scale model cars (e.g. magazine collections like Dream Cars) without condition words usually listed as new or used?"
+ },
+ "4575": {
+  "p": 0.55,
+  "duda": "When the title is too vague to identify the product (e.g. 'Back Pack 3', 'Sydney 2000'), is there any default lean?"
+ },
+ "4576": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4577": {
+  "p": 0.45,
+  "duda": "Are pocket romance/genre novels from multi-listing book sellers usually used even without condition words?"
+ },
+ "4578": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4579": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4580": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4581": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4582": {
+  "p": 0.6,
+  "duda": "Are commercial machines (jukeboxes, arcade, vending) sold by individuals usually used?"
+ },
+ "4583": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4584": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4585": {
+  "p": 0.35,
+  "duda": "Does 'importado/importada' in a clothing or accessory title reliably indicate new shop stock?"
+ },
+ "4586": {
+  "p": 0.35,
+  "duda": "Are sports sunglasses/accessories with a named brand and model from single sellers usually new?"
+ },
+ "4587": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "4588": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4589": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4590": {
+  "p": 0.5,
+  "duda": "Does 'raro' (rare) in a collectible title indicate a used vintage item even when stock is more than 1?"
+ },
+ "4591": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4592": {
+  "p": 0.5,
+  "duda": "Are single body or interior car parts (glove box lids, door panels, fenders) usually used parts from a junkyard/desarmadero or new replacement parts?"
+ },
+ "4593": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4594": {
+  "p": 0.5,
+  "duda": "Are personal-care devices (IPL depilators, hair tools) from individual sellers usually new or resold used?"
+ },
+ "4595": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4596": {
+  "p": 0.45,
+  "duda": "Is sports equipment or footwear (paddle rackets, football boots, riding boots) sold by an individual with no condition words usually used?"
+ },
+ "4597": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4598": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4599": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4600": {
+  "p": 0.85,
+  "duda": ""
+ }
+}

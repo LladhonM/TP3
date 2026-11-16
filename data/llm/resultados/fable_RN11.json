@@ -1,0 +1,402 @@
+{
+ "17001": {
+  "p": 0.47,
+  "duda": "For a single handbag or purse from a one-listing seller with no condition words, is it more often new or used?"
+ },
+ "17002": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17003": {
+  "p": 0.45,
+  "duda": "Are postage stamps described as 'mint' (unused, uncancelled) normally listed as new or as used?"
+ },
+ "17004": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17005": {
+  "p": 0.5,
+  "duda": "For very cheap generic accessories (sunglasses, bracelets) with a generic title and stock 1, is new or used more common?"
+ },
+ "17006": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17007": {
+  "p": 0.65,
+  "duda": "Are old promotional collectibles (e.g. 1999 Pokemon gold-plated cards) that were never used normally listed as used?"
+ },
+ "17008": {
+  "p": 0.4,
+  "duda": "When a private seller writes 'nuevas' on a single pair of branded shoes or boots, how often is the listing actually marked new?"
+ },
+ "17009": {
+  "p": 0.45,
+  "duda": "Is a single 'importada' children's garment with a stated size and no condition words more often new or used?"
+ },
+ "17010": {
+  "p": 0.6,
+  "duda": "Does a personal warranty such as 'the buyer can check the product at delivery' indicate a used item sold by a private person?"
+ },
+ "17011": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17012": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17013": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17014": {
+  "p": 0.5,
+  "duda": "For a general non-fiction book from a mid-size bookseller (about 40 listings) with no edition year or condition words, is new or used more likely?"
+ },
+ "17015": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17016": {
+  "p": 0.4,
+  "duda": "Does 'libre' (unlocked) on a named phone model from a one-listing seller change the lean toward new?"
+ },
+ "17017": {
+  "p": 0.33,
+  "duda": "Does a warranty text mentioning an invoice ('Factura C') and 'libro original' reliably indicate a shop selling new books?"
+ },
+ "17018": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17019": {
+  "p": 0.5,
+  "duda": "Does 'original' on branded sneakers from a one-listing seller with phone photos point toward new or toward a personal resale?"
+ },
+ "17020": {
+  "p": 0.4,
+  "duda": "Are brand-specific vehicle accessory kits (e.g. BMW motorcycle tool or repair kits) from private sellers usually new or used?"
+ },
+ "17021": {
+  "p": 0.5,
+  "duda": "Is laboratory glassware offered as 'variedad, consulte' by a small seller usually new stock or second-hand equipment?"
+ },
+ "17022": {
+  "p": 0.55,
+  "duda": "Do praise words like 'hermosa' on a single clothing or accessory item indicate a personal resale (used)?"
+ },
+ "17023": {
+  "p": 0.45,
+  "duda": "Is a party garment with a detailed fabric description and no brand or condition words more often new or used?"
+ },
+ "17024": {
+  "p": 0.4,
+  "duda": "Are industrial consumables (filter capsules, cartridges) sold singly by a one-listing seller usually new surplus?"
+ },
+ "17025": {
+  "p": 0.5,
+  "duda": "Are decorative crystal pieces described as 'espectacular diseño' by a mid-size seller usually antiques (used) or new decor?"
+ },
+ "17026": {
+  "p": 0.6,
+  "duda": "Are music albums with a plain title and no format or condition mention from small sellers mostly used?"
+ },
+ "17027": {
+  "p": 0.6,
+  "duda": "For a cheap children's title (book or DVD) with a bare title from a one-listing seller, is used the better guess?"
+ },
+ "17028": {
+  "p": 0.55,
+  "duda": "Are brand-promotional collectibles (Coca-Cola glasses, bottles) normally listed as used even if never used?"
+ },
+ "17029": {
+  "p": 0.35,
+  "duda": "When 'nuevas' appears on a utility item such as a gas cylinder, is it more reliable than on clothing?"
+ },
+ "17030": {
+  "p": 0.48,
+  "duda": "Are thematic stamp sets from stamp dealers (stock above 1, refund-style warranty) usually listed as new or used?"
+ },
+ "17031": {
+  "p": 0.25,
+  "duda": "Are real-estate listings 'a estrenar' consistently marked as new?"
+ },
+ "17032": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17033": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17034": {
+  "p": 0.55,
+  "duda": "Are large children's ride-on toys with brand named and stock 1 from small sellers usually second-hand?"
+ },
+ "17035": {
+  "p": 0.57,
+  "duda": "Are boutique or handmade guitar pedals from a one-listing seller more often resold used than sold new by the builder?"
+ },
+ "17036": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17037": {
+  "p": 0.55,
+  "duda": "Are classical music CDs from one-listing sellers with no condition words more often used?"
+ },
+ "17038": {
+  "p": 0.6,
+  "duda": "Is a single women's garment of a local brand with no size or condition words from a one-listing seller typically used?"
+ },
+ "17039": {
+  "p": 0.5,
+  "duda": "Are collectible beverage bottles or cans (imported, limited-edition art) usually listed as new or used?"
+ },
+ "17040": {
+  "p": 0.5,
+  "duda": "Does a seller tag or code at the end of a clothing title indicate a shop with new stock or a second-hand clothing reseller?"
+ },
+ "17041": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17042": {
+  "p": 0.6,
+  "duda": "Are expired but unused items (e.g. expired flares) normally listed as used?"
+ },
+ "17043": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17044": {
+  "p": 0.5,
+  "duda": "Is a single high-end kitchen knife of a specific model from a one-listing seller more often new or a personal resale?"
+ },
+ "17045": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "17046": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17047": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17048": {
+  "p": 0.55,
+  "duda": "Are heavy-duty vehicle or towing implements from a one-listing free-tier seller usually used?"
+ },
+ "17049": {
+  "p": 0.6,
+  "duda": "Does 'marca X' phrasing on a single garment indicate a private resale (used)?"
+ },
+ "17050": {
+  "p": 0.55,
+  "duda": "Does 's/uso' on disposable goods sold in bulk (stock equal to the unit count) still lean used, or is it new leftover stock?"
+ },
+ "17051": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17052": {
+  "p": 0.48,
+  "duda": "Are discontinued collectible action figures (2000s lines) with no mention of box or condition usually listed as new or used?"
+ },
+ "17053": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17054": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17055": {
+  "p": 0.55,
+  "duda": "Is a single branded children's garment with exact size and no condition words more often a personal resale?"
+ },
+ "17056": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17057": {
+  "p": 0.35,
+  "duda": "Are generic 'perfumes importados' listings from one-listing sellers usually new?"
+ },
+ "17058": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17059": {
+  "p": 0.55,
+  "duda": "For a cheap classic novel with no publisher named from a small bookseller, is used more likely than new?"
+ },
+ "17060": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17061": {
+  "p": 0.55,
+  "duda": "Are packets of 'N different stamps' from a country, sold by stamp dealers, usually cancelled (used) stamps?"
+ },
+ "17062": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17063": {
+  "p": 0.65,
+  "duda": "Is a single furniture piece described with affectionate adjectives ('muy simpática') usually second-hand?"
+ },
+ "17064": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17065": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17066": {
+  "p": 0.6,
+  "duda": "Are bundles of two novels by a popular author at a high combined price usually used or collectible editions?"
+ },
+ "17067": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17068": {
+  "p": 0.55,
+  "duda": "Does a personal warranty mentioning sealed packaging and collection value indicate a new sealed item or a collector's resale?"
+ },
+ "17069": {
+  "p": 0.3,
+  "duda": "Does 'testeadas 100%' on electronic components with stock above 1 indicate new parts or salvaged used ones?"
+ },
+ "17070": {
+  "p": 0.5,
+  "duda": "Are football-club merchandise items (balls, apparel) from one-listing sellers with no condition words more often new or used?"
+ },
+ "17071": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17072": {
+  "p": 0.35,
+  "duda": "Are cheap generic tools or lamps with a bare title from one-listing sellers usually new?"
+ },
+ "17073": {
+  "p": 0.57,
+  "duda": "Are original paintings by named artists usually listed as used?"
+ },
+ "17074": {
+  "p": 0.77,
+  "duda": ""
+ },
+ "17075": {
+  "p": 0.55,
+  "duda": "Is shop equipment (easels, displays) described as 'ideal comercio' from a one-listing seller typically second-hand?"
+ },
+ "17076": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "17077": {
+  "p": 0.4,
+  "duda": "Are personal hygiene or baby-care items in a named pack from private sellers nearly always listed as new?"
+ },
+ "17078": {
+  "p": 0.55,
+  "duda": "Are carburetors for older car models from one-listing sellers more often used or reconditioned than new?"
+ },
+ "17079": {
+  "p": 0.65,
+  "duda": "Is generic children's furniture with a bare title, one phone photo and a low price usually second-hand?"
+ },
+ "17080": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "17081": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17082": {
+  "p": 0.5,
+  "duda": "For very cheap generic accessories (sunglasses, bracelets) with a generic title and stock 1, is new or used more common?"
+ },
+ "17083": {
+  "p": 0.4,
+  "duda": "Are small ceramic figurines with stock above 1 from a one-listing seller usually handmade new or household items being resold?"
+ },
+ "17084": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17085": {
+  "p": 0.65,
+  "duda": "Are brand-promotional toys or figures (e.g. M&M dolls) from one-listing sellers usually used?"
+ },
+ "17086": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17087": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17088": {
+  "p": 0.5,
+  "duda": "Is imported-brand baby clothing (Gap, Carter's) with a stated size from small sellers more often new imports or outgrown used items?"
+ },
+ "17089": {
+  "p": 0.55,
+  "duda": "Are rock or punk CDs from one-listing sellers with no condition words more often used?"
+ },
+ "17090": {
+  "p": 0.38,
+  "duda": "Is imported-brand baby clothing (Gap, Carter's) with a stated size from small sellers more often new imports or outgrown used items?"
+ },
+ "17091": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17092": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17093": {
+  "p": 0.65,
+  "duda": "Are precision machining gauges from one-listing free-tier sellers usually second-hand workshop tools?"
+ },
+ "17094": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17095": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17096": {
+  "p": 0.45,
+  "duda": "Are generic home-furnishing items (roller blinds, curtains) from one-listing sellers with phone photos more often new or used?"
+ },
+ "17097": {
+  "p": 0.5,
+  "duda": "Are football-club merchandise items (balls, apparel) from one-listing sellers with no condition words more often new or used?"
+ },
+ "17098": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17099": {
+  "p": 0.65,
+  "duda": "Does a primary-school textbook sold 'with its ficha' (worksheet insert) suggest an unused new copy or a complete used one?"
+ },
+ "17100": {
+  "p": 0.35,
+  "duda": "Are small generic household accessories (soap dispensers) from one-listing sellers usually new?"
+ }
+}

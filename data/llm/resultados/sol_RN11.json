@@ -1,0 +1,402 @@
+{
+ "17001": {
+  "p": 0.48,
+  "duda": "What wording distinguishes newly stocked imported handbags from personal resale when condition is unspecified?"
+ },
+ "17002": {
+  "p": 0.25,
+  "duda": "Do listings offering several types of crocheted baby accessories generally describe newly made handicrafts?"
+ },
+ "17003": {
+  "p": 0.16,
+  "duda": ""
+ },
+ "17004": {
+  "p": 0.6,
+  "duda": "Do consecutive comic-book runs usually represent personal collections rather than new retail bundles?"
+ },
+ "17005": {
+  "p": 0.4,
+  "duda": "Can generic inexpensive sunglasses be distinguished as new retail stock without explicit condition information?"
+ },
+ "17006": {
+  "p": 0.52,
+  "duda": "When a listing names only a comic-book character and franchise, how can the product type and likely resale status be inferred?"
+ },
+ "17007": {
+  "p": 0.65,
+  "duda": "Are vintage gold-plated Pokemon promotional collectibles usually resold as used, or sold as unopened old stock?"
+ },
+ "17008": {
+  "p": 0.4,
+  "duda": "How much should an unsupported claim of new condition change the estimate for branded footwear?"
+ },
+ "17009": {
+  "p": 0.47,
+  "duda": "Does imported branded or sports clothing for children carry any condition information without wear or packaging details?"
+ },
+ "17010": {
+  "p": 0.45,
+  "duda": "Does a single manga volume with an inspection-at-delivery guarantee indicate retail stock or personal resale?"
+ },
+ "17011": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17012": {
+  "p": 0.6,
+  "duda": "How can older foreign-language historical books be distinguished from modern reprints when edition dates are absent?"
+ },
+ "17013": {
+  "p": 0.45,
+  "duda": "Does an older popular-science title in its original language indicate secondhand stock when its edition is unspecified?"
+ },
+ "17014": {
+  "p": 0.45,
+  "duda": "Is a general-interest book title and author sufficient to distinguish new bookstore stock from a used copy?"
+ },
+ "17015": {
+  "p": 0.02,
+  "duda": ""
+ },
+ "17016": {
+  "p": 0.39,
+  "duda": "What evidence beyond a recent phone model and unlocked status distinguishes a new handset from a used one?"
+ },
+ "17017": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "17018": {
+  "p": 0.22,
+  "duda": ""
+ },
+ "17019": {
+  "p": 0.45,
+  "duda": "Does an authenticity claim for branded sneakers provide any evidence about use without condition or packaging details?"
+ },
+ "17020": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17021": {
+  "p": 0.4,
+  "duda": "Does an offer of assorted laboratory glassware imply new supplies or secondhand laboratory equipment?"
+ },
+ "17022": {
+  "p": 0.49,
+  "duda": "Can occasion handbags be classified from style descriptions alone when there is no condition wording?"
+ },
+ "17023": {
+  "p": 0.47,
+  "duda": "Do fabric and embellishment descriptions distinguish new formalwear from personal resale without condition information?"
+ },
+ "17024": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "17025": {
+  "p": 0.47,
+  "duda": "What wording distinguishes new decorative crystalware from previously owned pieces when age and condition are absent?"
+ },
+ "17026": {
+  "p": 0.55,
+  "duda": "How should older music releases be judged when the listing gives neither the physical format nor sealing or condition information?"
+ },
+ "17027": {
+  "p": 0.5,
+  "duda": "Can a branded toy title alone establish whether it is current retail stock or a previously owned toy?"
+ },
+ "17028": {
+  "p": 0.55,
+  "duda": "Are branded promotional drinking glasses generally treated as used collectibles unless unused condition is specified?"
+ },
+ "17029": {
+  "p": 0.38,
+  "duda": "In gas-cylinder listings, does new and full refer to a newly manufactured cylinder or merely a refilled exchange cylinder?"
+ },
+ "17030": {
+  "p": 0.58,
+  "duda": "How should collectible stamp sets be classified when mint or cancellation status is not stated?"
+ },
+ "17031": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "17032": {
+  "p": 0.6,
+  "duda": "How can older foreign-language literary anthologies be distinguished from new reprints without publisher or edition dates?"
+ },
+ "17033": {
+  "p": 0.65,
+  "duda": "What product-specific evidence can distinguish a used professional amplifier from new stock when condition is unstated?"
+ },
+ "17034": {
+  "p": 0.48,
+  "duda": "Does naming a licensed ride-on toy model distinguish new stock from personal resale without condition or packaging details?"
+ },
+ "17035": {
+  "p": 0.62,
+  "duda": "For apparently handmade guitar pedals, what wording distinguishes a new builder-made unit from a resold pedal?"
+ },
+ "17036": {
+  "p": 0.55,
+  "duda": "Can a long-running drum-kit series and price distinguish a used kit from new stock without configuration or condition details?"
+ },
+ "17037": {
+  "p": 0.55,
+  "duda": "Does a named classical recording and disc count provide condition evidence without sealing or wear information?"
+ },
+ "17038": {
+  "p": 0.53,
+  "duda": "Can a named fashion brand and modest price distinguish used clothing from discounted new stock?"
+ },
+ "17039": {
+  "p": 0.6,
+  "duda": "Are collectible branded beverage containers usually classified as used when their contents and opening status are unspecified?"
+ },
+ "17040": {
+  "p": 0.4,
+  "duda": "Do detailed material and buckle descriptions indicate new accessory stock, or are they equally common in personal resale?"
+ },
+ "17041": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17042": {
+  "p": 0.54,
+  "duda": "Are expired but unactivated consumables generally labeled new or used in marketplace listings?"
+ },
+ "17043": {
+  "p": 0.45,
+  "duda": "When dates in a literary anthology title describe its contents, what evidence establishes the age and condition of the copy?"
+ },
+ "17044": {
+  "p": 0.45,
+  "duda": "Can an imported premium kitchen knife model and price distinguish new retail stock from a previously owned knife?"
+ },
+ "17045": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17046": {
+  "p": 0.98,
+  "duda": ""
+ },
+ "17047": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17048": {
+  "p": 0.43,
+  "duda": "Does plural wording for heavy-duty towing equipment indicate newly manufactured products or a resale lot?"
+ },
+ "17049": {
+  "p": 0.5,
+  "duda": "Can a garment brand and fabric description establish condition when wear and packaging are unspecified?"
+ },
+ "17050": {
+  "p": 0.65,
+  "duda": "Should unused condition wording still suggest personal resale for bulk disposable supplies left over from an event?"
+ },
+ "17051": {
+  "p": 0.96,
+  "duda": ""
+ },
+ "17052": {
+  "p": 0.6,
+  "duda": "For discontinued collectible action figures, how much does age indicate use when packaging status is absent?"
+ },
+ "17053": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17054": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "17055": {
+  "p": 0.47,
+  "duda": "Does a specific branded childrenswear design indicate current retail stock without explicit condition information?"
+ },
+ "17056": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "17057": {
+  "p": 0.3,
+  "duda": "Does a generic plural offer of imported perfumes reliably indicate new merchandise rather than opened personal bottles?"
+ },
+ "17058": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "17059": {
+  "p": 0.45,
+  "duda": "Is a classic novel title and author sufficient to distinguish new bookstore stock from a used copy?"
+ },
+ "17060": {
+  "p": 0.63,
+  "duda": "Does London Plate wording identify vintage silver-plated tableware, or can it also describe newly manufactured pieces?"
+ },
+ "17061": {
+  "p": 0.58,
+  "duda": "How should collectible stamp assortments be classified when mint or cancellation status is not stated?"
+ },
+ "17062": {
+  "p": 0.33,
+  "duda": "Does a bookstore name in a book title provide reliable evidence of new stock when the edition and condition are unspecified?"
+ },
+ "17063": {
+  "p": 0.49,
+  "duda": "What wording distinguishes newly made upholstered accent chairs from previously owned pieces without condition details?"
+ },
+ "17064": {
+  "p": 0.31,
+  "duda": ""
+ },
+ "17065": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17066": {
+  "p": 0.6,
+  "duda": "Do bundles of separately titled novels usually indicate a personal collection rather than a new retail package?"
+ },
+ "17067": {
+  "p": 0.34,
+  "duda": "Does antique advertising in framed gift listings usually refer to newly made decor or original vintage printed material?"
+ },
+ "17068": {
+  "p": 0.3,
+  "duda": "Does a guarantee voided by opening the packaging reliably indicate a sealed collectible, or can this be generic warranty wording?"
+ },
+ "17069": {
+  "p": 0.27,
+  "duda": ""
+ },
+ "17070": {
+  "p": 0.47,
+  "duda": "Does football-club branding on a leather ball indicate ordinary new merchandise or a collectible with possible prior use?"
+ },
+ "17071": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17072": {
+  "p": 0.46,
+  "duda": "Can a generic voltage and product description distinguish a new work lamp from a used one?"
+ },
+ "17073": {
+  "p": 0.65,
+  "duda": "How are original artworks with artist provenance classified when prior ownership and direct artist sale are unspecified?"
+ },
+ "17074": {
+  "p": 0.84,
+  "duda": ""
+ },
+ "17075": {
+  "p": 0.49,
+  "duda": "Does describing equipment as suitable for a shop indicate new retail merchandise or secondhand commercial equipment?"
+ },
+ "17076": {
+  "p": 0.23,
+  "duda": ""
+ },
+ "17077": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17078": {
+  "p": 0.63,
+  "duda": "For carburetors for older vehicles, what wording distinguishes removed original parts from newly manufactured replacements?"
+ },
+ "17079": {
+  "p": 0.54,
+  "duda": "Can a low price distinguish a used bunk bed from inexpensive newly made furniture without dimensions or condition wording?"
+ },
+ "17080": {
+  "p": 0.65,
+  "duda": "For radiators for older vehicle models, what wording distinguishes used original parts from new replacement parts?"
+ },
+ "17081": {
+  "p": 0.64,
+  "duda": "Can unusually low prices for named imported clothing justify a used lean without explicit condition wording?"
+ },
+ "17082": {
+  "p": 0.55,
+  "duda": "Do small bundles of jewelry sets indicate personal resale, or are they common new retail offers?"
+ },
+ "17083": {
+  "p": 0.42,
+  "duda": "What wording distinguishes newly made decorative ceramic dolls from previously owned collectible dolls?"
+ },
+ "17084": {
+  "p": 0.6,
+  "duda": "Do bundles of differently colored garments usually indicate personal resale rather than new retail stock?"
+ },
+ "17085": {
+  "p": 0.54,
+  "duda": "How should promotional character figures be judged when age, packaging, and condition are unspecified?"
+ },
+ "17086": {
+  "p": 0.42,
+  "duda": "Does a named tribute edition suggest current bookstore stock, or is edition information alone insufficient to establish condition?"
+ },
+ "17087": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "17088": {
+  "p": 0.47,
+  "duda": "Does an imported baby-clothing brand and age size provide condition information without tags or wear details?"
+ },
+ "17089": {
+  "p": 0.55,
+  "duda": "How should older music releases be judged when sealing and physical condition are unspecified?"
+ },
+ "17090": {
+  "p": 0.39,
+  "duda": "Do coordinated branded baby-clothing sets generally indicate new retail packages, or are intact sets commonly resold?"
+ },
+ "17091": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17092": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "17093": {
+  "p": 0.52,
+  "duda": "Can a precision measuring-tool brand and type distinguish new industrial stock from previously used workshop tools?"
+ },
+ "17094": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "17095": {
+  "p": 0.32,
+  "duda": "Does a woven themed necklace description indicate newly made artisan jewelry or possible personal resale?"
+ },
+ "17096": {
+  "p": 0.48,
+  "duda": "What wording distinguishes new made-to-measure roller blinds from previously installed blinds when dimensions are absent?"
+ },
+ "17097": {
+  "p": 0.49,
+  "duda": "Does national-team branding on sportswear provide any condition evidence without wear, tags, or packaging details?"
+ },
+ "17098": {
+  "p": 0.76,
+  "duda": ""
+ },
+ "17099": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17100": {
+  "p": 0.47,
+  "duda": "Can a generic material and function description distinguish new bathroom accessories from previously used ones?"
+ }
+}

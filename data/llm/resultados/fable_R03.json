@@ -1,0 +1,402 @@
+{
+ "1701": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1702": {
+  "p": 0.65,
+  "duda": "Does 'permuto' (open to trade) in a title reliably indicate a used item?"
+ },
+ "1703": {
+  "p": 0.45,
+  "duda": "For recent self-help bestsellers sold by a one-listing seller with no condition words, are they more often used or new?"
+ },
+ "1704": {
+  "p": 0.5,
+  "duda": "For branded watches (Fossil, etc.) listed by a private seller with only the brand in the title, are they more often used or new?"
+ },
+ "1705": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "1706": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "1707": {
+  "p": 0.45,
+  "duda": "For spare parts of commercial machines (e.g. slush machines) with a short '30 dias' warranty, are they usually new or used?"
+ },
+ "1708": {
+  "p": 0.5,
+  "duda": "For small household appliances (bathroom scales, etc.) listed with only brand and type by a one-listing seller, are they more often used or new?"
+ },
+ "1709": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "1710": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1711": {
+  "p": 0.58,
+  "duda": "For branded women's shoes listed in a single size with no condition words, are they more often used or new?"
+ },
+ "1712": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1713": {
+  "p": 0.6,
+  "duda": "Are decorative ornaments (figurines, imitation ivory) sold by private sellers usually listed as used?"
+ },
+ "1714": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "1715": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1716": {
+  "p": 0.6,
+  "duda": "For plumbing equipment (pressure pumps) listed with only the brand by a one-listing seller, are they more often used or new?"
+ },
+ "1717": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1718": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1719": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "1720": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1721": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "1722": {
+  "p": 0.45,
+  "duda": "When a title says 'nuevo sin uso' together, does the seller usually mark the listing as new or as used?"
+ },
+ "1723": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1724": {
+  "p": 0.6,
+  "duda": "For 1990s Argentine rock CDs sold by a small seller with no condition words, are they more often used or new?"
+ },
+ "1725": {
+  "p": 0.55,
+  "duda": "For large car parts (fuel tanks, alternators, gearbox parts) from a one-listing seller with no 'nuevo'/'original' wording, are they more often used or new?"
+ },
+ "1726": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1727": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1728": {
+  "p": 0.4,
+  "duda": "Are replacement housings (carcasas) for old phone models usually new aftermarket parts or used pulls?"
+ },
+ "1729": {
+  "p": 0.4,
+  "duda": "For cheap generic phone accessories (chargers, cables) from one-listing sellers, are they more often new or used?"
+ },
+ "1730": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1731": {
+  "p": 0.6,
+  "duda": "How are collectibles (sugar packets, stickers, stamps, coins, banknotes) typically labeled: used because they are old, or new because they are uncirculated?"
+ },
+ "1732": {
+  "p": 0.6,
+  "duda": ""
+ },
+ "1733": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1734": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1735": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1736": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "1737": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "1738": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1739": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1740": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1741": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1742": {
+  "p": 0.45,
+  "duda": "For generic jewelry (necklaces, bracelets) with no brand or condition words from a one-listing seller, is it more often new or used?"
+ },
+ "1743": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "1744": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "1745": {
+  "p": 0.5,
+  "duda": "Are uncirculated ('sin circular') coins and banknotes typically labeled new or used on MercadoLibre?"
+ },
+ "1746": {
+  "p": 0.55,
+  "duda": "How are real-estate listings of existing (refurbished) properties labeled: new or used?"
+ },
+ "1747": {
+  "p": 0.45,
+  "duda": "Are mint (unused) postage stamps from past decades typically labeled new or used?"
+ },
+ "1748": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1749": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1750": {
+  "p": 0.5,
+  "duda": "For children's book collections sold with stock above 1 by a one-listing seller, are they more often used or new?"
+ },
+ "1751": {
+  "p": 0.4,
+  "duda": "Does 'original' on an electronics accessory (cable, charger) lean toward new or used?"
+ },
+ "1752": {
+  "p": 0.55,
+  "duda": "For baby bedding and textiles listed by a one-listing seller with no condition words, are they more often used or handmade new?"
+ },
+ "1753": {
+  "p": 0.5,
+  "duda": "For branded women's shoes listed in a single size with no condition words, are they more often used or new?"
+ },
+ "1754": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "1755": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "1756": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1757": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1758": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "1759": {
+  "p": 0.5,
+  "duda": "For recent young-adult novels sold by a one-listing seller with no condition words, are they more often used or new?"
+ },
+ "1760": {
+  "p": 0.55,
+  "duda": "Does a 'Vendo!!!' style title (private-seller phrasing) indicate a used item?"
+ },
+ "1761": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "1762": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1763": {
+  "p": 0.45,
+  "duda": "When a title says 'nuevo sin uso' together, does the seller usually mark the listing as new or as used?"
+ },
+ "1764": {
+  "p": 0.58,
+  "duda": "For classic literature titles with no edition or condition information from a small seller, are they more often used or new?"
+ },
+ "1765": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "1766": {
+  "p": 0.45,
+  "duda": "Is old unsold shop stock (vintage items still in blister) typically labeled new or used?"
+ },
+ "1767": {
+  "p": 0.6,
+  "duda": "Are eyeglass frames sold without lenses by a one-listing seller usually used?"
+ },
+ "1768": {
+  "p": 0.62,
+  "duda": ""
+ },
+ "1769": {
+  "p": 0.55,
+  "duda": "For imported classical-music CDs from small sellers with no condition words, are they more often used or new?"
+ },
+ "1770": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1771": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1772": {
+  "p": 0.45,
+  "duda": "For unbranded clothing with stock above 1 and promotional wording ('aprovechá'), is it more often new or used?"
+ },
+ "1773": {
+  "p": 0.5,
+  "duda": "Does 'original' on a branded handbag or garment lean toward new or toward a private resale of a used item?"
+ },
+ "1774": {
+  "p": 0.45,
+  "duda": "For small gearbox/engine parts with no condition words from a one-listing seller, are they more often new or used?"
+ },
+ "1775": {
+  "p": 0.3,
+  "duda": "How are live animals (puppies) labeled: new or used?"
+ },
+ "1776": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "1777": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "1778": {
+  "p": 0.5,
+  "duda": "For romance novels with an unusually high price from a one-listing seller, are they more often used or new?"
+ },
+ "1779": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "1780": {
+  "p": 0.45,
+  "duda": "When a lot of magazines is described as 'nuevas', is it usually labeled new or used?"
+ },
+ "1781": {
+  "p": 0.6,
+  "duda": "Are football-club garments from past sponsor eras (older kit brands) usually used collector pieces?"
+ },
+ "1782": {
+  "p": 0.35,
+  "duda": "Are uncirculated ('sin circular') coins and banknotes typically labeled new or used on MercadoLibre?"
+ },
+ "1783": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "1784": {
+  "p": 0.6,
+  "duda": "Does a bare 'Sí' in the warranty field on a book listing lean new or used?"
+ },
+ "1785": {
+  "p": 0.6,
+  "duda": "Does warranty text like 'podés revisar el artículo antes de abonar' indicate a used item?"
+ },
+ "1786": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1787": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1788": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "1789": {
+  "p": 0.55,
+  "duda": "For women's clothing with a generic title, one photo and no brand or condition words, is it more often used or new?"
+ },
+ "1790": {
+  "p": 0.55,
+  "duda": "For women's clothing with a generic title, one photo and no brand or condition words, is it more often used or new?"
+ },
+ "1791": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "1792": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "1793": {
+  "p": 0.6,
+  "duda": "For women's clothing listed in a single size with no brand or condition words, is it more often used or new?"
+ },
+ "1794": {
+  "p": 0.5,
+  "duda": "For designer-brand clothing offered in two sizes with stock above 1 by a one-listing seller, is it more often new or used?"
+ },
+ "1795": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "1796": {
+  "p": 0.55,
+  "duda": "For large car parts (fuel tanks, alternators, gearbox parts) from a one-listing seller with no 'nuevo'/'original' wording, are they more often used or new?"
+ },
+ "1797": {
+  "p": 0.45,
+  "duda": "For generic jewelry (necklaces, bracelets) with no brand or condition words from a one-listing seller, is it more often new or used?"
+ },
+ "1798": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "1799": {
+  "p": 0.42,
+  "duda": "Does the phone rule (lean new) also apply to models that are about two years old, like the Blackberry Z10 in 2015?"
+ },
+ "1800": {
+  "p": 0.85,
+  "duda": ""
+ }
+}

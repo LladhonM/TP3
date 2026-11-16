@@ -1,0 +1,402 @@
+{
+ "16001": {
+  "p": 0.6,
+  "duda": "Are single plush toys of licensed characters from one-off sellers, with no condition words, usually used?"
+ },
+ "16002": {
+  "p": 0.28,
+  "duda": ""
+ },
+ "16003": {
+  "p": 0.45,
+  "duda": "Are discontinued collectible toy lines (e.g. Hot Wheels Acceleracers) from small collector sellers usually listed as new (sealed) or used?"
+ },
+ "16004": {
+  "p": 0.4,
+  "duda": "Do high-volume CD sellers with a money-back guarantee text and odd cent prices mostly sell new or second-hand discs?"
+ },
+ "16005": {
+  "p": 0.55,
+  "duda": "Are collectible beer bottles/cans from past years usually listed as used?"
+ },
+ "16006": {
+  "p": 0.45,
+  "duda": "Does the phone rule (named recent model leans new) also apply to smartwatches sold by one-off sellers?"
+ },
+ "16007": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "16008": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16009": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "16010": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16011": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16012": {
+  "p": 0.86,
+  "duda": ""
+ },
+ "16013": {
+  "p": 0.5,
+  "duda": "Do philatelic dealers list mint stamps and first-day sheets/covers as new or as used?"
+ },
+ "16014": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16015": {
+  "p": 0.45,
+  "duda": "Are CDs of local underground bands with no condition words usually new or used?"
+ },
+ "16016": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16017": {
+  "p": 0.45,
+  "duda": "Are loose trading cards (Adrenalyn, Panini) sold individually listed as new or used?"
+ },
+ "16018": {
+  "p": 0.55,
+  "duda": "Are heavy truck parts (power take-offs, etc.) from one-off sellers with no condition words usually used?"
+ },
+ "16019": {
+  "p": 0.4,
+  "duda": "Are sports accessories from a one-off seller with stock above 1 and no photos usually new?"
+ },
+ "16020": {
+  "p": 0.6,
+  "duda": "Are signed sculptures and artworks by named artists usually listed as used?"
+ },
+ "16021": {
+  "p": 0.55,
+  "duda": "Do numismatic dealers list collectible coins as used or new?"
+ },
+ "16022": {
+  "p": 0.55,
+  "duda": "Are children's picture books from small sellers with no publisher or condition info usually used?"
+ },
+ "16023": {
+  "p": 0.4,
+  "duda": "Are interior doors with stock above 1 from small sellers new stock or demolition salvage?"
+ },
+ "16024": {
+  "p": 0.6,
+  "duda": "Is unbranded cheap women's clothing in a single size from a small seller usually used?"
+ },
+ "16025": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "16026": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16027": {
+  "p": 0.4,
+  "duda": "Are consumer speaker docks from small sellers with stock-style photos usually new?"
+ },
+ "16028": {
+  "p": 0.6,
+  "duda": "Is unbranded cheap women's clothing in a single size from a small seller usually used?"
+ },
+ "16029": {
+  "p": 0.5,
+  "duda": "Are framed prints/reproductions sold by mid-size decor sellers listed as new or used?"
+ },
+ "16030": {
+  "p": 0.5,
+  "duda": "Are branded sneakers in a single US size from a one-off seller usually new (brought from abroad) or used?"
+ },
+ "16031": {
+  "p": 0.4,
+  "duda": "Are cheap generic household electrical items from one-off sellers usually new?"
+ },
+ "16032": {
+  "p": 0.45,
+  "duda": "Do model-railway sellers list rolling stock with catalog item numbers as new or used?"
+ },
+ "16033": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "16034": {
+  "p": 0.45,
+  "duda": "Do philatelic dealers list mint stamps and first-day sheets/covers as new or as used?"
+ },
+ "16035": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16036": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16037": {
+  "p": 0.4,
+  "duda": "Is door/furniture hardware from mid-size sellers with stock 1 usually new or salvaged?"
+ },
+ "16038": {
+  "p": 0.45,
+  "duda": "When a title says both 'nuevo' and 'permuto' for an antique-style item, is it typically listed as new?"
+ },
+ "16039": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16040": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16041": {
+  "p": 0.55,
+  "duda": "Are a phone's empty box plus original charger/earphones (without the phone) usually listed as used?"
+ },
+ "16042": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16043": {
+  "p": 0.47,
+  "duda": "Is designer-brand clothing at a near-retail price from a one-off seller usually new or used?"
+ },
+ "16044": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16045": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16046": {
+  "p": 0.5,
+  "duda": "Are imported music DVDs from mid-size sellers with no condition words new or used?"
+ },
+ "16047": {
+  "p": 0.55,
+  "duda": "Are general non-fiction books from small sellers with phone photos and no condition words usually used?"
+ },
+ "16048": {
+  "p": 0.45,
+  "duda": "When an old edition of a medical textbook is marked 'nuevo' in the title, does the seller list it as new?"
+ },
+ "16049": {
+  "p": 0.6,
+  "duda": "Are gaming headsets from one-off sellers with phone photos and no warranty usually used?"
+ },
+ "16050": {
+  "p": 0.5,
+  "duda": "Do philatelic dealers list mint stamps and first-day sheets/covers as new or as used?"
+ },
+ "16051": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16052": {
+  "p": 0.6,
+  "duda": "Does the pro audio/video rule (one-off seller leans used) also cover stage lighting such as moving heads?"
+ },
+ "16053": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "16054": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "16055": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "16056": {
+  "p": 0.4,
+  "duda": "Are handmade artisan figures by a named sculptor listed as new even when resold by a collector?"
+ },
+ "16057": {
+  "p": 0.6,
+  "duda": "Are autographed football shirts and similar memorabilia usually listed as used?"
+ },
+ "16058": {
+  "p": 0.55,
+  "duda": "Do numismatic dealers list collectible coins as used or new?"
+ },
+ "16059": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16060": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16061": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16062": {
+  "p": 0.6,
+  "duda": "Are loose collectible mini-figures (Corinthian Micros, etc.) from small sellers usually used?"
+ },
+ "16063": {
+  "p": 0.55,
+  "duda": "Is a recent non-fiction book at a very low price from a one-off seller usually a used copy?"
+ },
+ "16064": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16065": {
+  "p": 0.55,
+  "duda": "Are legal codes with no stated year from small sellers usually used copies?"
+ },
+ "16066": {
+  "p": 0.35,
+  "duda": "Are custom-fabricated 4x4 accessories from one-off sellers usually new (made to order)?"
+ },
+ "16067": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16068": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16069": {
+  "p": 0.37,
+  "duda": "When a dealership lists a motorcycle with 'permuto' and no mention of 0km, is it usually a new unit or a used trade-in?"
+ },
+ "16070": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16071": {
+  "p": 0.4,
+  "duda": "Are bulk packs of work clothing (aprons) from one-off sellers usually new?"
+ },
+ "16072": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "16073": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16074": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16075": {
+  "p": 0.6,
+  "duda": "Are cheap interior car trim parts from one-off sellers usually salvaged (used)?"
+ },
+ "16076": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16077": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16078": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "16079": {
+  "p": 0.4,
+  "duda": "Does a shop-style 'garantía de funcionamiento' on a CD indicate new stock or a second-hand record store?"
+ },
+ "16080": {
+  "p": 0.42,
+  "duda": "Are memory cards from one-off sellers who write 'vendo' usually new?"
+ },
+ "16081": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16082": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16083": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "16084": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "16085": {
+  "p": 0.6,
+  "duda": "Does 'prenda única, sin fallas' in the warranty of branded clothing indicate a used garment?"
+ },
+ "16086": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "16087": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "16088": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "16089": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16090": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "16091": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "16092": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "16093": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "16094": {
+  "p": 0.5,
+  "duda": "Are collectible sealed/full consumables (old cigarette packs, bottles) listed as new or used by collectors?"
+ },
+ "16095": {
+  "p": 0.3,
+  "duda": "Are live animals (puppies) listed as new by convention?"
+ },
+ "16096": {
+  "p": 0.55,
+  "duda": "Does 'garantizado por mi relojero' on a watch indicate a serviced second-hand watch?"
+ },
+ "16097": {
+  "p": 0.45,
+  "duda": "Are 'original' OEM car parts (xenon bulbs) from one-off sellers usually new spares or pulled from a car?"
+ },
+ "16098": {
+  "p": 0.6,
+  "duda": "Is maternity clothing from small sellers with phone photos usually used?"
+ },
+ "16099": {
+  "p": 0.6,
+  "duda": "Are back-catalog CDs from small sellers with 'sin garantía' usually used?"
+ },
+ "16100": {
+  "p": 0.7,
+  "duda": ""
+ }
+}

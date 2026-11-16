@@ -1,0 +1,402 @@
+{
+ "10401": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10402": {
+  "p": 0.45,
+  "duda": "Are philatelic items like souvenir sheets (hojitas block) and mint stamps usually listed as new or used?"
+ },
+ "10403": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10404": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10405": {
+  "p": 0.5,
+  "duda": "Are replacement parts for discontinued laptops (fans, screens) with a short 30-day warranty usually used pulled parts or new aftermarket stock?"
+ },
+ "10406": {
+  "p": 0.48,
+  "duda": "For clothing listings with no brand, size detail or condition words, is there any text cue that separates personal resale from small-shop new stock?"
+ },
+ "10407": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "10408": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10409": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "10410": {
+  "p": 0.5,
+  "duda": "Are generic children's shoes (panchitas) from single sellers more often new stock or outgrown items resold?"
+ },
+ "10411": {
+  "p": 0.6,
+  "duda": "Do plural hand-tool listings without brand (serruchos, herramientas) usually come from someone selling off old tools?"
+ },
+ "10412": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10413": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10414": {
+  "p": 0.65,
+  "duda": "Is a single branded children's garment with a specific model and size (e.g., Columbia, talle 7-8) usually a parent reselling an outgrown item?"
+ },
+ "10415": {
+  "p": 0.45,
+  "duda": "Does a .99 price ending on a single branded clothing item indicate a shop selling new stock?"
+ },
+ "10416": {
+  "p": 0.62,
+  "duda": "Is a price well below 2015 new retail (under ~80 ARS) for an older book a reliable sign of a used copy?"
+ },
+ "10417": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10418": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10419": {
+  "p": 0.4,
+  "duda": "How are live animals (horses, dogs) labeled in this dataset: new or used?"
+ },
+ "10420": {
+  "p": 0.4,
+  "duda": "Are handmade items (tejido a mano, artesanal) without condition words usually newly made by the seller or old household items being resold?"
+ },
+ "10421": {
+  "p": 0.5,
+  "duda": "For accessories with a relatively high price but no brand in the title (e.g., sunglasses at 900 ARS), is it more likely a personal resale of a branded item?"
+ },
+ "10422": {
+  "p": 0.65,
+  "duda": "Are children's electronic toys listed with 'sin garantia' usually used?"
+ },
+ "10423": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10424": {
+  "p": 0.45,
+  "duda": "Are imported small appliances of a specific model (e.g., robot vacuums) from one-off sellers usually new in box or used?"
+ },
+ "10425": {
+  "p": 0.5,
+  "duda": "For clothing listings with no brand, size detail or condition words, is there any text cue that separates personal resale from small-shop new stock?"
+ },
+ "10426": {
+  "p": 0.6,
+  "duda": "Is a price well below 2015 new retail (under ~80 ARS) for an older book a reliable sign of a used copy?"
+ },
+ "10427": {
+  "p": 0.5,
+  "duda": "How are real estate listings (land, houses, rentals) labeled in this dataset: new or used?"
+ },
+ "10428": {
+  "p": 0.55,
+  "duda": "Are back-issue comics (Panini, Marvel, DC) more often sold new by comic shops or used by collectors?"
+ },
+ "10429": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10430": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10431": {
+  "p": 0.06,
+  "duda": ""
+ },
+ "10432": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10433": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "10434": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "10435": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10436": {
+  "p": 0.45,
+  "duda": "Are workshop furniture items (adjustable work tables) from single sellers usually used?"
+ },
+ "10437": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10438": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10439": {
+  "p": 0.5,
+  "duda": "How are real estate listings (land, houses, rentals) labeled in this dataset: new or used?"
+ },
+ "10440": {
+  "p": 0.55,
+  "duda": "Does 'vintage' or 'retro' in a decor title usually mean a genuinely old item or a new item in vintage style?"
+ },
+ "10441": {
+  "p": 0.58,
+  "duda": "Are baby items (crib mobiles, baby toys) without condition words usually resold used?"
+ },
+ "10442": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10443": {
+  "p": 0.68,
+  "duda": "Do sellers who tag books with an inventory number after title and author (e.g., '- 1578') mostly sell used books?"
+ },
+ "10444": {
+  "p": 0.55,
+  "duda": "Are low-priced light fixtures (apliques, tulipas) usually used household items?"
+ },
+ "10445": {
+  "p": 0.55,
+  "duda": "Are books from newspaper collections (colecciones de diario) usually resold used?"
+ },
+ "10446": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10447": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10448": {
+  "p": 0.65,
+  "duda": "Is a price well below 2015 new retail (under ~80 ARS) for an older book a reliable sign of a used copy?"
+ },
+ "10449": {
+  "p": 0.45,
+  "duda": "How are service listings (repairs, stud services) labeled in this dataset: new or used?"
+ },
+ "10450": {
+  "p": 0.45,
+  "duda": "Are 'para armar' figure or vehicle kits usually new sealed kits or used toys?"
+ },
+ "10451": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "10452": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10453": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10454": {
+  "p": 0.55,
+  "duda": "Are single unbranded children's garments with a specific size usually outgrown items resold used?"
+ },
+ "10455": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10456": {
+  "p": 0.62,
+  "duda": "Are single imported DVDs or TV-series seasons from one-listing sellers usually personal resales?"
+ },
+ "10457": {
+  "p": 0.55,
+  "duda": "Are books by minor Argentine authors (poetry, short fiction) sold at low prices usually used copies?"
+ },
+ "10458": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "10459": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10460": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10461": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10462": {
+  "p": 0.55,
+  "duda": "Are trading cards sold by series (e.g., 'S.2') usually sealed new stock or opened collections?"
+ },
+ "10463": {
+  "p": 0.38,
+  "duda": "Are small business equipment items (cash drawers, gavetas) usually sold new?"
+ },
+ "10464": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10465": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10466": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10467": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "10468": {
+  "p": 0.6,
+  "duda": "Is a price well below 2015 new retail (under ~80 ARS) for an older book a reliable sign of a used copy?"
+ },
+ "10469": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10470": {
+  "p": 0.04,
+  "duda": ""
+ },
+ "10471": {
+  "p": 0.45,
+  "duda": "Are expensive multi-disc music box sets marked 'original' usually new imports or collector resales?"
+ },
+ "10472": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10473": {
+  "p": 0.55,
+  "duda": "For clothing listings with no brand, size detail or condition words, is there any text cue that separates personal resale from small-shop new stock?"
+ },
+ "10474": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "10475": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10476": {
+  "p": 0.5,
+  "duda": "Are single chess pieces sold alone usually spares from used sets or new artisan pieces?"
+ },
+ "10477": {
+  "p": 0.45,
+  "duda": "How are service listings (repairs, stud services) labeled in this dataset: new or used?"
+ },
+ "10478": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10479": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10480": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10481": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "10482": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10483": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10484": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10485": {
+  "p": 0.38,
+  "duda": "Are replacement screens for old Apple computers sold by repair shops new panels or pulled used panels?"
+ },
+ "10486": {
+  "p": 0.5,
+  "duda": "How are real estate listings (land, houses, rentals) labeled in this dataset: new or used?"
+ },
+ "10487": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10488": {
+  "p": 0.65,
+  "duda": "Are 'repuestos' listings for discontinued car models usually used parts?"
+ },
+ "10489": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "10490": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10491": {
+  "p": 0.55,
+  "duda": "Are expensive foreign-language medical textbooks priced near new retail usually new imports?"
+ },
+ "10492": {
+  "p": 0.4,
+  "duda": "How are service listings (repairs, stud services) labeled in this dataset: new or used?"
+ },
+ "10493": {
+  "p": 0.55,
+  "duda": "Do sellers of 'Origen USA' clothing usually sell secondhand imported garments (ropa americana)?"
+ },
+ "10494": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10495": {
+  "p": 0.45,
+  "duda": "Are autographed football shirts from memorabilia sellers labeled new or used?"
+ },
+ "10496": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10497": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10498": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10499": {
+  "p": 0.4,
+  "duda": "Are car listings from dealers without '0km' or a year in the title, priced near list, usually new cars?"
+ },
+ "10500": {
+  "p": 0.12,
+  "duda": ""
+ }
+}

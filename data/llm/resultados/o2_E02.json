@@ -1,0 +1,402 @@
+{
+ "801": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "802": {
+  "p": 0.45,
+  "duda": "For branded clothing listed with only the brand/model name and no condition words, is it more often new stock or a used resale?"
+ },
+ "803": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "804": {
+  "p": 0.5,
+  "duda": "Are imported English-language novels sold in Argentina mostly used (resold) copies?"
+ },
+ "805": {
+  "p": 0.42,
+  "duda": "For simple furniture/decor items with generic titles, is the default new (artisan/shop production) or used (household resale)?"
+ },
+ "806": {
+  "p": 0.42,
+  "duda": "Are clothing items from foreign brands not sold locally (H&M, Gap) labeled 'importado'/'original' usually new items brought from abroad, or used?"
+ },
+ "807": {
+  "p": 0.6,
+  "duda": "Are discontinued/obsolete tech items or accessories (old model numbers, obsolete standards) more often used, or new-old-stock marked new?"
+ },
+ "808": {
+  "p": 0.42,
+  "duda": "Are branded leather accessories (wallets, bags) listed without condition words and below retail price usually used?"
+ },
+ "809": {
+  "p": 0.38,
+  "duda": "Are original artworks (hand-painted paintings) usually labeled new or used in this dataset?"
+ },
+ "810": {
+  "p": 0.5,
+  "duda": "Are discontinued/obsolete tech items or accessories (old model numbers, obsolete standards) more often used, or new-old-stock marked new?"
+ },
+ "811": {
+  "p": 0.38,
+  "duda": "Are collectible Hot Wheels / diecast cars from past years usually listed as new (still in blister) or used?"
+ },
+ "812": {
+  "p": 0.5,
+  "duda": "Is a price clearly below typical retail for that product a reliable sign that the item is used?"
+ },
+ "813": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "814": {
+  "p": 0.55,
+  "duda": "Does a very low price for a book (under about 80 ARS in 2015) reliably indicate a used copy?"
+ },
+ "815": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "816": {
+  "p": 0.42,
+  "duda": "For simple furniture/decor items with generic titles, is the default new (artisan/shop production) or used (household resale)?"
+ },
+ "817": {
+  "p": 0.52,
+  "duda": "Do academic/professional books (psychology, business, management) count as study material (lean used) or as general non-fiction (lean new)?"
+ },
+ "818": {
+  "p": 0.62,
+  "duda": "For music CDs/DVDs, does a price well below new retail (about 50-120 ARS in 2015) indicate a used copy?"
+ },
+ "819": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "820": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "821": {
+  "p": 0.38,
+  "duda": "For simple furniture/decor items with generic titles, is the default new (artisan/shop production) or used (household resale)?"
+ },
+ "822": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "823": {
+  "p": 0.5,
+  "duda": "Are generic unbranded small appliances (humidifiers, heaters) sold by individuals usually used?"
+ },
+ "824": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "825": {
+  "p": 0.5,
+  "duda": "Do academic/professional books (psychology, business, management) count as study material (lean used) or as general non-fiction (lean new)?"
+ },
+ "826": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "827": {
+  "p": 0.33,
+  "duda": ""
+ },
+ "828": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "829": {
+  "p": 0.58,
+  "duda": "When a listing says both 'nuevo/a' and 'sin uso' (a person reselling an unworn item), which condition do sellers usually select?"
+ },
+ "830": {
+  "p": 0.58,
+  "duda": "Are lots/bundles of assorted personal items (costume jewelry, clothing) usually used?"
+ },
+ "831": {
+  "p": 0.55,
+  "duda": "For consumer electronics sold by individuals at about 30-40% below retail, is the item usually used?"
+ },
+ "832": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "833": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "834": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "835": {
+  "p": 0.42,
+  "duda": "For popular novels at near-retail price with no condition words, sold by one-off sellers, is the default new or a second-hand copy?"
+ },
+ "836": {
+  "p": 0.55,
+  "duda": "For music CDs/DVDs, does a price well below new retail (about 50-120 ARS in 2015) indicate a used copy?"
+ },
+ "837": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "838": {
+  "p": 0.45,
+  "duda": "Are branded baby clothing items without condition words usually new or used?"
+ },
+ "839": {
+  "p": 0.5,
+  "duda": "For generic clothing (no brand, no condition words, possibly enthusiastic adjectives), should the default be new or used?"
+ },
+ "840": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "841": {
+  "p": 0.38,
+  "duda": "When a vintage spare part or accessory is described as 'original' / 'nuevo' (new-old-stock), do sellers usually mark it new?"
+ },
+ "842": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "843": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "844": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "845": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "846": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "847": {
+  "p": 0.65,
+  "duda": "Does 'sin uso' on a large recreational item (go-kart) still mean a used resale, as with smaller items?"
+ },
+ "848": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "849": {
+  "p": 0.5,
+  "duda": "Does 'Sin garantía' in the warranty field signal a used item?"
+ },
+ "850": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "851": {
+  "p": 0.36,
+  "duda": "Does promotional slang or hype in the title ('5ta a fondo!!', many exclamation marks) indicate a shop selling new stock?"
+ },
+ "852": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "853": {
+  "p": 0.55,
+  "duda": "How are real-estate listings (apartments, houses, lots in gated communities) typically labeled in this dataset: new or used?"
+ },
+ "854": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "855": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "856": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "857": {
+  "p": 0.35,
+  "duda": "For books with 'Nuevo' in the title sold by one-off sellers, are they usually marked new?"
+ },
+ "858": {
+  "p": 0.5,
+  "duda": "Are luxury-brand decor items (crystal, silverware) sold by individuals usually used household items or new unopened gifts?"
+ },
+ "859": {
+  "p": 0.68,
+  "duda": "How are collectibles labeled: are banknotes, coins and past promotional items (glasses, toys) marked new when uncirculated/unused, or used?"
+ },
+ "860": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "861": {
+  "p": 0.45,
+  "duda": "For generic clothing (no brand, no condition words, possibly enthusiastic adjectives), should the default be new or used?"
+ },
+ "862": {
+  "p": 0.45,
+  "duda": "For generic clothing (no brand, no condition words, possibly enthusiastic adjectives), should the default be new or used?"
+ },
+ "863": {
+  "p": 0.62,
+  "duda": "Is niche or older premium sports gear (skydiving, motorcycle helmets) sold by individuals usually used?"
+ },
+ "864": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "865": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "866": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "867": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "868": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "869": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "870": {
+  "p": 0.6,
+  "duda": "Are accessories for obsolete consoles (e.g. PlayStation 2) more often used resales or cheap new generic stock?"
+ },
+ "871": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "872": {
+  "p": 0.6,
+  "duda": "Is a price clearly below typical retail for that product a reliable sign that the item is used?"
+ },
+ "873": {
+  "p": 0.4,
+  "duda": "When a vintage spare part or accessory is described as 'original' / 'nuevo' (new-old-stock), do sellers usually mark it new?"
+ },
+ "874": {
+  "p": 0.55,
+  "duda": "How are real-estate listings (apartments, houses, lots in gated communities) typically labeled in this dataset: new or used?"
+ },
+ "875": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "876": {
+  "p": 0.38,
+  "duda": "Do bookstores on MercadoLibre (street shop, inventory codes in titles) typically sell new or second-hand books?"
+ },
+ "877": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "878": {
+  "p": 0.45,
+  "duda": "Is a price clearly below typical retail for that product a reliable sign that the item is used?"
+ },
+ "879": {
+  "p": 0.55,
+  "duda": "How are collectibles labeled: are banknotes, coins and past promotional items (glasses, toys) marked new when uncirculated/unused, or used?"
+ },
+ "880": {
+  "p": 0.5,
+  "duda": "Does 'Sin garantía' in the warranty field signal a used item?"
+ },
+ "881": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "882": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "883": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "884": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "885": {
+  "p": 0.6,
+  "duda": "Is niche or older premium sports gear (skydiving, motorcycle helmets) sold by individuals usually used?"
+ },
+ "886": {
+  "p": 0.4,
+  "duda": "Are clothing items from foreign brands not sold locally (H&M, Gap) labeled 'importado'/'original' usually new items brought from abroad, or used?"
+ },
+ "887": {
+  "p": 0.38,
+  "duda": "For vague decorative items with no brand (figurines, ornaments), is new the default?"
+ },
+ "888": {
+  "p": 0.45,
+  "duda": "For generic clothing (no brand, no condition words, possibly enthusiastic adjectives), should the default be new or used?"
+ },
+ "889": {
+  "p": 0.6,
+  "duda": "Does a very low price for clothing (under about 100 ARS in 2015) indicate a used item?"
+ },
+ "890": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "891": {
+  "p": 0.38,
+  "duda": "Are collectible Hot Wheels / diecast cars from past years usually listed as new (still in blister) or used?"
+ },
+ "892": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "893": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "894": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "895": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "896": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "897": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "898": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "899": {
+  "p": 0.5,
+  "duda": "How are collectibles labeled: are banknotes, coins and past promotional items (glasses, toys) marked new when uncirculated/unused, or used?"
+ },
+ "900": {
+  "p": 0.4,
+  "duda": "Do bookstores on MercadoLibre (street shop, inventory codes in titles) typically sell new or second-hand books?"
+ }
+}

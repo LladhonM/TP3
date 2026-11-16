@@ -1,0 +1,302 @@
+{
+ "17601": {
+  "p": 0.4,
+  "duda": "Do machine-translated generic titles (e.g. 'Adaptador De La Fuente De Alimentación') with a short '7 dias' warranty usually indicate new imported stock or a used item?"
+ },
+ "17602": {
+  "p": 0.55,
+  "duda": "Are baby bedding items (acolchado, chichonera) with stock 1 and no condition words mostly second-hand resales or handmade new items?"
+ },
+ "17603": {
+  "p": 0.35,
+  "duda": "When a 1-listing seller of pro audio gear offers a shop-style warranty ('6 meses de garantia'), does the warranty outweigh the used lean of rule 3?"
+ },
+ "17604": {
+  "p": 0.55,
+  "duda": "Are machining tools and cutting inserts sold as single lots by small sellers usually used workshop surplus or new?"
+ },
+ "17605": {
+  "p": 0.5,
+  "duda": "For essay/philosophy books from medium-size sellers at a low price (~100 ARS in 2015), does the low price indicate used?"
+ },
+ "17606": {
+  "p": 0.4,
+  "duda": "Are office devices with an exact model number and only stock photos (no camera photos) usually new even from 1-listing sellers?"
+ },
+ "17607": {
+  "p": 0.45,
+  "duda": "Are cheap small appliances of obscure brands with one stock photo and no condition words usually new?"
+ },
+ "17608": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "17609": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17610": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "17611": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "17612": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "17613": {
+  "p": 0.58,
+  "duda": "Are classic literature paperbacks priced around 50 ARS from sellers with ~30 listings typically second-hand bookshop stock?"
+ },
+ "17614": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17615": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "17616": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17617": {
+  "p": 0.93,
+  "duda": ""
+ },
+ "17618": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17619": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17620": {
+  "p": 0.5,
+  "duda": "Are collectible action figures (e.g. Saint Seiya) without 'nuevo' or 'sellado' in the title more often used collector resales or new?"
+ },
+ "17621": {
+  "p": 0.65,
+  "duda": "Are boat hardware and nautical parts from 1-listing sellers on the free tier mostly used?"
+ },
+ "17622": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17623": {
+  "p": 0.62,
+  "duda": "Is branded motorcycle apparel described as 'originales' from a 1-listing seller usually a used personal item?"
+ },
+ "17624": {
+  "p": 0.5,
+  "duda": "Are imported baby monitors/gadgets with an exact model number from 1-listing sellers usually new (brought from abroad) or used?"
+ },
+ "17625": {
+  "p": 0.5,
+  "duda": "Is industrial steel pipe ('caño tubing sin costura') sold by the unit typically used oil-field surplus or new material?"
+ },
+ "17626": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17627": {
+  "p": 0.55,
+  "duda": "For car parts of older models labelled 'original' with no condition words, is the part usually a used pull or new old stock?"
+ },
+ "17628": {
+  "p": 0.6,
+  "duda": "Are party dresses in a single size with no brand and no 'nuevo' mostly second-hand?"
+ },
+ "17629": {
+  "p": 0.3,
+  "duda": "Are mineral specimens and stones from specialised sellers labelled as new or used on MercadoLibre?"
+ },
+ "17630": {
+  "p": 0.3,
+  "duda": "Are machine taps and cutting tools with stock >1 from medium sellers new stock or used industrial surplus?"
+ },
+ "17631": {
+  "p": 0.62,
+  "duda": "Are single-size women's shoes with informal descriptions ('súper cancheros') mostly second-hand?"
+ },
+ "17632": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "17633": {
+  "p": 0.3,
+  "duda": "Do books with stock 2+ and 'envío gratis' from large sellers usually indicate new remainder stock?"
+ },
+ "17634": {
+  "p": 0.5,
+  "duda": "Are generic tablet cases from 1-listing sellers with camera photos mostly used personal items or new?"
+ },
+ "17635": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "17636": {
+  "p": 0.65,
+  "duda": "Are lots of mixed-brand clothing described as 'originales' usually second-hand?"
+ },
+ "17637": {
+  "p": 0.55,
+  "duda": "Are wind-up character toys (e.g. Meteoro) with no year or condition words usually vintage used items or new reissues?"
+ },
+ "17638": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17639": {
+  "p": 0.6,
+  "duda": "Does an internal inventory code in a book title (e.g. '(2238)') indicate a second-hand bookseller?"
+ },
+ "17640": {
+  "p": 0.42,
+  "duda": "Does rule 2 (named phone leans new) hold equally for less popular brands like Alcatel when listed on the free tier with 'liberado' only?"
+ },
+ "17641": {
+  "p": 0.55,
+  "duda": "Are TV replacement boards (T-con, main, power) for a specific TV model listed as used pulls or as new spare parts?"
+ },
+ "17642": {
+  "p": 0.5,
+  "duda": "Do 'importados USA' and 'únicos' on single-size party shoes indicate a new imported pair or a second-hand one?"
+ },
+ "17643": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17644": {
+  "p": 0.6,
+  "duda": "Do keyword-stuffed clothing titles listing many garment types indicate second-hand wardrobe sales?"
+ },
+ "17645": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17646": {
+  "p": 0.5,
+  "duda": "Are high-end collectible knives with exact model numbers from 1-listing sellers typically new or used collector resales?"
+ },
+ "17647": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "17648": {
+  "p": 0.55,
+  "duda": "Are licensed character figures/piggy banks described with hype words like 'impresionante' usually used collectibles?"
+ },
+ "17649": {
+  "p": 0.55,
+  "duda": "How are uncirculated ('sin circular') collectible coins labelled on MercadoLibre: new or used?"
+ },
+ "17650": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17651": {
+  "p": 0.6,
+  "duda": "Are single-size men's leather shoes with no brand and camera photos mostly second-hand?"
+ },
+ "17652": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17653": {
+  "p": 0.45,
+  "duda": "Are generic handmade-style jewellery items ('collar étnico') from 1-listing sellers mostly new artisan pieces or used?"
+ },
+ "17654": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17655": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "17656": {
+  "p": 0.5,
+  "duda": "For generic household items with no brand, no condition words and one camera photo on the free tier, is there any base-rate lean?"
+ },
+ "17657": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "17658": {
+  "p": 0.55,
+  "duda": "Is sleepwear/lingerie from 1-listing sellers with camera photos typically new (unworn) or second-hand?"
+ },
+ "17659": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "17660": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "17661": {
+  "p": 0.45,
+  "duda": "Is cement garden furniture from 1-listing sellers typically made-to-order new or a used piece?"
+ },
+ "17662": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "17663": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "17664": {
+  "p": 0.4,
+  "duda": "Do non-round prices (e.g. 152.04) on CDs from medium-size sellers indicate shop stock sold as new?"
+ },
+ "17665": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17666": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17667": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "17668": {
+  "p": 0.5,
+  "duda": "Is cheap costume jewellery (brooches/pendants) from sellers with ~10 listings typically vintage used or new?"
+ },
+ "17669": {
+  "p": 0.35,
+  "duda": "Is 'nuevo' on a console game from a free-tier 1-listing seller, without 'sellado', reliable?"
+ },
+ "17670": {
+  "p": 0.5,
+  "duda": "Are children's/young-adult novels commonly assigned as school reading mostly sold used?"
+ },
+ "17671": {
+  "p": 0.5,
+  "duda": "Do psychology/therapy textbooks count as study material (lean used) even when the price is at new-book level?"
+ },
+ "17672": {
+  "p": 0.55,
+  "duda": "Are shoe lasts (hormas) sold in quantity typically used factory equipment, and does 'excelentes' count as a condition word here?"
+ },
+ "17673": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "17674": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "17675": {
+  "p": 0.15,
+  "duda": ""
+ }
+}

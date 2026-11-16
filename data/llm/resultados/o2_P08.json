@@ -1,0 +1,402 @@
+{
+ "4701": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4702": {
+  "p": 0.5,
+  "duda": "For literature or general books, does a very low price (around 50-70 ARS in 2015) indicate a second-hand copy, or are cheap new editions common?"
+ },
+ "4703": {
+  "p": 0.6,
+  "duda": "Are old, long out-of-print essay or literature titles (e.g., mid-20th-century Spanish authors) usually sold as used copies?"
+ },
+ "4704": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4705": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4706": {
+  "p": 0.7,
+  "duda": "Are arcade game boards ('placa video juego') usually used original PCBs or new multi-game boards?"
+ },
+ "4707": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4708": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4709": {
+  "p": 0.6,
+  "duda": "Are branded sports gear items (snowboard boots, moto jackets) sold by one-off sellers well below retail price usually used?"
+ },
+ "4710": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4711": {
+  "p": 0.48,
+  "duda": "Do toys described as 'importado USA' by single-listing sellers tend to be new imports or resold used items?"
+ },
+ "4712": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4713": {
+  "p": 0.45,
+  "duda": "Are classic titles from publishers still in print (Losada, Edhasa, Emecé) at normal prices more often new copies?"
+ },
+ "4714": {
+  "p": 0.5,
+  "duda": "Without condition words or brand cues, are women's jackets from small sellers more often new or used?"
+ },
+ "4715": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4716": {
+  "p": 0.55,
+  "duda": "Are original paintings/artworks typically labeled new or used on MercadoLibre?"
+ },
+ "4717": {
+  "p": 0.5,
+  "duda": "Are decorative hanging lamps with vintage-sounding descriptions (beads, relief shades) usually antiques (used) or new artisan stock?"
+ },
+ "4718": {
+  "p": 0.5,
+  "duda": "For literature or general books, does a very low price (around 50-70 ARS in 2015) indicate a second-hand copy, or are cheap new editions common?"
+ },
+ "4719": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4720": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4721": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "4722": {
+  "p": 0.5,
+  "duda": "Is a branded garment priced well below retail (e.g., a Rapsodia top at ~400 ARS in 2015) a signal of a used item?"
+ },
+ "4723": {
+  "p": 0.45,
+  "duda": "Does 'No <brand>' in a title (e.g., 'No Prune') indicate a generic new item from a shop, or a used item clarifying it is not the brand?"
+ },
+ "4724": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4725": {
+  "p": 0.5,
+  "duda": "How are real-estate / vacation rental listings labeled (new or used)?"
+ },
+ "4726": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4727": {
+  "p": 0.62,
+  "duda": "Are baby care appliances (sterilizers, bottle warmers) from single-listing sellers usually resold used items?"
+ },
+ "4728": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4729": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "4730": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4731": {
+  "p": 0.5,
+  "duda": "Are RC model parts or accessories for 1/10 scale cars listed by one-off sellers usually new or used?"
+ },
+ "4732": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4733": {
+  "p": 0.72,
+  "duda": ""
+ },
+ "4734": {
+  "p": 0.65,
+  "duda": "Is branded clothing at a very low price (e.g., Tommy Hilfiger at 50 ARS) a reliable sign of a used item?"
+ },
+ "4735": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "4736": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4737": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4738": {
+  "p": 0.65,
+  "duda": "When a bookseller who sells both new and used books lists an out-of-print translated title, is it usually a used copy?"
+ },
+ "4739": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4740": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4741": {
+  "p": 0.5,
+  "duda": "Are collectible coins and banknotes usually labeled used or new on MercadoLibre (circulated vs. uncirculated)?"
+ },
+ "4742": {
+  "p": 0.45,
+  "duda": "Are collectible knives (e.g., Aitor military models) marked 'producto original' usually new stock or resold used items?"
+ },
+ "4743": {
+  "p": 0.45,
+  "duda": "Are aftermarket car gauge kits sold by one-off sellers usually new?"
+ },
+ "4744": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4745": {
+  "p": 0.7,
+  "duda": "What do listings priced at 1 ARS usually represent (placeholder, consult price, service), and are they mostly new or used?"
+ },
+ "4746": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4747": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4748": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "4749": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4750": {
+  "p": 0.58,
+  "duda": "Are TV series DVD seasons sold by single-listing sellers usually used?"
+ },
+ "4751": {
+  "p": 0.55,
+  "duda": "Are CDs described as 'original' by music sellers with dozens of listings usually used copies?"
+ },
+ "4752": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "4753": {
+  "p": 0.42,
+  "duda": ""
+ },
+ "4754": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4755": {
+  "p": 0.4,
+  "duda": "Does a price equal to a round net price plus 21% VAT (e.g., 348.48 = 288 x 1.21) indicate a shop selling new items, even for textbooks?"
+ },
+ "4756": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4757": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "4758": {
+  "p": 0.65,
+  "duda": "Are collectible coins and banknotes usually labeled used or new on MercadoLibre (circulated vs. uncirculated)?"
+ },
+ "4759": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4760": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "4761": {
+  "p": 0.45,
+  "duda": "For generic one-word titles of household or clothing accessories with no brand or condition words, which class dominates?"
+ },
+ "4762": {
+  "p": 0.62,
+  "duda": "Are TV replacement mainboards sold with a 30-day warranty usually pulled (used) parts?"
+ },
+ "4763": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "4764": {
+  "p": 0.9,
+  "duda": ""
+ },
+ "4765": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4766": {
+  "p": 0.65,
+  "duda": "Were PS2 consoles sold in Argentina in 2015 as 'chipeada' bundles mostly new stock or used?"
+ },
+ "4767": {
+  "p": 0.5,
+  "duda": "Are leather women's shoes with a specific size from sellers with ~20 listings usually new stock or used?"
+ },
+ "4768": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4769": {
+  "p": 0.62,
+  "duda": "Are large home appliances (water heaters, calefones) from single-listing sellers below retail price usually used?"
+ },
+ "4770": {
+  "p": 0.65,
+  "duda": "Does an inventory number in a book title (e.g., '(381)') indicate a used-book seller and hence a used copy?"
+ },
+ "4771": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "4772": {
+  "p": 0.55,
+  "duda": "Are cassettes of classic albums sold by a music seller that also sells new vinyl reissues usually used or new old stock?"
+ },
+ "4773": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "4774": {
+  "p": 0.45,
+  "duda": ""
+ },
+ "4775": {
+  "p": 0.25,
+  "duda": "What do listings priced at 1 ARS usually represent (placeholder, consult price, service), and are they mostly new or used?"
+ },
+ "4776": {
+  "p": 0.3,
+  "duda": "What do listings priced at 1 ARS usually represent (placeholder, consult price, service), and are they mostly new or used?"
+ },
+ "4777": {
+  "p": 0.6,
+  "duda": "Are music theory / harmony books treated as study material that leans used?"
+ },
+ "4778": {
+  "p": 0.48,
+  "duda": "For literature or general books, does a very low price (around 50-70 ARS in 2015) indicate a second-hand copy, or are cheap new editions common?"
+ },
+ "4779": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "4780": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "4781": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4782": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4783": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "4784": {
+  "p": 0.55,
+  "duda": "Are collectible coins and banknotes usually labeled used or new on MercadoLibre (circulated vs. uncirculated)?"
+ },
+ "4785": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "4786": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "4787": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "4788": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "4789": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "4790": {
+  "p": 0.55,
+  "duda": "Are wooden picture frames (especially oval ones) from small sellers usually antiques/used or new?"
+ },
+ "4791": {
+  "p": 0.42,
+  "duda": "When a book seller adds 'Nuevo' plus edition year and binding in the title, is it typically a used copy in new condition?"
+ },
+ "4792": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "4793": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "4794": {
+  "p": 0.4,
+  "duda": "Are expensive imported anime/game figures from one-off sellers usually new?"
+ },
+ "4795": {
+  "p": 0.55,
+  "duda": "How should 'ejemplar original nuevo en excelente estado' be read: a new copy, or a used copy in new-like condition?"
+ },
+ "4796": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "4797": {
+  "p": 0.65,
+  "duda": "Are very cheap compilation CDs (under 30 ARS) usually used copies?"
+ },
+ "4798": {
+  "p": 0.4,
+  "duda": "Are 'primera edición' CDs marked 'importado nuevo' typically sealed old stock (new) or used?"
+ },
+ "4799": {
+  "p": 0.75,
+  "duda": "How are car listings labeled when the price is far below the new price (possibly a down-payment or savings plan) but attributes say 'Único dueño'?"
+ },
+ "4800": {
+  "p": 0.82,
+  "duda": ""
+ }
+}

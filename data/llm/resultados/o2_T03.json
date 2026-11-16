@@ -1,0 +1,402 @@
+{
+ "10201": {
+  "p": 0.35,
+  "duda": ""
+ },
+ "10202": {
+  "p": 0.18,
+  "duda": ""
+ },
+ "10203": {
+  "p": 0.55,
+  "duda": "Are collectible coins and banknotes (numismatics) on MercadoLibre usually listed as used or as new?"
+ },
+ "10204": {
+  "p": 0.55,
+  "duda": "When 'nuevo' in the title refers to only one item of a bundle (e.g. 'Kinect + juego nuevo'), is the listing as a whole usually used?"
+ },
+ "10205": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10206": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10207": {
+  "p": 0.5,
+  "duda": "Are wooden art/music supplies (easels, music stands) from small brands usually new stock or resold items?"
+ },
+ "10208": {
+  "p": 0.4,
+  "duda": "Are small, cheap sports accessories (golf tees, balls, grips) from individual sellers usually new?"
+ },
+ "10209": {
+  "p": 0.62,
+  "duda": "For CDs and records with no condition words, does a price well below new retail indicate a used copy?"
+ },
+ "10210": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10211": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10212": {
+  "p": 0.42,
+  "duda": "Are niche or imported CDs (prog rock, jazz) sold by small specialist sellers usually new?"
+ },
+ "10213": {
+  "p": 0.38,
+  "duda": "Are loose collectible stickers (figuritas) sold by collectors listed as new or used?"
+ },
+ "10214": {
+  "p": 0.55,
+  "duda": "Are single car parts and tires sold by individuals at near-retail price usually new or used?"
+ },
+ "10215": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10216": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10217": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10218": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10219": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10220": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10221": {
+  "p": 0.4,
+  "duda": ""
+ },
+ "10222": {
+  "p": 0.45,
+  "duda": "Are playing-card decks sold as souvenirs or collectibles usually new or used?"
+ },
+ "10223": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "10224": {
+  "p": 0.03,
+  "duda": ""
+ },
+ "10225": {
+  "p": 0.62,
+  "duda": "Are custom bikes (chopper, cruiser, bobber) listed by one-off sellers usually builder-made new or owner-resold used?"
+ },
+ "10226": {
+  "p": 0.55,
+  "duda": "Are hobby/craft how-to books (soap making, crafts) treated as study material (lean used) or general non-fiction (lean new)?"
+ },
+ "10227": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "10228": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10229": {
+  "p": 0.55,
+  "duda": "Are general-interest books from older editions (out-of-print publishers or decades-old print runs) almost always used?"
+ },
+ "10230": {
+  "p": 0.45,
+  "duda": "What is usually sold in listings that only name an internet service (e.g. 'Internet Speedy'): a used modem, or a new service/plan?"
+ },
+ "10231": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10232": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "10233": {
+  "p": 0.55,
+  "duda": "Are branded party dresses sold by individuals usually worn-once used items or unworn new ones?"
+ },
+ "10234": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10235": {
+  "p": 0.55,
+  "duda": "For cheap generic clothing (shirts, t-shirts, sweaters) with no condition words, is a very low price a reliable sign of used?"
+ },
+ "10236": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10237": {
+  "p": 0.38,
+  "duda": "Are boxed toy/garden game sets from Argentine toy brands (e.g. Serabot) usually new stock?"
+ },
+ "10238": {
+  "p": 0.6,
+  "duda": "For cheap generic clothing (shirts, t-shirts, sweaters) with no condition words, is a very low price a reliable sign of used?"
+ },
+ "10239": {
+  "p": 0.55,
+  "duda": "Are children's bicycles sold by one-off sellers usually used?"
+ },
+ "10240": {
+  "p": 0.5,
+  "duda": "Are football club shirts sold by one-off sellers usually new replicas or used shirts?"
+ },
+ "10241": {
+  "p": 0.65,
+  "duda": ""
+ },
+ "10242": {
+  "p": 0.65,
+  "duda": "Do sellers who prefix titles with an inventory number (e.g. '4971-') typically sell used antiques/collectibles?"
+ },
+ "10243": {
+  "p": 0.05,
+  "duda": ""
+ },
+ "10244": {
+  "p": 0.4,
+  "duda": "Are newsstand collection models (Altaya, Salvat, IXO) usually listed as new or used?"
+ },
+ "10245": {
+  "p": 0.55,
+  "duda": "Are small personal-care appliances (epilators, shavers) sold by one-off sellers usually new or used?"
+ },
+ "10246": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10247": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10248": {
+  "p": 0.45,
+  "duda": "Are upholstered headboards and similar home furniture from one-off sellers usually maker-made new or owner-resold used?"
+ },
+ "10249": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10250": {
+  "p": 0.6,
+  "duda": "Are collectible toys from chocolate eggs (Huevo Jack, Kinder) usually listed as used or new?"
+ },
+ "10251": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10252": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10253": {
+  "p": 0.92,
+  "duda": ""
+ },
+ "10254": {
+  "p": 0.6,
+  "duda": "Are psychology test materials (láminas, test kits) usually sold used by students or new by publishers/copiers?"
+ },
+ "10255": {
+  "p": 0.45,
+  "duda": "Are licensed toys and dolls (Disney, Toy Story, etc.) sold by one-off sellers usually new or used?"
+ },
+ "10256": {
+  "p": 0.55,
+  "duda": "Are licensed toys and dolls (Disney, Toy Story, etc.) sold by one-off sellers usually new or used?"
+ },
+ "10257": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10258": {
+  "p": 0.45,
+  "duda": "For CDs and records with no condition words, does a price well below new retail indicate a used copy?"
+ },
+ "10259": {
+  "p": 0.5,
+  "duda": "Are 'antigua propaganda' listings original vintage magazine clippings (used) or reprints (new)?"
+ },
+ "10260": {
+  "p": 0.82,
+  "duda": ""
+ },
+ "10261": {
+  "p": 0.55,
+  "duda": "Are collectible stamps (mint or cancelled) usually listed as used or as new?"
+ },
+ "10262": {
+  "p": 0.4,
+  "duda": "Are baby bedding items (cot quilts, sheets) from one-off sellers usually handmade new or resold used?"
+ },
+ "10263": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10264": {
+  "p": 0.65,
+  "duda": "Are general-interest books from older editions (out-of-print publishers or decades-old print runs) almost always used?"
+ },
+ "10265": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "10266": {
+  "p": 0.65,
+  "duda": "For cheap generic clothing (shirts, t-shirts, sweaters) with no condition words, is a very low price a reliable sign of used?"
+ },
+ "10267": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10268": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10269": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10270": {
+  "p": 0.55,
+  "duda": "Are collectible coins and banknotes (numismatics) on MercadoLibre usually listed as used or as new?"
+ },
+ "10271": {
+  "p": 0.6,
+  "duda": "When a title says both 'nuevo' and 'sin uso' (e.g. 'Nuevo sin uso'), which rule dominates: lean new (rule 5) or lean used (rule 4)?"
+ },
+ "10272": {
+  "p": 0.55,
+  "duda": "Are collectible coins and banknotes (numismatics) on MercadoLibre usually listed as used or as new?"
+ },
+ "10273": {
+  "p": 0.6,
+  "duda": "Are footwear listings from individual sellers with no condition words usually used or new?"
+ },
+ "10274": {
+  "p": 0.35,
+  "duda": "For cheap generic clothing (shirts, t-shirts, sweaters) with no condition words, is a very low price a reliable sign of used?"
+ },
+ "10275": {
+  "p": 0.55,
+  "duda": "Are past-season football shirts (e.g. 'temp 2011-2012') sold by individuals usually used?"
+ },
+ "10276": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10277": {
+  "p": 0.5,
+  "duda": "Are footwear listings from individual sellers with no condition words usually used or new?"
+ },
+ "10278": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "10279": {
+  "p": 0.88,
+  "duda": ""
+ },
+ "10280": {
+  "p": 0.45,
+  "duda": "Are general-interest books from older editions (out-of-print publishers or decades-old print runs) almost always used?"
+ },
+ "10281": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10282": {
+  "p": 0.5,
+  "duda": "For cheap generic clothing (shirts, t-shirts, sweaters) with no condition words, is a very low price a reliable sign of used?"
+ },
+ "10283": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "10284": {
+  "p": 0.55,
+  "duda": "Are branded pens (Cross, Parker) sold by one-off sellers usually unused gifts (new) or used?"
+ },
+ "10285": {
+  "p": 0.65,
+  "duda": "Are decorative porcelain/tableware items from known makers sold by one-off sellers usually used (vintage) or new?"
+ },
+ "10286": {
+  "p": 0.55,
+  "duda": "For cheap generic clothing (shirts, t-shirts, sweaters) with no condition words, is a very low price a reliable sign of used?"
+ },
+ "10287": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "10288": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "10289": {
+  "p": 0.95,
+  "duda": ""
+ },
+ "10290": {
+  "p": 0.35,
+  "duda": "Are artworks (drawings, paintings) sold by one-off sellers listed as new or used?"
+ },
+ "10291": {
+  "p": 0.4,
+  "duda": "Are Tupperware items sold by one-off sellers usually new (resellers/consultants) or used?"
+ },
+ "10292": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "10293": {
+  "p": 0.7,
+  "duda": ""
+ },
+ "10294": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "10295": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "10296": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "10297": {
+  "p": 0.38,
+  "duda": ""
+ },
+ "10298": {
+  "p": 0.5,
+  "duda": "Are footwear listings from individual sellers with no condition words usually used or new?"
+ },
+ "10299": {
+  "p": 0.45,
+  "duda": "Does a short seller warranty (e.g. '30 días') on watches or electronics signal a used item?"
+ },
+ "10300": {
+  "p": 0.8,
+  "duda": ""
+ }
+}

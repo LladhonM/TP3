@@ -1,0 +1,402 @@
+{
+ "12801": {
+  "p": 0.4,
+  "duda": "Do kitchenware 'combo oportunidad' listings with 'nuevas' in the title come from people clearing unused gifts (labeled new) or used items?"
+ },
+ "12802": {
+  "p": 0.5,
+  "duda": "Are home security kits (alarm panels, cameras) listed without condition words by one-off sellers usually new stock or used units removed from a house?"
+ },
+ "12803": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12804": {
+  "p": 0.35,
+  "duda": "Are replacement batteries for old phone models usually new generic stock or used batteries?"
+ },
+ "12805": {
+  "p": 0.35,
+  "duda": "Are brand decals/stickers for watch boxes and service usually new reproductions?"
+ },
+ "12806": {
+  "p": 0.5,
+  "duda": "Are baby/kids clothing listings with only a style or size (no brand, no condition words) mostly used hand-me-downs or new items from small makers?"
+ },
+ "12807": {
+  "p": 0.58,
+  "duda": "For a named phone model with no condition words, does a price clearly below the local new retail price indicate a used unit?"
+ },
+ "12808": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12809": {
+  "p": 0.6,
+  "duda": "Are 'combo' or 'lote' listings of character toys or collectibles usually used bundles?"
+ },
+ "12810": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12811": {
+  "p": 0.62,
+  "duda": "Are out-of-print or decades-old book editions sold by sellers with many book listings usually labeled used?"
+ },
+ "12812": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12813": {
+  "p": 0.68,
+  "duda": ""
+ },
+ "12814": {
+  "p": 0.66,
+  "duda": ""
+ },
+ "12815": {
+  "p": 0.45,
+  "duda": "Are branded collectible lots (cups, cards, Christmas editions) sold by individuals usually labeled used or new?"
+ },
+ "12816": {
+  "p": 0.3,
+  "duda": "How are live animals (pets, aquarium fish) usually labeled in these listings: new or used?"
+ },
+ "12817": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12818": {
+  "p": 0.6,
+  "duda": "Are old coins, stamps and postal stationery sold by collector-dealers usually labeled used or new?"
+ },
+ "12819": {
+  "p": 0.25,
+  "duda": ""
+ },
+ "12820": {
+  "p": 0.55,
+  "duda": "Are 'original' spare parts for discontinued laptop models (inverters, fans, wifi cards, keys) usually used parts pulled from other machines?"
+ },
+ "12821": {
+  "p": 0.52,
+  "duda": "Are brand-name clothing or shoes listed by individuals without condition words, at a price below retail, usually used?"
+ },
+ "12822": {
+  "p": 0.38,
+  "duda": "Do music CDs marked 'nuevo' with edition details (import, jewel case) from one-off sellers lean new?"
+ },
+ "12823": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12824": {
+  "p": 0.45,
+  "duda": "Are cheap branded flip-flops/sandals listed by individuals with 'entrega sin cargo' usually new?"
+ },
+ "12825": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (apartments, houses, lots) labeled in this dataset: new or used?"
+ },
+ "12826": {
+  "p": 0.6,
+  "duda": "Are vintage paper collectibles (old labels, photos, magazines) usually labeled used?"
+ },
+ "12827": {
+  "p": 0.6,
+  "duda": "Are designer perfumes listed by one-off sellers well below retail usually partially used bottles?"
+ },
+ "12828": {
+  "p": 0.6,
+  "duda": "Are loose collectible toys and die-cast models (Hot Wheels, Corgi, promo figures) without box or condition mention usually labeled used?"
+ },
+ "12829": {
+  "p": 0.55,
+  "duda": "Are newsstand collection items (book+CD fascicles, comics) sold years after publication usually labeled used?"
+ },
+ "12830": {
+  "p": 0.35,
+  "duda": "Are baby safety/accessory kits listed by one-off sellers usually unopened gifts (new) or used?"
+ },
+ "12831": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12832": {
+  "p": 0.6,
+  "duda": "Are vintage paper collectibles (old labels, photos, magazines) usually labeled used?"
+ },
+ "12833": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12834": {
+  "p": 0.55,
+  "duda": "Are out-of-print or decades-old book editions sold by sellers with many book listings usually labeled used?"
+ },
+ "12835": {
+  "p": 0.4,
+  "duda": "Do literature or essay books sold by small sellers with 'Sin garantía' and no condition words lean used?"
+ },
+ "12836": {
+  "p": 0.45,
+  "duda": "Are brand sneakers listed by one-off sellers with a generic title (no model) and near-retail price usually used?"
+ },
+ "12837": {
+  "p": 0.55,
+  "duda": "Are old coins, stamps and postal stationery sold by collector-dealers usually labeled used or new?"
+ },
+ "12838": {
+  "p": 0.55,
+  "duda": "Are out-of-print or decades-old book editions sold by sellers with many book listings usually labeled used?"
+ },
+ "12839": {
+  "p": 0.55,
+  "duda": "Are car parts (clutch, alternator, headlights) listed by one-off sellers without condition words usually used/removed parts?"
+ },
+ "12840": {
+  "p": 0.6,
+  "duda": "Are generic clothing listings (no brand, no condition words, low price) usually used?"
+ },
+ "12841": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12842": {
+  "p": 0.5,
+  "duda": "Are loose collectible toys and die-cast models (Hot Wheels, Corgi, promo figures) without box or condition mention usually labeled used?"
+ },
+ "12843": {
+  "p": 0.35,
+  "duda": "Do watches listed with 'Nuevo - Oportunidad' and a .99 price by one-off sellers lean new?"
+ },
+ "12844": {
+  "p": 0.62,
+  "duda": "Are brand-name clothing or shoes listed by individuals without condition words, at a price below retail, usually used?"
+ },
+ "12845": {
+  "p": 0.4,
+  "duda": "Are old coins, stamps and postal stationery sold by collector-dealers usually labeled used or new?"
+ },
+ "12846": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12847": {
+  "p": 0.62,
+  "duda": "Are electronics listed with typos/vague titles by one-off sellers with own photos usually used?"
+ },
+ "12848": {
+  "p": 0.1,
+  "duda": ""
+ },
+ "12849": {
+  "p": 0.65,
+  "duda": "Do classic university textbooks still in print (e.g. physics texts) follow the study-material used lean, or are they usually sold new?"
+ },
+ "12850": {
+  "p": 0.65,
+  "duda": "Are car parts (clutch, alternator, headlights) listed by one-off sellers without condition words usually used/removed parts?"
+ },
+ "12851": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (apartments, houses, lots) labeled in this dataset: new or used?"
+ },
+ "12852": {
+  "p": 0.35,
+  "duda": "Do music CDs marked 'importado nuevo' by sellers with many CD listings lean new?"
+ },
+ "12853": {
+  "p": 0.58,
+  "duda": "Are brand-name clothing or shoes listed by individuals without condition words, at a price below retail, usually used?"
+ },
+ "12854": {
+  "p": 0.65,
+  "duda": "Is period-style furniture (Art Deco, vintage) usually genuine used pieces rather than new reproductions?"
+ },
+ "12855": {
+  "p": 0.6,
+  "duda": "Are newsstand collection items (book+CD fascicles, comics) sold years after publication usually labeled used?"
+ },
+ "12856": {
+  "p": 0.45,
+  "duda": "Are home items (mirrors, small furniture, puffs) listed by one-off sellers without condition words usually handmade new pieces or resold used ones?"
+ },
+ "12857": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12858": {
+  "p": 0.12,
+  "duda": ""
+ },
+ "12859": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12860": {
+  "p": 0.8,
+  "duda": ""
+ },
+ "12861": {
+  "p": 0.78,
+  "duda": ""
+ },
+ "12862": {
+  "p": 0.55,
+  "duda": "Are collectible action figures (DC Direct, Marvel) listed without packaging mention usually used?"
+ },
+ "12863": {
+  "p": 0.65,
+  "duda": "Are newsstand collection items (book+CD fascicles, comics) sold years after publication usually labeled used?"
+ },
+ "12864": {
+  "p": 0.6,
+  "duda": "Are 'original' spare parts for discontinued laptop models (inverters, fans, wifi cards, keys) usually used parts pulled from other machines?"
+ },
+ "12865": {
+  "p": 0.5,
+  "duda": "Are car parts (clutch, alternator, headlights) listed by one-off sellers without condition words usually used/removed parts?"
+ },
+ "12866": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12867": {
+  "p": 0.38,
+  "duda": "Do shoes with 'nuevos' in the title from sellers with ~10 listings lean new?"
+ },
+ "12868": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12869": {
+  "p": 0.42,
+  "duda": "Do literature or essay books sold by small sellers with 'Sin garantía' and no condition words lean used?"
+ },
+ "12870": {
+  "p": 0.5,
+  "duda": "How are real-estate listings (apartments, houses, lots) labeled in this dataset: new or used?"
+ },
+ "12871": {
+  "p": 0.55,
+  "duda": "Are unique handmade art pieces or models (maquettes) sold by individuals labeled new or used?"
+ },
+ "12872": {
+  "p": 0.6,
+  "duda": "Are brand-name clothing or shoes listed by individuals without condition words, at a price below retail, usually used?"
+ },
+ "12873": {
+  "p": 0.5,
+  "duda": "Are out-of-print or decades-old book editions sold by sellers with many book listings usually labeled used?"
+ },
+ "12874": {
+  "p": 0.45,
+  "duda": "Are home items (mirrors, small furniture, puffs) listed by one-off sellers without condition words usually handmade new pieces or resold used ones?"
+ },
+ "12875": {
+  "p": 0.45,
+  "duda": "Are local-brand accessories (sunglasses) listed with sales hype words like 'imperdibles' usually new stock?"
+ },
+ "12876": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12877": {
+  "p": 0.15,
+  "duda": ""
+ },
+ "12878": {
+  "p": 0.75,
+  "duda": ""
+ },
+ "12879": {
+  "p": 0.5,
+  "duda": "Are mattresses/sommiers listed by one-off sellers near retail price usually new?"
+ },
+ "12880": {
+  "p": 0.5,
+  "duda": "Are collectible action figures (DC Direct, Marvel) listed without packaging mention usually used?"
+ },
+ "12881": {
+  "p": 0.5,
+  "duda": "Are 'original' spare parts for discontinued laptop models (inverters, fans, wifi cards, keys) usually used parts pulled from other machines?"
+ },
+ "12882": {
+  "p": 0.6,
+  "duda": "Are brand-name clothing or shoes listed by individuals without condition words, at a price below retail, usually used?"
+ },
+ "12883": {
+  "p": 0.55,
+  "duda": "Are old coins, stamps and postal stationery sold by collector-dealers usually labeled used or new?"
+ },
+ "12884": {
+  "p": 0.65,
+  "duda": "Are musical instruments (guitars, copies like 'Telecaster') listed by one-off sellers without condition words usually used?"
+ },
+ "12885": {
+  "p": 0.55,
+  "duda": "Are out-of-print or decades-old book editions sold by sellers with many book listings usually labeled used?"
+ },
+ "12886": {
+  "p": 0.5,
+  "duda": "Are 'original' spare parts for discontinued laptop models (inverters, fans, wifi cards, keys) usually used parts pulled from other machines?"
+ },
+ "12887": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12888": {
+  "p": 0.35,
+  "duda": "Are current-season football shirts listed below official retail by one-off sellers usually new replicas or used originals?"
+ },
+ "12889": {
+  "p": 0.5,
+  "duda": "Are generic clothing listings (no brand, no condition words, low price) usually used?"
+ },
+ "12890": {
+  "p": 0.2,
+  "duda": ""
+ },
+ "12891": {
+  "p": 0.3,
+  "duda": ""
+ },
+ "12892": {
+  "p": 0.4,
+  "duda": "Do literature or essay books sold by small sellers with 'Sin garantía' and no condition words lean used?"
+ },
+ "12893": {
+  "p": 0.08,
+  "duda": ""
+ },
+ "12894": {
+  "p": 0.25,
+  "duda": "How are live animals (pets, aquarium fish) usually labeled in these listings: new or used?"
+ },
+ "12895": {
+  "p": 0.5,
+  "duda": "Are leftover building materials (surplus stone, tiles) labeled new or used?"
+ },
+ "12896": {
+  "p": 0.5,
+  "duda": "Are loose collectible toys and die-cast models (Hot Wheels, Corgi, promo figures) without box or condition mention usually labeled used?"
+ },
+ "12897": {
+  "p": 0.5,
+  "duda": "Are older imported cleaning appliances listed by small sellers without condition words usually used?"
+ },
+ "12898": {
+  "p": 0.58,
+  "duda": "Are generic clothing listings (no brand, no condition words, low price) usually used?"
+ },
+ "12899": {
+  "p": 0.85,
+  "duda": ""
+ },
+ "12900": {
+  "p": 0.62,
+  "duda": "Are specialty dance/stage costumes sold by individuals usually used?"
+ }
+}
